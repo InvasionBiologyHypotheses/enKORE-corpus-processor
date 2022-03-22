@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q24810331</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914016</dc:identifier>
   <dc:title>The biodiversity of the Mediterranean Sea: estimates, patterns, and threats</dc:title>
   <dc:creator>Coll, Marta</dc:creator>
@@ -42,7 +43,8 @@
   <dc:creator>Vafidis, Dimitris</dc:creator>
   <dc:creator>Villanueva, Roger</dc:creator>
   <dc:creator>Voultsiadou, Eleni</dc:creator>
-  <dc:date>2010-8-2</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-08-02</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>environment</dc:subject>

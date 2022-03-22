@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q90678098</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317202</dc:identifier>
   <dc:title>Disentangling the effects of plant species invasion and urban development on arthropod community composition</dc:title>
   <dc:creator>Jesse, Wendy A M</dc:creator>
@@ -10,7 +11,8 @@
   <dc:creator>Behm, Jocelyn E</dc:creator>
   <dc:creator>Helmus, Matthew R</dc:creator>
   <dc:creator>Ellers, Jacintha</dc:creator>
-  <dc:date>2020-3-26</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-26</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>biological invasion</dc:subject>
 </oai_dc:dc>

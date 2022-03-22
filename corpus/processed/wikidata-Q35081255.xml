@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q35081255</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3873255</dc:identifier>
   <dc:title>Tapeworm Diphyllobothrium dendriticum (Cestoda)--neglected or emerging human parasite?</dc:title>
   <dc:creator>Kuchta, Roman</dc:creator>
   <dc:creator>Brabec, Jan</dc:creator>
   <dc:creator>Kubáčková, Petra</dc:creator>
   <dc:creator>Scholz, Tomáš</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2013-12-26</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>diphyllobothriasis</dc:subject>

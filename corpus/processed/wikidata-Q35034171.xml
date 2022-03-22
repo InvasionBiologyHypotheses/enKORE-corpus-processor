@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q35034171</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812002</dc:identifier>
   <dc:title>Are we there yet? Recent progress in the molecular diagnosis and novel antifungal targeting of Aspergillus fumigatus and invasive aspergillosis</dc:title>
   <dc:creator>Steinbach, William J</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2013-10-24</dc:date>
   <dc:language/>
   <dc:subject>Aspergillus fumigatus</dc:subject>

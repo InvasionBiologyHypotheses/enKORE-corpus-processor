@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q91373756</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874205</dc:identifier>
   <dc:title>Seed germination ecology of Ageratum houstonianum: A major invasive weed in Nepal</dc:title>
   <dc:creator>Lamsal, Anju</dc:creator>
@@ -7,6 +8,7 @@
   <dc:creator>Shrestha, Deepa S</dc:creator>
   <dc:creator>Joshi, Srijana</dc:creator>
   <dc:creator>Shrestha, Anil</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2019-11-21</dc:date>
   <dc:language/>
   <dc:subject>Nepal</dc:subject>

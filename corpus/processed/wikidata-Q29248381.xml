@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q29248381</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341439</dc:identifier>
   <dc:title>Non-invasive continuous monitoring of pro-oxidant effects of engineered nanoparticles on aquatic microorganisms</dc:title>
   <dc:creator>Santschi, Christian</dc:creator>
@@ -8,7 +9,8 @@
   <dc:creator>Slaveykova, Vera I</dc:creator>
   <dc:creator>Bowen, Paul</dc:creator>
   <dc:creator>Martin, Olivier J.F.</dc:creator>
-  <dc:date>2017-3-7</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-07</dc:date>
   <dc:language/>
   <dc:subject>biomedical investigative technique</dc:subject>
   <dc:subject>manufactured product</dc:subject>

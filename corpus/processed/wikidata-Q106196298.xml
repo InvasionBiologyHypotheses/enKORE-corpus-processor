@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-  <dc:identifier/>
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q106196298</dc:identifier>
   <dc:title>On Darwin’s Steps: Citizen Science Can Help Keep an Eye on Alien Species</dc:title>
   <dc:creator>Giovos, Ioannis</dc:creator>
   <dc:creator>Charitou, Anastasia</dc:creator>
@@ -8,7 +8,8 @@
   <dc:creator>López-Cañizares, Celia</dc:creator>
   <dc:creator>Tsiamis, Konstantinos</dc:creator>
   <dc:creator>Cardoso, Ana Cristina</dc:creator>
-  <dc:date>2021-3-19</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-03-19</dc:date>
   <dc:language/>
   <dc:subject>citizen science</dc:subject>
   <dc:subject>invasive species</dc:subject>

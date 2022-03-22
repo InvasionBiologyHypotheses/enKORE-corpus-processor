@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-  <dc:identifier/>
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q95293807</dc:identifier>
   <dc:title>What's ploidy got to do with it? Understanding the evolutionary ecology of macroalgal invasions necessitates incorporating life cycle complexity</dc:title>
   <dc:creator>Krueger-Hadfield, Stacy A</dc:creator>
-  <dc:date>2019-8-5</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-08-05</dc:date>
   <dc:language/>
   <dc:subject>invasion biology</dc:subject>
 </oai_dc:dc>

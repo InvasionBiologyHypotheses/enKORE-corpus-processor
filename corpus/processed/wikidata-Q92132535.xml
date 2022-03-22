@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q92132535</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7154108</dc:identifier>
   <dc:title>A Novel wx2 Gene of Toxoplasma gondii Inhibits the Parasitic Invasion and Proliferation in vitro and Attenuates Virulence in vivo via Immune Response Modulation</dc:title>
   <dc:creator>Zhenrong, undefined</dc:creator>
@@ -13,7 +14,8 @@
   <dc:creator>Zhang, Jie</dc:creator>
   <dc:creator>Chang, Yunfeng</dc:creator>
   <dc:creator>Wu, Xiang</dc:creator>
-  <dc:date>2020-4-7</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-07</dc:date>
   <dc:language/>
   <dc:subject>Toxoplasma gondii</dc:subject>
   <dc:publisher>Front Microbiol</dc:publisher>

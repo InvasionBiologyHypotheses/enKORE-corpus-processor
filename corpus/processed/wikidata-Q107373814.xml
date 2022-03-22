@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-  <dc:identifier/>
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q107373814</dc:identifier>
   <dc:title>Potential Futures of Biological Invasions in South Africa</dc:title>
   <dc:creator>Zengeya, Tsungai A</dc:creator>
   <dc:creator>Wilson, John R.</dc:creator>
@@ -8,6 +8,7 @@
   <dc:creator>Richardson, David M.</dc:creator>
   <dc:creator>Wilgen, Brian W.</dc:creator>
   <dc:creator>Zengeya, Tsungai A.</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2020</dc:date>
   <dc:language/>
   <dc:subject>biological invasion</dc:subject>

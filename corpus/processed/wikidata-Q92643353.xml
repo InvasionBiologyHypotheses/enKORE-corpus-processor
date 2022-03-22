@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q92643353</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959351</dc:identifier>
   <dc:title>Investigating a Plasmodium falciparum erythrocyte invasion phenotype switch at the whole transcriptome level</dc:title>
   <dc:creator>Nyarko, P.B.</dc:creator>
@@ -14,7 +15,8 @@
   <dc:creator>Stewart, Lindsay B</dc:creator>
   <dc:creator>Conway, David J.</dc:creator>
   <dc:creator>Awandare, Gordon A</dc:creator>
-  <dc:date>2020-1-14</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-01-14</dc:date>
   <dc:language/>
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>Plasmodium falciparum</dc:subject>

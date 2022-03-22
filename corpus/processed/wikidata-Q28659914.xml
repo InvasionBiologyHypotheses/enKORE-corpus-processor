@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q28659914</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3990620</dc:identifier>
   <dc:title>The trajectory of dispersal research in conservation biology. Systematic review</dc:title>
   <dc:creator>Driscoll, Don A</dc:creator>
@@ -24,7 +25,8 @@
   <dc:creator>Sweaney, Nici</dc:creator>
   <dc:creator>Villaseñor, Nélida R</dc:creator>
   <dc:creator>Westgate, Martin J</dc:creator>
-  <dc:date>2014-4-17</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-17</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>systematic review</dc:subject>
   <dc:publisher>PLOS ONE</dc:publisher>

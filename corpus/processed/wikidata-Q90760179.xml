@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q90760179</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7106899</dc:identifier>
   <dc:title>Increased soil moisture aggravated the competitive effects of the invasive tree Rhus typhina on the native tree Cotinus coggygria</dc:title>
   <dc:creator>Guo, Xiao</dc:creator>
@@ -8,7 +9,8 @@
   <dc:creator>Ren, Xiao-Huang</dc:creator>
   <dc:creator>Liu, Jian</dc:creator>
   <dc:creator>Guo, Wei-Hua</dc:creator>
-  <dc:date>2020-3-30</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-30</dc:date>
   <dc:language/>
   <dc:subject>soil moisture</dc:subject>
   <dc:subject>invasive tree</dc:subject>

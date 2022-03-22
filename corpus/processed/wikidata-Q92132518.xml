@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q92132518</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6923442</dc:identifier>
   <dc:title>Fine-scale invasion genetics of the quarantine pest, Anoplophora glabripennis, reconstructed in single outbreaks</dc:title>
   <dc:creator>Tsykun, Tetyana</dc:creator>
@@ -7,6 +8,7 @@
   <dc:creator>Hölling, Doris</dc:creator>
   <dc:creator>Roux, Géraldine</dc:creator>
   <dc:creator>Prospero, Simone</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2019-12-19</dc:date>
   <dc:language/>
   <dc:subject>Asian long-horned beetle</dc:subject>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q94545349</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190871</dc:identifier>
   <dc:title>CD209 C-Type Lectins Promote Host Invasion, Dissemination, and Infection of Toxoplasma gondii</dc:title>
   <dc:creator>Njiri, Olivia Adhiambo</dc:creator>
@@ -10,7 +11,8 @@
   <dc:creator>Li, Qiao</dc:creator>
   <dc:creator>Liu, Wenqi</dc:creator>
   <dc:creator>Chen, Tie</dc:creator>
-  <dc:date>2020-4-23</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-23</dc:date>
   <dc:language/>
   <dc:subject>Toxoplasma gondii</dc:subject>
   <dc:publisher>Front Immunol</dc:publisher>

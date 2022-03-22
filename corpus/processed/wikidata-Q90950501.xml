@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q90950501</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814831</dc:identifier>
   <dc:title>A novel metric reveals biotic resistance potential and informs predictions of invasion success</dc:title>
   <dc:creator>Cuthbert, Ross N</dc:creator>
   <dc:creator>Callaghan, Amanda</dc:creator>
   <dc:creator>Dick, Jaimie T A</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2019-10-25</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>invasion success</dc:subject>

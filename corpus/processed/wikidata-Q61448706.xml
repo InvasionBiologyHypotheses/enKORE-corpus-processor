@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q61448706</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339890</dc:identifier>
   <dc:title>Parasite-Related Genetic and Epigenetic Aspects and Host Factors Influencing Plasmodium falciparum Invasion of Erythrocytes</dc:title>
   <dc:creator>Ararat-Sarria, Monica</dc:creator>
   <dc:creator>Patarroyo, Manuel-Alfonso</dc:creator>
   <dc:creator>Curtidor, Hernando</dc:creator>
-  <dc:date>2018-1-1</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-01-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>cell</dc:subject>
   <dc:subject>hemic and immune systems</dc:subject>

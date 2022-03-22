@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q100559773</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7560888</dc:identifier>
   <dc:title>Species composition and invasion risks of alien ornamental freshwater fishes from pet stores in Klang Valley, Malaysia</dc:title>
   <dc:creator>Saba, Abdulwakil Olawale</dc:creator>
@@ -8,6 +9,7 @@
   <dc:creator>Halim, Muhammad Rasul Abdullah</dc:creator>
   <dc:creator>Wahid, Noor Azrizal Abdul</dc:creator>
   <dc:creator>Amal, Mohammad Noor Azmai</dc:creator>
+  <dc:type>journal article</dc:type>
   <dc:date>2020-10-14</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>aquatic invasion</dc:subject>
