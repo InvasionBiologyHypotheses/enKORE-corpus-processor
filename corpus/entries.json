@@ -1,2 +1,2915 @@
 {
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "license",
+      "licenseLabel",
+      "entryUpdatedDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100404484"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Projecting the continental accumulation of alien species through to 2050"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:46Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100416402"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "No evidence that rapid adaptation impedes biological control of an invasive plant"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:47Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100416664"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Examining the molecular mechanisms contributing to the success of an invasive species across different ecosystems"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:55Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100436224"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Genetic Diversity of Invasive Spartina alterniflora Loisel. (Poaceae) Introduced Unintentionally Into Japan and Its Invasion Pathway"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:56:17Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100559773"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Species composition and invasion risks of alien ornamental freshwater fishes from pet stores in Klang Valley, Malaysia"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:56:23Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100940194"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasive alien species and disease risk: An open challenge in public and animal health"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:57:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100991592"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Diapause Lipidomes of Three Closely Related Beetle Species Reveal Mechanisms for Tolerating Energetic and Cold Stress in High-Latitude Seasonal Environments"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:57:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101217409"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Differences in rhizosphere microbial communities between native and non-native Phragmites australis may depend on stand density"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:57:18Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101241987"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Biotic Interactions Are More Important than Propagule Pressure in Microbial Community Invasions"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:57:22Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101575534"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Introduced Populations of an Invasive Tree Have Higher Soluble Sugars but Lower Starch and Cellulose"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:47:38Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101635344"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Eaten or beaten? Severe population decline of the invasive lizard Podarcis siculus (Rafinesque-Schmaltz, 1810) after an eradication project in Athens, Greece"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-22T03:19:11Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101968223"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A conceptual map of invasion biology: Integrating hypotheses into a consensus network"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:58:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102154342"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ecomorphological relationships and invasion history of non-native terrestrial bird species on O'ahu, Hawai'i, suggest ecological fitting during novel community assembly"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:58:20Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102205302"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Effects of the invasive plant Xanthium strumarium on diversity of native plant species: A competitive analysis approach in North and Northeast China"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:59:08Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104579496"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The complete chloroplast genome of newly alien medicinal and toxic species, <i>Zaleya pentandra</i> (L.) C.Jeffrey (Aizoaceae), in China"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:00:09Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106196298"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "On Darwin’s Steps: Citizen Science Can Help Keep an Eye on Alien Species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T02:06:53Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106561064"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "New records of the invasive pest Drosophila suzukii (Matsumura) (Diptera: Drosophilidae) in the South American continent"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-15T16:42:27Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106561102"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Occurrence of invasive species and seasonal dynamics of fruit flies (Diptera: Drosophilidae) species in Uşak province, Turkey"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-15T17:05:00Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106584576"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "First record of native predators on the invasive species Thaumastocoris peregrinus (Hemiptera:Thaumastocoridae) in Eucalyptus in Argentina"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-16T01:56:45Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106584636"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Recent invasion of the Tierra del Fuego Archipelago by the wasp Vespula germanica (Hymenoptera: Vespidae)"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-16T02:10:06Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106584733"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "First records of Chrysomelidae (Insecta, Coleoptera) on blueberries in Argentina: new associations between native chrysomelids and an exotic crop"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-16T02:31:04Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106585229"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Presence of a new exotic social wasp in Patagonia, Argentina"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-16T03:42:38Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106585692"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Catalogue of the exotic species of Diaspididae (Hemiptera: Coccoidea) from Argentina, Brazil and Chile"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-16T05:08:05Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107373814"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Potential Futures of Biological Invasions in South Africa"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T02:05:52Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107709382"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasion Success of Bunias orientalis (Warty Cabbage) in Grasslands: A Mesocosm Experiment on the Role of Hydrological Stress and Disturbance"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:34:35Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q107978226"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasion syndromes: a systematic approach for predicting biological invasions and facilitating effective management"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:27:39Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108702057"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Transcriptional flexibility during thermal challenge corresponds with expanded thermal tolerance in an invasive compared to native fish"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:45Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109828471"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RECENT DATA FROM THE FLORA OF THE ISLAND OF LIMNOS (NE AEGEAN, GREECE): NEW ALIEN INVASIVE SPECIES AFFECTING THE AGRICULTURAL ECONOMY OF THE ISLAND"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-01-20T20:03:00Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111271845"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A review of invasive species reporting apps for citizen science and opportunities for innovation"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-22T03:09:26Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111271997"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Predatory ability and abundance forecast the ecological impacts of two aquatic invasive species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6938433"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CC0"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-22T03:09:26Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21128771"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Concerning RNA-guided gene drives for the alteration of wild populations"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:25:00Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21131363"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plasmodium falciparum erythrocyte invasion: combining function with immune evasion"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:24:06Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21562181"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An overview of marine biodiversity in United States waters"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:19:06Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24288689"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Is Switzerland suitable for the invasion of Aedes albopictus [corrected]?"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:16:06Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24810331"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The biodiversity of the Mediterranean Sea: estimates, patterns, and threats"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:15:09Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26315411"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dirofilaria in Humans, Dogs, and Vectors in Austria (1978-2014)-From Imported Pathogens to the Endemicity of Dirofilaria repens"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:14:25Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26768582"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rabies in the Baltic States: Decoding a Process of Control and Elimination"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:59:06Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26780251"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Understanding Acceptable Level of Risk: Incorporating the Economic Cost of Under-Managing Invasive Species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:58:07Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26781258"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Role of Tourism and Recreation in the Spread of Non-Native Species: A Systematic Review and Meta-Analysis"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-12-21T13:26:46Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28072369"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reducing the risk of invasive forest pests and pathogens: Combining legislation, targeted management and public awareness"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:44:02Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28081302"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pathogens as biological weapons of invasive species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:43:59Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28659914"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The trajectory of dispersal research in conservation biology. Systematic review"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:42:05Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29248381"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Non-invasive continuous monitoring of pro-oxidant effects of engineered nanoparticles on aquatic microorganisms"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T02:14:23Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q33628776"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Effects of conservation management of landscapes and vertebrate communities on Lyme borreliosis risk in the United Kingdom."
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T04:57:49Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35034171"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Are we there yet? Recent progress in the molecular diagnosis and novel antifungal targeting of Aspergillus fumigatus and invasive aspergillosis"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:39:17Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35081255"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tapeworm Diphyllobothrium dendriticum (Cestoda)--neglected or emerging human parasite?"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:40:05Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35907836"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Parasites as Drivers and Passengers of Human-Mediated Biological Invasions"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T04:19:41Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36077614"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Sweet Response to a Sour Situation: The Role of Soluble Pattern Recognition Receptors in the Innate Immune Response to Invasive Aspergillus fumigatus Infections."
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T05:28:58Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38619931"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A systematic review of context bias in invasion biology"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T01:33:48Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38621322"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Distribution of the invasive plant species Heracleum sosnowskyi Manden. in the Komi Republic (Russia)."
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T01:33:46Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48024072"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Would the control of invasive alien plants reduce malaria transmission? A review."
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:22:08Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55264123"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Local ecological knowledge concerning the invasion of Amerindian lands in the northern Brazilian Amazon by Acacia mangium (Willd.)."
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:36:09Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56350646"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Distribución de las especies del género Bombus Latreille (Hymenoptera, Apidae) en Uruguay"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2021-12-13T09:18:54Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58714093"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Managing invasive species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:41:32Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60913281"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zoonotic parasites carried by invasive alien species in China"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:42:22Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61448706"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Parasite-Related Genetic and Epigenetic Aspects and Host Factors Influencing Invasion of Erythrocytes"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:42:30Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64103597"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Are the ecological effects of the \"worst\" marine invasive species linked with scientific and media attention?"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:43:42Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66679231"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "First report of the invasive mosquito Aedes koreicus (Diptera: Culicidae) and of its establishment in Liguria, northwest Italy"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:44:57Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89475117"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasive marine species discovered on non-native kelp rafts in the warmest Antarctic island"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:45:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89475419"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasive ecosystem engineers threaten benthic nitrogen cycling by altering native infaunal and biofouling communities"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T07:45:20Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89791070"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sexual communication of Spodoptera frugiperda from West Africa: Adaptation of an invasive species and implications for pest management"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:13:10Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90066765"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toxoplasma gondii in small exotic felids from zoos in Europe and the Middle East: serological prevalence and risk factors"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:14:10Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90101243"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Detection of Cryptosporidium parvum in a Red-Eared Slider Turtle (Trachemys scripta elegans), a Noted Invasive Alien Species, Captured in a Rural Aquatic Ecosystem in Eastern Poland"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:14:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90109600"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dual-locus DNA metabarcoding reveals southern hairy-nosed wombats (Lasiorhinus latifrons Owen) have a summer diet dominated by toxic invasive plants"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:14:16Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90159926"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A modeling workflow that balances automation and human intervention to inform invasive plant management decisions at multiple spatial scales"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6938433"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CC0"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:15:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90170356"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A survey of invasive plants on grassland soil microbial communities and ecosystem services"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:16:11Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90262302"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antarctica: The final frontier for marine biological invasions"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:17:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90348614"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Expansion Speed as a Generic Measure of Spread for Alien Species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:18:11Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90372381"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fall webworm genomes yield insights into rapid adaptation of invasive species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:28:34Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90666486"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Characterization of the fungal community in the canopy air of the invasive plant Ageratina adenophora and its potential to cause plant diseases"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:20:13Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90678098"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Disentangling the effects of plant species invasion and urban development on arthropod community composition"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:20:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90760179"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Increased soil moisture aggravated the competitive effects of the invasive tree Rhus typhina on the native tree Cotinus coggygria"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:21:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90950501"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A novel metric reveals biotic resistance potential and informs predictions of invasion success"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:22:20Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91173985"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meta-modeling on detailed geography for accurate prediction of invasive alien species dispersal"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:24:13Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91373756"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Seed germination ecology of Ageratum houstonianum: A major invasive weed in Nepal"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:25:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91393144"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Genomic footprints of a biological invasion: Introduction from Asia and dispersal in Europe of the topmouth gudgeon (Pseudorasbora parva)"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:26:13Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91417754"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Human adaptation to invasive species: A conceptual framework based on a case study metasynthesis"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:26:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91708721"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Parsing propagule pressure: Number, not size, of introductions drives colonization success in a novel environment"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:28:16Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91728484"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Improvement and use of CRISPR/Cas9 to engineer a sperm-marking strain for the invasive fruit pest Drosophila suzukii"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T03:28:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91861345"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The invasive Asian bush mosquito Aedes japonicus found in the Netherlands can experimentally transmit Zika virus and Usutu virus"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T05:11:51Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92016597"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matrix metalloproteinase 9 facilitates Zika virus invasion of the testis by modulating the integrity of the blood-testis barrier"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:03:18Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92095524"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antibodies against a short region of PfRipr inhibit Plasmodium falciparum merozoite invasion and PfRipr interaction with Rh5 and SEMA7A"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:04:14Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92132518"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fine-scale invasion genetics of the quarantine pest, Anoplophora glabripennis, reconstructed in single outbreaks"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:04:18Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92132535"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Novel wx2 Gene of Toxoplasma gondii Inhibits the Parasitic Invasion and Proliferation in vitro and Attenuates Virulence in vivo via Immune Response Modulation"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:05:12Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92252313"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "External morphology and developmental changes of tarsal tips and mouthparts of the invasive spotted lanternfly, Lycorma delicatula (Hemiptera: Fulgoridae)"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:06:16Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92289827"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Integrated transcriptomic and functional immunological approach for assessing the invasiveness of bivalve alien species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:06:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92563128"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An ortholog of Plasmodium falciparum chloroquine resistance transporter (PfCRT) plays a key role in maintaining the integrity of the endolysosomal system in Toxoplasma gondii to facilitate host invasion"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:09:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92579708"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cryptic diversity in smooth-shelled mussels on Southern Ocean islands: connectivity, hybridisation and a marine invasion"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:09:18Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92605379"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A native parasitic plant and soil microorganisms facilitate a native plant co-occurrence with an invasive plant"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:09:21Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92643353"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Investigating a Plasmodium falciparum erythrocyte invasion phenotype switch at the whole transcriptome level"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:10:12Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92802153"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasive plants facilitated by socioeconomic change harbor vectors of scrub typhus and spotted fever"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:11:16Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93012608"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plasmodium vivax Reticulocyte Binding Proteins for invasion into reticulocytes"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:14:13Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93147557"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Multi-trophic native and non-native prey naïveté shape marine invasion success"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:15:13Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94545349"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CD209 C-Type Lectins Promote Host Invasion, Dissemination, and Infection of Toxoplasma gondii"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:17:15Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94922898"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A rapid and sensitive method to assess seed longevity through accelerated aging in an invasive plant species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:48:34Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95293791"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An evolutionary perspective on marine invasions"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-18T23:59:23Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95293807"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "What's ploidy got to do with it? Understanding the evolutionary ecology of macroalgal invasions necessitates incorporating life cycle complexity"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:57Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96163460"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shifting trophic control of fishery-ecosystem dynamics following biological invasions"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:00:58Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96222858"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The potential risk of Schistosoma mansoni transmission by the invasive freshwater snail Biomphalaria straminea in South China"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:50:24Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96306209"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Genetic Biocontrol for Invasive Species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:50:27Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96430226"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Molecular characterization, antibiotic resistance pattern and capsular types of invasive Streptococcus pneumoniae isolated from clinical samples in Tehran, Iran"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:50:29Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96433934"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Habitat Disturbances Modulate the Barrier Effect of Resident Soil Microbiota on Listeria monocytogenes Invasion Success"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:50:32Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96578147"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "RapidRat: Development, validation and application of a genotyping-by-sequencing panel for rapid biosecurity and invasive species management"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:51:20Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96578791"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasive zebra mussel (Dreissena polymorpha) threatens an exceptionally large population of the depressed river mussel (Pseudanodonta complanata) in a postglacial lake"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:51:22Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97070432"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The ability of seeds to float with water currents contributes to the invasion success of Impatiens balfourii and I. glandulifera"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:52:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97077924"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Steam and Flame Applications as Novel Methods of Population Control for Invasive Asian Clam (Corbicula fluminea) and Zebra Mussel (Dreissena polymorpha)"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:52:20Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97078947"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Urbanization can increase the invasive potential of alien species"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:52:21Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97108664"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Systematic prey preference by introduced mice exhausts the ecosystem on Antipodes Island"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T02:05:04Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97554838"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Population genomics of two invasive mosquitoes (Aedes aegypti and Aedes albopictus) from the Indo-Pacific"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:52:28Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97592968"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Evolution and genetics of bighead and silver carps: Native population conservation versus invasive species control"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:53:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97665255"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ecology and distribution of Nardus stricta L. (Poaceae) — an alien invader into New Zealand"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-17T11:48:42Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98188953"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Comparative transcriptome analysis reveals ecological adaption of cold tolerance in northward invasion of Alternanthera philoxeroides"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:53:24Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98206163"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Genetic Identity and Herbivory Drive the Invasion of a Common Aquatic Microbial Invader"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T02:05:27Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98661574"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Framework for assessing vertebrate invasive species damage: the case of feral swine in the United States"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:54:19Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98946193"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Evolution of starvation resistance in an invasive insect species, Aethina tumida (Coleoptera: Nitidulidae)"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-21T06:55:16Z"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99944098"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Incorporating climate change into invasive species management: insights from managers"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "entryUpdatedDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2022-03-19T00:36:11Z"
+        }
+      }
+    ]
+  }
 }
