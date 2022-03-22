@@ -20,11 +20,10 @@ async function processItem(item) {
     await writeTXT(filename, xml);
 }
 
-console.log(items.length);
-// for (let i = 100; i < 150; i++) {
-//     console.log({ i });
-//     processItem(items[i]);
-// }
+for (let i = 100; i < 116; i++) {
+    console.log({ i });
+    processItem(items[i]);
+}
 // items.map(async (item) => {
 //     await setTimeout(, 500);
 // });
