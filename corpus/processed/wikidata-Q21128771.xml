@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q21128771</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q21128771</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117217</dc:identifier>
   <dc:title>Concerning RNA-guided gene drives for the alteration of wild populations</dc:title>
   <dc:creator>Esvelt, Kevin M.</dc:creator>

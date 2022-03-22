@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q92563128</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92563128</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553793</dc:identifier>
   <dc:title>An ortholog of Plasmodium falciparum chloroquine resistance transporter (PfCRT) plays a key role in maintaining the integrity of the endolysosomal system in Toxoplasma gondii to facilitate host invasion</dc:title>
   <dc:creator>Thornton, L Brock</dc:creator>
