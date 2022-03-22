@@ -1,5 +1,17 @@
-import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts"
+import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
+import { get } from "./lib/xmlexporter";
 
-const filename = Deno.args[0]
-const json = await readJSON(filename)
-console.log(json)
+const filename = Deno.args[0];
+const json = await readJSON(filename);
+// console.log({json})
+
+const items = json.results.bindings.map((x) => x.item.value);
+console.log({ items });
+
+items.map((item) => {
+    const filename = `./corpus/processed/wikidata-${item.substring(
+        item.lastIndexOf("/"),
+    )}.xml`;
+    const xml = get(item);
+    writeTXT(filename, xml);
+});
