@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q98188953</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430914</dc:identifier>
   <dc:title>Comparative transcriptome analysis reveals ecological adaption of cold tolerance in northward invasion of Alternanthera philoxeroides</dc:title>
   <dc:creator>Luo, Landi</dc:creator>
@@ -11,7 +12,8 @@
   <dc:creator>Yang, Danni</dc:creator>
   <dc:creator>Geng, Yupeng</dc:creator>
   <dc:creator>Yang, Yongping</dc:creator>
-  <dc:date>2020-8-2</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-08-02</dc:date>
   <dc:language/>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>Alternanthera philoxeroides</dc:subject>

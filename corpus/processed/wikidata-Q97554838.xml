@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q97554838</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390453</dc:identifier>
   <dc:title>Population genomics of two invasive mosquitoes (Aedes aegypti and Aedes albopictus) from the Indo-Pacific</dc:title>
   <dc:creator>Schmidt, Thomas L</dc:creator>
@@ -7,7 +8,8 @@
   <dc:creator>Honnen, Ann-Christin</dc:creator>
   <dc:creator>Weeks, Andrew R</dc:creator>
   <dc:creator>Hoffmann, Ary A</dc:creator>
-  <dc:date>2020-7-17</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-17</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>genomics</dc:subject>
   <dc:subject>Aedes aegypti</dc:subject>

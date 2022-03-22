@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://wikidata.org/entity/http://www.wikidata.org/entity/Q98946193</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7452757</dc:identifier>
   <dc:title>Evolution of starvation resistance in an invasive insect species, Aethina tumida (Coleoptera: Nitidulidae)</dc:title>
   <dc:creator>Papach, Anna</dc:creator>
   <dc:creator>Williams, Geoffrey R</dc:creator>
   <dc:creator>Neumann, Peter</dc:creator>
-  <dc:date>2020-7-23</dc:date>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-23</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>Small hive beetle</dc:subject>
 </oai_dc:dc>
