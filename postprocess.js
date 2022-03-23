@@ -18,7 +18,7 @@ const size = 50;
 // const runs = (items.length - remainder) / size;
 for (let offset = 0; offset < items.length; offset += size) {
     for (let i = offset; i < offset + size && items.length; i++) {
-        if (i <= items.length) {
+        if (i < items.length) {
             console.log({ offset, i });
             const result = await new citationJS.Cite.async(items[i]);
             await processItem(result.data[0]);
