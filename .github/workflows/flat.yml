@@ -1,25 +1,26 @@
 name: data
 on:
-  schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch: {}
-  push:
-    paths:
-      - .github/workflows/flat.yml
-      - ./postprocess.js
+    schedule:
+        - cron: "*/5 * * * *"
+    workflow_dispatch: {}
+    push:
+        paths:
+            - .github/workflows/flat.yml
+            - ./postprocess.js
 jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.10.x
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Fetch data
-        uses: githubocto/flat@v3.3.1
-        with:
-          http_url: https://query.wikidata.org/sparql?format=json&query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3FentryUpdatedDate%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP5008%20wd%3AQ56241615%3B%0A%20%20%20%20wdt%3AP275%20%3Flicense.%0A%20%20%3Flicense%20((wdt%3AP31*)%2F(wdt%3AP279*))%20wd%3AQ30939938.%0A%20%20OPTIONAL%20%7B%20%3Fitem%20schema%3AdateModified%20%3FentryUpdatedDate%20%3B%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3FentryUpdatedDate%0AORDER%20BY%20(%3Fitem)
-          downloaded_filename: ./corpus/entries.json
-          postprocess: ./postprocess.js
+    scheduled:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Setup deno
+              uses: denoland/setup-deno@main
+              with:
+                  deno-version: v1.10.x
+            - name: Check out repo
+              uses: actions/checkout@v2
+            - name: Fetch data
+              uses: githubocto/flat@v3.3.1
+              with:
+                  http_url: https://query.wikidata.org/sparql?format=json&query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3FentryUpdatedDate%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP5008%20wd%3AQ56241615%3B%0A%20%20%20%20wdt%3AP275%20%3Flicense.%0A%20%20%3Flicense%20((wdt%3AP31*)%2F(wdt%3AP279*))%20wd%3AQ30939938.%0A%20%20OPTIONAL%20%7B%20%3Fitem%20schema%3AdateModified%20%3FentryUpdatedDate%20%3B%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3FentryUpdatedDate%0AORDER%20BY%20(%3Fitem)
+                  downloaded_filename: ./corpus/entries.json
+                  postprocess: ./postprocess.js
+                  authorization: "--location https://enkore.hi-knowledge.org/"
