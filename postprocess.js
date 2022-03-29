@@ -71,4 +71,14 @@ async function updateEndpoint() {
         },
     });
     console.log({ response });
+    const notificationresponse = await fetch(Deno.env.get("notification_url"), {
+        method: "POST",
+        body: response,
+        headers: {
+            Title: "Corpus Update",
+            Priority: 3,
+            Tags: "package",
+        },
+    });
+    console.log({ notificationresponse });
 }
