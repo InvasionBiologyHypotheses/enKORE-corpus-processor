@@ -34,6 +34,8 @@ for (let offset = 0; offset < items.length; offset += size) {
 }
 console.log("citation JS call stop");
 
+updateEndpoint();
+
 // results.data.map(async (x) => await processItem(x));
 
 async function sleep(time) {
@@ -59,3 +61,14 @@ async function processItem(item) {
 // items.map(async (item) => {
 //     await setTimeout(, 500);
 // });
+
+async function updateEndpoint() {
+    const url = `https://enkore.toolforge.org/api/corpus/update.php`;
+    const response = await fetch(url, {
+        method: "GET",
+        headers: {
+            "Content-Type": "text/plain",
+        },
+    });
+    console.log({ response });
+}
