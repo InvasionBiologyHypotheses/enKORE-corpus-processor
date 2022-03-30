@@ -630,6 +630,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108138420"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Towards an open, zoomable atlas for invasion science and beyond"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-03-30T12:46:23Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q108702057"
       },
       "itemLabel" : {
