@@ -20,8 +20,17 @@ for (let offset = 0; offset < items.length; offset += size) {
     for (let i = offset; i < offset + size && items.length; i++) {
         if (i < items.length) {
             console.log({ offset, i });
-            const result = await new citationJS.Cite.async(items[i]);
-            await processItem(result.data[0]);
+            const wdi = await new citationJS.Cite.async(items[i]);
+            const wikidataItem = wdi.data[0];
+            let crossrefItem;
+            if (wikidataItem.DOI) {
+                crossrefItem = await fetch(
+                    `https://api.crossref.org/works/${encodeURIComponent(
+                        wikidataItem.DOI,
+                    )}`,
+                );
+            }
+            await processItem({ wikidataItem, crossrefItem });
             // setTimeout(async () => {
             //     // console.log(items[i]);
             //     const result = await new citationJS.Cite.async(items[i]);
@@ -45,12 +54,13 @@ async function sleep(time) {
     }, time);
 }
 
-async function processItem(item) {
-    console.log({ item });
-    const filename = `./corpus/processed/wikidata-${item.id}.xml`;
-    const xml = await generateXML(item);
-    console.log(filename);
-    console.log(xml);
+async function processItem({ wikidataItem, crossrefItem }) {
+    console.log({ wikidataItem });
+    const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
+    console.log({ filename });
+    const xml = await generateXML({ wikidataItem, crossrefItem });
+    // console.log(filename);
+    // console.log(xml);
     await writeTXT(filename, xml);
 }
 
@@ -66,9 +76,9 @@ async function updateEndpoint() {
     const url = `https://enkore.toolforge.org/api/corpus/update.php`;
     const response = await fetch(url, {
         method: "GET",
-        headers: {
-            "Content-Type": "text/plain",
-        },
+        // headers: {
+        //     "Content-Type": "text/plain",
+        // },
     });
     console.log({ response });
     const notificationresponse = await fetch(Deno.env.get("notification_url"), {
