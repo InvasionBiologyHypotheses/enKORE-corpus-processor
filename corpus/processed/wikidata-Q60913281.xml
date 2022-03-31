@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q60913281</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325848</dc:identifier>
+  <dc:identifier>doi:10.1186/S40249-018-0512-6</dc:identifier>
   <dc:title>Zoonotic parasites carried by invasive alien species in China</dc:title>
   <dc:creator>Zhu, Guang-Li</dc:creator>
   <dc:creator>Tang, Yi-Yang</dc:creator>
@@ -20,4 +21,5 @@
   <dc:subject>environment</dc:subject>
   <dc:subject>eukaryote</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

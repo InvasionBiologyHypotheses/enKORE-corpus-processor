@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q55264123</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5934789</dc:identifier>
+  <dc:identifier>doi:10.1186/S13002-018-0231-X</dc:identifier>
   <dc:title>Local ecological knowledge concerning the invasion of Amerindian lands in the northern Brazilian Amazon by Acacia mangium (Willd.).</dc:title>
   <dc:creator>Souza, Arlene Oliveira</dc:creator>
   <dc:creator>Perpétuo Socorro Rodrigues Chaves, Maria</dc:creator>
@@ -13,4 +14,5 @@
   <dc:subject>eukaryote</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>Acacia mangium</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

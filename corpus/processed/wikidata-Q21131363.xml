@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q21131363</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3961354</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1003943</dc:identifier>
   <dc:title>Plasmodium falciparum erythrocyte invasion: combining function with immune evasion</dc:title>
   <dc:creator>Wright, Gavin J</dc:creator>
   <dc:creator>Rayner, Julian</dc:creator>
@@ -14,4 +15,5 @@
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>host microbial interaction</dc:subject>
   <dc:publisher>PLoS Pathog.</dc:publisher>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

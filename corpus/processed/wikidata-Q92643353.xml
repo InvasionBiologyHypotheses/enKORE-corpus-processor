@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q92643353</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959351</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-019-56386-Y</dc:identifier>
   <dc:title>Investigating a Plasmodium falciparum erythrocyte invasion phenotype switch at the whole transcriptome level</dc:title>
   <dc:creator>Nyarko, P.B.</dc:creator>
   <dc:creator>Tarr, S.J.</dc:creator>
@@ -23,4 +24,5 @@
   <dc:subject>asexuality</dc:subject>
   <dc:subject>homology</dc:subject>
   <dc:publisher>Sci Rep</dc:publisher>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

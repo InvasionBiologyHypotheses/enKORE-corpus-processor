@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q24288689</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862574</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0082090</dc:identifier>
   <dc:title>Is Switzerland suitable for the invasion of Aedes albopictus [corrected]?</dc:title>
   <dc:creator>Neteler, Markus</dc:creator>
   <dc:creator>Metz, Markus</dc:creator>
@@ -18,4 +19,5 @@
   <dc:subject>Asian tiger mosquito</dc:subject>
   <dc:subject>Switzerland</dc:subject>
   <dc:publisher>PLOS ONE</dc:publisher>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

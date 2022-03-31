@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q89475419</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994685</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-020-58557-8</dc:identifier>
   <dc:title>Invasive ecosystem engineers threaten benthic nitrogen cycling by altering native infaunal and biofouling communities</dc:title>
   <dc:creator>Tait, L W</dc:creator>
   <dc:creator>Lohrer, A M</dc:creator>
@@ -14,4 +15,5 @@
   <dc:language>en</dc:language>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:publisher>Sci Rep</dc:publisher>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

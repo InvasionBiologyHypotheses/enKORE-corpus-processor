@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q89791070</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031376</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-020-59708-7</dc:identifier>
   <dc:title>Sexual communication of Spodoptera frugiperda from West Africa: Adaptation of an invasive species and implications for pest management</dc:title>
   <dc:creator>Haenniger, Sabine</dc:creator>
   <dc:creator>Goergen, Georg</dc:creator>
@@ -14,4 +15,5 @@
   <dc:language>en</dc:language>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Sci Rep</dc:publisher>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

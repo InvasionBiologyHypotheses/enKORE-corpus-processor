@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q97108664</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-019-02194-4</dc:identifier>
   <dc:title>Systematic prey preference by introduced mice exhausts the ecosystem on Antipodes Island</dc:title>
   <dc:creator>Russell, James C.</dc:creator>
   <dc:creator>Peace, Joanne E.</dc:creator>
@@ -14,4 +15,5 @@
   <dc:subject>house mouse</dc:subject>
   <dc:subject>prey</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

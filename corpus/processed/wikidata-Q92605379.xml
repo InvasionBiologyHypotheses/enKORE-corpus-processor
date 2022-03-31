@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q92605379</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6686308</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.5407</dc:identifier>
   <dc:title>A native parasitic plant and soil microorganisms facilitate a native plant co-occurrence with an invasive plant</dc:title>
   <dc:creator>Li, Junmin</dc:creator>
   <dc:creator>O Oduor, Ayub M</dc:creator>
@@ -11,4 +12,5 @@
   <dc:date>2019-07-04</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

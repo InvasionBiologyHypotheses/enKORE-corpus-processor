@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q26781258</dc:identifier>
   <dc:identifier>http://eprints.whiterose.ac.uk/106099/</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0140833</dc:identifier>
   <dc:title>The Role of Tourism and Recreation in the Spread of Non-Native Species: A Systematic Review and Meta-Analysis</dc:title>
   <dc:creator>Anderson, Lucy G</dc:creator>
   <dc:creator>Rocliffe, Steve</dc:creator>
@@ -18,4 +19,5 @@
   <dc:subject>systematic review</dc:subject>
   <dc:subject>meta-analysis</dc:subject>
   <dc:publisher>PLOS ONE</dc:publisher>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>
