@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q108138420</dc:identifier>
+  <dc:title>Towards an open, zoomable atlas for invasion science and beyond</dc:title>
+  <dc:creator>Jeschke, Jonathan M.</dc:creator>
+  <dc:creator>Heger, Tina</dc:creator>
+  <dc:creator>Kraker, Peter</dc:creator>
+  <dc:creator>Schramm, Maxi</dc:creator>
+  <dc:creator>Kittel, Christopher</dc:creator>
+  <dc:creator>Mietchen, Daniel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-08-18</dc:date>
+  <dc:language/>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>knowledge engineering</dc:subject>
+  <dc:subject>hypothesis</dc:subject>
+  <dc:subject>knowledge graph</dc:subject>
+</oai_dc:dc>
