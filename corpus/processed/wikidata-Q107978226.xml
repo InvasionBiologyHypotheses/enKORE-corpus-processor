@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q107978226</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-020-02220-W</dc:identifier>
   <dc:title>Invasion syndromes: a systematic approach for predicting biological invasions and facilitating effective management</dc:title>
   <dc:creator>Novoa, Ana</dc:creator>
   <dc:creator>Richardson, David M.</dc:creator>
@@ -36,4 +37,5 @@
   <dc:date>2020-03-02</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>biological invasion</dc:subject>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

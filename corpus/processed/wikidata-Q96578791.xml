@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q96578791</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7297777</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.6243</dc:identifier>
   <dc:title>Invasive zebra mussel (Dreissena polymorpha) threatens an exceptionally large population of the depressed river mussel (Pseudanodonta complanata) in a postglacial lake</dc:title>
   <dc:creator>Ożgo, Małgorzata</dc:creator>
   <dc:creator>Urbańska, Maria</dc:creator>
@@ -18,4 +19,5 @@
   <dc:date>2020-04-12</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>zebra mussel</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

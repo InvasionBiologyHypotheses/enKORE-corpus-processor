@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q95293791</dc:identifier>
+  <dc:identifier>doi:10.1111/EVA.12906</dc:identifier>
   <dc:title>An evolutionary perspective on marine invasions</dc:title>
   <dc:creator>Blakeslee, April M.H.</dc:creator>
   <dc:creator>Manousaki, Tereza</dc:creator>
@@ -10,4 +11,5 @@
   <dc:date>2020-01-03</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

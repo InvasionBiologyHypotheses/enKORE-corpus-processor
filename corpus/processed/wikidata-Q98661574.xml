@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q98661574</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351560</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-020-02311-8</dc:identifier>
   <dc:title>Framework for assessing vertebrate invasive species damage: the case of feral swine in the United States</dc:title>
   <dc:creator>Shwiff, Stephanie</dc:creator>
   <dc:creator>Pelham, Alex</dc:creator>
@@ -14,4 +15,5 @@
   <dc:date>2020-07-10</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

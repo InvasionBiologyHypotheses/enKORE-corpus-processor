@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q90666486</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098561</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0230822</dc:identifier>
   <dc:title>Characterization of the fungal community in the canopy air of the invasive plant Ageratina adenophora and its potential to cause plant diseases</dc:title>
   <dc:creator>Chen, Lin</dc:creator>
   <dc:creator>Fang, Kai</dc:creator>
@@ -15,4 +16,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Ageratina adenophora</dc:subject>
   <dc:publisher>PLOS ONE</dc:publisher>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

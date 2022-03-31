@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q97592968</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7359835</dc:identifier>
+  <dc:identifier>doi:10.1111/EVA.12982</dc:identifier>
   <dc:title>Evolution and genetics of bighead and silver carps: Native population conservation versus invasive species control</dc:title>
   <dc:creator>Lu, Guoqing</dc:creator>
   <dc:creator>Wang, Chenghui</dc:creator>
@@ -16,4 +17,5 @@
   <dc:date>2020-05-13</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

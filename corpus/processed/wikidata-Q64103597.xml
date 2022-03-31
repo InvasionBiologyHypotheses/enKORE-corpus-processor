@@ -2,6 +2,7 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q64103597</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472817</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0215691</dc:identifier>
   <dc:title>Are the ecological effects of the "worst" marine invasive species linked with scientific and media attention?</dc:title>
   <dc:creator>Geraldi, Nathan R</dc:creator>
   <dc:creator>Anton, Andrea</dc:creator>
@@ -16,4 +17,5 @@
   <dc:subject>aquatic organism</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:publisher>PLOS ONE</dc:publisher>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>

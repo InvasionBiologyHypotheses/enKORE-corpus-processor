@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q111271997</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.71.75711</dc:identifier>
   <dc:title>Predatory ability and abundance forecast the ecological impacts of two aquatic invasive species</dc:title>
   <dc:creator>DeRoy, Emma M.</dc:creator>
   <dc:creator>Crookes, Steven</dc:creator>
@@ -16,4 +17,5 @@
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:rights>https://creativecommons.org/share-your-work/public-domain/cc0/</dc:rights>
 </oai_dc:dc>
