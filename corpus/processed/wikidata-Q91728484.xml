@@ -10,6 +10,7 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-12-05</dc:date>
   <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>CRISPR</dc:subject>
   <dc:subject>Cas9</dc:subject>
   <dc:subject>Drosophila suzukii</dc:subject>
@@ -23,5 +24,4 @@
                 &lt;jats:title&gt;Conclusion&lt;/jats:title&gt;
                 &lt;jats:p&gt;The deployment of the endogenous promoters of the &lt;jats:italic&gt;D. suzukii U6&lt;/jats:italic&gt; and &lt;jats:italic&gt;hsp70&lt;/jats:italic&gt; genes to drive the expression of &lt;jats:italic&gt;gRNA&lt;/jats:italic&gt; and &lt;jats:italic&gt;Cas9&lt;/jats:italic&gt;, respectively, enabled the effective application of helper plasmid co-injections instead of preformed ribonucleoproteins used in previous reports for HDR-based genome editing. The sperm-marking system should help to monitor the success of pest control campaigns in the context of the Sterile Insect Technique and provides a tool for basic research in reproductive biology of this invasive pest. Furthermore, the promoter of the &lt;jats:italic&gt;β2t&lt;/jats:italic&gt; gene can be used in developing novel transgenic pest control approaches and the CRISPR/Cas9 system as an additional tool for the modification of previously established transgenes.&lt;/jats:p&gt;
               &lt;/jats:sec&gt;</dc:description>
-  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
 </oai_dc:dc>
