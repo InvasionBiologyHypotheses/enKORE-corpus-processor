@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q107256956</dc:identifier>
+  <dc:identifier>doi:10.3897/BDJ.9.E65371</dc:identifier>
+  <dc:title>Holistic understanding of contemporary ecosystems requires integration of data on domesticated, captive and cultivated organisms</dc:title>
+  <dc:creator>Groom, Quentin</dc:creator>
+  <dc:creator>Adriaens, Tim</dc:creator>
+  <dc:creator>Bertolino, Sandro</dc:creator>
+  <dc:creator>Phelps, Kendra</dc:creator>
+  <dc:creator>Poelen, Jorrit</dc:creator>
+  <dc:creator>Reeder, DeeAnn</dc:creator>
+  <dc:creator>Richardson, David</dc:creator>
+  <dc:creator>Simmons, Nancy</dc:creator>
+  <dc:creator>Upham, Nathan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-06-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Darwin Core</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>BDJ</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Domestic and captive animals and cultivated plants should be recognised as integral components in contemporary ecosystems. They interact with wild organisms through such mechanisms as hybridization, predation, herbivory, competition and disease transmission and, in many cases, define ecosystem properties. Nevertheless, it is widespread practice for data on domestic, captive and cultivated organisms to be excluded from biodiversity repositories, such as natural history collections. Furthermore, there is a lack of integration of data collected about biodiversity in disciplines, such as agriculture, veterinary science, epidemiology and invasion science. Discipline-specific data are often intentionally excluded from integrative databases in order to maintain the “purity” of data on natural processes. Rather than being beneficial, we argue that this practise of data exclusivity greatly limits the utility of discipline-specific data for applications ranging from agricultural pest management to invasion biology, infectious disease prevention and community ecology. This problem can be resolved by data providers using standards to indicate whether the observed organism is of wild or domestic origin and by integrating their data with other biodiversity data (e.g. in the Global Biodiversity Information Facility). Doing so will enable efforts to integrate the full panorama of biodiversity knowledge across related disciplines to tackle pressing societal questions.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>
