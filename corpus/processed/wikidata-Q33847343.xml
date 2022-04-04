@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33847343</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051337</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0000953</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051337</dc:link>
+  <dc:title>Trypanosoma cruzi utilizes the host low density lipoprotein receptor in invasion</dc:title>
+  <dc:creator>Nagajyothi, Fnu</dc:creator>
+  <dc:creator>Weiss, Louis M</dc:creator>
+  <dc:creator>Silver, David L.</dc:creator>
+  <dc:creator>Desruisseaux, Mahalia S.</dc:creator>
+  <dc:creator>Scherer, Philipp E</dc:creator>
+  <dc:creator>Herz, Joachim</dc:creator>
+  <dc:creator>Tanowitz, Herbert B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-02-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>lipoprotein</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

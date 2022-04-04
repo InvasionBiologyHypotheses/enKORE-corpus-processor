@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33523286</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2799526</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0008605</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2799526</dc:link>
+  <dc:title>Ecoimmunity in Darwin's finches: invasive parasites trigger acquired immunity in the medium ground finch (Geospiza fortis).</dc:title>
+  <dc:creator>Huber, Sarah K</dc:creator>
+  <dc:creator>Owen, Jeb P</dc:creator>
+  <dc:creator>Koop, Jennifer A H</dc:creator>
+  <dc:creator>O King, Marisa</dc:creator>
+  <dc:creator>Grant, Peter R</dc:creator>
+  <dc:creator>Grant, B Rosemary</dc:creator>
+  <dc:creator>Clayton, Dale H</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-01-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>medium ground finch</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

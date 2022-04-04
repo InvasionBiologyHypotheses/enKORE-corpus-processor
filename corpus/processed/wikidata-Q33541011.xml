@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33541011</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2834738</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0000621</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2834738</dc:link>
+  <dc:title>Identification by PCR of non-typhoidal Salmonella enterica serovars associated with invasive infections among febrile patients in Mali</dc:title>
+  <dc:creator>Tennant, Sharon M</dc:creator>
+  <dc:creator>Diallo, Souleymane</dc:creator>
+  <dc:creator>Levy, Haim</dc:creator>
+  <dc:creator>Livio, Sofie</dc:creator>
+  <dc:creator>O Sow, Samba</dc:creator>
+  <dc:creator>Tapia, Milagritos</dc:creator>
+  <dc:creator>Fields, Patricia I</dc:creator>
+  <dc:creator>Mikoleit, Matthew</dc:creator>
+  <dc:creator>Tamboura, Boubou</dc:creator>
+  <dc:creator>Kotloff, Karen L</dc:creator>
+  <dc:creator>Nataro, James P</dc:creator>
+  <dc:creator>Galen, James E</dc:creator>
+  <dc:creator>Levine, Myron M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-03-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Mali</dc:subject>
+  <dc:subject>Salmonella enterica</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

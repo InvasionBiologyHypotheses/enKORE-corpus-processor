@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28541251</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3961360</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004013</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3961360</dc:link>
+  <dc:title>Identification of OmpA, a Coxiella burnetii protein involved in host cell invasion, by multi-phenotypic high-content screening</dc:title>
+  <dc:creator>Martinez, Eric</dc:creator>
+  <dc:creator>Cantet, Franck</dc:creator>
+  <dc:creator>Fava, Laura</dc:creator>
+  <dc:creator>Norville, Isobel</dc:creator>
+  <dc:creator>Bonazzi, Matteo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Coxiella burnetii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

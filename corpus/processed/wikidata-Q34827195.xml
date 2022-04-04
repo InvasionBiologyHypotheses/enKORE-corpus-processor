@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34827195</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3702562</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0068304</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3702562</dc:link>
+  <dc:title>Antibodies to polymorphic invasion-inhibitory and non-Inhibitory epitopes of Plasmodium falciparum apical membrane antigen 1 in human malaria</dc:title>
+  <dc:creator>Mugyenyi, Cleopatra K</dc:creator>
+  <dc:creator>Elliott, Salenna R</dc:creator>
+  <dc:creator>McCallum, Fiona J</dc:creator>
+  <dc:creator>Anders, Robin F</dc:creator>
+  <dc:creator>Marsh, Kevin</dc:creator>
+  <dc:creator>Beeson, James G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

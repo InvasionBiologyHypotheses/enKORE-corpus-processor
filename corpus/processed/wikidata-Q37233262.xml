@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q37233262</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3798119</dc:identifier>
+  <dc:identifier>doi:10.1111/CMI.12151</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3798119</dc:link>
+  <dc:title>Identifying novel Plasmodium falciparum erythrocyte invasion receptors using systematic extracellular protein interaction screens</dc:title>
+  <dc:creator>Bartholdson, S Josefin</dc:creator>
+  <dc:creator>Crosnier, Cécile</dc:creator>
+  <dc:creator>Bustamante, Leyla Y</dc:creator>
+  <dc:creator>Rayner, Julian</dc:creator>
+  <dc:creator>Wright, Gavin J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-05-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>cell surface receptor</dc:subject>
+  <dc:subject>cell</dc:subject>
+  <dc:subject>hemic and immune systems</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+  <dc:subject>membrane proteins</dc:subject>
+  <dc:subject>protozoan proteins</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+</oai_dc:dc>

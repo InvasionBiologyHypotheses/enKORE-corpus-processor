@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q57071199</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089443</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0202255</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6089443</dc:link>
+  <dc:title>Who will win where and why? An ecophysiological dissection of the competition between a tropical pasture grass and the invasive weed Bracken over an elevation range of 1000 m in the tropical Andes</dc:title>
+  <dc:creator>Knuesting, Johannes</dc:creator>
+  <dc:creator>Brinkmann, Marie Clara</dc:creator>
+  <dc:creator>Silva, Brenner</dc:creator>
+  <dc:creator>Schorsch, Michael</dc:creator>
+  <dc:creator>Bendix, Jörg</dc:creator>
+  <dc:creator>Beck, Erwin</dc:creator>
+  <dc:creator>Scheibe, Renate</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

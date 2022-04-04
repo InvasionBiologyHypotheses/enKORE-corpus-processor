@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35606926</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431875</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0125684</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431875</dc:link>
+  <dc:title>Non-Invasive Genetic Mark-Recapture as a Means to Study Population Sizes and Marking Behaviour of the Elusive Eurasian Otter (Lutra lutra).</dc:title>
+  <dc:creator>Lampa, Simone</dc:creator>
+  <dc:creator>Mihoub, Jean-Baptiste</dc:creator>
+  <dc:creator>Gruber, Bernd</dc:creator>
+  <dc:creator>Klenke, Reinhard</dc:creator>
+  <dc:creator>Henle, Klaus</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-05-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>European Otter</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

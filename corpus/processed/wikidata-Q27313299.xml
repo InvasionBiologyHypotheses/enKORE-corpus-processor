@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q27313299</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951370</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1001132</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951370</dc:link>
+  <dc:title>Concerted action of two formins in gliding motility and host cell invasion by Toxoplasma gondii</dc:title>
+  <dc:creator>Daher, Wassim</dc:creator>
+  <dc:creator>Plattner, Fabienne</dc:creator>
+  <dc:creator>Carlier, Marie-France</dc:creator>
+  <dc:creator>Soldati-Favre, Dominique</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

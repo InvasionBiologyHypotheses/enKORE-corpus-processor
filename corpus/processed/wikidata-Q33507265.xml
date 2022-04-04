@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33507265</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746291</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0007213</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746291</dc:link>
+  <dc:title>Demographic and genetic patterns of variation among populations of Arabidopsis thaliana from contrasting native environments</dc:title>
+  <dc:creator>Navarro, Alicia Montesinos</dc:creator>
+  <dc:creator>Montesinos, Alicia</dc:creator>
+  <dc:creator>Tonsor, Stephen J</dc:creator>
+  <dc:creator>Alonso-Blanco, Carlos</dc:creator>
+  <dc:creator>Picó, F Xavier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-09-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>demographics</dc:subject>
+  <dc:subject>Arabidopsis thaliana</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

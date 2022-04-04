@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34847695</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708960</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0068259</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3708960</dc:link>
+  <dc:title>Native predators do not influence invasion success of pacific lionfish on Caribbean reefs</dc:title>
+  <dc:creator>Hackerott, Serena</dc:creator>
+  <dc:creator>Valdivia, Abel</dc:creator>
+  <dc:creator>Green, Stephanie J</dc:creator>
+  <dc:creator>Côté, Isabelle M</dc:creator>
+  <dc:creator>Cox, Courtney E</dc:creator>
+  <dc:creator>Akins, Lad</dc:creator>
+  <dc:creator>Layman, Craig A</dc:creator>
+  <dc:creator>Precht, William F</dc:creator>
+  <dc:creator>Bruno, John F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-07-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>Caribbean</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

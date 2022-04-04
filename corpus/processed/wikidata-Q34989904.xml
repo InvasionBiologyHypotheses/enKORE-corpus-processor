@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34989904</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767822</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0074239</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767822</dc:link>
+  <dc:title>A test for pre-adapted phenotypic plasticity in the invasive tree Acer negundo L</dc:title>
+  <dc:creator>Lamarque, Laurent J</dc:creator>
+  <dc:creator>Porté, Annabel J</dc:creator>
+  <dc:creator>Eymeric, Camille</dc:creator>
+  <dc:creator>Lasnier, Jean-Baptiste</dc:creator>
+  <dc:creator>Lortie, Christopher J</dc:creator>
+  <dc:creator>Delzon, Sylvain</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-09-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>phenotypic plasticity</dc:subject>
+  <dc:subject>invasive tree</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

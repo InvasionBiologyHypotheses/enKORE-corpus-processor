@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q31134521</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2041976</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PCBI.0030200</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2041976</dc:link>
+  <dc:title>Landscape as a model: the importance of geometry</dc:title>
+  <dc:creator>Holland, Pen</dc:creator>
+  <dc:creator>Aegerter, James N</dc:creator>
+  <dc:creator>Dytham, Calvin</dc:creator>
+  <dc:creator>Smith, Graham C.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2007-09-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>PLoS Comput Biol</dc:publisher>
+</oai_dc:dc>

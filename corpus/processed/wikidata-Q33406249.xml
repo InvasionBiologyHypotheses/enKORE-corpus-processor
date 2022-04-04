@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33406249</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631132</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000290</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631132</dc:link>
+  <dc:title>Pep1, a secreted effector protein of Ustilago maydis, is required for successful invasion of plant cells</dc:title>
+  <dc:creator>Doehlemann, Gunther</dc:creator>
+  <dc:creator>Linde, Karina</dc:creator>
+  <dc:creator>Assmann, Daniela</dc:creator>
+  <dc:creator>Schwammbach, Daniela</dc:creator>
+  <dc:creator>Hof, Alexander</dc:creator>
+  <dc:creator>Mohanty, Amitabh</dc:creator>
+  <dc:creator>Jackson, David</dc:creator>
+  <dc:creator>Kahmann, Regine</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-02-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

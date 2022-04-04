@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q27230072</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1630708</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.0020117</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1630708</dc:link>
+  <dc:title>Falstatin, a cysteine protease inhibitor of Plasmodium falciparum, facilitates erythrocyte invasion</dc:title>
+  <dc:creator>Pandey, Kailash C</dc:creator>
+  <dc:creator>Singh, Naresh</dc:creator>
+  <dc:creator>Arastu-Kapur, Shirin</dc:creator>
+  <dc:creator>Bogyo, Matthew</dc:creator>
+  <dc:creator>Rosenthal, Philip J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>falstatin</dc:subject>
+  <dc:subject>inhibitor of cysteine proteases</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

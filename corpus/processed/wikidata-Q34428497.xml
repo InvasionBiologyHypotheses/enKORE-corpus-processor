@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34428497</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447948</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0045253</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447948</dc:link>
+  <dc:title>The Plasmodium falciparum erythrocyte invasion ligand Pfrh4 as a target of functional and protective human antibodies against malaria.</dc:title>
+  <dc:creator>Reiling, Linda</dc:creator>
+  <dc:creator>Richards, Jack S</dc:creator>
+  <dc:creator>Fowkes, Freya J I</dc:creator>
+  <dc:creator>Wilson, Danny W</dc:creator>
+  <dc:creator>Chokejindachai, Watcharee</dc:creator>
+  <dc:creator>Barry, Alyssa E</dc:creator>
+  <dc:creator>Tham, Wai-Hong</dc:creator>
+  <dc:creator>Stubbs, Janine</dc:creator>
+  <dc:creator>Langer, Christine</dc:creator>
+  <dc:creator>Donelson, John</dc:creator>
+  <dc:creator>Michon, Pascal</dc:creator>
+  <dc:creator>Tavul, Livingstone</dc:creator>
+  <dc:creator>Crabb, Brendan S</dc:creator>
+  <dc:creator>Siba, Peter M</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:creator>Mueller, Ivo</dc:creator>
+  <dc:creator>Beeson, James G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-09-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

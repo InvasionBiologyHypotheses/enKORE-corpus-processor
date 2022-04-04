@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q92115040</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194430</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PCBI.1007702</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194430</dc:link>
+  <dc:title>Accounting for red blood cell accessibility reveals distinct invasion strategies in Plasmodium falciparum strains</dc:title>
+  <dc:creator>Cai, Francisco Y</dc:creator>
+  <dc:creator>DeSimone, Tiffany M</dc:creator>
+  <dc:creator>Hansen, Elsa</dc:creator>
+  <dc:creator>Jennings, Cameron V</dc:creator>
+  <dc:creator>Bei, Amy K</dc:creator>
+  <dc:creator>Ahouidi, Ambroise D</dc:creator>
+  <dc:creator>Mboup, Souleymane</dc:creator>
+  <dc:creator>Duraisingh, Manoj T</dc:creator>
+  <dc:creator>Buckee, Caroline</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-21</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Comput Biol</dc:publisher>
+</oai_dc:dc>

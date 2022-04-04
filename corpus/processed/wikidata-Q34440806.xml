@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34440806</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467266</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0043366</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467266</dc:link>
+  <dc:title>A suite of models to support the quantitative assessment of spread in pest risk analysis</dc:title>
+  <dc:creator>Robinet, Christelle</dc:creator>
+  <dc:creator>Kehlenbeck, Hella</dc:creator>
+  <dc:creator>Kriticos, Darren J</dc:creator>
+  <dc:creator>Baker, Richard H A</dc:creator>
+  <dc:creator>Battisti, Andrea</dc:creator>
+  <dc:creator>Brunel, Sarah</dc:creator>
+  <dc:creator>Dupin, Maxime</dc:creator>
+  <dc:creator>Eyre, Dominic</dc:creator>
+  <dc:creator>Faccoli, Massimo</dc:creator>
+  <dc:creator>Ilieva, Zhenya</dc:creator>
+  <dc:creator>Kenis, Marc</dc:creator>
+  <dc:creator>Knight, Jon</dc:creator>
+  <dc:creator>Reynaud, Philippe</dc:creator>
+  <dc:creator>Yart, Annie</dc:creator>
+  <dc:creator>Werf, Wopke</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-10-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>risk analysis</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

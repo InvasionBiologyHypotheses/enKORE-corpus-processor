@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35942675</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4775037</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0149159</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4775037</dc:link>
+  <dc:title>Intestinal Cell Tight Junctions Limit Invasion of Candida albicans through Active Penetration and Endocytosis in the Early Stages of the Interaction of the Fungus with the Intestinal Barrier</dc:title>
+  <dc:creator>Goyer, Marianne</dc:creator>
+  <dc:creator>Loiselet, Alicia</dc:creator>
+  <dc:creator>Bon, Fabienne</dc:creator>
+  <dc:creator>L'Ollivier, Coralie</dc:creator>
+  <dc:creator>Laue, Michael</dc:creator>
+  <dc:creator>Holland, Gudrun</dc:creator>
+  <dc:creator>Bonnin, Alain</dc:creator>
+  <dc:creator>Dalle, Frederic</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-03-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

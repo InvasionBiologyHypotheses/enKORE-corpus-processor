@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30834974</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081561</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0101510</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081561</dc:link>
+  <dc:title>Epidemiology and outcomes of invasive candidiasis due to non-albicans species of Candida in 2,496 patients: data from the Prospective Antifungal Therapy (PATH) registry 2004-2008.</dc:title>
+  <dc:creator>Pfaller, Michael A</dc:creator>
+  <dc:creator>Andes, David R</dc:creator>
+  <dc:creator>Diekema, Daniel J</dc:creator>
+  <dc:creator>Horn, David L</dc:creator>
+  <dc:creator>Reboli, Annette C</dc:creator>
+  <dc:creator>Rotstein, Coleman</dc:creator>
+  <dc:creator>Franks, Billy</dc:creator>
+  <dc:creator>Azie, Nkechi E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-07-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>patient</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>candidiasis</dc:subject>
+  <dc:subject>invasive candidiasis</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

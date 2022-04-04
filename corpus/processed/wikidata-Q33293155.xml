@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33293155</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1937010</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.0030107</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1937010</dc:link>
+  <dc:title>Epigenetic silencing of Plasmodium falciparum genes linked to erythrocyte invasion</dc:title>
+  <dc:creator>Cortés, Alfred</dc:creator>
+  <dc:creator>Cortés, Alfred</dc:creator>
+  <dc:creator>Carret, Celine</dc:creator>
+  <dc:creator>Kaneko, Osamu</dc:creator>
+  <dc:creator>Lim, Brian Y S Yim</dc:creator>
+  <dc:creator>Ivens, Alasdair</dc:creator>
+  <dc:creator>Holder, Anthony A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2007-08-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>gene silencing</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

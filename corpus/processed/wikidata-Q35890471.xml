@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35890471</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4709005</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0146785</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4709005</dc:link>
+  <dc:title>AdcAII of Streptococcus pneumoniae Affects Pneumococcal Invasiveness</dc:title>
+  <dc:creator>Brown, Lindsey R</dc:creator>
+  <dc:creator>Gunnell, Steven M</dc:creator>
+  <dc:creator>Cassella, Adam N</dc:creator>
+  <dc:creator>Keller, Lance E</dc:creator>
+  <dc:creator>Scherkenbach, Lisa A</dc:creator>
+  <dc:creator>Mann, Beth</dc:creator>
+  <dc:creator>Brown, Matthew W</dc:creator>
+  <dc:creator>Hill, Rebecca</dc:creator>
+  <dc:creator>Fitzkee, Nicholas C</dc:creator>
+  <dc:creator>Rosch, Jason W</dc:creator>
+  <dc:creator>Tuomanen, Elaine I</dc:creator>
+  <dc:creator>Thornton, Justin A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

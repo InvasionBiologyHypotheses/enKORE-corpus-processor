@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36352019</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5398549</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0175820</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5398549</dc:link>
+  <dc:title>Effects of over-expressing a native gene encoding 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS) on glyphosate resistance in Arabidopsis thaliana.</dc:title>
+  <dc:creator>Yang, Xiao</dc:creator>
+  <dc:creator>Beres, Zachery T</dc:creator>
+  <dc:creator>Jin, Lin</dc:creator>
+  <dc:creator>Parrish, Jason T</dc:creator>
+  <dc:creator>Zhao, Wanying</dc:creator>
+  <dc:creator>Mackey, David</dc:creator>
+  <dc:creator>Snow, Allison A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-04-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Arabidopsis thaliana</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35716387</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516325</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0133885</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516325</dc:link>
+  <dc:title>Virulence Factors of Streptococcus pneumoniae. Comparison between African and French Invasive Isolates and Implication for Future Vaccines</dc:title>
+  <dc:creator>Blumental, Sophie</dc:creator>
+  <dc:creator>Granger-Farbos, Alexandra</dc:creator>
+  <dc:creator>Moïsi, Jennifer C</dc:creator>
+  <dc:creator>Soullié, Bruno</dc:creator>
+  <dc:creator>Leroy, Philippe</dc:creator>
+  <dc:creator>Njanpop-Lafourcade, Berthe-Marie</dc:creator>
+  <dc:creator>Yaro, Seydou</dc:creator>
+  <dc:creator>Nacro, Boubacar</dc:creator>
+  <dc:creator>Hallin, Marie</dc:creator>
+  <dc:creator>Koeck, Jean-Louis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-07-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

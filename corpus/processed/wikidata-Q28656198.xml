@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28656198</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005621</dc:identifier>
+  <dc:identifier>doi:10.1186/1756-3305-7-187</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005621</dc:link>
+  <dc:title>Monitoring population and environmental parameters of invasive mosquito species in Europe</dc:title>
+  <dc:creator>Bellini, Romeo</dc:creator>
+  <dc:creator>Scholte, Ernst-Jan</dc:creator>
+  <dc:creator>Rakotoarivony, Laurence Marrama</dc:creator>
+  <dc:creator>Schaffner, Francis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>infectious disease</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>environment</dc:subject>
+  <dc:subject>environmental monitoring</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+</oai_dc:dc>

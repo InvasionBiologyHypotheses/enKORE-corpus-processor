@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35213815</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372384</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0121053</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372384</dc:link>
+  <dc:title>The development of a plant risk evaluation (PRE) tool for assessing the invasive potential of ornamental plants</dc:title>
+  <dc:creator>Conser, Christiana</dc:creator>
+  <dc:creator>Seebacher, Lizbeth</dc:creator>
+  <dc:creator>Fujino, David W</dc:creator>
+  <dc:creator>Reichard, Sarah</dc:creator>
+  <dc:creator>DiTomaso, Joseph M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-03-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

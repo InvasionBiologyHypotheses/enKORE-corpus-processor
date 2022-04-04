@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q61450434</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6338382</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0007023</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6338382</dc:link>
+  <dc:title>Matching the genetics of released and local Aedes aegypti populations is critical to assure Wolbachia invasion</dc:title>
+  <dc:creator>Azambuja Garcia, Gabriela</dc:creator>
+  <dc:creator>Sylvestre, Gabriel</dc:creator>
+  <dc:creator>Aguiar, Raquel</dc:creator>
+  <dc:creator>Costa, Guilherme Borges</dc:creator>
+  <dc:creator>Martins, Ademir Jesus</dc:creator>
+  <dc:creator>Lima, José Bento Pereira</dc:creator>
+  <dc:creator>Petersen, Martha T</dc:creator>
+  <dc:creator>Lourenço-de-Oliveira, Ricardo</dc:creator>
+  <dc:creator>Shadbolt, Marion F</dc:creator>
+  <dc:creator>Rašić, Gordana</dc:creator>
+  <dc:creator>Hoffmann, Ary A.</dc:creator>
+  <dc:creator>Villela, Daniel A M</dc:creator>
+  <dc:creator>Dias, Fernando B S</dc:creator>
+  <dc:creator>Dong, Yi</dc:creator>
+  <dc:creator>O'Neill, Scott L</dc:creator>
+  <dc:creator>Moreira, Luciano Andrade</dc:creator>
+  <dc:creator>Maciel-de-Freitas, Rafael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

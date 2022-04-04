@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33521231</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794534</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0008501</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2794534</dc:link>
+  <dc:title>Influence of two vaccination campaigns on genetic diversity of invasive Neisseria meningitidis isolates in northern Spain (1997-2008)</dc:title>
+  <dc:creator>Vicente, Diego</dc:creator>
+  <dc:creator>Esnal, Olatz</dc:creator>
+  <dc:creator>Goicoechea, José López</dc:creator>
+  <dc:creator>Cisterna, Ramón</dc:creator>
+  <dc:creator>Pérez-Trallero, Emilio</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-12-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Neisseria meningitidis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

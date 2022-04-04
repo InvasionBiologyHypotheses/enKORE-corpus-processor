@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35068049</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854868</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0002569</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854868</dc:link>
+  <dc:title>De novo assembly of a field isolate genome reveals novel Plasmodium vivax erythrocyte invasion genes</dc:title>
+  <dc:creator>Hester, James</dc:creator>
+  <dc:creator>Chan, Ernest R</dc:creator>
+  <dc:creator>Ménard, Didier</dc:creator>
+  <dc:creator>Mercereau-Puijalon, Odile</dc:creator>
+  <dc:creator>Barnwell, John</dc:creator>
+  <dc:creator>Zimmerman, Peter A</dc:creator>
+  <dc:creator>Serre, David</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-12-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>duffy binding protein 2</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

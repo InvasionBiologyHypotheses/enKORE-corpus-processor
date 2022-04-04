@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q60310868</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6289454</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1007436</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6289454</dc:link>
+  <dc:title>A forward genetic screen reveals a primary role for Plasmodium falciparum Reticulocyte Binding Protein Homologue 2a and 2b in determining alternative erythrocyte invasion pathways</dc:title>
+  <dc:creator>Campino, Susana</dc:creator>
+  <dc:creator>Marin-Menendez, Alejandro</dc:creator>
+  <dc:creator>Kemp, Alison</dc:creator>
+  <dc:creator>Cross, Nadia</dc:creator>
+  <dc:creator>Drought, Laura</dc:creator>
+  <dc:creator>Otto, Thomas D</dc:creator>
+  <dc:creator>Benavente, Ernest Diez</dc:creator>
+  <dc:creator>Ravenhall, Matt</dc:creator>
+  <dc:creator>Schwach, Frank</dc:creator>
+  <dc:creator>Girling, Gareth</dc:creator>
+  <dc:creator>Manske, Magnus</dc:creator>
+  <dc:creator>Theron, Michel</dc:creator>
+  <dc:creator>Gould, Kelda</dc:creator>
+  <dc:creator>Drury, Eleanor</dc:creator>
+  <dc:creator>Clark, Taane G</dc:creator>
+  <dc:creator>Kwiatkowski, Dominic P</dc:creator>
+  <dc:creator>Pance, Alena</dc:creator>
+  <dc:creator>Rayner, Julian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>immunology</dc:subject>
+  <dc:subject>parasitology</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue b</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue a</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

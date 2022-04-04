@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28728372</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376147</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0038757</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376147</dc:link>
+  <dc:title>Cyanobacteria and cyanotoxins: the influence of nitrogen versus phosphorus</dc:title>
+  <dc:creator>Dolman, Andrew M</dc:creator>
+  <dc:creator>Rücker, Jacqueline</dc:creator>
+  <dc:creator>Pick, Frances R</dc:creator>
+  <dc:creator>Fastner, Jutta</dc:creator>
+  <dc:creator>Rohrlack, Thomas</dc:creator>
+  <dc:creator>Mischke, Ute</dc:creator>
+  <dc:creator>Wiedner, Claudia</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Cyanobacteria</dc:subject>
+  <dc:subject>phosphorus</dc:subject>
+  <dc:subject>Aphanizomenon gracile</dc:subject>
+  <dc:subject>Cylindrospermopsis raciborskii</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

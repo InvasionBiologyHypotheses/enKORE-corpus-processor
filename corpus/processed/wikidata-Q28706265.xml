@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28706265</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584140</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0056940</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584140</dc:link>
+  <dc:title>An invasive fish and the time-lagged spread of its parasite across the Hawaiian archipelago</dc:title>
+  <dc:creator>Gaither, Michelle R.</dc:creator>
+  <dc:creator>Aeby, Greta</dc:creator>
+  <dc:creator>Vignon, Matthias</dc:creator>
+  <dc:creator>Meguro, Yu-ichiro</dc:creator>
+  <dc:creator>Rigby, Mark</dc:creator>
+  <dc:creator>Runyon, Christina</dc:creator>
+  <dc:creator>Toonen, Robert J.</dc:creator>
+  <dc:creator>Wood, Chelsea L</dc:creator>
+  <dc:creator>Bowen, Brian W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-02-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive fish</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

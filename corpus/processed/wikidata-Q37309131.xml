@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q37309131</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828305</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0079174</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828305</dc:link>
+  <dc:title>Comparative patterns of plant invasions in the Mediterranean biome</dc:title>
+  <dc:creator>Arianoutsou, Margarita</dc:creator>
+  <dc:creator>Delipetrou, Pinelopi</dc:creator>
+  <dc:creator>Vilà, Montserrat</dc:creator>
+  <dc:creator>Dimitrakopoulos, Panayiotis G</dc:creator>
+  <dc:creator>Celesti-Grapow, Laura</dc:creator>
+  <dc:creator>Wardell-Johnson, Grant</dc:creator>
+  <dc:creator>Henderson, Lesley</dc:creator>
+  <dc:creator>Fuentes, Nicol</dc:creator>
+  <dc:creator>Ugarte-Mendes, Eduardo</dc:creator>
+  <dc:creator>Rundel, Philip W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-11-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

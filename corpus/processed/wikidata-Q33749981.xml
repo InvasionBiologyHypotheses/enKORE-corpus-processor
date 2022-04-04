@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33749981</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2978716</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1001181</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2978716</dc:link>
+  <dc:title>Host cell invasion and virulence mediated by Candida albicans Ssa1.</dc:title>
+  <dc:creator>Sun, Jianing N</dc:creator>
+  <dc:creator>Solis, Norma V</dc:creator>
+  <dc:creator>Phan, Quynh T</dc:creator>
+  <dc:creator>Bajwa, Jashanjot S</dc:creator>
+  <dc:creator>Kashleva, Helena</dc:creator>
+  <dc:creator>Thompson, Angela</dc:creator>
+  <dc:creator>Liu, Yaoping</dc:creator>
+  <dc:creator>Dongari-Bagtzoglou, Anna</dc:creator>
+  <dc:creator>Edgerton, Mira</dc:creator>
+  <dc:creator>Filler, Scott G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-11-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

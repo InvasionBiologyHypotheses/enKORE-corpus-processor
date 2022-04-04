@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28674137</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720925</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0070157</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720925</dc:link>
+  <dc:title>Prevalence of the crayfish plague pathogen Aphanomyces astaci in populations of the signal crayfish Pacifastacus leniusculus in France: evaluating the threat to native crayfish</dc:title>
+  <dc:creator>Filipová, Lenka</dc:creator>
+  <dc:creator>Petrusek, Adam</dc:creator>
+  <dc:creator>Matasová, Klára</dc:creator>
+  <dc:creator>Delaunay, Carine</dc:creator>
+  <dc:creator>Grandjean, Frédéric</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aphanomyces astaci</dc:subject>
+  <dc:subject>signal crayfish</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

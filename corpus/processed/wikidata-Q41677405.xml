@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q41677405</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604976</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0184677</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604976</dc:link>
+  <dc:title>Simple yet effective: Historical proximity variables improve the species distribution models for invasive giant hogweed (Heracleum mantegazzianum s.l.) in Poland</dc:title>
+  <dc:creator>Mędrzycki, Piotr</dc:creator>
+  <dc:creator>Jarzyna, Ingeborga</dc:creator>
+  <dc:creator>Obidziński, Artur</dc:creator>
+  <dc:creator>Tokarska-Guzik, Barbara</dc:creator>
+  <dc:creator>Sotek, Zofia</dc:creator>
+  <dc:creator>Pabjanek, Piotr</dc:creator>
+  <dc:creator>Pytlarczyk, Adam</dc:creator>
+  <dc:creator>Sachajdakiewicz, Izabela</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-09-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Poland</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

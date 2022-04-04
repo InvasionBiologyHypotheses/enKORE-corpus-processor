@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28744629</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3179158</dc:identifier>
+  <dc:identifier>doi:10.3390/IJMS12085168</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3179158</dc:link>
+  <dc:title>Major Histocompatibility Complex (MHC) markers in conservation biology</dc:title>
+  <dc:creator>Ujvari, Beata</dc:creator>
+  <dc:creator>Belov, Katherine</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-08-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>organic chemistry</dc:subject>
+  <dc:subject>catalysis</dc:subject>
+  <dc:subject>genetic variation</dc:subject>
+  <dc:subject>major histocompatibility complex</dc:subject>
+  <dc:publisher>Int J Mol Sci</dc:publisher>
+</oai_dc:dc>

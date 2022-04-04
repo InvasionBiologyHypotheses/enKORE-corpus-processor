@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30664169</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749212</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0071052</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749212</dc:link>
+  <dc:title>Invasion dynamics of a fish-free landscape by brown trout (Salmo trutta).</dc:title>
+  <dc:creator>Labonne, Jacques</dc:creator>
+  <dc:creator>Vignon, Matthias</dc:creator>
+  <dc:creator>Prévost, Etienne</dc:creator>
+  <dc:creator>Lecomte, Frédéric</dc:creator>
+  <dc:creator>Dodson, Julian J</dc:creator>
+  <dc:creator>Kaeuffer, Renaud</dc:creator>
+  <dc:creator>Aymes, Jean-Christophe</dc:creator>
+  <dc:creator>Jarry, Marc</dc:creator>
+  <dc:creator>Gaudin, Philippe</dc:creator>
+  <dc:creator>Davaine, Patrick</dc:creator>
+  <dc:creator>Beall, Edward</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-08-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Salmo trutta</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

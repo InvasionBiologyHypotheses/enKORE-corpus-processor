@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28658154</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005729</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0088798</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005729</dc:link>
+  <dc:title>Ecological effects of the invasive giant madagascar day gecko on endemic mauritian geckos: applications of binomial-mixture and species distribution models</dc:title>
+  <dc:creator>Buckland, Steeves</dc:creator>
+  <dc:creator>Cole, Nik C</dc:creator>
+  <dc:creator>Aguirre-Gutiérrez, Jesus</dc:creator>
+  <dc:creator>Gallagher, Laura E</dc:creator>
+  <dc:creator>Henshaw, Sion M</dc:creator>
+  <dc:creator>Besnard, Aurélien</dc:creator>
+  <dc:creator>Tucker, Rachel M</dc:creator>
+  <dc:creator>Bachraz, Vishnu</dc:creator>
+  <dc:creator>Ruhomaun, Kevin</dc:creator>
+  <dc:creator>Harris, Stephen</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>Madagascar</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36276871</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302804</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0171104</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302804</dc:link>
+  <dc:title>From east to west across the Palearctic: Phylogeography of the invasive lime leaf miner Phyllonorycter issikii (Lepidoptera: Gracillariidae) and discovery of a putative new cryptic species in East Asia.</dc:title>
+  <dc:creator>Kirichenko, Natalia</dc:creator>
+  <dc:creator>Triberti, Paolo</dc:creator>
+  <dc:creator>Ohshima, Issei</dc:creator>
+  <dc:creator>Haran, Julien</dc:creator>
+  <dc:creator>Byun, Bong-Kyu</dc:creator>
+  <dc:creator>Li, Houhun</dc:creator>
+  <dc:creator>Augustin, Sylvie</dc:creator>
+  <dc:creator>Roques, Alain</dc:creator>
+  <dc:creator>Lopez-Vaamonde, Carlos</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-02-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Phyllonorycter issikii</dc:subject>
+  <dc:subject>cryptic species complex</dc:subject>
+  <dc:subject>phylogeography</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

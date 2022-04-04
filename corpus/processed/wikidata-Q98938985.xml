@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q98938985</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7470366</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0238432</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7470366</dc:link>
+  <dc:title>Contrasting marine carbonate systems in two fjords in British Columbia, Canada: Seawater buffering capacity and the response to anthropogenic CO2 invasion</dc:title>
+  <dc:creator>Hare, Alex</dc:creator>
+  <dc:creator>Evans, Wiley</dc:creator>
+  <dc:creator>Pocock, Katie</dc:creator>
+  <dc:creator>Weekes, Carrie</dc:creator>
+  <dc:creator>Gimenez, Iria</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-09-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

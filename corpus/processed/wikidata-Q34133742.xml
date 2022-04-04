@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34133742</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154673</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0003129</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154673</dc:link>
+  <dc:title>Fleas of small mammals on Reunion Island: diversity, distribution and epidemiological consequences</dc:title>
+  <dc:creator>Guernier, Vanina</dc:creator>
+  <dc:creator>Lagadec, Erwan</dc:creator>
+  <dc:creator>LeMinter, Gildas</dc:creator>
+  <dc:creator>Licciardi, Séverine</dc:creator>
+  <dc:creator>Balleydier, Elsa</dc:creator>
+  <dc:creator>Pagès, Frédéric</dc:creator>
+  <dc:creator>Laudisoit, Anne</dc:creator>
+  <dc:creator>Dellagi, Koussay</dc:creator>
+  <dc:creator>Tortosa, Pablo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

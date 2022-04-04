@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33851492</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053350</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002007</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053350</dc:link>
+  <dc:title>The moving junction protein RON8 facilitates firm attachment and host cell invasion in Toxoplasma gondii</dc:title>
+  <dc:creator>Straub, Kurtis W</dc:creator>
+  <dc:creator>Peng, Eric D</dc:creator>
+  <dc:creator>Hajagos, Bettina E</dc:creator>
+  <dc:creator>Tyler, Jessica S</dc:creator>
+  <dc:creator>Bradley, Peter J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-03-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

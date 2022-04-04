@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q90562753</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779246</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1008032</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779246</dc:link>
+  <dc:title>Phage resistance at the cost of virulence: Listeria monocytogenes serovar 4b requires galactosylated teichoic acids for InlB-mediated invasion</dc:title>
+  <dc:creator>Sumrall, Eric T</dc:creator>
+  <dc:creator>Shen, Yang</dc:creator>
+  <dc:creator>Keller, Anja P</dc:creator>
+  <dc:creator>Rismondo, Jeanine</dc:creator>
+  <dc:creator>Pavlou, Maria</dc:creator>
+  <dc:creator>Eugster, Marcel R</dc:creator>
+  <dc:creator>Boulos, Samy</dc:creator>
+  <dc:creator>Disson, Olivier</dc:creator>
+  <dc:creator>Thouvenot, Pierre</dc:creator>
+  <dc:creator>Kilcher, Samuel</dc:creator>
+  <dc:creator>Wollscheid, Bernd</dc:creator>
+  <dc:creator>Cabanes, Didier</dc:creator>
+  <dc:creator>Lecuit, Marc</dc:creator>
+  <dc:creator>Gründling, Angelika</dc:creator>
+  <dc:creator>Loessner, Martin J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-10-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

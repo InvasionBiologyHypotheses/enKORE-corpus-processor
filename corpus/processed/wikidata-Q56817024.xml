@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q56817024</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.38.23518</dc:identifier>
+  <dc:title>Models of alien species richness show moderate predictive accuracy and poor transferability</dc:title>
+  <dc:creator>Capinha, César</dc:creator>
+  <dc:creator>Essl, Franz</dc:creator>
+  <dc:creator>Seebens, Hanno</dc:creator>
+  <dc:creator>Pereira, Henrique Miguel</dc:creator>
+  <dc:creator>Kühn, Ingolf</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-06-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>species richness</dc:subject>
+  <dc:description>&lt;jats:p&gt;Robust predictions of alien species richness are useful to assess global biodiversity change. Nevertheless, the capacity to predict spatial patterns of alien species richness remains largely unassessed. Using 22 data sets of alien species richness from diverse taxonomic groups and covering various parts of the world, we evaluated whether different statistical models were able to provide useful predictions of absolute and relative alien species richness, as a function of explanatory variables representing geographical, environmental and socio-economic factors. Five state-of-the-art count data modelling techniques were used and compared: Poisson and negative binomial generalised linear models (GLMs), multivariate adaptive regression splines (MARS), random forests (RF) and boosted regression trees (BRT). We found that predictions of absolute alien species richness had a low to moderate accuracy in the region where the models were developed and a consistently poor accuracy in new regions. Predictions of relative richness performed in a superior manner in both geographical settings, but still were not good. Flexible tree ensembles-type techniques (RF and BRT) were shown to be significantly better in modelling alien species richness than parametric linear models (such as GLM), despite the latter being more commonly applied for this purpose. Importantly, the poor spatial transferability of models also warrants caution in assuming the generality of the relationships they identify, e.g. by applying projections under future scenario conditions. Ultimately, our results strongly suggest that predictability of spatial variation in richness of alien species richness is limited. The somewhat more robust ability to rank regions according to the number of aliens they have (i.e. relative richness), suggests that models of aliens species richness may be useful for prioritising and comparing regions, but not for predicting exact species numbers.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

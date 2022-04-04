@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q27316537</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687929</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1005343</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687929</dc:link>
+  <dc:title>Plasmodium falciparum Adhesins Play an Essential Role in Signalling and Activation of Invasion into Human Erythrocytes</dc:title>
+  <dc:creator>Tham, Wai-Hong</dc:creator>
+  <dc:creator>Lim, Nicholas T Y</dc:creator>
+  <dc:creator>Weiss, Greta E</dc:creator>
+  <dc:creator>Lopaticki, Sash</dc:creator>
+  <dc:creator>Ansell, Brendan R E</dc:creator>
+  <dc:creator>Bird, Megan</dc:creator>
+  <dc:creator>Lucet, Isabelle</dc:creator>
+  <dc:creator>Dorin-Semblat, Dominique</dc:creator>
+  <dc:creator>Doerig, Christian</dc:creator>
+  <dc:creator>Gilson, Paul R</dc:creator>
+  <dc:creator>Crabb, Brendan S</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

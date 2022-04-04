@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q22675943</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525040</dc:identifier>
+  <dc:identifier>doi:10.3897/ZOOKEYS.515.9403</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525040</dc:link>
+  <dc:title>Demography of some non-native isopods (Crustacea, Isopoda, Oniscidea) in a Mid-Atlantic forest, USA</dc:title>
+  <dc:creator>Hornung, Elisabeth</dc:creator>
+  <dc:creator>Szlavecz, Katalin</dc:creator>
+  <dc:creator>Dombos, Miklós</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-07-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>demographics</dc:subject>
+  <dc:subject>Isopoda</dc:subject>
+  <dc:subject>sow bug</dc:subject>
+  <dc:subject>Mid-Atlantic</dc:subject>
+  <dc:subject>forest</dc:subject>
+  <dc:subject>demography</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>ZooKeys</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34586481</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3567008</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0055927</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3567008</dc:link>
+  <dc:title>Species-specific identification from incomplete sampling: applying DNA barcodes to monitoring invasive solanum plants</dc:title>
+  <dc:creator>Zhang, Wei</dc:creator>
+  <dc:creator>Fan, Xiaohong</dc:creator>
+  <dc:creator>Zhu, Shuifang</dc:creator>
+  <dc:creator>Zhao, Hong</dc:creator>
+  <dc:creator>Fu, Lianzhong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-02-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

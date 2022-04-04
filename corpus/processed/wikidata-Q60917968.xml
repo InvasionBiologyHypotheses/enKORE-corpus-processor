@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q60917968</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324787</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0209688</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324787</dc:link>
+  <dc:title>Deletion of genes involved in the ketogluconate metabolism, Entner-Doudoroff pathway, and glucose dehydrogenase increase local and invasive virulence phenotypes in Streptococcus pneumoniae</dc:title>
+  <dc:creator>Hu, Fen Z</dc:creator>
+  <dc:creator>Król, Jarosław E</dc:creator>
+  <dc:creator>Tsai, Chen Hsuan Sherry</dc:creator>
+  <dc:creator>Eutsey, Rory A</dc:creator>
+  <dc:creator>Hiller, N. Luisa</dc:creator>
+  <dc:creator>Sen, Bhaswati</dc:creator>
+  <dc:creator>Ahmed, Azad</dc:creator>
+  <dc:creator>Hillman, Todd</dc:creator>
+  <dc:creator>Buchinsky, Farrel J</dc:creator>
+  <dc:creator>Nistico, Laura</dc:creator>
+  <dc:creator>Dice, Bethany</dc:creator>
+  <dc:creator>Longwell, Mark</dc:creator>
+  <dc:creator>Horsey, Edward</dc:creator>
+  <dc:creator>Ehrlich, Garth D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

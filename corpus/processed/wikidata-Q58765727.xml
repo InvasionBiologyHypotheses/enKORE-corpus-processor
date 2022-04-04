@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q58765727</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6101356</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0201312</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6101356</dc:link>
+  <dc:title>Invasive Streptococcus pneumoniae infection among hospitalized patients in Jingzhou city, China, 2010-2012</dc:title>
+  <dc:creator>Jiang, Hui</dc:creator>
+  <dc:creator>Huai, Yang</dc:creator>
+  <dc:creator>Chen, Hui</dc:creator>
+  <dc:creator>Uyeki, Timothy M</dc:creator>
+  <dc:creator>Chen, Maoyi</dc:creator>
+  <dc:creator>Guan, Xuhua</dc:creator>
+  <dc:creator>Liu, Shali</dc:creator>
+  <dc:creator>Peng, Youxing</dc:creator>
+  <dc:creator>Yang, Hui</dc:creator>
+  <dc:creator>Luo, Jun</dc:creator>
+  <dc:creator>Zheng, Jiandong</dc:creator>
+  <dc:creator>Huang, Jigui</dc:creator>
+  <dc:creator>Peng, Zhibin</dc:creator>
+  <dc:creator>Xiang, Nijuan</dc:creator>
+  <dc:creator>Zhang, Yuzhi</dc:creator>
+  <dc:creator>Klena, John D</dc:creator>
+  <dc:creator>Hu, Dale J</dc:creator>
+  <dc:creator>Rainey, Jeanette J</dc:creator>
+  <dc:creator>Huo, Xixiang</dc:creator>
+  <dc:creator>Xiao, Lin</dc:creator>
+  <dc:creator>Xing, Xuesen</dc:creator>
+  <dc:creator>Zhan, Faxian</dc:creator>
+  <dc:creator>Yu, Hongjie</dc:creator>
+  <dc:creator>Varma, Jay K</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>hospitalization</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

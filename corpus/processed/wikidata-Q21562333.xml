@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q21562333</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161343</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0003115</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161343</dc:link>
+  <dc:title>Stability of the wMel Wolbachia Infection following invasion into Aedes aegypti populations</dc:title>
+  <dc:creator>Hoffmann, Ary A</dc:creator>
+  <dc:creator>Hoffmann, Ary A.</dc:creator>
+  <dc:creator>Iturbe-Ormaetxe, Inaki</dc:creator>
+  <dc:creator>Callahan, Ashley G</dc:creator>
+  <dc:creator>Callahan, Ashley G.</dc:creator>
+  <dc:creator>Phillips, Ben L</dc:creator>
+  <dc:creator>Phillips, Ben L.</dc:creator>
+  <dc:creator>Billington, Katrina</dc:creator>
+  <dc:creator>Axford, Jason K</dc:creator>
+  <dc:creator>Axford, Jason K.</dc:creator>
+  <dc:creator>Montgomery, Brian</dc:creator>
+  <dc:creator>Turley, Andrew P</dc:creator>
+  <dc:creator>Turley, Andrew P.</dc:creator>
+  <dc:creator>O'Neill, Scott L</dc:creator>
+  <dc:creator>O'Neill, Scott L.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>Wolbachia</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

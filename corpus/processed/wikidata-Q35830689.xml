@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35830689</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631365</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0141617</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631365</dc:link>
+  <dc:title>Highly Invasive Listeria monocytogenes Strains Have Growth and Invasion Advantages in Strain Competition</dc:title>
+  <dc:creator>Zilelidou, Evangelia A</dc:creator>
+  <dc:creator>Rychli, Kathrin</dc:creator>
+  <dc:creator>Manthou, Evanthia</dc:creator>
+  <dc:creator>Ciolacu, Luminita</dc:creator>
+  <dc:creator>Wagner, Martin</dc:creator>
+  <dc:creator>Skandamis, Panagiotis N</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-11-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

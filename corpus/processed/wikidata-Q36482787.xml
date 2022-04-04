@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36482787</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3528285</dc:identifier>
+  <dc:identifier>doi:10.3390/V4123665</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3528285</dc:link>
+  <dc:title>Biological invasions of geminiviruses: case study of TYLCV and Bemisia tabaci in Reunion Island</dc:title>
+  <dc:creator>Péréfarres, Frédéric</dc:creator>
+  <dc:creator>Thierry, Magali</dc:creator>
+  <dc:creator>Becker, Nathalie</dc:creator>
+  <dc:creator>Lefeuvre, Pierre</dc:creator>
+  <dc:creator>Reynaud, Bernard</dc:creator>
+  <dc:creator>Delatte, Hélène</dc:creator>
+  <dc:creator>Lett, Jean-Michel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-12-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>plant disease</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+  <dc:subject>virus</dc:subject>
+  <dc:subject>vector</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>Silverleaf whitefly</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+</oai_dc:dc>

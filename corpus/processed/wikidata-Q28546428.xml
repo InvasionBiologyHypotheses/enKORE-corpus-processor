@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28546428</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398437</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0003725</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398437</dc:link>
+  <dc:title>Overexpression of cytoplasmic TcSIR2RP1 and mitochondrial TcSIR2RP3 impacts on Trypanosoma cruzi growth and cell invasion</dc:title>
+  <dc:creator>Ritagliati, Carla</dc:creator>
+  <dc:creator>Alonso, Victoria L</dc:creator>
+  <dc:creator>Manarin, Romina</dc:creator>
+  <dc:creator>Cribb, Pamela</dc:creator>
+  <dc:creator>Serra, Esteban C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>infectious disease</dc:subject>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>overexpression</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

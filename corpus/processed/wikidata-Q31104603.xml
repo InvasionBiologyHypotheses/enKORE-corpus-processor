@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q31104603</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889038</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0154869</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4889038</dc:link>
+  <dc:title>Impacts of Climate Change on the Global Invasion Potential of the African Clawed Frog Xenopus laevis</dc:title>
+  <dc:creator>Ihlow, Flora</dc:creator>
+  <dc:creator>Courant, Julien</dc:creator>
+  <dc:creator>Secondi, Jean</dc:creator>
+  <dc:creator>Herrel, Anthony</dc:creator>
+  <dc:creator>Rebelo, Rui</dc:creator>
+  <dc:creator>Measey, G John</dc:creator>
+  <dc:creator>Lillo, Francesco</dc:creator>
+  <dc:creator>De Villiers, F André</dc:creator>
+  <dc:creator>Vogt, Solveig</dc:creator>
+  <dc:creator>De Busschere, Charlotte</dc:creator>
+  <dc:creator>Backeljau, Thierry</dc:creator>
+  <dc:creator>Rödder, Dennis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-06-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>African clawed frog</dc:subject>
+  <dc:subject>climate impact research</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

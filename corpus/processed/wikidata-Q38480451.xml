@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q38480451</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900453</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0086012</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900453</dc:link>
+  <dc:title>Sequencing, De Novo assembly and annotation of the Colorado Potato Beetle, Leptinotarsa decemlineata, Transcriptome.</dc:title>
+  <dc:creator>Kumar, Abhishek</dc:creator>
+  <dc:creator>Congiu, Leonardo</dc:creator>
+  <dc:creator>Lindström, Leena</dc:creator>
+  <dc:creator>Piiroinen, Saija</dc:creator>
+  <dc:creator>Vidotto, Michele</dc:creator>
+  <dc:creator>Grapputo, Alessandro</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-01-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>Colorado potato beetle</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

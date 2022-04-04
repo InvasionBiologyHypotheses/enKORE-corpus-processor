@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28744098</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189937</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0025695</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189937</dc:link>
+  <dc:title>Predicting invasive fungal pathogens using invasive pest assemblages: testing model predictions in a virtual world</dc:title>
+  <dc:creator>Paini, R</dc:creator>
+  <dc:creator>Bianchi, Felix J J A</dc:creator>
+  <dc:creator>Northfield, Tobin D</dc:creator>
+  <dc:creator>De Barro, Paul J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>virtual world</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35922373</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4752494</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1005450</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4752494</dc:link>
+  <dc:title>Resistance to Bacillus thuringiensis Mediated by an ABC Transporter Mutation Increases Susceptibility to Toxins from Other Bacteria in an Invasive Insect</dc:title>
+  <dc:creator>Xiao, Yutao</dc:creator>
+  <dc:creator>Liu, Kaiyu</dc:creator>
+  <dc:creator>Zhang, Dandan</dc:creator>
+  <dc:creator>Gong, Lingling</dc:creator>
+  <dc:creator>He, Fei</dc:creator>
+  <dc:creator>Soberón, Mario</dc:creator>
+  <dc:creator>Bravo, Alejandra</dc:creator>
+  <dc:creator>Tabashnik, Bruce E</dc:creator>
+  <dc:creator>Wu, Kongming</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Bacillus thuringiensis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

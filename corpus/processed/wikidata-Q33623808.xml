@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33623808</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024021</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0097811</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024021</dc:link>
+  <dc:title>Active invasion of oral and aortic tissues by Porphyromonas gingivalis in mice causally links periodontitis and atherosclerosis</dc:title>
+  <dc:creator>Velsko, Irina M</dc:creator>
+  <dc:creator>Chukkapalli, Sasanka S</dc:creator>
+  <dc:creator>Rivera, Mercedes F</dc:creator>
+  <dc:creator>Lee, Ju-Youn</dc:creator>
+  <dc:creator>Chen, Hao</dc:creator>
+  <dc:creator>Zheng, Donghang</dc:creator>
+  <dc:creator>Bhattacharyya, Indraneel</dc:creator>
+  <dc:creator>Gangula, Pandu R</dc:creator>
+  <dc:creator>Lucas, Alexandra R</dc:creator>
+  <dc:creator>Kesavalu, Lakshmyya</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-05-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aorta</dc:subject>
+  <dc:subject>Porphyromonas gingivalis</dc:subject>
+  <dc:subject>periodontitis</dc:subject>
+  <dc:subject>atherosclerosis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

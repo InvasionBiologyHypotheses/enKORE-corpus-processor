@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28729905</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355115</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0037189</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355115</dc:link>
+  <dc:title>In situ identification of plant-invasive bacteria with MALDI-TOF mass spectrometry</dc:title>
+  <dc:creator>Ziegler, Dominik</dc:creator>
+  <dc:creator>Mariotti, Anna</dc:creator>
+  <dc:creator>Pflüger, Valentin</dc:creator>
+  <dc:creator>Saad, Maged</dc:creator>
+  <dc:creator>Vogel, Guido</dc:creator>
+  <dc:creator>Tonolla, Mauro</dc:creator>
+  <dc:creator>Perret, Xavier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>matrix-assisted laser desorption/ionization</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

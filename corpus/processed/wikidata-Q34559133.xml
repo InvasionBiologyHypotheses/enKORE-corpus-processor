@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34559133</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546933</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0054093</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546933</dc:link>
+  <dc:title>Invasive fishes generate biogeochemical hotspots in a nutrient-limited system</dc:title>
+  <dc:creator>Capps, Krista A</dc:creator>
+  <dc:creator>Flecker, Alexander S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-01-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biogeochemistry</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive fish</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

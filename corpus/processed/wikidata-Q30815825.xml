@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30815825</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4012988</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0095942</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4012988</dc:link>
+  <dc:title>Natural hazards in a changing world: a case for ecosystem-based management</dc:title>
+  <dc:creator>Nel, Jeanne L</dc:creator>
+  <dc:creator>Maitre, David C Le</dc:creator>
+  <dc:creator>Nel, Deon C</dc:creator>
+  <dc:creator>Reyers, Belinda</dc:creator>
+  <dc:creator>Archibald, Sally</dc:creator>
+  <dc:creator>Wilgen, Brian W</dc:creator>
+  <dc:creator>Forsyth, Greg G</dc:creator>
+  <dc:creator>Theron, Andre K</dc:creator>
+  <dc:creator>O'Farrell, Patrick J</dc:creator>
+  <dc:creator>Kahinda, Jean-Marc Mwenge</dc:creator>
+  <dc:creator>Engelbrecht, Francois A</dc:creator>
+  <dc:creator>Kapangaziwiri, Evison</dc:creator>
+  <dc:creator>Niekerk, Lara</dc:creator>
+  <dc:creator>Barwell, Laurie</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-05-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

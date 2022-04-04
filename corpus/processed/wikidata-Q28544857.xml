@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28544857</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370511</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0121358</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370511</dc:link>
+  <dc:title>No evidence of enemy release in pathogen and microbial communities of common wasps (Vespula vulgaris) in their native and introduced range</dc:title>
+  <dc:creator>Lester, Philip J.</dc:creator>
+  <dc:creator>Bosch, Peter J</dc:creator>
+  <dc:creator>Gruber, Monica A M</dc:creator>
+  <dc:creator>Kapp, Eugene A</dc:creator>
+  <dc:creator>Peng, Lifeng</dc:creator>
+  <dc:creator>Brenton-Rule, Evan C</dc:creator>
+  <dc:creator>Buchanan, Joe</dc:creator>
+  <dc:creator>Stanislawek, Wlodek L</dc:creator>
+  <dc:creator>Archer, Michael</dc:creator>
+  <dc:creator>Corley, Juan C</dc:creator>
+  <dc:creator>Masciocchi, Maite</dc:creator>
+  <dc:creator>Van Oystaeyen, Annette</dc:creator>
+  <dc:creator>Wenseleers, Tom</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-03-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Vespula vulgaris</dc:subject>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

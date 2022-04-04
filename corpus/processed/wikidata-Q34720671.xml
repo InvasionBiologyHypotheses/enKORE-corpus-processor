@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34720671</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646020</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0062591</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646020</dc:link>
+  <dc:title>RsmA regulates Aspergillus fumigatus gliotoxin cluster metabolites including cyclo(L-Phe-L-Ser), a potential new diagnostic marker for invasive aspergillosis</dc:title>
+  <dc:creator>Sekonyela, Relebohile</dc:creator>
+  <dc:creator>Palmer, Jonathan M</dc:creator>
+  <dc:creator>Bok, Jin-Woo</dc:creator>
+  <dc:creator>Jain, Sachin</dc:creator>
+  <dc:creator>Berthier, Erwin</dc:creator>
+  <dc:creator>Forseth, Ry</dc:creator>
+  <dc:creator>Schroeder, Frank</dc:creator>
+  <dc:creator>Keller, Nancy P</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-05-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aspergillus fumigatus</dc:subject>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>Basic leucine zipper (bZIP) type transcription factor</dc:subject>
+  <dc:subject>Basic leucine zipper (bZIP) type transcription factor involved in regulation of secondary metabolism</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

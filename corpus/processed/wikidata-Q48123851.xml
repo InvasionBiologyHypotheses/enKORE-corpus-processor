@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q48123851</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5794177</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0192234</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5794177</dc:link>
+  <dc:title>Competitive interactions between native Spartina alterniflora and non-native Phragmites australis depend on nutrient loading and temperature.</dc:title>
+  <dc:creator>Legault, Rene</dc:creator>
+  <dc:creator>Zogg, Gregory P</dc:creator>
+  <dc:creator>Travis, Steven E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-02-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Phragmites australis</dc:subject>
+  <dc:subject>Spartina alterniflora</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

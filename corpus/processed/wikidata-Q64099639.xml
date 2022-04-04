@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q64099639</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497318</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1007717</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497318</dc:link>
+  <dc:title>Candida albicans induces mucosal bacterial dysbiosis that promotes invasive infection</dc:title>
+  <dc:creator>Bertolini, Martinna</dc:creator>
+  <dc:creator>Ranjan, Amit</dc:creator>
+  <dc:creator>Thompson, Angela</dc:creator>
+  <dc:creator>Diaz, Patricia I</dc:creator>
+  <dc:creator>Sobue, Takanori</dc:creator>
+  <dc:creator>Maas, Kendra</dc:creator>
+  <dc:creator>Dongari-Bagtzoglou, Anna</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-04-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>immunology</dc:subject>
+  <dc:subject>parasitology</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34490444</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3504088</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0049738</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3504088</dc:link>
+  <dc:title>Non-invasive cytology brush PCR for the diagnosis and causative species identification of American cutaneous leishmaniasis in Peru</dc:title>
+  <dc:creator>Valencia, Braulio Mark</dc:creator>
+  <dc:creator>Veland, Nicolas</dc:creator>
+  <dc:creator>Alba, Milena</dc:creator>
+  <dc:creator>Adaui, Vanessa</dc:creator>
+  <dc:creator>Arevalo, Jorge</dc:creator>
+  <dc:creator>Low, Donald E</dc:creator>
+  <dc:creator>Llanos-Cuentas, Alejandro</dc:creator>
+  <dc:creator>Boggild, Andrea K</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-11-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>species identification</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Peru</dc:subject>
+  <dc:subject>cell biology</dc:subject>
+  <dc:subject>cutaneous leishmaniasis</dc:subject>
+  <dc:subject>mucocutaneous leishmaniasis</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

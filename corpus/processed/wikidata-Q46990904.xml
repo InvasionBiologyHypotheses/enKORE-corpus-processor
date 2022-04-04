@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q46990904</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731734</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0188754</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5731734</dc:link>
+  <dc:title>Inhibition of merozoite invasion and transient de-sequestration by sevuparin in humans with Plasmodium falciparum malaria.</dc:title>
+  <dc:creator>Leitgeb, Anna M</dc:creator>
+  <dc:creator>Charunwatthana, Prakaykaew</dc:creator>
+  <dc:creator>Rueangveerayut, Ronnatrai</dc:creator>
+  <dc:creator>Uthaisin, Chirapong</dc:creator>
+  <dc:creator>Silamut, Kamolrat</dc:creator>
+  <dc:creator>Chotivanich, Kesinee</dc:creator>
+  <dc:creator>Sila, Patima</dc:creator>
+  <dc:creator>Moll, Kirsten</dc:creator>
+  <dc:creator>Lee, Sue J</dc:creator>
+  <dc:creator>Lindgren, Maria</dc:creator>
+  <dc:creator>Holmer, Erik</dc:creator>
+  <dc:creator>Färnert, Anna</dc:creator>
+  <dc:creator>Kiwuwa, Mpungu S</dc:creator>
+  <dc:creator>Kristensen, Jens</dc:creator>
+  <dc:creator>Herder, Christina</dc:creator>
+  <dc:creator>Tarning, Joel</dc:creator>
+  <dc:creator>Wahlgren, Mats</dc:creator>
+  <dc:creator>Dondorp, Arjen M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-12-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

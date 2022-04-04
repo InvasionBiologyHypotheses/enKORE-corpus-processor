@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35025275</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3796530</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0076239</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3796530</dc:link>
+  <dc:title>Calmodulin binding to Dfi1p promotes invasiveness of Candida albicans</dc:title>
+  <dc:creator>Davis, Talya R</dc:creator>
+  <dc:creator>Zucchi, Paola C</dc:creator>
+  <dc:creator>Kumamoto, Carol A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-10-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

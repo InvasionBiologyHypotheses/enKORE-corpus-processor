@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33585337</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5398713</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1006312</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5398713</dc:link>
+  <dc:title>Gre factors-mediated control of hilD transcription is essential for the invasion of epithelial cells by Salmonella enterica serovar Typhimurium</dc:title>
+  <dc:creator>Gaviria-Cantin, Tania</dc:creator>
+  <dc:creator>Mouali, Youssef El</dc:creator>
+  <dc:creator>Guyon, Soazig Le</dc:creator>
+  <dc:creator>Römling, Ute</dc:creator>
+  <dc:creator>Balsalobre, Carlos</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-04-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Salmonella enterica</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

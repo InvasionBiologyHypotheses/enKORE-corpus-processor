@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q60302586</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6292619</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0208911</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6292619</dc:link>
+  <dc:title>Evaluating the impact of Aedes japonicus invasion on the mosquito community in the Greater Golden Horseshoe region (Ontario, Canada)</dc:title>
+  <dc:creator>Dussault, Camille</dc:creator>
+  <dc:creator>Nelder, Mark</dc:creator>
+  <dc:creator>Russell, Curtis</dc:creator>
+  <dc:creator>Johnson, Steven</dc:creator>
+  <dc:creator>Vrbova, Linda</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-12-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aedes japonicus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30000645</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340909</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0118581</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340909</dc:link>
+  <dc:title>Ecological change, sliding baselines and the importance of historical data: lessons from Combining [corrected] observational and quantitative data on a temperate reef over 70 years</dc:title>
+  <dc:creator>Gatti, Giulia</dc:creator>
+  <dc:creator>Bianchi, Carlo Nike</dc:creator>
+  <dc:creator>Parravicini, Valeriano</dc:creator>
+  <dc:creator>Rovere, Alessio</dc:creator>
+  <dc:creator>Peirano, Andrea</dc:creator>
+  <dc:creator>Montefalcone, Monica</dc:creator>
+  <dc:creator>Massa, Francesco</dc:creator>
+  <dc:creator>Morri, Carla</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>ecological change</dc:subject>
+  <dc:subject>reef ecology</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

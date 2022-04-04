@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28755668</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632738</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0004385</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632738</dc:link>
+  <dc:title>Climate change and trophic response of the Antarctic bottom fauna</dc:title>
+  <dc:creator>Aronson, Richard B</dc:creator>
+  <dc:creator>Moody, Ryan M</dc:creator>
+  <dc:creator>Ivany, Linda C</dc:creator>
+  <dc:creator>Blake, Daniel B</dc:creator>
+  <dc:creator>Werner, John E</dc:creator>
+  <dc:creator>Glass, Alexander</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>climate mitigation</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

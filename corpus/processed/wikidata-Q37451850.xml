@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q37451850</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885396</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0083106</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885396</dc:link>
+  <dc:title>Effects of parasitism and morphology on squirrelpox virus seroprevalence in grey squirrels (Sciurus carolinensis).</dc:title>
+  <dc:creator>McGowan, Natasha E</dc:creator>
+  <dc:creator>Marks, Nikki J</dc:creator>
+  <dc:creator>McInnes, Colin J</dc:creator>
+  <dc:creator>Deane, David</dc:creator>
+  <dc:creator>Maule, Aaron G</dc:creator>
+  <dc:creator>Scantlebury, Michael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Eastern gray squirrel</dc:subject>
+  <dc:subject>seroprevalence</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

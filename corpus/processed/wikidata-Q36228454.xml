@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36228454</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5161486</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0168751</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5161486</dc:link>
+  <dc:title>Tree Species Richness Promotes Invertebrate Herbivory on Congeneric Native and Exotic Tree Saplings in a Young Diversity Experiment.</dc:title>
+  <dc:creator>Wein, Annika</dc:creator>
+  <dc:creator>Bauhus, Jürgen</dc:creator>
+  <dc:creator>Bilodeau-Gauthier, Simon</dc:creator>
+  <dc:creator>Scherer-Lorenzen, Michael</dc:creator>
+  <dc:creator>Nock, Charles</dc:creator>
+  <dc:creator>Staab, Michael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>herbivory</dc:subject>
+  <dc:subject>species richness</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

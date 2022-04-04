@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q37308710</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828162</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0002557</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828162</dc:link>
+  <dc:title>Genomic characterisation of invasive non-typhoidal Salmonella enterica Subspecies enterica Serovar Bovismorbificans isolates from Malawi.</dc:title>
+  <dc:creator>Bronowski, Christina</dc:creator>
+  <dc:creator>Fookes, Maria C</dc:creator>
+  <dc:creator>Gilderthorp, Ruth</dc:creator>
+  <dc:creator>Ashelford, Kevin E</dc:creator>
+  <dc:creator>Harris, Simon R</dc:creator>
+  <dc:creator>Phiri, Amos</dc:creator>
+  <dc:creator>Hall, Neil</dc:creator>
+  <dc:creator>Gordon, Melita A</dc:creator>
+  <dc:creator>Wain, John</dc:creator>
+  <dc:creator>Hart, Charles A</dc:creator>
+  <dc:creator>Wigley, Paul</dc:creator>
+  <dc:creator>Thomson, Nicholas R</dc:creator>
+  <dc:creator>Winstanley, Craig</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-11-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Malawi</dc:subject>
+  <dc:subject>Salmonella enterica</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS NTDs</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28740857</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246448</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0028547</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3246448</dc:link>
+  <dc:title>Community-based outbreaks in vulnerable populations of invasive infections caused by Streptococcus pneumoniae serotypes 5 and 8 in Calgary, Canada</dc:title>
+  <dc:creator>Vanderkooi, Otto G</dc:creator>
+  <dc:creator>Church, Deirdre L</dc:creator>
+  <dc:creator>MacDonald, Judy</dc:creator>
+  <dc:creator>Zucol, Franziska</dc:creator>
+  <dc:creator>Kellner, James D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Canada</dc:subject>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

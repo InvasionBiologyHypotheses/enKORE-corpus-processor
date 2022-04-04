@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28542933</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280141</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0115943</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280141</dc:link>
+  <dc:title>Olfactory attraction of the hornet Vespa velutina to honeybee colony odors and pheromones</dc:title>
+  <dc:creator>Couto, Antoine</dc:creator>
+  <dc:creator>Monceau, Karine</dc:creator>
+  <dc:creator>Bonnard, Olivier</dc:creator>
+  <dc:creator>Thiéry, Denis</dc:creator>
+  <dc:creator>Sandoz, Jean-Christophe</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-12-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Vespa velutina</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>

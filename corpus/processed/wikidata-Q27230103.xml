@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q27230103</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116812</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002075</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116812</dc:link>
+  <dc:title>Plasmodium falciparum merozoite invasion is inhibited by antibodies that target the PfRh2a and b binding domains</dc:title>
+  <dc:creator>Triglia, Tony</dc:creator>
+  <dc:creator>Chen, Lin</dc:creator>
+  <dc:creator>Lopaticki, Sash</dc:creator>
+  <dc:creator>Dekiwadia, Chaitali</dc:creator>
+  <dc:creator>Riglar, David T</dc:creator>
+  <dc:creator>Hodder, Anthony N</dc:creator>
+  <dc:creator>Ralph, Stuart A</dc:creator>
+  <dc:creator>Baum, Jake</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue b</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue a</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLoS Pathog.</dc:publisher>
+</oai_dc:dc>

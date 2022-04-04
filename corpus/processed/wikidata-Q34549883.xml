@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34549883</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239037</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0113098</dc:identifier>
+  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239037</dc:link>
+  <dc:title>Discriminating the drivers of edge effects on nest predation: forest edges reduce capture rates of ship rats (Rattus rattus), a globally invasive nest predator, by altering vegetation structure</dc:title>
+  <dc:creator>Ruffell, Jay</dc:creator>
+  <dc:creator>Didham, Raphael K</dc:creator>
+  <dc:creator>Barrett, Paul</dc:creator>
+  <dc:creator>Gorman, Nic</dc:creator>
+  <dc:creator>Pike, Rhonda</dc:creator>
+  <dc:creator>Hickey-Elliott, Andrée</dc:creator>
+  <dc:creator>Sievwright, Karin</dc:creator>
+  <dc:creator>Armstrong, Doug P</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-11-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Rattus rattus</dc:subject>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PLOS ONE</dc:publisher>
+</oai_dc:dc>
