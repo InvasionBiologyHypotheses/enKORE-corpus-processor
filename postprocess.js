@@ -6,13 +6,20 @@ import { generateXML } from "./lib/xmlexporter.js";
 const filename = Deno.args[0];
 const json = await readJSON(filename);
 
-const items = json.results.bindings.map((x) => x.item.value);
+await runProcessor(
+    json.results.bindings.map((x) => x.item.value),
+    50,
+    1000,
+).catch((error) => console.log(error));
+await updateEndpoint();
+await sendNotification();
 
-const size = 50;
-for (let offset = 0; offset < items.length; offset += size) {
-    for (let i = offset; i < offset + size && items.length; i++) {
-        if (i < items.length) {
-            console.log({ offset, i });
+async function runProcessor(items, batchSize = 50, sleepTime = 1000) {
+    return new Promise(async (resolve) => {
+        // for (let offset = 0; offset < items.length; offset += batchSize) {
+        for (let i = 0; i < items.length; i++) {
+            // if (i < items.length) {
+            console.log({ i });
             const wdi = await new citationJS.Cite.async(items[i]);
             const wikidataItem = wdi.data[0];
             let crossrefItem;
@@ -20,12 +27,13 @@ for (let offset = 0; offset < items.length; offset += size) {
                 crossrefItem = await getCrossrefItem(wikidataItem.DOI);
             }
             await processItem({ wikidataItem, crossrefItem });
+            // }
         }
-    }
-    await sleep(1000);
+        // await sleep(sleepTime);
+        // }
+        resolve();
+    });
 }
-
-updateEndpoint();
 
 async function getCrossrefItem(DOI) {
     let crossrefItem;
@@ -38,12 +46,9 @@ async function getCrossrefItem(DOI) {
     return crossrefItem;
 }
 
-async function sleep(time) {
-    await setTimeout(async () => {
-        console.log("sleeping");
-        return null;
-    }, time);
-}
+// async function sleep(time) {
+//     return new Promise((resolve) => setTimeout(resolve, time));
+// }
 
 async function processItem({ wikidataItem, crossrefItem }) {
     const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
@@ -60,7 +65,12 @@ async function updateEndpoint() {
         // },
     });
     console.log({ response });
-    const notificationresponse = await fetch(Deno.env.get("notification_url"), {
+    if (response.ok) {
+        return true;
+    }
+}
+async function sendNotification(options) {
+    const defaultOptions = {
         method: "POST",
         body: JSON.stringify(response, null, 2),
         headers: {
@@ -68,6 +78,10 @@ async function updateEndpoint() {
             Priority: 3,
             Tags: "package",
         },
-    });
+    };
+    const notificationresponse = await fetch(
+        Deno.env.get("notification_url"),
+        options ?? defaultOptions,
+    );
     console.log({ notificationresponse });
 }
