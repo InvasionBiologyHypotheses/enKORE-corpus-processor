@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@citation-js/": "https://esm.sh/@citation-js/",
+    "@enkore/citationjs-plugin": "https://esm.sh/@citation-js/plugin-wikidata",
+    "wikidata-sdk": "https://esm.sh/wikidata-sdk"
+  }
+}
