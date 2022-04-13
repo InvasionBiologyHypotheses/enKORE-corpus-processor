@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Deno",
+            "type": "pwa-node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-brk",
+                "--unstable",
+                "--import-map=import_map.json",
+                "-A",
+                "${file}"
+            ],
+            "attachSimplePort": 9229
+        }
+    ]
+}
