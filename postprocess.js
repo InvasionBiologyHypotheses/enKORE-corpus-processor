@@ -11,14 +11,13 @@ await runProcessor(
     50,
     1000,
 ).catch((error) => console.log(error));
-await updateEndpoint();
-await sendNotification();
+const updateRes = await updateEndpoint();
+const notificationRes = await sendNotification(updateRes);
+console.log({ notificationRes });
 
-async function runProcessor(items, batchSize = 50, sleepTime = 1000) {
+async function runProcessor(items) {
     return new Promise(async (resolve) => {
-        // for (let offset = 0; offset < items.length; offset += batchSize) {
         for (let i = 0; i < items.length; i++) {
-            // if (i < items.length) {
             console.log({ i });
             const wdi = await new citationJS.Cite.async(items[i]);
             const wikidataItem = wdi.data[0];
@@ -27,10 +26,7 @@ async function runProcessor(items, batchSize = 50, sleepTime = 1000) {
                 crossrefItem = await getCrossrefItem(wikidataItem.DOI);
             }
             await processItem({ wikidataItem, crossrefItem });
-            // }
         }
-        // await sleep(sleepTime);
-        // }
         resolve();
     });
 }
@@ -46,10 +42,6 @@ async function getCrossrefItem(DOI) {
     return crossrefItem;
 }
 
-// async function sleep(time) {
-//     return new Promise((resolve) => setTimeout(resolve, time));
-// }
-
 async function processItem({ wikidataItem, crossrefItem }) {
     const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
     const xml = await generateXML({ wikidataItem, crossrefItem });
@@ -60,28 +52,24 @@ async function updateEndpoint() {
     const url = `https://enkore.toolforge.org/api/corpus/update.php`;
     const response = await fetch(url, {
         method: "GET",
-        // headers: {
-        //     "Content-Type": "text/plain",
-        // },
     });
-    console.log({ response });
     if (response.ok) {
-        return true;
+        return await response.text();
     }
 }
-async function sendNotification(options) {
+async function sendNotification(message = "Update Completed", options) {
     const defaultOptions = {
         method: "POST",
-        body: JSON.stringify(response, null, 2),
+        body: message,
         headers: {
             Title: "Corpus Update",
             Priority: 3,
             Tags: "package",
         },
     };
-    const notificationresponse = await fetch(
+    const response = await fetch(
         Deno.env.get("notification_url"),
         options ?? defaultOptions,
     );
-    console.log({ notificationresponse });
+    return await response.text();
 }
