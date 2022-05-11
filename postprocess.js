@@ -1,49 +1,14 @@
 import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
-// import "@enkore/citationjs-plugin";
+import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
 
-if (typeof Deno?.args?.[0] === "string") {
-    const filename = Deno.args[0];
-    const json = await readJSON(filename).catch((error) => {
-        console.log(`ERROR: ${error}`);
-        Deno.exit(1);
-    });
+const sleep = (time = 0) => new Promise((resolve) => setTimeout(resolve, time));
 
-    await runProcessor(
-        json.results.bindings.map((x) => x.item.value),
-        50,
-        1000,
-    ).catch((error) => {
-        console.log(`ERROR: ${error}`);
-        Deno.exit(1);
-    });
-    const updateRes = await updateEndpoint();
-    const notificationRes = await sendNotification(updateRes);
-    console.log({ notificationRes });
-} else {
-    console.error(
-        `Filename not passed to postprocessor.js as first argument - ${Deno?.args?.[0]}`,
-    );
-    Deno.exit(1);
+async function getWikidataItem(entity) {
+    const wdi = await new citationJS.Cite.async(entity);
+    return wdi.data[0];
 }
-
-async function runProcessor(items) {
-    return new Promise(async (resolve) => {
-        for (let i = 0; i < items.length; i++) {
-            console.log({ i });
-            const wdi = await new citationJS.Cite.async(items[i]);
-            const wikidataItem = wdi.data[0];
-            let crossrefItem;
-            if (wikidataItem.DOI) {
-                crossrefItem = await getCrossrefItem(wikidataItem.DOI);
-            }
-            await processItem({ wikidataItem, crossrefItem });
-        }
-        resolve();
-    });
-}
-
 async function getCrossrefItem(DOI) {
     let crossrefItem;
     const crossrefRes = await fetch(
@@ -66,12 +31,8 @@ async function updateEndpoint() {
     const response = await fetch(url, {
         method: "GET",
     });
-    if (response.ok) {
-        return await response.text();
-    }
-}
-async function sendNotification(message = "Update Completed", options) {
-    const defaultOptions = {
+    console.log({ response });
+    const notificationresponse = await fetch(Deno.env.get("notification_url"), {
         method: "POST",
         body: message,
         headers: {
@@ -79,10 +40,40 @@ async function sendNotification(message = "Update Completed", options) {
             Priority: 3,
             Tags: "package",
         },
-    };
-    const response = await fetch(
-        Deno.env.get("notification_url"),
-        options ?? defaultOptions,
-    );
-    return await response.text();
+    });
+    console.log({ notificationresponse });
 }
+
+async function main() {
+    let entries;
+
+    if (typeof Deno?.args?.[0] === "string") {
+        const filename = Deno.args[0];
+        entries = await readJSON(filename).catch((error) => {
+            console.log(`ERROR: ${error}`);
+            Deno.exit(1);
+        });
+    }
+
+    const items = entries.results.bindings.map((x) => x.item.value);
+
+    const size = 50;
+    for (let offset = 0; offset < items.length; offset += size) {
+        for (let i = offset; i < offset + size && items.length; i++) {
+            if (i < items.length) {
+                console.log({ offset, i });
+                const wikidataItem = await getWikidataItem(items[i]);
+                let crossrefItem;
+                if (wikidataItem.DOI) {
+                    crossrefItem = await getCrossrefItem(wikidataItem.DOI);
+                }
+                await processItem({ wikidataItem, crossrefItem });
+            }
+        }
+        await sleep(1000);
+    }
+
+    updateEndpoint();
+}
+
+main();

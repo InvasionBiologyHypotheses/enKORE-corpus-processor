@@ -1,7 +1,7 @@
 {
   "imports": {
     "@citation-js/": "https://esm.sh/@citation-js/",
-    "@enkore/citationjs-plugin": "https://esm.sh/@citation-js/plugin-wikidata",
+    "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/citation-js-plugin/main/src/index.js",
     "wikidata-sdk": "https://esm.sh/wikidata-sdk"
   }
 }
