@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q21142624</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840033</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0009743</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840033</dc:link>
   <dc:title>Bridgehead effect in the worldwide invasion of the biocontrol harlequin ladybird</dc:title>
   <dc:creator>Lombaert, Eric</dc:creator>
   <dc:creator>Guillemaud, Thomas</dc:creator>
@@ -15,5 +14,6 @@
   <dc:date>2010</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biocontrol</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

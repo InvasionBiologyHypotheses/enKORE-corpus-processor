@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q21562181</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914028</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0011914</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914028</dc:link>
   <dc:title>An overview of marine biodiversity in United States waters</dc:title>
   <dc:creator>Fautin, Daphne</dc:creator>
   <dc:creator>Dalton, Penelope</dc:creator>
@@ -27,7 +26,7 @@
   <dc:date>2010-08-02</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:subject>United States of America</dc:subject>
   <dc:subject>environment</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
