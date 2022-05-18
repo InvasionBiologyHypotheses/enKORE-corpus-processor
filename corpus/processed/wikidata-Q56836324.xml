@@ -126,5 +126,56 @@
                       wd:Q17334923        wd:Q2886137        ;    # Barton Broad
                       wd:Q111985654       wd:Q1994           .    # 2011
     </enkore:test-rdf-turtle>
+
+    <enkore:test-jsonld>
+      [
+        {
+          "@id": "http://www.wikidata.org/entity/Q56836324",
+          "http://www.wikidata.org/entity/Q111535406": [
+            {
+              "@id": "http://www.wikidata.org/entity/Q2890135"
+            }
+          ],
+          "http://www.wikidata.org/entity/Q111985654": [
+            {
+              "@id": "http://www.wikidata.org/entity/Q1994"
+            }
+          ],
+          "http://www.wikidata.org/entity/Q16521": [
+            {
+              "@id": "http://www.wikidata.org/entity/Q111917557"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q447913"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q111917879"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q111917785"
+            }
+          ],
+          "http://www.wikidata.org/entity/Q17334923": [
+            {
+              "@id": "http://www.wikidata.org/entity/Q3396731"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q3403842"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q2886137"
+            },
+            {
+              "@id": "http://www.wikidata.org/entity/Q5592486"
+            }
+          ],
+          "http://www.wikidata.org/entity/Q41719": [
+            {
+              "@id": "http://www.wikidata.org/entity/Q85759287"
+            }
+          ]
+        }
+      ]
+    </enkore:test-jsonld>
   </dc:description>
 </oai_dc:dc>
