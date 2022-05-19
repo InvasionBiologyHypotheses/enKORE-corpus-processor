@@ -112,8 +112,6 @@
     </enkore:test-xml-prefixed>
 
     <enkore:test-rdf-turtle>
-      PREFIX          wd:                 <http://www.wikidata.org/entity/>
-
       wd:Q56836324    wd:Q41719           wd:Q85759287       ;    # enemy release hypothesis
                       wd:Q16521           wd:Q447913         ;    # taxon: Dikerogammarus villosus
                       wd:Q16521           wd:Q111917557      ;    # taxon: Nosema granulosis
