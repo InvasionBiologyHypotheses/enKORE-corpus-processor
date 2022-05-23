@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q31122334</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3688602</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0068541</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3688602</dc:link>
   <dc:title>Are introduced species better dispersers than native species? A global comparative study of seed dispersal distance</dc:title>
   <dc:creator>Flores-Moreno, Habacuc</dc:creator>
   <dc:creator>Thomson, Fiona J</dc:creator>
@@ -15,5 +14,7 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>seed dispersal</dc:subject>
   <dc:subject>dispersal distance</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>Indigenous species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

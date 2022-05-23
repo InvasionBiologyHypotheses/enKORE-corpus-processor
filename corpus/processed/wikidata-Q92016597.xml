@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q92016597</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190178</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PPAT.1008509</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190178</dc:link>
   <dc:title>Matrix metalloproteinase 9 facilitates Zika virus invasion of the testis by modulating the integrity of the blood-testis barrier</dc:title>
   <dc:creator>Hui, Lixia</dc:creator>
   <dc:creator>Nie, Yiwen</dc:creator>
@@ -23,5 +22,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Zika virus</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

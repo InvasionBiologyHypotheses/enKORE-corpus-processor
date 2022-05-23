@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q30573681</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469613</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0046373</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469613</dc:link>
   <dc:title>Climate change likely to facilitate the invasion of the non-native hydroid, Cordylophora caspia, in the San Francisco Estuary</dc:title>
   <dc:creator>Meek, Mariah H</dc:creator>
   <dc:creator>Wintzer, Alpa P</dc:creator>
@@ -16,5 +15,6 @@
   <dc:subject>climate change</dc:subject>
   <dc:subject>San Francisco</dc:subject>
   <dc:subject>estuary</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

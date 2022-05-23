@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34558406</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3547005</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0053200</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3547005</dc:link>
   <dc:title>Understanding the threats posed by non-native species: public vs. conservation managers</dc:title>
   <dc:creator>Gozlan, Rodolphe E</dc:creator>
   <dc:creator>Burnard, Dean</dc:creator>
@@ -14,5 +13,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

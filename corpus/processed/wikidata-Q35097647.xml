@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35097647</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925224</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0088948</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925224</dc:link>
   <dc:title>Evaluating the interacting influences of pollination, seed predation, invasive species and isolation on reproductive success in a threatened alpine plant</dc:title>
   <dc:creator>Krushelnycky, Paul D</dc:creator>
   <dc:type>journal article</dc:type>
@@ -14,5 +13,6 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>seed predation</dc:subject>
+  <dc:subject>reproductive success</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

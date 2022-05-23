@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34984626</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762776</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0074095</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762776</dc:link>
   <dc:title>Crabs mediate interactions between native and invasive salt marsh plants: a mesocosm study</dc:title>
   <dc:creator>Zhang, Xiao-Dong</dc:creator>
   <dc:creator>Jia, Xin</dc:creator>
@@ -18,5 +17,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>salt marsh</dc:subject>
+  <dc:subject>mesocosm</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35143660</dc:identifier>
   <dc:identifier>http://eprints.whiterose.ac.uk/99661/</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0092788</dc:identifier>
-  <dc:link>http://eprints.whiterose.ac.uk/99661/</dc:link>
   <dc:title>Biosecurity and vector behaviour: evaluating the potential threat posed by anglers and canoeists as pathways for the spread of invasive non-native species and pathogens</dc:title>
   <dc:creator>Anderson, Lucy G</dc:creator>
   <dc:creator>White, Piran C L</dc:creator>
@@ -17,5 +16,6 @@
   <dc:subject>pathogen spread</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

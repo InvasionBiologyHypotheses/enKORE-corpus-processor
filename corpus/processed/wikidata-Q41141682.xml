@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q41141682</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597199</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0184379</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597199</dc:link>
   <dc:title>Alien species pathways to the Galapagos Islands, Ecuador</dc:title>
   <dc:creator>Toral-Granda, Verónica</dc:creator>
   <dc:creator>Causton, Charlotte E</dc:creator>
@@ -21,5 +20,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Ecuador</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34510866</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516545</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0051322</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516545</dc:link>
   <dc:title>Preference alters consumptive effects of predators: top-down effects of a native crab on a system of native and introduced prey</dc:title>
   <dc:creator>Grason, Emily W</dc:creator>
   <dc:creator>Miner, Benjamin G</dc:creator>
@@ -13,5 +12,7 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>predation</dc:subject>
   <dc:subject>predator–prey system</dc:subject>
+  <dc:subject>non-native prey</dc:subject>
+  <dc:subject>native prey</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

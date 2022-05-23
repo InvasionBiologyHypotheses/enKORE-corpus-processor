@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33941980</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3118793</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0020957</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3118793</dc:link>
   <dc:title>Effects of the training dataset characteristics on the performance of nine species distribution models: application to Diabrotica virgifera virgifera</dc:title>
   <dc:creator>Dupin, Maxime</dc:creator>
   <dc:creator>Reynaud, Philippe</dc:creator>
@@ -18,5 +17,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>data set</dc:subject>
+  <dc:subject>species distribution</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

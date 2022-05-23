@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34202827</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303875</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0033164</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3303875</dc:link>
   <dc:title>Physical stress, not biotic interactions, preclude an invasive grass from establishing in forb-dominated salt marshes</dc:title>
   <dc:creator>He, Qiang</dc:creator>
   <dc:creator>Cui, Baoshan</dc:creator>
@@ -14,5 +13,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>salt marsh</dc:subject>
   <dc:subject>biotic interaction</dc:subject>
+  <dc:subject>invasive grass</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

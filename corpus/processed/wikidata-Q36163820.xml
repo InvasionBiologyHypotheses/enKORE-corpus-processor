@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q36163820</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065173</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0164629</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065173</dc:link>
   <dc:title>Climate and Human Pressure Constraints Co-Explain Regional Plant Invasion at Different Spatial Scales</dc:title>
   <dc:creator>Campos, Juan Antonio</dc:creator>
   <dc:creator>García-Baquero, Gonzalo</dc:creator>
@@ -17,5 +16,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

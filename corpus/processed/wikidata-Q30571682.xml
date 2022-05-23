@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q30571682</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447880</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0045400</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447880</dc:link>
   <dc:title>Interaction of species traits and environmental disturbance predicts invasion success of aquatic microorganisms</dc:title>
   <dc:creator>Mächler, Elvira</dc:creator>
   <dc:creator>Altermatt, Florian</dc:creator>
@@ -15,5 +14,6 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion success prediction</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

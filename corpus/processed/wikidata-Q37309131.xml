@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q37309131</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828305</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0079174</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828305</dc:link>
   <dc:title>Comparative patterns of plant invasions in the Mediterranean biome</dc:title>
   <dc:creator>Arianoutsou, Margarita</dc:creator>
   <dc:creator>Delipetrou, Pinelopi</dc:creator>
@@ -20,5 +19,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

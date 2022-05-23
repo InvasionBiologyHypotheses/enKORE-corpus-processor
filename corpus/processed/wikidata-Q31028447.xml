@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q31028447</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140521</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0022578</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140521</dc:link>
   <dc:title>Invasive fire ants reduce reproductive success and alter the reproductive strategies of a native vertebrate insectivore</dc:title>
   <dc:creator>Ligon, Russell A</dc:creator>
   <dc:creator>Siefferman, Lynn</dc:creator>
@@ -14,5 +13,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Fire ant</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>reproductive success</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

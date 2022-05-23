@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q28553056</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739611</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0147382</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739611</dc:link>
   <dc:title>Species Diversity in the Parasitoid Genus Asobara (Hymenoptera: Braconidae) from the Native Area of the Fruit Fly Pest Drosophila suzukii (Diptera: Drosophilidae)</dc:title>
   <dc:creator>Guerrieri, Emilio</dc:creator>
   <dc:creator>Giorgini, Massimo</dc:creator>
@@ -18,6 +17,6 @@
   <dc:subject>Asobara</dc:subject>
   <dc:subject>Drosophila suzukii</dc:subject>
   <dc:subject>Hymenoptera</dc:subject>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

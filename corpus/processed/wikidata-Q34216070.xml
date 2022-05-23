@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34216070</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169606</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0108296</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169606</dc:link>
   <dc:title>Invasiveness does not predict impact: response of native land snail communities to plant invasions in riparian habitats</dc:title>
   <dc:creator>Horáčková, Jitka</dc:creator>
   <dc:creator>Juřičková, Lucie</dc:creator>
@@ -17,5 +16,6 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>habitat</dc:subject>
   <dc:subject>invasiveness</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

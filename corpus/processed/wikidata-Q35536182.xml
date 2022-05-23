@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35536182</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281129</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0114786</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281129</dc:link>
   <dc:title>Dispersal pathways and genetic differentiation among worldwide populations of the invasive weed Centaurea solstitialis L. (Asteraceae).</dc:title>
   <dc:creator>Eriksen, Renée L</dc:creator>
   <dc:creator>Hierro, José L</dc:creator>
@@ -22,5 +21,7 @@
   <dc:subject>dispersal pathway</dc:subject>
   <dc:subject>invasive weed</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>Centaurea solstitialis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

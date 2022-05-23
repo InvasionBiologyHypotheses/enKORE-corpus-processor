@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35563463</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333216</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0118121</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333216</dc:link>
   <dc:title>Out of the Black Sea: phylogeography of the invasive killer shrimp Dikerogammarus villosus across Europe</dc:title>
   <dc:creator>Rewicz, Tomasz</dc:creator>
   <dc:creator>Wattier, Remi</dc:creator>
@@ -15,5 +14,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>phylogeography</dc:subject>
+  <dc:subject>Dikerogammarus villosus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

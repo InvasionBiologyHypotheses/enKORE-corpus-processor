@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34345024</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398015</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0040681</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398015</dc:link>
   <dc:title>Intraguild predation behaviour of ladybirds in semi-field experiments explains invasion success of Harmonia axyridis</dc:title>
   <dc:creator>Berg, C Lidwien Raak-van</dc:creator>
   <dc:creator>De Lange, Hendrika J</dc:creator>
@@ -16,5 +15,8 @@
   <dc:subject>invasion success</dc:subject>
   <dc:subject>Harmonia axyridis</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>field experiment</dc:subject>
+  <dc:subject>guild</dc:subject>
+  <dc:subject>Intraguild predation</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

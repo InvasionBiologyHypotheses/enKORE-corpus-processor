@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q92563128</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553793</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PPAT.1007775</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553793</dc:link>
   <dc:title>An ortholog of Plasmodium falciparum chloroquine resistance transporter (PfCRT) plays a key role in maintaining the integrity of the endolysosomal system in Toxoplasma gondii to facilitate host invasion</dc:title>
   <dc:creator>Thornton, L Brock</dc:creator>
   <dc:creator>Teehan, Paige</dc:creator>
@@ -24,5 +23,6 @@
   <dc:subject>Toxoplasma gondii</dc:subject>
   <dc:subject>chloroquine</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q93147557</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6730852</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0221969</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6730852</dc:link>
   <dc:title>Multi-trophic native and non-native prey naïveté shape marine invasion success</dc:title>
   <dc:creator>Papacostas, Katherine J</dc:creator>
   <dc:creator>Freestone, Amy L</dc:creator>
@@ -13,5 +12,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>non-native prey</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

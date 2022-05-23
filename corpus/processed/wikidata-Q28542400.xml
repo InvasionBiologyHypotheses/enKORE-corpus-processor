@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q28542400</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4138208</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0105514</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4138208</dc:link>
   <dc:title>Stress tolerance and ecophysiological ability of an invader and a native species in a seasonally dry tropical forest</dc:title>
   <dc:creator>Oliveira, Marciel Teixeira</dc:creator>
   <dc:creator>Matzek, Virginia</dc:creator>
@@ -16,5 +15,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>tropical forest</dc:subject>
+  <dc:subject>Indigenous species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

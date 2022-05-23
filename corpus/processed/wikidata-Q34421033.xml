@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34421033</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4213033</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0111510</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4213033</dc:link>
   <dc:title>Range expansion and population dynamics of an invasive species: the Eurasian Collared-Dove (Streptopelia decaocto).</dc:title>
   <dc:creator>Scheidt, Spencer N</dc:creator>
   <dc:creator>Hurlbert, Allen H</dc:creator>
@@ -15,5 +14,6 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Eurasian Collared Dove</dc:subject>
   <dc:subject>range expansion</dc:subject>
+  <dc:subject>population dynamics</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

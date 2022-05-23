@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33921248</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102707</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0020390</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102707</dc:link>
   <dc:title>Population structure of invasive Streptococcus pneumoniae in The Netherlands in the pre-vaccination era assessed by MLVA and capsular sequence typing</dc:title>
   <dc:creator>Elberse, Karin E M</dc:creator>
   <dc:creator>Pol, Ingrid</dc:creator>
@@ -20,5 +19,6 @@
   <dc:subject>Netherlands</dc:subject>
   <dc:subject>Streptococcus pneumoniae</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>population structure</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

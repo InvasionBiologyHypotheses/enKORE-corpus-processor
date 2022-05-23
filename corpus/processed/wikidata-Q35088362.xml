@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35088362</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914897</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0088002</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3914897</dc:link>
   <dc:title>Macroparasite fauna of alien grey squirrels (Sciurus carolinensis): composition, variability and implications for native species</dc:title>
   <dc:creator>Romeo, Claudia</dc:creator>
   <dc:creator>Wauters, Lucas A.</dc:creator>
@@ -19,5 +18,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Eastern gray squirrel</dc:subject>
+  <dc:subject>Indigenous species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

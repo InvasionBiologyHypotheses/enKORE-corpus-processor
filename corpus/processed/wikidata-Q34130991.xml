@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34130991</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3253807</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0030064</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3253807</dc:link>
   <dc:title>Introduced predator elicits deficient brood defence behaviour in a crater lake fish</dc:title>
   <dc:creator>Lehtonen, Topi K</dc:creator>
   <dc:creator>McCrary, Jeffrey K</dc:creator>
@@ -14,5 +13,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>lake</dc:subject>
   <dc:subject>predation</dc:subject>
+  <dc:subject>non-native predator</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q30985769</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529269</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0135283</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529269</dc:link>
   <dc:title>Identification and Risk Assessment for Worldwide Invasion and Spread of Tuta absoluta with a Focus on Sub-Saharan Africa: Implications for Phytosanitary Measures and Management</dc:title>
   <dc:creator>Tonnang, Henri E Z</dc:creator>
   <dc:creator>Mohamed, Samira A</dc:creator>
@@ -16,5 +15,6 @@
   <dc:subject>Sub-Saharan Africa</dc:subject>
   <dc:subject>Tuta absoluta</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>ecological invasion risk</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35879461</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692530</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0145496</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692530</dc:link>
   <dc:title>The Importance of Non-Native Prey, the Zebra Mussel Dreissena polymorpha, for the Declining Greater Scaup Aythya marila: A Case Study at a Key European Staging and Wintering Site</dc:title>
   <dc:creator>Marchowski, Dominik</dc:creator>
   <dc:creator>Neubauer, Grzegorz</dc:creator>
@@ -19,5 +18,7 @@
   <dc:subject>predation</dc:subject>
   <dc:subject>zebra mussel</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>Greater Scaup</dc:subject>
+  <dc:subject>non-native prey</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

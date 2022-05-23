@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35188694</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059692</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0099786</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059692</dc:link>
   <dc:title>Effect of the internet commerce on dispersal modes of invasive alien species</dc:title>
   <dc:creator>Lenda, Magdalena</dc:creator>
   <dc:creator>Skórka, Piotr</dc:creator>
@@ -19,5 +18,6 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>dispersal mode</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q21559521</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.0010037</dc:identifier>
+  <dc:title>Invasion by P. falciparum merozoites suggests a hierarchy of molecular interactions</dc:title>
+  <dc:creator>Baum, Jake</dc:creator>
+  <dc:creator>Maier, Alexander G</dc:creator>
+  <dc:creator>Good, Robert T</dc:creator>
+  <dc:creator>Simpson, Ken M</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2005-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum malaria</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+</oai_dc:dc>

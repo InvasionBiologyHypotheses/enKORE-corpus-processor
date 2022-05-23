@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35692313</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503634</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0132967</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4503634</dc:link>
   <dc:title>Screening Allelochemical-Resistant Species of the Alien Invasive Mikania micrantha for Restoration in South China</dc:title>
   <dc:creator>Wu, Ai-Ping</dc:creator>
   <dc:creator>Li, Zi-Li</dc:creator>
@@ -17,5 +16,6 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Mikania micrantha</dc:subject>
+  <dc:subject>allelochemical</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q26781258</dc:identifier>
   <dc:identifier>http://eprints.whiterose.ac.uk/106099/</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0140833</dc:identifier>
-  <dc:link>http://eprints.whiterose.ac.uk/106099/</dc:link>
   <dc:title>The Role of Tourism and Recreation in the Spread of Non-Native Species: A Systematic Review and Meta-Analysis</dc:title>
   <dc:creator>Anderson, Lucy G</dc:creator>
   <dc:creator>Rocliffe, Steve</dc:creator>
@@ -20,5 +19,6 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>systematic review</dc:subject>
   <dc:subject>meta-analysis</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

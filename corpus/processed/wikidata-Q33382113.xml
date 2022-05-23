@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33382113</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572842</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0003630</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2572842</dc:link>
   <dc:title>Of Asian forests and European fields: Eastern U.S. plant invasions in a global floristic context</dc:title>
   <dc:creator>Fridley, Jason D</dc:creator>
   <dc:type>journal article</dc:type>
@@ -11,5 +10,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

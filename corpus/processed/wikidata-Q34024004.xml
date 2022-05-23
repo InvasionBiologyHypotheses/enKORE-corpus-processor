@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34024004</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3169637</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0024733</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3169637</dc:link>
   <dc:title>Does global warming increase establishment rates of invasive alien species? A centurial time series analysis</dc:title>
   <dc:creator>Huang, Dingcheng</dc:creator>
   <dc:creator>Haack, Robert A</dc:creator>
@@ -15,5 +14,6 @@
   <dc:subject>global warming</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

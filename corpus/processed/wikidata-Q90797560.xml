@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q90797560</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874344</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0224125</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6874344</dc:link>
   <dc:title>Population dynamics of an invasive bird parasite, Philornis downsi (Diptera: Muscidae), in the Galapagos Islands</dc:title>
   <dc:creator>Causton, Charlotte E</dc:creator>
   <dc:creator>Moon, Roger D</dc:creator>
@@ -20,5 +19,6 @@
   <dc:subject>Philornis downsi</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive bird</dc:subject>
+  <dc:subject>population dynamics</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

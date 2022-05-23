@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q27315096</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3006172</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0014395</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3006172</dc:link>
   <dc:title>Competitive interactions between invasive Nile tilapia and native fish: the potential for altered trophic exchange and modification of food webs</dc:title>
   <dc:creator>Martin, Charles W</dc:creator>
   <dc:creator>Valentine, Marla M</dc:creator>
@@ -15,5 +14,6 @@
   <dc:subject>fish</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>food web</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

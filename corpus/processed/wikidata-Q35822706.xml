@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35822706</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624766</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0141424</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624766</dc:link>
   <dc:title>Plant Invasions Associated with Change in Root-Zone Microbial Community Structure and Diversity</dc:title>
   <dc:creator>Rodrigues, Richard R</dc:creator>
   <dc:creator>Pineda, Rosana P</dc:creator>
@@ -16,5 +15,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

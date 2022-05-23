@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35192294</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364896</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0119139</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364896</dc:link>
   <dc:title>Climate-based models for pulsed resources improve predictability of consumer population dynamics: outbreaks of house mice in forest ecosystems</dc:title>
   <dc:creator>Holland, Pen</dc:creator>
   <dc:creator>James, Alex</dc:creator>
@@ -17,5 +16,6 @@
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>outbreak dynamics</dc:subject>
   <dc:subject>forest ecosystem</dc:subject>
+  <dc:subject>population dynamics</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

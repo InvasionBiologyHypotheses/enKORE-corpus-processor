@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q47442609</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744942</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0189465</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744942</dc:link>
   <dc:title>Plant invasion: Another threat to the São Paulo Marsh Antwren (Formicivora paludicola), a species on the verge of extinction.</dc:title>
   <dc:creator>Del-Rio, Glaucia</dc:creator>
   <dc:creator>Rêgo, Marco Antonio</dc:creator>
@@ -16,5 +15,6 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>São Paulo Marsh Antwren</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q61811475</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353864</dc:identifier>
   <dc:identifier>doi:10.3897/ZOOKEYS.818.30448</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353864</dc:link>
   <dc:title>A pictorial key to differentiate the recently detected exotic Haemaphysalis longicornis Neumann, 1901 (Acari, Ixodidae) from native congeners in North America</dc:title>
   <dc:creator>Egizi, Andrea</dc:creator>
   <dc:creator>Robbins, Richard G.</dc:creator>
@@ -20,5 +19,7 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Haemaphysalis</dc:subject>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>Haemaphysalis longicornis</dc:subject>
+  <dc:subject>native congener</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
 </oai_dc:dc>

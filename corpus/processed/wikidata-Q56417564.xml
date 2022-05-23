@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q56417564</dc:identifier>
   <dc:identifier>doi:10.3897/RIO.3.E14811</dc:identifier>
   <dc:title>Citizen Science and Open Data: a model for Invasive Alien Species in Europe</dc:title>
-  <dc:creator>Marchante, Elizabete</dc:creator>
   <dc:creator>Cardoso, Ana Cristina</dc:creator>
   <dc:creator>Tsiamis, Konstantinos</dc:creator>
   <dc:creator>Gervasini, Eugenio</dc:creator>
@@ -30,5 +29,6 @@
   <dc:subject>citizen science</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>open data</dc:subject>
+  <dc:subject>introduced species</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
 </oai_dc:dc>

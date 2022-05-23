@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q55480793</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6010248</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0199478</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6010248</dc:link>
   <dc:title>Responses of the native species Sparganium angustifolium and the invasive species Egeria densa to warming and interspecific competition</dc:title>
   <dc:creator>Yu, Hongwei</dc:creator>
   <dc:creator>Shen, Nan</dc:creator>
@@ -15,5 +14,9 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>Egeria densa</dc:subject>
+  <dc:subject>interspecific competition</dc:subject>
+  <dc:subject>interspecific competition between native and non-native species</dc:subject>
+  <dc:subject>Indigenous species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

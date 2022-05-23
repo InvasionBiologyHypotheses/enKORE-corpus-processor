@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35138490</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3973574</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0093217</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3973574</dc:link>
   <dc:title>Genetic diversity and population structure in Polygonum cespitosum: insights to an ongoing plant invasion</dc:title>
   <dc:creator>Matesanz, Silvia</dc:creator>
   <dc:creator>Theiss, Kathryn E</dc:creator>
@@ -15,5 +14,7 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>population structure</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

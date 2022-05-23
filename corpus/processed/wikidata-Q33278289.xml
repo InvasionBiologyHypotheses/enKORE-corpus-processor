@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33278289</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1808429</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0000295</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1808429</dc:link>
   <dc:title>Invasions and extinctions reshape coastal marine food webs</dc:title>
   <dc:creator>Byrnes, Jarrett E</dc:creator>
   <dc:creator>Reynolds, Pamela L</dc:creator>
@@ -13,5 +12,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>food web</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

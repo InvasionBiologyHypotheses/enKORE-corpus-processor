@@ -3,8 +3,7 @@
   <dc:identifier>http://www.wikidata.org/entity/Q36353904</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483273</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0048410</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483273</dc:link>
-  <dc:title>Effects of non-indigenous oysters on microbial diversity and ecosystem functioning.</dc:title>
+  <dc:title>Effects of non-indigenous oysters on microbial diversity and ecosystem functioning</dc:title>
   <dc:creator>Green, Dannielle S</dc:creator>
   <dc:creator>Boots, Bas</dc:creator>
   <dc:creator>Crowe, Tasman P</dc:creator>
@@ -13,6 +12,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>ecosystem</dc:subject>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

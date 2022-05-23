@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34403578</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3916427</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0088668</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3916427</dc:link>
   <dc:title>Interspecific competition influences fitness benefits of assortative mating for territorial aggression in eastern bluebirds (Sialia sialis).</dc:title>
   <dc:creator>Harris, Morgan R</dc:creator>
   <dc:creator>Siefferman, Lynn</dc:creator>
@@ -12,5 +11,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Eastern Bluebird</dc:subject>
+  <dc:subject>interspecific competition</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q24810331</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914016</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0011842</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914016</dc:link>
   <dc:title>The biodiversity of the Mediterranean Sea: estimates, patterns, and threats</dc:title>
   <dc:creator>Coll, Marta</dc:creator>
   <dc:creator>Piroddi, Chiara</dc:creator>
@@ -16,7 +15,6 @@
   <dc:creator>Corbera, Jordi</dc:creator>
   <dc:creator>Dailianis, Thanos</dc:creator>
   <dc:creator>Danovaro, Roberto</dc:creator>
-  <dc:creator>Danovaro, Roberto</dc:creator>
   <dc:creator>Estrada, Marta</dc:creator>
   <dc:creator>Froglia, Carlo</dc:creator>
   <dc:creator>Galil, Bella S</dc:creator>
@@ -27,7 +25,6 @@
   <dc:creator>Kesner-Reyes, Kathleen</dc:creator>
   <dc:creator>Kitsos, Miltiadis-Spyridon</dc:creator>
   <dc:creator>Koukouras, Athanasios</dc:creator>
-  <dc:creator>Lampadariou, Nikolaos</dc:creator>
   <dc:creator>Lampadariou, Nikolaos</dc:creator>
   <dc:creator>Laxamana, Elijah</dc:creator>
   <dc:creator>Cuadra, Carlos M López-Fé</dc:creator>
@@ -49,7 +46,7 @@
   <dc:date>2010-08-02</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:subject>environment</dc:subject>
   <dc:subject>Mediterranean Sea</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>

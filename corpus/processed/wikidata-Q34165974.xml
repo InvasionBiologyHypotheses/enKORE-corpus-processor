@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34165974</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161354</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0105997</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161354</dc:link>
   <dc:title>Genome size as a key to evolutionary complex aquatic plants: polyploidy and hybridization in Callitriche (Plantaginaceae).</dc:title>
   <dc:creator>Prančl, Jan</dc:creator>
   <dc:creator>Kaplan, Zdeněk</dc:creator>
@@ -13,5 +12,6 @@
   <dc:date>2014-09-11</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>polyploidy</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

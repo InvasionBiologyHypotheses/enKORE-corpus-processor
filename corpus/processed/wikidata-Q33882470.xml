@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33882470</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4092058</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0101388</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4092058</dc:link>
   <dc:title>Eutrophication and Dreissena invasion as drivers of biodiversity: a century of change in the mollusc community of Oneida Lake</dc:title>
   <dc:creator>Karatayev, Vadim A</dc:creator>
   <dc:creator>Karatayev, Alexander Y</dc:creator>
@@ -15,7 +14,7 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>lake</dc:subject>
   <dc:subject>invasion biology</dc:subject>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:subject>eutrophication</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

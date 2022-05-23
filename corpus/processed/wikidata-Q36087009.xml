@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q36087009</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963087</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0159403</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963087</dc:link>
   <dc:title>A Spatially Explicit Dual-Isotope Approach to Map Regions of Plant-Plant Interaction after Exotic Plant Invasion</dc:title>
   <dc:creator>Hellmann, Christine</dc:creator>
   <dc:creator>Werner, Christiane</dc:creator>
@@ -13,5 +12,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

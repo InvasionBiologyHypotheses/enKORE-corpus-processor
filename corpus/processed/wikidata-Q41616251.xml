@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q41616251</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584761</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0183108</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584761</dc:link>
   <dc:title>Can heat waves change the trophic role of the world's most invasive crayfish? Diet shifts in Procambarus clarkii</dc:title>
   <dc:creator>Carreira, Bruno M</dc:creator>
   <dc:creator>Segurado, Pedro</dc:creator>
@@ -16,5 +15,6 @@
   <dc:subject>heat wave</dc:subject>
   <dc:subject>Procambarus clarkii</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive crayfish</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

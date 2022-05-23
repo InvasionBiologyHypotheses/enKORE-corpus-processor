@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34722704</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3651240</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0062842</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3651240</dc:link>
   <dc:title>Effect of intra- and interspecific competition on the performance of native and invasive species of Impatiens under varying levels of shade and moisture</dc:title>
   <dc:creator>Skálová, Hana</dc:creator>
   <dc:creator>Jarošík, Vojtěch</dc:creator>
@@ -15,5 +14,7 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>interspecific competition</dc:subject>
+  <dc:subject>interspecific competition between native and non-native species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

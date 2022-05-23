@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34576833</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559535</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0055627</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559535</dc:link>
   <dc:title>Rapid plant invasion in distinct climates involves different sources of phenotypic variation</dc:title>
   <dc:creator>Monty, Arnaud</dc:creator>
   <dc:creator>Bizoux, Jean-Philippe</dc:creator>
@@ -14,5 +13,6 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

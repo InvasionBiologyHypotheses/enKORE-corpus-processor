@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q34576626</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245253</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0113964</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245253</dc:link>
   <dc:title>Curvilinear effects of invasive plants on plant diversity: plant community invaded by Sphagneticola trilobata</dc:title>
   <dc:creator>Qi, Shan-Shan</dc:creator>
   <dc:creator>Dai, Zhi-Cong</dc:creator>
@@ -18,7 +17,8 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>Sphagneticola trilobata</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

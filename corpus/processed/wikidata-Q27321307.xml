@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q27321307</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344246</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004670</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344246</dc:link>
   <dc:title>Revealing the sequence and resulting cellular morphology of receptor-ligand interactions during Plasmodium falciparum invasion of erythrocytes</dc:title>
   <dc:creator>Weiss, Greta E</dc:creator>
   <dc:creator>Gilson, Paul R</dc:creator>
@@ -23,5 +22,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>cell morphology</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

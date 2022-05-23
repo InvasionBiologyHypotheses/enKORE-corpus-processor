@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q98383972</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7419000</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0236077</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7419000</dc:link>
   <dc:title>Metabarcoding of native and invasive species in stomach contents of Great Lakes fishes</dc:title>
   <dc:creator>Mychek-Londer, Justin G</dc:creator>
   <dc:creator>Chaganti, Subba Rao</dc:creator>
@@ -14,5 +13,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>metabarcoding</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

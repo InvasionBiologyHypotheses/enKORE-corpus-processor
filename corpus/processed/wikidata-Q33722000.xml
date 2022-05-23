@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33722000</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950157</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0013222</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950157</dc:link>
   <dc:title>Biodiversity on Broadway--enigmatic diversity of the societies of ants (Formicidae) on the streets of New York City</dc:title>
   <dc:creator>Pećarević, Marko</dc:creator>
   <dc:creator>Danoff-Burg, James</dc:creator>
@@ -12,6 +11,6 @@
   <dc:date>2010-10-05</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

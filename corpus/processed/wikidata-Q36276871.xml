@@ -3,8 +3,7 @@
   <dc:identifier>http://www.wikidata.org/entity/Q36276871</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302804</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0171104</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302804</dc:link>
-  <dc:title>From east to west across the Palearctic: Phylogeography of the invasive lime leaf miner Phyllonorycter issikii (Lepidoptera: Gracillariidae) and discovery of a putative new cryptic species in East Asia.</dc:title>
+  <dc:title>From east to west across the Palearctic: Phylogeography of the invasive lime leaf miner Phyllonorycter issikii (Lepidoptera: Gracillariidae) and discovery of a putative new cryptic species in East Asia</dc:title>
   <dc:creator>Kirichenko, Natalia</dc:creator>
   <dc:creator>Triberti, Paolo</dc:creator>
   <dc:creator>Ohshima, Issei</dc:creator>
@@ -23,5 +22,6 @@
   <dc:subject>Phyllonorycter issikii</dc:subject>
   <dc:subject>cryptic species complex</dc:subject>
   <dc:subject>phylogeography</dc:subject>
+  <dc:subject>Lepidoptera</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35149208</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988179</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0095301</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988179</dc:link>
   <dc:title>Targeted research to improve invasive species management: yellow crazy ant Anoplolepis gracilipes in Samoa</dc:title>
   <dc:creator>Hoffmann, Benjamin D</dc:creator>
   <dc:creator>Auina, Saronna</dc:creator>
@@ -15,5 +14,6 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Samoa</dc:subject>
+  <dc:subject>Anoplolepis gracilipes</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

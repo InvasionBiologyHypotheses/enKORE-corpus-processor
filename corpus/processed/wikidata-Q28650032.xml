@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q28650032</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390158</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0121026</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390158</dc:link>
   <dc:title>Snakes on the Balearic islands: an invasion tale with implications for native biodiversity conservation</dc:title>
   <dc:creator>Silva-Rocha, Iolanda</dc:creator>
   <dc:creator>Salvi, Daniele</dc:creator>
@@ -14,6 +13,6 @@
   <dc:date>2015-04-08</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
-  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Biodiversity</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

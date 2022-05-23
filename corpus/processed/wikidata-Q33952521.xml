@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q33952521</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121772</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0021510</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121772</dc:link>
   <dc:title>Grouper as a natural biocontrol of invasive lionfish</dc:title>
   <dc:creator>Mumby, Peter J</dc:creator>
   <dc:creator>Harborne, Alastair R</dc:creator>
@@ -12,5 +11,6 @@
   <dc:date>2011-06-23</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biocontrol</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

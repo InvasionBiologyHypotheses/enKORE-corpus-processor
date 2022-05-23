@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q28484658</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532479</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0053166</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532479</dc:link>
   <dc:title>Effects of soil characteristics, allelopathy and frugivory on establishment of the invasive plant Carpobrotus edulis and a co-occurring native, Malcolmia littorea</dc:title>
   <dc:creator>Novoa, Ana</dc:creator>
   <dc:creator>González, Luís</dc:creator>
@@ -16,5 +15,7 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>frugivory</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>Carpobrotus edulis</dc:subject>
+  <dc:subject>allelopathy</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>

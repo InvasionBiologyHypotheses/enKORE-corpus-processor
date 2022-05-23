@@ -3,7 +3,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35542628</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4411108</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0125433</dc:identifier>
-  <dc:link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4411108</dc:link>
   <dc:title>Allelopathic Potential of Invasive Plantago virginica on Four Lawn Species</dc:title>
   <dc:creator>Wang, Huatian</dc:creator>
   <dc:creator>Zhou, Yumei</dc:creator>
@@ -17,5 +16,6 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
+  <dc:subject>allelopathy</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
 </oai_dc:dc>
