@@ -57,26 +57,5 @@
       &lt;/jats:compound&#45;kwd&gt;
     &lt;/jats:kwd&#45;group&gt;
 
-    <jats:kwd-group kwd-group-type="enkore-habitat">
-      <jats:kwd id="wd:Q2890135">
-        freshwater ecosystem
-      </jats:kwd>
-    </jats:kwd-group>
-    <jats:kwd-group kwd-group-type="enkore-geographicScope">
-      <jats:kwd id="Q4478">
-        Punjab, Pakistan
-      </jats:kwd>
-    </jats:kwd-group>
-    <jats:kwd-group kwd-group-type="enkore-temporalScope">
-      <jats:compound-kwd>
-        <jats:compound-kwd-part content-type="date-start">
-          October 2017
-        </jats:compound-kwd-part>
-        <jats:compound-kwd-part content-type="date-end">
-          March 2018
-        </jats:compound-kwd-part>
-      </jats:compound-kwd>
-    </jats:kwd-group>
-
   </dc:description>
 </oai_dc:dc>
