@@ -11,7 +11,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Surveillance of invasive Aedes mosquitoes along Swiss traffic axes reveals different dispersal modes for Aedes albopictus and Ae. japonicus"
+        "value" : "Surveillance of invasive Aedes mosquitoes along Swiss traffic axes reveals different dispersal modes for Aedes albopictus and Ae. japonicus"
       },
       "license" : {
         "type" : "uri",
@@ -49,7 +49,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:33Z"
+        "value" : "2022-05-20T21:41:22Z"
       }
     }, {
       "item" : {
@@ -73,7 +73,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:19Z"
+        "value" : "2022-05-20T01:14:17Z"
       }
     }, {
       "item" : {
@@ -121,7 +121,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:14:00Z"
+        "value" : "2022-05-21T22:49:22Z"
       }
     }, {
       "item" : {
@@ -145,7 +145,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T01:37:50Z"
+        "value" : "2022-05-21T19:13:41Z"
       }
     }, {
       "item" : {
@@ -169,7 +169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:50:59Z"
+        "value" : "2022-05-21T02:39:26Z"
       }
     }, {
       "item" : {
@@ -217,7 +217,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T06:56:23Z"
+        "value" : "2022-05-20T19:38:52Z"
       }
     }, {
       "item" : {
@@ -241,7 +241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:50:06Z"
+        "value" : "2022-05-20T23:13:11Z"
       }
     }, {
       "item" : {
@@ -265,7 +265,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:14:03Z"
+        "value" : "2022-05-21T09:08:15Z"
       }
     }, {
       "item" : {
@@ -289,7 +289,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:08:16Z"
+        "value" : "2022-05-21T21:19:53Z"
       }
     }, {
       "item" : {
@@ -361,7 +361,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-30T06:23:24Z"
+        "value" : "2022-05-21T15:41:47Z"
       }
     }, {
       "item" : {
@@ -371,7 +371,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Heterotilapia buttikoferi (Hubrecht, 1881) (Perciformes: Cichlidae), an introduced exotic fish in the upper Paraná river basin"
+        "value" : "Heterotilapia buttikoferi (Hubrecht, 1881) (Perciformes: Cichlidae), an introduced exotic fish in the upper Paraná river basin"
       },
       "license" : {
         "type" : "uri",
@@ -395,7 +395,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The invasive copepod Lernaea cyprinacea Linnaeus, 1758 (Copepoda, Cyclopoida, Lernaeidae): first record for Neuquén River,Patagonia, Argentina"
+        "value" : "The invasive copepod Lernaea cyprinacea Linnaeus, 1758 (Copepoda, Cyclopoida, Lernaeidae): first record for Neuquén River,Patagonia, Argentina"
       },
       "license" : {
         "type" : "uri",
@@ -553,7 +553,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-23T13:33:42Z"
+        "value" : "2022-05-20T23:12:13Z"
       }
     }, {
       "item" : {
@@ -625,7 +625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-14T21:45:03Z"
+        "value" : "2022-05-20T01:12:12Z"
       }
     }, {
       "item" : {
@@ -649,7 +649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:50:04Z"
+        "value" : "2022-05-20T01:14:30Z"
       }
     }, {
       "item" : {
@@ -673,7 +673,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:24Z"
+        "value" : "2022-05-19T13:01:01Z"
       }
     }, {
       "item" : {
@@ -697,7 +697,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-19T23:06:28Z"
+        "value" : "2022-05-21T01:23:09Z"
       }
     }, {
       "item" : {
@@ -721,7 +721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-21T00:38:54Z"
+        "value" : "2022-05-21T20:09:20Z"
       }
     }, {
       "item" : {
@@ -745,7 +745,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:50:02Z"
+        "value" : "2022-05-22T15:34:41Z"
       }
     }, {
       "item" : {
@@ -769,7 +769,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:25Z"
+        "value" : "2022-05-21T05:44:17Z"
       }
     }, {
       "item" : {
@@ -793,7 +793,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-01T15:56:38Z"
+        "value" : "2022-05-21T02:29:26Z"
       }
     }, {
       "item" : {
@@ -817,7 +817,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:08:19Z"
+        "value" : "2022-05-21T01:39:01Z"
       }
     }, {
       "item" : {
@@ -841,7 +841,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:28:51Z"
+        "value" : "2022-05-20T22:39:34Z"
       }
     }, {
       "item" : {
@@ -899,7 +899,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "First record of native predators on the invasive species Thaumastocoris peregrinus (Hemiptera:Thaumastocoridae) in Eucalyptus in Argentina"
+        "value" : "First record of native predators on the invasive species Thaumastocoris peregrinus (Hemiptera:Thaumastocoridae) in Eucalyptus in Argentina"
       },
       "license" : {
         "type" : "uri",
@@ -913,7 +913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:32Z"
+        "value" : "2022-05-19T23:59:00Z"
       }
     }, {
       "item" : {
@@ -985,7 +985,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:27:41Z"
+        "value" : "2022-05-13T21:51:42Z"
       }
     }, {
       "item" : {
@@ -995,7 +995,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sceliphron curvatum , a new invasive wasp in Argentina (Hymenoptera, Sphecidae)"
+        "value" : "Sceliphron curvatum , a new invasive wasp in Argentina (Hymenoptera, Sphecidae)"
       },
       "license" : {
         "type" : "uri",
@@ -1043,7 +1043,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Catalogue of the exotic species of Diaspididae (Hemiptera: Coccoidea) from Argentina, Brazil and Chile"
+        "value" : "Catalogue of the exotic species of Diaspididae (Hemiptera: Coccoidea) from Argentina, Brazil and Chile"
       },
       "license" : {
         "type" : "uri",
@@ -1081,7 +1081,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T19:36:38Z"
+        "value" : "2022-05-22T14:49:11Z"
       }
     }, {
       "item" : {
@@ -1105,7 +1105,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:34Z"
+        "value" : "2022-05-21T00:56:26Z"
       }
     }, {
       "item" : {
@@ -1129,7 +1129,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:49:59Z"
+        "value" : "2022-05-14T13:09:27Z"
       }
     }, {
       "item" : {
@@ -1153,7 +1153,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:49:59Z"
+        "value" : "2022-05-21T04:14:43Z"
       }
     }, {
       "item" : {
@@ -1201,7 +1201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T13:23:11Z"
+        "value" : "2022-05-21T03:41:52Z"
       }
     }, {
       "item" : {
@@ -1225,7 +1225,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:58:21Z"
+        "value" : "2022-05-14T11:34:27Z"
       }
     }, {
       "item" : {
@@ -1249,7 +1249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:29:39Z"
+        "value" : "2022-05-21T04:02:54Z"
       }
     }, {
       "item" : {
@@ -1273,7 +1273,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:34Z"
+        "value" : "2022-05-21T01:54:45Z"
       }
     }, {
       "item" : {
@@ -1297,7 +1297,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:49:06Z"
+        "value" : "2022-05-20T22:38:45Z"
       }
     }, {
       "item" : {
@@ -1321,7 +1321,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:47Z"
+        "value" : "2022-05-19T08:51:06Z"
       }
     }, {
       "item" : {
@@ -1345,7 +1345,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:50Z"
+        "value" : "2022-05-22T14:57:10Z"
       }
     }, {
       "item" : {
@@ -1369,7 +1369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:47Z"
+        "value" : "2022-05-22T14:57:13Z"
       }
     }, {
       "item" : {
@@ -1393,7 +1393,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T19:36:38Z"
+        "value" : "2022-05-21T01:08:25Z"
       }
     }, {
       "item" : {
@@ -1417,7 +1417,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:08:28Z"
+        "value" : "2022-05-21T19:56:26Z"
       }
     }, {
       "item" : {
@@ -1465,7 +1465,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:34Z"
+        "value" : "2022-05-21T19:52:29Z"
       }
     }, {
       "item" : {
@@ -1489,7 +1489,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:29:39Z"
+        "value" : "2022-05-21T00:59:32Z"
       }
     }, {
       "item" : {
@@ -1513,7 +1513,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:08:27Z"
+        "value" : "2022-05-21T04:15:35Z"
       }
     }, {
       "item" : {
@@ -1609,7 +1609,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:35Z"
+        "value" : "2022-05-21T21:18:57Z"
       }
     }, {
       "item" : {
@@ -1633,7 +1633,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:08:25Z"
+        "value" : "2022-05-21T01:48:52Z"
       }
     }, {
       "item" : {
@@ -1657,7 +1657,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:35Z"
+        "value" : "2022-05-21T19:59:23Z"
       }
     }, {
       "item" : {
@@ -1681,7 +1681,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:29:39Z"
+        "value" : "2022-05-21T03:25:04Z"
       }
     }, {
       "item" : {
@@ -1705,7 +1705,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:49:06Z"
+        "value" : "2022-05-21T04:15:55Z"
       }
     }, {
       "item" : {
@@ -1729,7 +1729,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:58Z"
+        "value" : "2022-05-19T04:49:49Z"
       }
     }, {
       "item" : {
@@ -1753,7 +1753,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:49:05Z"
+        "value" : "2022-05-21T03:41:41Z"
       }
     }, {
       "item" : {
@@ -1777,7 +1777,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-05T21:45:44Z"
+        "value" : "2022-05-21T19:22:14Z"
       }
     }, {
       "item" : {
@@ -1801,7 +1801,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-19T00:27:39Z"
+        "value" : "2022-05-22T15:34:42Z"
       }
     }, {
       "item" : {
@@ -1873,7 +1873,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-30T21:28:39Z"
+        "value" : "2022-05-14T13:50:53Z"
       }
     }, {
       "item" : {
@@ -1897,7 +1897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-19T00:00:45Z"
+        "value" : "2022-05-16T10:14:45Z"
       }
     }, {
       "item" : {
@@ -1945,7 +1945,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:27:59Z"
+        "value" : "2022-05-20T22:44:30Z"
       }
     }, {
       "item" : {
@@ -1969,7 +1969,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:51:43Z"
+        "value" : "2022-05-20T23:35:42Z"
       }
     }, {
       "item" : {
@@ -2065,7 +2065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:25:35Z"
+        "value" : "2022-05-22T15:12:35Z"
       }
     }, {
       "item" : {
@@ -2089,7 +2089,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:48Z"
+        "value" : "2022-05-21T02:41:28Z"
       }
     }, {
       "item" : {
@@ -2113,7 +2113,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:26:29Z"
+        "value" : "2022-05-20T20:32:35Z"
       }
     }, {
       "item" : {
@@ -2137,7 +2137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:29Z"
+        "value" : "2022-05-21T06:15:23Z"
       }
     }, {
       "item" : {
@@ -2161,7 +2161,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:49Z"
+        "value" : "2022-05-21T05:08:24Z"
       }
     }, {
       "item" : {
@@ -2185,7 +2185,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T16:27:56Z"
+        "value" : "2022-05-21T21:23:55Z"
       }
     }, {
       "item" : {
@@ -2209,7 +2209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:32:39Z"
+        "value" : "2022-05-21T20:42:01Z"
       }
     }, {
       "item" : {
@@ -2233,7 +2233,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:50Z"
+        "value" : "2022-05-21T20:31:06Z"
       }
     }, {
       "item" : {
@@ -2281,7 +2281,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:30:34Z"
+        "value" : "2022-05-21T04:14:31Z"
       }
     }, {
       "item" : {
@@ -2329,7 +2329,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:26:55Z"
+        "value" : "2022-05-21T21:16:54Z"
       }
     }, {
       "item" : {
@@ -2377,7 +2377,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:51Z"
+        "value" : "2022-05-21T19:53:27Z"
       }
     }, {
       "item" : {
@@ -2401,7 +2401,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:26:57Z"
+        "value" : "2022-05-21T04:14:32Z"
       }
     }, {
       "item" : {
@@ -2425,7 +2425,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:26:57Z"
+        "value" : "2022-05-21T18:31:37Z"
       }
     }, {
       "item" : {
@@ -2473,7 +2473,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T21:57:59Z"
+        "value" : "2022-05-19T08:50:53Z"
       }
     }, {
       "item" : {
@@ -2497,7 +2497,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:52Z"
+        "value" : "2022-05-22T14:53:16Z"
       }
     }, {
       "item" : {
@@ -2521,7 +2521,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T16:27:57Z"
+        "value" : "2022-05-21T21:17:59Z"
       }
     }, {
       "item" : {
@@ -2545,7 +2545,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:30:35Z"
+        "value" : "2022-05-21T02:35:23Z"
       }
     }, {
       "item" : {
@@ -2569,7 +2569,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T16:27:59Z"
+        "value" : "2022-05-20T23:41:58Z"
       }
     }, {
       "item" : {
@@ -2593,7 +2593,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:47:04Z"
+        "value" : "2022-05-21T03:48:47Z"
       }
     }, {
       "item" : {
@@ -2641,7 +2641,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:54Z"
+        "value" : "2022-05-21T19:47:38Z"
       }
     }, {
       "item" : {
@@ -2689,7 +2689,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:03:25Z"
+        "value" : "2022-05-22T14:50:16Z"
       }
     }, {
       "item" : {
@@ -2713,7 +2713,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-26T16:00:11Z"
+        "value" : "2022-05-21T00:24:44Z"
       }
     }, {
       "item" : {
@@ -2761,7 +2761,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-26T16:00:13Z"
+        "value" : "2022-05-21T01:45:01Z"
       }
     }, {
       "item" : {
@@ -2785,7 +2785,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:56Z"
+        "value" : "2022-05-19T08:50:57Z"
       }
     }, {
       "item" : {
@@ -2833,7 +2833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:47:04Z"
+        "value" : "2022-05-13T16:12:50Z"
       }
     }, {
       "item" : {
@@ -2857,7 +2857,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:47:04Z"
+        "value" : "2022-05-21T06:08:27Z"
       }
     }, {
       "item" : {
@@ -2881,7 +2881,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:47:04Z"
+        "value" : "2022-05-21T04:14:36Z"
       }
     }, {
       "item" : {
@@ -2905,7 +2905,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:02:50Z"
+        "value" : "2022-05-21T03:50:36Z"
       }
     }, {
       "item" : {
@@ -2953,7 +2953,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:27:27Z"
+        "value" : "2022-05-21T04:15:56Z"
       }
     }, {
       "item" : {
@@ -3049,7 +3049,31 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T08:45:40Z"
+        "value" : "2022-05-21T04:17:49Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110668670"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cryptocentrus steinhardti (Actinopterygii; Gobiidae): a new species of shrimp-goby, and a new invasive to the Mediterranean Sea"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T02:04:36Z"
       }
     }, {
       "item" : {
@@ -3073,7 +3097,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-30T04:24:53Z"
+        "value" : "2022-05-21T07:53:57Z"
       }
     }, {
       "item" : {
@@ -3121,7 +3145,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:00Z"
+        "value" : "2022-05-21T19:47:34Z"
       }
     }, {
       "item" : {
@@ -3145,7 +3169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:55:21Z"
+        "value" : "2022-05-14T12:26:38Z"
       }
     }, {
       "item" : {
@@ -3169,7 +3193,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:30Z"
+        "value" : "2022-05-14T13:13:42Z"
       }
     }, {
       "item" : {
@@ -3193,7 +3217,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T22:29:41Z"
+        "value" : "2022-05-14T13:13:42Z"
       }
     }, {
       "item" : {
@@ -3217,7 +3241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:31Z"
+        "value" : "2022-05-21T23:14:44Z"
       }
     }, {
       "item" : {
@@ -3241,7 +3265,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-21T04:42:38Z"
+        "value" : "2022-05-20T23:00:30Z"
       }
     }, {
       "item" : {
@@ -3289,7 +3313,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T23:06:37Z"
+        "value" : "2022-05-22T14:47:13Z"
       }
     }, {
       "item" : {
@@ -3337,7 +3361,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:01Z"
+        "value" : "2022-05-21T05:59:52Z"
       }
     }, {
       "item" : {
@@ -3361,7 +3385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T00:50:50Z"
+        "value" : "2022-05-22T15:05:00Z"
       }
     }, {
       "item" : {
@@ -3409,7 +3433,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-20T21:07:05Z"
+        "value" : "2022-05-21T22:09:53Z"
       }
     }, {
       "item" : {
@@ -3697,7 +3721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:52:08Z"
+        "value" : "2022-05-18T09:55:46Z"
       }
     }, {
       "item" : {
@@ -3769,7 +3793,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:22Z"
+        "value" : "2022-05-20T01:00:19Z"
       }
     }, {
       "item" : {
@@ -3865,7 +3889,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:38Z"
+        "value" : "2022-05-13T14:24:58Z"
       }
     }, {
       "item" : {
@@ -4019,7 +4043,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "On the occurrence of the fireworm Eurythoe complanata complex (Annelida, Amphinomidae) in the Mediterranean Sea with an updated revision of the alien Mediterranean amphinomids"
+        "value" : "On the occurrence of the fireworm Eurythoe complanata complex (Annelida, Amphinomidae) in the Mediterranean Sea with an updated revision of the alien Mediterranean amphinomids"
       },
       "license" : {
         "type" : "uri",
@@ -4067,7 +4091,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "First record of Zombrus bicolor (Enderlein) (Hymenoptera, Braconidae, Doryctinae) in Western Europe"
+        "value" : "First record of Zombrus bicolor (Enderlein) (Hymenoptera, Braconidae, Doryctinae) in Western Europe"
       },
       "license" : {
         "type" : "uri",
@@ -4106,6 +4130,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T23:50:05Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21559521"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Invasion by P. falciparum merozoites suggests a hierarchy of molecular interactions"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T00:31:16Z"
       }
     }, {
       "item" : {
@@ -4355,7 +4403,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alien molluscan species established along the Italian shores: an update, with discussions on some Mediterranean \"alien species\" categories"
+        "value" : "Alien molluscan species established along the Italian shores: an update, with discussions on some Mediterranean \"alien species\" categories"
       },
       "license" : {
         "type" : "uri",
@@ -4427,7 +4475,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Using DNA barcoding to differentiate invasive Dreissena species (Mollusca, Bivalvia)"
+        "value" : "Using DNA barcoding to differentiate invasive Dreissena species (Mollusca, Bivalvia)"
       },
       "license" : {
         "type" : "uri",
@@ -4657,7 +4705,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T15:01:13Z"
+        "value" : "2022-05-21T02:20:32Z"
       }
     }, {
       "item" : {
@@ -4878,6 +4926,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26864291"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Human monoclonal antibody-based therapy in the treatment of invasive candidiasis"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14947546"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 3.0 Unported"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:34:33Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27021355"
       },
       "itemLabel" : {
@@ -4921,7 +4993,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:47:30Z"
+        "value" : "2022-05-22T00:13:47Z"
       }
     }, {
       "item" : {
@@ -4993,7 +5065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:39:53Z"
+        "value" : "2022-05-22T15:29:52Z"
       }
     }, {
       "item" : {
@@ -5161,7 +5233,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:50Z"
+        "value" : "2022-05-22T15:29:53Z"
       }
     }, {
       "item" : {
@@ -5185,7 +5257,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:29Z"
+        "value" : "2022-05-18T02:13:50Z"
       }
     }, {
       "item" : {
@@ -5502,6 +5574,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27972930"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Plasmodium Class XIV Myosin, MyoB, Has a Distinct Subcellular Location in Invasive and Motile Stages of the Malaria Parasite and an Unusual Light Chain"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14947546"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 3.0 Unported"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T00:31:24Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27974567"
       },
       "itemLabel" : {
@@ -5569,7 +5665,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-19T23:13:15Z"
+        "value" : "2022-05-16T16:40:20Z"
       }
     }, {
       "item" : {
@@ -5618,6 +5714,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T23:56:53Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28473189"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proteomic analysis of skin invasion by blood fluke larvae"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18810333"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 2.5 Generic"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-19T22:23:43Z"
       }
     }, {
       "item" : {
@@ -5833,7 +5953,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T20:02:12Z"
+        "value" : "2022-05-22T14:46:20Z"
       }
     }, {
       "item" : {
@@ -6049,7 +6169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T21:54:54Z"
+        "value" : "2022-05-22T15:28:56Z"
       }
     }, {
       "item" : {
@@ -6121,7 +6241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-02T13:04:14Z"
+        "value" : "2022-05-20T01:26:27Z"
       }
     }, {
       "item" : {
@@ -6409,7 +6529,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:47:25Z"
+        "value" : "2022-05-21T21:24:53Z"
       }
     }, {
       "item" : {
@@ -6505,7 +6625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:47:16Z"
+        "value" : "2022-05-21T22:56:32Z"
       }
     }, {
       "item" : {
@@ -6529,7 +6649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:43Z"
+        "value" : "2022-05-22T15:28:57Z"
       }
     }, {
       "item" : {
@@ -7854,6 +7974,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30372980"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Signatures of adaptation in human invasive Salmonella Typhimurium ST313 populations from sub-Saharan Africa."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18810333"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 2.5 Generic"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T00:34:16Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30375922"
       },
       "itemLabel" : {
@@ -8041,7 +8185,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T08:34:50Z"
+        "value" : "2022-05-18T00:29:35Z"
       }
     }, {
       "item" : {
@@ -8065,7 +8209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:55Z"
+        "value" : "2022-05-22T15:33:52Z"
       }
     }, {
       "item" : {
@@ -8329,7 +8473,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:28Z"
+        "value" : "2022-05-18T00:20:56Z"
       }
     }, {
       "item" : {
@@ -8665,7 +8809,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:01Z"
+        "value" : "2022-05-16T17:31:09Z"
       }
     }, {
       "item" : {
@@ -8689,7 +8833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:56:58Z"
+        "value" : "2022-05-18T03:52:04Z"
       }
     }, {
       "item" : {
@@ -9145,7 +9289,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-29T21:35:22Z"
+        "value" : "2022-05-18T02:16:36Z"
       }
     }, {
       "item" : {
@@ -9217,7 +9361,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:56:59Z"
+        "value" : "2022-05-12T22:59:49Z"
       }
     }, {
       "item" : {
@@ -9241,7 +9385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:07Z"
+        "value" : "2022-05-22T15:19:03Z"
       }
     }, {
       "item" : {
@@ -9649,7 +9793,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:22Z"
+        "value" : "2022-05-20T01:24:30Z"
       }
     }, {
       "item" : {
@@ -9913,7 +10057,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-04T00:02:31Z"
+        "value" : "2022-05-22T15:29:03Z"
       }
     }, {
       "item" : {
@@ -9961,7 +10105,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:13Z"
+        "value" : "2022-05-22T15:29:46Z"
       }
     }, {
       "item" : {
@@ -10249,7 +10393,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:22:15Z"
+        "value" : "2022-05-15T12:56:34Z"
       }
     }, {
       "item" : {
@@ -10633,7 +10777,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-11T17:02:17Z"
+        "value" : "2022-05-22T16:10:00Z"
       }
     }, {
       "item" : {
@@ -10730,6 +10874,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T23:50:48Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33828559"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Migrastatics-Anti-metastatic and Anti-invasion Drugs: Promises and Challenges."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:35:31Z"
       }
     }, {
       "item" : {
@@ -10897,7 +11065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:01Z"
+        "value" : "2022-05-22T15:30:42Z"
       }
     }, {
       "item" : {
@@ -11017,7 +11185,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:49Z"
+        "value" : "2022-05-20T01:26:32Z"
       }
     }, {
       "item" : {
@@ -11113,7 +11281,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:48:09Z"
+        "value" : "2022-05-21T03:34:40Z"
       }
     }, {
       "item" : {
@@ -11185,7 +11353,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T20:24:02Z"
+        "value" : "2022-05-22T21:47:40Z"
       }
     }, {
       "item" : {
@@ -11233,7 +11401,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:50Z"
+        "value" : "2022-05-22T15:30:42Z"
       }
     }, {
       "item" : {
@@ -11641,7 +11809,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:54:14Z"
+        "value" : "2022-05-21T07:28:06Z"
       }
     }, {
       "item" : {
@@ -11713,7 +11881,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:52:11Z"
+        "value" : "2022-05-20T00:13:32Z"
       }
     }, {
       "item" : {
@@ -11905,7 +12073,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:54:16Z"
+        "value" : "2022-05-18T01:52:59Z"
       }
     }, {
       "item" : {
@@ -11929,7 +12097,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:30:59Z"
+        "value" : "2022-05-22T21:59:42Z"
       }
     }, {
       "item" : {
@@ -12217,7 +12385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:56:43Z"
+        "value" : "2022-05-13T15:05:46Z"
       }
     }, {
       "item" : {
@@ -12481,7 +12649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:50:02Z"
+        "value" : "2022-05-22T03:33:10Z"
       }
     }, {
       "item" : {
@@ -12505,7 +12673,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:54:20Z"
+        "value" : "2022-05-17T21:10:48Z"
       }
     }, {
       "item" : {
@@ -12553,7 +12721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-01T18:14:16Z"
+        "value" : "2022-05-17T22:11:16Z"
       }
     }, {
       "item" : {
@@ -13081,7 +13249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:48:17Z"
+        "value" : "2022-05-17T23:34:07Z"
       }
     }, {
       "item" : {
@@ -13249,7 +13417,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:56:18Z"
+        "value" : "2022-05-21T23:00:39Z"
       }
     }, {
       "item" : {
@@ -13321,7 +13489,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-22T17:31:50Z"
+        "value" : "2022-05-20T00:09:15Z"
       }
     }, {
       "item" : {
@@ -13345,7 +13513,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:57Z"
+        "value" : "2022-05-22T15:21:29Z"
       }
     }, {
       "item" : {
@@ -13393,7 +13561,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-09T15:30:12Z"
+        "value" : "2022-05-20T22:55:51Z"
       }
     }, {
       "item" : {
@@ -13585,7 +13753,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:58Z"
+        "value" : "2022-05-18T23:58:12Z"
       }
     }, {
       "item" : {
@@ -13926,6 +14094,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34629338"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Human migration is important in the international spread of exotic Salmonella serovars in animal and human populations"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905323"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:36:33Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q34635567"
       },
       "itemLabel" : {
@@ -14137,7 +14329,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:11Z"
+        "value" : "2022-05-21T07:44:08Z"
       }
     }, {
       "item" : {
@@ -14473,7 +14665,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:08Z"
+        "value" : "2022-05-22T15:23:51Z"
       }
     }, {
       "item" : {
@@ -14641,7 +14833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:21:38Z"
+        "value" : "2022-05-15T09:31:55Z"
       }
     }, {
       "item" : {
@@ -14689,7 +14881,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:04Z"
+        "value" : "2022-05-20T01:00:47Z"
       }
     }, {
       "item" : {
@@ -14761,7 +14953,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:05Z"
+        "value" : "2022-05-22T15:21:29Z"
       }
     }, {
       "item" : {
@@ -14886,6 +15078,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34945368"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Human genetic susceptibility to invasive aspergillosis"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:37:26Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q34945768"
       },
       "itemLabel" : {
@@ -14929,7 +15145,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T22:11:38Z"
+        "value" : "2022-05-15T17:47:53Z"
       }
     }, {
       "item" : {
@@ -15625,7 +15841,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:49:28Z"
+        "value" : "2022-05-22T05:47:07Z"
       }
     }, {
       "item" : {
@@ -15961,7 +16177,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:53:16Z"
+        "value" : "2022-05-16T17:02:59Z"
       }
     }, {
       "item" : {
@@ -16033,7 +16249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:19Z"
+        "value" : "2022-05-22T03:53:44Z"
       }
     }, {
       "item" : {
@@ -16153,7 +16369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:24:17Z"
+        "value" : "2022-05-21T04:50:07Z"
       }
     }, {
       "item" : {
@@ -16225,7 +16441,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:48:27Z"
+        "value" : "2022-05-20T23:23:46Z"
       }
     }, {
       "item" : {
@@ -16273,7 +16489,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:11Z"
+        "value" : "2022-05-16T17:14:14Z"
       }
     }, {
       "item" : {
@@ -16873,7 +17089,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:17Z"
+        "value" : "2022-05-22T16:14:06Z"
       }
     }, {
       "item" : {
@@ -16993,7 +17209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:50:11Z"
+        "value" : "2022-05-21T07:30:03Z"
       }
     }, {
       "item" : {
@@ -17065,7 +17281,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:50:47Z"
+        "value" : "2022-05-22T01:27:55Z"
       }
     }, {
       "item" : {
@@ -17113,7 +17329,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:21Z"
+        "value" : "2022-05-20T00:36:57Z"
       }
     }, {
       "item" : {
@@ -17329,7 +17545,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:24Z"
+        "value" : "2022-05-21T07:47:33Z"
       }
     }, {
       "item" : {
@@ -17449,7 +17665,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:55:28Z"
+        "value" : "2022-05-21T22:03:44Z"
       }
     }, {
       "item" : {
@@ -17665,7 +17881,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:28Z"
+        "value" : "2022-05-22T16:52:12Z"
       }
     }, {
       "item" : {
@@ -17737,7 +17953,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:29Z"
+        "value" : "2022-05-21T23:09:38Z"
       }
     }, {
       "item" : {
@@ -18217,7 +18433,31 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:05Z"
+        "value" : "2022-05-21T20:11:18Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35857822"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cutaneous Invasive Aspergillosis: Retrospective Multicenter Study of the French Invasive-Aspergillosis Registry and Literature Review"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:37:32Z"
       }
     }, {
       "item" : {
@@ -18313,7 +18553,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T01:19:34Z"
+        "value" : "2022-05-20T00:06:59Z"
       }
     }, {
       "item" : {
@@ -18481,7 +18721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:47:56Z"
+        "value" : "2022-05-22T00:36:04Z"
       }
     }, {
       "item" : {
@@ -18673,7 +18913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:55:33Z"
+        "value" : "2022-05-22T15:02:53Z"
       }
     }, {
       "item" : {
@@ -18745,7 +18985,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:16:10Z"
+        "value" : "2022-05-22T02:06:10Z"
       }
     }, {
       "item" : {
@@ -18793,7 +19033,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:48:09Z"
+        "value" : "2022-05-21T06:47:20Z"
       }
     }, {
       "item" : {
@@ -19009,7 +19249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:47:48Z"
+        "value" : "2022-05-21T09:36:47Z"
       }
     }, {
       "item" : {
@@ -19129,7 +19369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:14Z"
+        "value" : "2022-05-14T12:02:03Z"
       }
     }, {
       "item" : {
@@ -19897,7 +20137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T16:18:44Z"
+        "value" : "2022-05-22T00:16:50Z"
       }
     }, {
       "item" : {
@@ -19921,7 +20161,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-29T13:06:57Z"
+        "value" : "2022-05-20T22:54:55Z"
       }
     }, {
       "item" : {
@@ -20670,6 +20910,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38679742"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Translational Development and Application of (1→3)-β-d-Glucan for Diagnosis and Therapeutic Monitoring of Invasive Mycoses."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905323"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-16T11:56:52Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q40102134"
       },
       "itemLabel" : {
@@ -20690,6 +20954,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T22:20:34Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40109690"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simultaneous primary invasive cutaneous aspergillosis in two preterm twins: case report and review of the literature."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:40:38Z"
       }
     }, {
       "item" : {
@@ -21001,7 +21289,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:50:54Z"
+        "value" : "2022-05-22T14:49:13Z"
       }
     }, {
       "item" : {
@@ -21073,7 +21361,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:48:25Z"
+        "value" : "2022-05-16T17:30:50Z"
       }
     }, {
       "item" : {
@@ -21198,6 +21486,54 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46274336"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bio-invasive ascidians in Ireland: A threat for the shellfish industry but also a source of high added value products."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:43:36Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46301638"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Validity of a minimally invasive autopsy for cause of death determination in maternal deaths in Mozambique: An observational study."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T00:48:31Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q46990904"
       },
       "itemLabel" : {
@@ -21242,6 +21578,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T23:56:56Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47133760"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Molecular and Phenotypic Basis of the Glioma Invasive Perivascular Niche."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905323"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T23:55:09Z"
       }
     }, {
       "item" : {
@@ -21385,7 +21745,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T16:15:06Z"
+        "value" : "2022-05-21T01:16:20Z"
       }
     }, {
       "item" : {
@@ -21409,7 +21769,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:05Z"
+        "value" : "2022-05-21T04:02:35Z"
       }
     }, {
       "item" : {
@@ -21481,7 +21841,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:06Z"
+        "value" : "2022-05-20T01:20:11Z"
       }
     }, {
       "item" : {
@@ -21577,7 +21937,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-14T21:45:06Z"
+        "value" : "2022-05-20T01:14:00Z"
       }
     }, {
       "item" : {
@@ -21649,7 +22009,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:10Z"
+        "value" : "2022-05-22T14:49:23Z"
       }
     }, {
       "item" : {
@@ -22163,7 +22523,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The reproductive biology of Saccharum spontaneum L.: implications for management of this invasive weed in Panama"
+        "value" : "The reproductive biology of Saccharum spontaneum L.: implications for management of this invasive weed in Panama"
       },
       "license" : {
         "type" : "uri",
@@ -22211,7 +22571,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Understanding misunderstandings in invasion science: why experts don’t agree on common concepts and risk assessments"
+        "value" : "Understanding misunderstandings in invasion science: why experts don’t agree on common concepts and risk assessments"
       },
       "license" : {
         "type" : "uri",
@@ -22307,7 +22667,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The role of eco-evolutionary experience in invasion success"
+        "value" : "The role of eco-evolutionary experience in invasion success"
       },
       "license" : {
         "type" : "uri",
@@ -22345,7 +22705,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:33:44Z"
+        "value" : "2022-05-22T15:21:30Z"
       }
     }, {
       "item" : {
@@ -22393,7 +22753,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T13:23:49Z"
+        "value" : "2022-05-14T01:22:20Z"
       }
     }, {
       "item" : {
@@ -22441,7 +22801,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:45Z"
+        "value" : "2022-05-22T14:46:30Z"
       }
     }, {
       "item" : {
@@ -22537,7 +22897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:09:11Z"
+        "value" : "2022-05-22T14:16:02Z"
       }
     }, {
       "item" : {
@@ -22633,7 +22993,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:46Z"
+        "value" : "2022-05-22T14:49:24Z"
       }
     }, {
       "item" : {
@@ -22705,7 +23065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:15:58Z"
+        "value" : "2022-05-21T02:39:27Z"
       }
     }, {
       "item" : {
@@ -22729,7 +23089,31 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T00:31:48Z"
+        "value" : "2022-05-21T03:29:59Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51295222"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emissions of nitrous oxide and nitric oxide from soils of native and exotic ecosystems of the Amazon and Cerrado regions of Brazil."
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14947546"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 3.0 Unported"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T23:44:38Z"
       }
     }, {
       "item" : {
@@ -22753,7 +23137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:08Z"
+        "value" : "2022-05-22T19:45:11Z"
       }
     }, {
       "item" : {
@@ -22825,7 +23209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:09Z"
+        "value" : "2022-05-21T00:15:37Z"
       }
     }, {
       "item" : {
@@ -22849,7 +23233,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:10Z"
+        "value" : "2022-05-21T00:57:28Z"
       }
     }, {
       "item" : {
@@ -22897,7 +23281,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:31:42Z"
+        "value" : "2022-05-21T04:35:20Z"
       }
     }, {
       "item" : {
@@ -22921,7 +23305,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:29:37Z"
+        "value" : "2022-05-21T01:55:48Z"
       }
     }, {
       "item" : {
@@ -22945,7 +23329,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T00:32:42Z"
+        "value" : "2022-05-21T02:39:30Z"
       }
     }, {
       "item" : {
@@ -23017,7 +23401,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:11Z"
+        "value" : "2022-05-21T01:21:21Z"
       }
     }, {
       "item" : {
@@ -23305,7 +23689,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:53Z"
+        "value" : "2022-05-16T17:31:06Z"
       }
     }, {
       "item" : {
@@ -23449,7 +23833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:32:35Z"
+        "value" : "2022-05-21T01:40:57Z"
       }
     }, {
       "item" : {
@@ -23766,6 +24150,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56654709"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Secondary Metabolites and Biological Activity of Invasive Macroalgae of Southern Europe"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6905323"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:48:36Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56817024"
       },
       "itemLabel" : {
@@ -23785,7 +24193,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:34:43Z"
+        "value" : "2022-05-21T00:21:39Z"
       }
     }, {
       "item" : {
@@ -23977,7 +24385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:31:01Z"
+        "value" : "2022-05-21T03:51:44Z"
       }
     }, {
       "item" : {
@@ -24121,7 +24529,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:07Z"
+        "value" : "2022-05-21T02:18:20Z"
       }
     }, {
       "item" : {
@@ -24193,7 +24601,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:14Z"
+        "value" : "2022-05-20T23:21:57Z"
       }
     }, {
       "item" : {
@@ -24217,7 +24625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:29:37Z"
+        "value" : "2022-05-21T02:20:21Z"
       }
     }, {
       "item" : {
@@ -24241,7 +24649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-04T06:34:42Z"
+        "value" : "2022-05-22T14:45:19Z"
       }
     }, {
       "item" : {
@@ -24265,7 +24673,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T07:41:32Z"
+        "value" : "2022-05-20T22:47:38Z"
       }
     }, {
       "item" : {
@@ -24290,6 +24698,30 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2022-04-03T22:21:15Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59128065"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Preparations for Invasion: Modulation of Host Lung Immunity During Pulmonary by Gliotoxin and Other Fungal Secondary Metabolites"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:51:42Z"
       }
     }, {
       "item" : {
@@ -24673,7 +25105,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T19:36:37Z"
+        "value" : "2022-05-22T14:49:10Z"
       }
     }, {
       "item" : {
@@ -24697,7 +25129,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:34:48Z"
+        "value" : "2022-05-21T04:13:52Z"
       }
     }, {
       "item" : {
@@ -24745,7 +25177,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T00:34:44Z"
+        "value" : "2022-05-21T13:39:54Z"
       }
     }, {
       "item" : {
@@ -24769,7 +25201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T19:52:49Z"
+        "value" : "2022-05-19T23:58:03Z"
       }
     }, {
       "item" : {
@@ -24865,7 +25297,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T07:43:42Z"
+        "value" : "2022-05-21T03:57:56Z"
       }
     }, {
       "item" : {
@@ -24889,7 +25321,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:20Z"
+        "value" : "2022-05-21T02:21:28Z"
       }
     }, {
       "item" : {
@@ -24913,7 +25345,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T23:18:54Z"
+        "value" : "2022-05-21T04:12:36Z"
       }
     }, {
       "item" : {
@@ -24937,7 +25369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:20Z"
+        "value" : "2022-05-20T01:13:18Z"
       }
     }, {
       "item" : {
@@ -25009,7 +25441,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:54Z"
+        "value" : "2022-05-21T03:39:42Z"
       }
     }, {
       "item" : {
@@ -25139,7 +25571,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "A LAMP-based colorimetric assay to expedite field surveillance of the invasive mosquito species Aedes aegypti and Aedes albopictus"
+        "value" : "A LAMP-based colorimetric assay to expedite field surveillance of the invasive mosquito species Aedes aegypti and Aedes albopictus"
       },
       "license" : {
         "type" : "uri",
@@ -25153,7 +25585,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-09T15:59:33Z"
+        "value" : "2022-05-18T17:03:19Z"
       }
     }, {
       "item" : {
@@ -25273,7 +25705,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:30:36Z"
+        "value" : "2022-05-21T02:56:20Z"
       }
     }, {
       "item" : {
@@ -25297,7 +25729,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T03:15:14Z"
+        "value" : "2022-05-21T04:11:50Z"
       }
     }, {
       "item" : {
@@ -25393,7 +25825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-12T10:29:12Z"
+        "value" : "2022-05-21T02:21:28Z"
       }
     }, {
       "item" : {
@@ -25417,7 +25849,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T18:00:58Z"
+        "value" : "2022-05-20T23:40:52Z"
       }
     }, {
       "item" : {
@@ -25465,7 +25897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:28:29Z"
+        "value" : "2022-05-21T03:53:46Z"
       }
     }, {
       "item" : {
@@ -25537,7 +25969,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-22T23:43:50Z"
+        "value" : "2022-05-20T01:13:11Z"
       }
     }, {
       "item" : {
@@ -25585,7 +26017,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T21:57:07Z"
+        "value" : "2022-05-21T03:04:09Z"
       }
     }, {
       "item" : {
@@ -25633,7 +26065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T03:22:20Z"
+        "value" : "2022-05-18T00:38:13Z"
       }
     }, {
       "item" : {
@@ -25705,7 +26137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-22T23:42:12Z"
+        "value" : "2022-05-22T20:58:04Z"
       }
     }, {
       "item" : {
@@ -25753,7 +26185,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T03:26:14Z"
+        "value" : "2022-05-21T01:16:16Z"
       }
     }, {
       "item" : {
@@ -25777,7 +26209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:30:34Z"
+        "value" : "2022-05-21T03:37:44Z"
       }
     }, {
       "item" : {
@@ -25849,7 +26281,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:23Z"
+        "value" : "2022-05-21T19:19:16Z"
       }
     }, {
       "item" : {
@@ -25897,7 +26329,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T14:11:27Z"
+        "value" : "2022-05-22T15:32:51Z"
       }
     }, {
       "item" : {
@@ -26089,7 +26521,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:05Z"
+        "value" : "2022-05-21T12:15:20Z"
       }
     }, {
       "item" : {
@@ -26113,7 +26545,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T17:15:41Z"
+        "value" : "2022-05-22T15:31:50Z"
       }
     }, {
       "item" : {
@@ -26209,7 +26641,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:30:30Z"
+        "value" : "2022-05-21T03:35:58Z"
       }
     }, {
       "item" : {
@@ -26358,6 +26790,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q93122728"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Getting in: The structural biology of malaria invasion"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6938433"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CC0"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:17:18Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q93147557"
       },
       "itemLabel" : {
@@ -26377,7 +26833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T06:15:13Z"
+        "value" : "2022-05-21T05:58:50Z"
       }
     }, {
       "item" : {
@@ -26593,7 +27049,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T18:01:46Z"
+        "value" : "2022-05-13T15:49:20Z"
       }
     }, {
       "item" : {
@@ -26713,7 +27169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T14:14:39Z"
+        "value" : "2022-05-20T01:04:13Z"
       }
     }, {
       "item" : {
@@ -26785,7 +27241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-22T23:35:13Z"
+        "value" : "2022-05-21T00:19:50Z"
       }
     }, {
       "item" : {
@@ -26809,7 +27265,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T22:30:05Z"
+        "value" : "2022-05-21T19:34:59Z"
       }
     }, {
       "item" : {
@@ -26838,6 +27294,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97665005"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Secondary succession through non-native dicotyledonous woody plants in New Zealand"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:59:36Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q97665255"
       },
       "itemLabel" : {
@@ -26862,6 +27342,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97666519"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Native and exotic flower visitors in the Christchurch Botanic Gardens and their contrasting plant preferences"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-14T01:59:36Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q97678106"
       },
       "itemLabel" : {
@@ -26881,7 +27385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:09Z"
+        "value" : "2022-05-21T03:03:07Z"
       }
     }, {
       "item" : {
@@ -26905,7 +27409,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:30:24Z"
+        "value" : "2022-05-21T05:15:10Z"
       }
     }, {
       "item" : {
@@ -26977,7 +27481,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-05T21:57:36Z"
+        "value" : "2022-05-21T01:23:05Z"
       }
     }, {
       "item" : {
@@ -27073,7 +27577,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:26Z"
+        "value" : "2022-05-22T14:55:13Z"
       }
     }, {
       "item" : {
