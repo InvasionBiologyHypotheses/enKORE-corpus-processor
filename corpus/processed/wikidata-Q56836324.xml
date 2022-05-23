@@ -54,9 +54,9 @@
         Dictyocoela berillonum
       </enkore:taxon>
       <enkore:habitat>
-        <wd:Q111535406 id="wd:Q2890135">
+        <enkore:ecosystem id="wd:Q2890135">
           freshwater ecosystem
-        </wd:Q111535406>
+        </enkore:ecosystem>
         <enkore:location id="wd:Q5592486">
           Grafham Water
         </enkore:location>
