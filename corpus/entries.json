@@ -73,7 +73,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T14:10:30Z"
+        "value" : "2022-08-07T10:47:51Z"
       }
     }, {
       "item" : {
@@ -97,7 +97,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:21Z"
+        "value" : "2022-08-02T10:42:05Z"
       }
     }, {
       "item" : {
@@ -433,7 +433,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T14:16:17Z"
+        "value" : "2022-07-14T19:43:47Z"
       }
     }, {
       "item" : {
@@ -457,7 +457,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T14:16:18Z"
+        "value" : "2022-07-14T19:43:44Z"
       }
     }, {
       "item" : {
@@ -625,7 +625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-07T19:41:10Z"
+        "value" : "2022-07-13T22:17:31Z"
       }
     }, {
       "item" : {
@@ -721,7 +721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T12:00:09Z"
+        "value" : "2022-08-04T07:46:52Z"
       }
     }, {
       "item" : {
@@ -889,7 +889,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:31Z"
+        "value" : "2022-07-26T12:31:51Z"
       }
     }, {
       "item" : {
@@ -913,7 +913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-19T23:59:00Z"
+        "value" : "2022-08-01T09:56:55Z"
       }
     }, {
       "item" : {
@@ -961,7 +961,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:35Z"
+        "value" : "2022-07-26T02:37:05Z"
       }
     }, {
       "item" : {
@@ -985,7 +985,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-13T21:51:42Z"
+        "value" : "2022-07-26T03:01:32Z"
       }
     }, {
       "item" : {
@@ -1009,7 +1009,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:51:40Z"
+        "value" : "2022-08-04T08:19:07Z"
       }
     }, {
       "item" : {
@@ -1057,7 +1057,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-25T06:47:37Z"
+        "value" : "2022-07-26T17:58:40Z"
       }
     }, {
       "item" : {
@@ -1081,7 +1081,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T17:17:39Z"
+        "value" : "2022-08-01T04:51:06Z"
       }
     }, {
       "item" : {
@@ -1249,7 +1249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-14T11:34:27Z"
+        "value" : "2022-07-27T00:40:22Z"
       }
     }, {
       "item" : {
@@ -1297,7 +1297,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-29T11:57:12Z"
+        "value" : "2022-07-12T00:48:32Z"
       }
     }, {
       "item" : {
@@ -1417,7 +1417,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-21T01:08:25Z"
+        "value" : "2022-07-24T12:18:20Z"
       }
     }, {
       "item" : {
@@ -1513,7 +1513,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-05T09:11:36Z"
+        "value" : "2022-07-14T07:38:03Z"
       }
     }, {
       "item" : {
@@ -1585,7 +1585,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T18:41:08Z"
+        "value" : "2022-07-21T00:48:20Z"
       }
     }, {
       "item" : {
@@ -1657,7 +1657,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-21T01:48:52Z"
+        "value" : "2022-07-13T17:27:14Z"
       }
     }, {
       "item" : {
@@ -1729,7 +1729,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T15:27:27Z"
+        "value" : "2022-07-28T05:52:40Z"
       }
     }, {
       "item" : {
@@ -1873,7 +1873,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-11T10:31:59Z"
+        "value" : "2022-07-19T02:07:27Z"
       }
     }, {
       "item" : {
@@ -1897,7 +1897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-14T13:50:53Z"
+        "value" : "2022-07-26T09:28:20Z"
       }
     }, {
       "item" : {
@@ -2161,7 +2161,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:13:33Z"
+        "value" : "2022-08-08T05:45:11Z"
       }
     }, {
       "item" : {
@@ -2353,7 +2353,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T21:09:47Z"
+        "value" : "2022-08-09T11:44:50Z"
       }
     }, {
       "item" : {
@@ -2881,7 +2881,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-11T08:36:58Z"
+        "value" : "2022-07-12T22:13:27Z"
       }
     }, {
       "item" : {
@@ -2977,7 +2977,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-11T00:39:40Z"
+        "value" : "2022-08-01T03:41:46Z"
       }
     }, {
       "item" : {
@@ -3001,7 +3001,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T12:49:26Z"
+        "value" : "2022-07-14T07:05:51Z"
       }
     }, {
       "item" : {
@@ -3121,7 +3121,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T01:47:29Z"
+        "value" : "2022-07-26T12:57:48Z"
       }
     }, {
       "item" : {
@@ -3169,7 +3169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-13T23:38:43Z"
+        "value" : "2022-07-26T12:57:39Z"
       }
     }, {
       "item" : {
@@ -3409,7 +3409,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T05:25:05Z"
+        "value" : "2022-07-29T22:21:06Z"
       }
     }, {
       "item" : {
@@ -3433,7 +3433,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T15:44:08Z"
+        "value" : "2022-07-16T00:06:11Z"
       }
     }, {
       "item" : {
@@ -3553,7 +3553,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-22T18:55:44Z"
+        "value" : "2022-07-29T20:13:09Z"
       }
     }, {
       "item" : {
@@ -3577,7 +3577,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-26T07:40:49Z"
+        "value" : "2022-07-29T20:13:59Z"
       }
     }, {
       "item" : {
@@ -3697,7 +3697,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T23:49:17Z"
+        "value" : "2022-08-05T14:05:46Z"
       }
     }, {
       "item" : {
@@ -3721,7 +3721,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:21Z"
+        "value" : "2022-08-05T09:55:01Z"
       }
     }, {
       "item" : {
@@ -3745,7 +3745,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:17:37Z"
+        "value" : "2022-08-08T16:53:25Z"
       }
     }, {
       "item" : {
@@ -3769,7 +3769,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:26:33Z"
+        "value" : "2022-08-07T12:30:41Z"
       }
     }, {
       "item" : {
@@ -3817,7 +3817,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T15:40:41Z"
+        "value" : "2022-08-02T08:53:40Z"
       }
     }, {
       "item" : {
@@ -4201,7 +4201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T19:43:00Z"
+        "value" : "2022-07-28T13:44:11Z"
       }
     }, {
       "item" : {
@@ -4225,7 +4225,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T01:29:03Z"
+        "value" : "2022-08-02T20:48:08Z"
       }
     }, {
       "item" : {
@@ -4249,7 +4249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:28:48Z"
+        "value" : "2022-07-14T19:07:43Z"
       }
     }, {
       "item" : {
@@ -4345,7 +4345,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T13:59:51Z"
+        "value" : "2022-07-16T05:46:07Z"
       }
     }, {
       "item" : {
@@ -4441,7 +4441,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:28:50Z"
+        "value" : "2022-07-27T00:27:56Z"
       }
     }, {
       "item" : {
@@ -4609,7 +4609,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:28:47Z"
+        "value" : "2022-08-04T07:29:15Z"
       }
     }, {
       "item" : {
@@ -4705,7 +4705,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-07T08:38:57Z"
+        "value" : "2022-08-02T23:27:04Z"
       }
     }, {
       "item" : {
@@ -4825,7 +4825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T12:58:30Z"
+        "value" : "2022-07-22T16:00:36Z"
       }
     }, {
       "item" : {
@@ -4849,7 +4849,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:04:16Z"
+        "value" : "2022-07-22T16:00:40Z"
       }
     }, {
       "item" : {
@@ -4873,7 +4873,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-02T14:43:25Z"
+        "value" : "2022-07-29T17:00:01Z"
       }
     }, {
       "item" : {
@@ -4945,7 +4945,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-02T08:11:25Z"
+        "value" : "2022-07-29T16:45:22Z"
       }
     }, {
       "item" : {
@@ -5161,7 +5161,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T11:10:05Z"
+        "value" : "2022-07-20T06:10:57Z"
       }
     }, {
       "item" : {
@@ -5977,7 +5977,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:15Z"
+        "value" : "2022-07-22T16:04:48Z"
       }
     }, {
       "item" : {
@@ -6049,7 +6049,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:32:07Z"
+        "value" : "2022-07-14T20:15:28Z"
       }
     }, {
       "item" : {
@@ -6121,7 +6121,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T13:56:36Z"
+        "value" : "2022-07-12T02:02:12Z"
       }
     }, {
       "item" : {
@@ -6217,7 +6217,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:02:45Z"
+        "value" : "2022-07-20T01:23:55Z"
       }
     }, {
       "item" : {
@@ -6313,7 +6313,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:03:47Z"
+        "value" : "2022-07-12T02:02:26Z"
       }
     }, {
       "item" : {
@@ -6625,7 +6625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-26T06:58:52Z"
+        "value" : "2022-07-26T03:41:17Z"
       }
     }, {
       "item" : {
@@ -6793,7 +6793,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:40:46Z"
+        "value" : "2022-07-29T09:32:49Z"
       }
     }, {
       "item" : {
@@ -6913,7 +6913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T07:54:47Z"
+        "value" : "2022-07-29T17:09:47Z"
       }
     }, {
       "item" : {
@@ -7153,7 +7153,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-21T02:39:57Z"
+        "value" : "2022-07-13T18:10:56Z"
       }
     }, {
       "item" : {
@@ -7201,7 +7201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-10T10:50:05Z"
+        "value" : "2022-07-21T09:27:01Z"
       }
     }, {
       "item" : {
@@ -7321,7 +7321,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-03T06:54:24Z"
+        "value" : "2022-07-25T10:37:33Z"
       }
     }, {
       "item" : {
@@ -7513,7 +7513,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:58:44Z"
+        "value" : "2022-07-12T02:40:09Z"
       }
     }, {
       "item" : {
@@ -7585,7 +7585,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T06:44:45Z"
+        "value" : "2022-08-08T12:14:40Z"
       }
     }, {
       "item" : {
@@ -7825,7 +7825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T14:48:10Z"
+        "value" : "2022-07-22T13:35:45Z"
       }
     }, {
       "item" : {
@@ -7897,7 +7897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:18:46Z"
+        "value" : "2022-08-01T05:24:37Z"
       }
     }, {
       "item" : {
@@ -7993,7 +7993,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T14:29:40Z"
+        "value" : "2022-07-16T05:46:08Z"
       }
     }, {
       "item" : {
@@ -8209,7 +8209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T11:15:14Z"
+        "value" : "2022-08-01T22:21:22Z"
       }
     }, {
       "item" : {
@@ -8257,7 +8257,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T08:11:45Z"
+        "value" : "2022-07-25T09:47:04Z"
       }
     }, {
       "item" : {
@@ -8377,7 +8377,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-22T15:33:52Z"
+        "value" : "2022-07-17T15:30:44Z"
       }
     }, {
       "item" : {
@@ -8401,7 +8401,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T08:10:40Z"
+        "value" : "2022-07-19T00:31:25Z"
       }
     }, {
       "item" : {
@@ -8689,7 +8689,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T08:13:23Z"
+        "value" : "2022-08-01T03:37:40Z"
       }
     }, {
       "item" : {
@@ -9073,7 +9073,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-02T18:24:59Z"
+        "value" : "2022-07-12T23:28:34Z"
       }
     }, {
       "item" : {
@@ -9121,7 +9121,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:02Z"
+        "value" : "2022-07-26T05:55:02Z"
       }
     }, {
       "item" : {
@@ -9649,7 +9649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T02:38:34Z"
+        "value" : "2022-07-16T05:46:13Z"
       }
     }, {
       "item" : {
@@ -10201,7 +10201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-09T15:36:24Z"
+        "value" : "2022-08-03T02:24:33Z"
       }
     }, {
       "item" : {
@@ -10297,7 +10297,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-03T01:18:00Z"
+        "value" : "2022-07-18T20:56:20Z"
       }
     }, {
       "item" : {
@@ -10345,7 +10345,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-12T23:49:52Z"
+        "value" : "2022-07-25T19:01:17Z"
       }
     }, {
       "item" : {
@@ -10441,7 +10441,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:05Z"
+        "value" : "2022-07-22T13:35:45Z"
       }
     }, {
       "item" : {
@@ -10585,7 +10585,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:23Z"
+        "value" : "2022-07-12T23:03:02Z"
       }
     }, {
       "item" : {
@@ -10945,7 +10945,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-22T16:10:00Z"
+        "value" : "2022-08-06T00:34:59Z"
       }
     }, {
       "item" : {
@@ -10993,7 +10993,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:52:07Z"
+        "value" : "2022-08-08T12:14:54Z"
       }
     }, {
       "item" : {
@@ -11113,7 +11113,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:40:10Z"
+        "value" : "2022-07-27T00:34:02Z"
       }
     }, {
       "item" : {
@@ -11137,7 +11137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:49:46Z"
+        "value" : "2022-07-13T18:18:52Z"
       }
     }, {
       "item" : {
@@ -11785,7 +11785,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T14:36:36Z"
+        "value" : "2022-07-16T05:46:18Z"
       }
     }, {
       "item" : {
@@ -12385,7 +12385,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:40Z"
+        "value" : "2022-07-13T17:27:23Z"
       }
     }, {
       "item" : {
@@ -12529,7 +12529,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:54:18Z"
+        "value" : "2022-07-14T08:06:14Z"
       }
     }, {
       "item" : {
@@ -12913,7 +12913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:06Z"
+        "value" : "2022-07-16T05:46:24Z"
       }
     }, {
       "item" : {
@@ -13489,7 +13489,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-11T11:30:23Z"
+        "value" : "2022-07-12T23:09:54Z"
       }
     }, {
       "item" : {
@@ -13897,7 +13897,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:48:18Z"
+        "value" : "2022-08-01T01:35:36Z"
       }
     }, {
       "item" : {
@@ -14593,7 +14593,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T09:04:55Z"
+        "value" : "2022-08-01T05:00:12Z"
       }
     }, {
       "item" : {
@@ -14665,7 +14665,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T12:22:18Z"
+        "value" : "2022-07-29T13:37:04Z"
       }
     }, {
       "item" : {
@@ -14785,7 +14785,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-29T20:24:20Z"
+        "value" : "2022-08-01T01:35:37Z"
       }
     }, {
       "item" : {
@@ -15193,7 +15193,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T23:48:41Z"
+        "value" : "2022-08-10T07:15:51Z"
       }
     }, {
       "item" : {
@@ -15241,7 +15241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-13T00:25:11Z"
+        "value" : "2022-07-24T17:09:15Z"
       }
     }, {
       "item" : {
@@ -15529,7 +15529,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T21:52:25Z"
+        "value" : "2022-07-12T23:10:23Z"
       }
     }, {
       "item" : {
@@ -15553,7 +15553,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:07Z"
+        "value" : "2022-07-29T13:47:30Z"
       }
     }, {
       "item" : {
@@ -15577,7 +15577,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T22:50:15Z"
+        "value" : "2022-07-12T22:59:39Z"
       }
     }, {
       "item" : {
@@ -15817,7 +15817,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-10T19:56:15Z"
+        "value" : "2022-07-22T16:15:53Z"
       }
     }, {
       "item" : {
@@ -15865,7 +15865,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:56:52Z"
+        "value" : "2022-08-09T14:37:23Z"
       }
     }, {
       "item" : {
@@ -16201,7 +16201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T00:31:42Z"
+        "value" : "2022-07-12T22:15:23Z"
       }
     }, {
       "item" : {
@@ -16273,7 +16273,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T12:16:11Z"
+        "value" : "2022-08-01T22:53:06Z"
       }
     }, {
       "item" : {
@@ -16393,7 +16393,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:09Z"
+        "value" : "2022-07-14T23:27:25Z"
       }
     }, {
       "item" : {
@@ -16417,7 +16417,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T05:50:13Z"
+        "value" : "2022-07-29T15:01:46Z"
       }
     }, {
       "item" : {
@@ -16513,7 +16513,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:19Z"
+        "value" : "2022-07-29T15:15:53Z"
       }
     }, {
       "item" : {
@@ -16777,7 +16777,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-13T05:14:21Z"
+        "value" : "2022-07-23T02:45:21Z"
       }
     }, {
       "item" : {
@@ -16825,7 +16825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:12Z"
+        "value" : "2022-07-13T18:19:01Z"
       }
     }, {
       "item" : {
@@ -16849,7 +16849,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:57:21Z"
+        "value" : "2022-07-16T05:46:29Z"
       }
     }, {
       "item" : {
@@ -16969,7 +16969,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:14Z"
+        "value" : "2022-07-14T23:30:36Z"
       }
     }, {
       "item" : {
@@ -16993,7 +16993,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-02T06:33:03Z"
+        "value" : "2022-07-23T19:23:50Z"
       }
     }, {
       "item" : {
@@ -17065,7 +17065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T19:40:32Z"
+        "value" : "2022-08-01T05:42:26Z"
       }
     }, {
       "item" : {
@@ -17113,7 +17113,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-08T23:52:29Z"
+        "value" : "2022-08-06T00:43:30Z"
       }
     }, {
       "item" : {
@@ -17185,7 +17185,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-21T00:36:52Z"
+        "value" : "2022-07-26T10:59:27Z"
       }
     }, {
       "item" : {
@@ -17257,7 +17257,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-22T16:14:06Z"
+        "value" : "2022-07-24T13:46:24Z"
       }
     }, {
       "item" : {
@@ -17305,7 +17305,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:18Z"
+        "value" : "2022-07-26T04:37:27Z"
       }
     }, {
       "item" : {
@@ -17569,7 +17569,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:22Z"
+        "value" : "2022-07-30T03:52:09Z"
       }
     }, {
       "item" : {
@@ -17713,7 +17713,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-21T07:47:33Z"
+        "value" : "2022-08-01T04:07:38Z"
       }
     }, {
       "item" : {
@@ -17833,7 +17833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-21T22:03:44Z"
+        "value" : "2022-08-02T20:17:26Z"
       }
     }, {
       "item" : {
@@ -17929,7 +17929,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:27Z"
+        "value" : "2022-07-12T22:59:05Z"
       }
     }, {
       "item" : {
@@ -17953,7 +17953,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:19:27Z"
+        "value" : "2022-08-01T22:47:57Z"
       }
     }, {
       "item" : {
@@ -18145,7 +18145,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T11:37:46Z"
+        "value" : "2022-08-01T03:52:14Z"
       }
     }, {
       "item" : {
@@ -18505,7 +18505,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:15:58Z"
+        "value" : "2022-07-14T07:18:52Z"
       }
     }, {
       "item" : {
@@ -18649,7 +18649,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:06Z"
+        "value" : "2022-08-05T23:44:00Z"
       }
     }, {
       "item" : {
@@ -18745,7 +18745,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:07Z"
+        "value" : "2022-08-10T10:10:00Z"
       }
     }, {
       "item" : {
@@ -18913,7 +18913,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T15:54:02Z"
+        "value" : "2022-07-29T20:30:55Z"
       }
     }, {
       "item" : {
@@ -19129,7 +19129,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:56:01Z"
+        "value" : "2022-07-18T02:28:23Z"
       }
     }, {
       "item" : {
@@ -19249,7 +19249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T07:56:36Z"
+        "value" : "2022-07-16T05:46:40Z"
       }
     }, {
       "item" : {
@@ -19321,7 +19321,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T08:03:52Z"
+        "value" : "2022-08-01T04:06:43Z"
       }
     }, {
       "item" : {
@@ -19369,7 +19369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-03T01:18:15Z"
+        "value" : "2022-07-18T20:56:27Z"
       }
     }, {
       "item" : {
@@ -19729,7 +19729,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-24T08:07:34Z"
+        "value" : "2022-08-06T05:46:16Z"
       }
     }, {
       "item" : {
@@ -19825,7 +19825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-18T16:00:16Z"
+        "value" : "2022-07-26T04:06:06Z"
       }
     }, {
       "item" : {
@@ -19849,7 +19849,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-08T17:10:48Z"
+        "value" : "2022-08-01T04:07:39Z"
       }
     }, {
       "item" : {
@@ -20113,7 +20113,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-22T12:10:30Z"
+        "value" : "2022-07-16T05:46:43Z"
       }
     }, {
       "item" : {
@@ -20507,7 +20507,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The role of Australian mosquito species in the transmission of endemic and exotic West Nile virus strains."
+        "value" : "The role of Australian mosquito species in the transmission of endemic and exotic West Nile virus strains"
       },
       "license" : {
         "type" : "uri",
@@ -20521,7 +20521,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T07:57:33Z"
+        "value" : "2022-07-31T06:21:47Z"
       }
     }, {
       "item" : {
@@ -20579,7 +20579,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Genomic characterisation of invasive non-typhoidal Salmonella enterica Subspecies enterica Serovar Bovismorbificans isolates from Malawi."
+        "value" : "Genomic characterisation of invasive non-typhoidal Salmonella enterica Subspecies enterica Serovar Bovismorbificans isolates from Malawi"
       },
       "license" : {
         "type" : "uri",
@@ -20593,7 +20593,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:51:16Z"
+        "value" : "2022-08-09T12:08:33Z"
       }
     }, {
       "item" : {
@@ -20617,7 +20617,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:26:13Z"
+        "value" : "2022-08-09T11:26:01Z"
       }
     }, {
       "item" : {
@@ -20627,7 +20627,7 @@
       "itemLabel" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "The significance of cytogenetics for the study of karyotype evolution and taxonomy of water bugs (Heteroptera, Belostomatidae) native to Argentina."
+        "value" : "The significance of cytogenetics for the study of karyotype evolution and taxonomy of water bugs (Heteroptera, Belostomatidae) native to Argentina"
       },
       "license" : {
         "type" : "uri",
@@ -20641,7 +20641,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-06T17:49:40Z"
+        "value" : "2022-08-10T06:07:46Z"
       }
     }, {
       "item" : {
@@ -20713,7 +20713,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:27Z"
+        "value" : "2022-08-01T22:12:04Z"
       }
     }, {
       "item" : {
@@ -20833,7 +20833,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T07:57:52Z"
+        "value" : "2022-07-29T17:11:19Z"
       }
     }, {
       "item" : {
@@ -21169,7 +21169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-11T00:31:39Z"
+        "value" : "2022-07-12T00:49:34Z"
       }
     }, {
       "item" : {
@@ -21337,7 +21337,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:20:35Z"
+        "value" : "2022-08-01T01:18:30Z"
       }
     }, {
       "item" : {
@@ -21457,7 +21457,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-22T14:49:13Z"
+        "value" : "2022-07-19T01:21:39Z"
       }
     }, {
       "item" : {
@@ -21985,7 +21985,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T22:21:06Z"
+        "value" : "2022-07-12T23:10:18Z"
       }
     }, {
       "item" : {
@@ -22057,7 +22057,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-07T00:24:43Z"
+        "value" : "2022-08-01T02:03:58Z"
       }
     }, {
       "item" : {
@@ -22201,7 +22201,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-29T12:07:50Z"
+        "value" : "2022-07-26T13:41:10Z"
       }
     }, {
       "item" : {
@@ -22369,7 +22369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-09T15:34:36Z"
+        "value" : "2022-07-26T12:52:32Z"
       }
     }, {
       "item" : {
@@ -22393,7 +22393,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:11Z"
+        "value" : "2022-08-01T03:51:04Z"
       }
     }, {
       "item" : {
@@ -22657,7 +22657,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-15T22:27:20Z"
+        "value" : "2022-07-12T00:49:37Z"
       }
     }, {
       "item" : {
@@ -22753,7 +22753,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-12T10:41:22Z"
+        "value" : "2022-07-13T17:27:07Z"
       }
     }, {
       "item" : {
@@ -22825,7 +22825,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:08Z"
+        "value" : "2022-07-13T17:30:29Z"
       }
     }, {
       "item" : {
@@ -22969,7 +22969,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-22T14:46:30Z"
+        "value" : "2022-07-12T09:13:41Z"
       }
     }, {
       "item" : {
@@ -23137,7 +23137,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T20:07:06Z"
+        "value" : "2022-07-12T02:02:14Z"
       }
     }, {
       "item" : {
@@ -23209,7 +23209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T00:21:13Z"
+        "value" : "2022-08-01T04:07:46Z"
       }
     }, {
       "item" : {
@@ -23257,7 +23257,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-14T09:17:28Z"
+        "value" : "2022-07-12T02:38:29Z"
       }
     }, {
       "item" : {
@@ -23401,7 +23401,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T11:20:40Z"
+        "value" : "2022-07-16T05:47:15Z"
       }
     }, {
       "item" : {
@@ -23425,7 +23425,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-07T00:31:08Z"
+        "value" : "2022-07-25T23:58:09Z"
       }
     }, {
       "item" : {
@@ -23449,7 +23449,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-11T04:02:04Z"
+        "value" : "2022-08-03T01:20:37Z"
       }
     }, {
       "item" : {
@@ -23569,7 +23569,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-20T18:50:50Z"
+        "value" : "2022-08-06T07:07:58Z"
       }
     }, {
       "item" : {
@@ -23665,7 +23665,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:20Z"
+        "value" : "2022-07-31T22:02:44Z"
       }
     }, {
       "item" : {
@@ -23689,7 +23689,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:29:08Z"
+        "value" : "2022-08-01T03:43:44Z"
       }
     }, {
       "item" : {
@@ -23785,7 +23785,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-03-22T13:51:24Z"
+        "value" : "2022-08-01T02:52:50Z"
       }
     }, {
       "item" : {
@@ -24097,7 +24097,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:57Z"
+        "value" : "2022-07-13T17:27:11Z"
       }
     }, {
       "item" : {
@@ -24217,7 +24217,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-19T22:51:00Z"
+        "value" : "2022-07-12T00:57:13Z"
       }
     }, {
       "item" : {
@@ -24241,7 +24241,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-03T23:55:56Z"
+        "value" : "2022-07-18T03:07:32Z"
       }
     }, {
       "item" : {
@@ -24337,7 +24337,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T07:59:50Z"
+        "value" : "2022-07-17T23:06:04Z"
       }
     }, {
       "item" : {
@@ -24457,7 +24457,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-05T02:38:48Z"
+        "value" : "2022-07-16T05:48:37Z"
       }
     }, {
       "item" : {
@@ -24625,7 +24625,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-16T21:58:00Z"
+        "value" : "2022-07-13T17:26:17Z"
       }
     }, {
       "item" : {
@@ -24697,7 +24697,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-21T02:18:20Z"
+        "value" : "2022-07-23T02:40:22Z"
       }
     }, {
       "item" : {
@@ -25225,7 +25225,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-26T06:00:32Z"
+        "value" : "2022-07-26T09:56:01Z"
       }
     }, {
       "item" : {
@@ -25249,7 +25249,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-01T13:30:56Z"
+        "value" : "2022-08-09T11:44:53Z"
       }
     }, {
       "item" : {
@@ -25369,7 +25369,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-19T23:58:03Z"
+        "value" : "2022-07-12T21:54:46Z"
       }
     }, {
       "item" : {
@@ -25393,7 +25393,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-07-01T08:22:01Z"
+        "value" : "2022-07-29T15:14:54Z"
       }
     }, {
       "item" : {
@@ -25609,7 +25609,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-09T15:59:26Z"
+        "value" : "2022-07-26T17:21:42Z"
       }
     }, {
       "item" : {
@@ -25681,7 +25681,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-10T02:19:12Z"
+        "value" : "2022-08-01T06:12:58Z"
       }
     }, {
       "item" : {
@@ -25753,7 +25753,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-20T02:12:50Z"
+        "value" : "2022-07-26T06:53:52Z"
       }
     }, {
       "item" : {
@@ -26017,7 +26017,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T14:40:00Z"
+        "value" : "2022-07-22T17:02:32Z"
       }
     }, {
       "item" : {
@@ -26041,7 +26041,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-04T23:59:31Z"
+        "value" : "2022-07-13T17:26:33Z"
       }
     }, {
       "item" : {
@@ -26065,7 +26065,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-18T10:46:31Z"
+        "value" : "2022-07-13T21:30:49Z"
       }
     }, {
       "item" : {
@@ -26209,7 +26209,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T18:34:11Z"
+        "value" : "2022-07-15T12:21:14Z"
       }
     }, {
       "item" : {
@@ -26257,7 +26257,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-11T03:46:03Z"
+        "value" : "2022-07-26T05:16:47Z"
       }
     }, {
       "item" : {
@@ -26689,7 +26689,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-02T14:17:42Z"
+        "value" : "2022-08-01T01:06:42Z"
       }
     }, {
       "item" : {
@@ -27102,6 +27102,30 @@
     }, {
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q94954738"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plasticity Is Key to Success of Drosophila suzukii (Diptera: Drosophilidae) Invasion"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-07-29T14:56:07Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q95293791"
       },
       "itemLabel" : {
@@ -27145,7 +27169,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-28T06:00:59Z"
+        "value" : "2022-07-18T06:08:27Z"
       }
     }, {
       "item" : {
@@ -27529,7 +27553,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-05-14T01:59:36Z"
+        "value" : "2022-07-14T23:42:15Z"
       }
     }, {
       "item" : {
@@ -27769,7 +27793,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-04-09T15:16:40Z"
+        "value" : "2022-07-26T03:06:33Z"
       }
     }, {
       "item" : {
