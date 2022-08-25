@@ -3,6 +3,7 @@
     "@citation-js/": "https://esm.sh/@citation-js/",
     "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/citation-js-plugin/main/src/index.js",
     "wikidata-sdk": "https://esm.sh/wikidata-sdk",
-    "lodash": "https://cdn.skypack.dev/lodash"
+    "lodash": "https://cdn.skypack.dev/lodash",
+    "xmlbuilder2": "https://esm.sh/xmlbuilder2"
   }
 }
