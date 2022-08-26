@@ -43,12 +43,13 @@ const sleep = (time = 0) => new Promise((resolve) => setTimeout(resolve, time));
 async function getAbstract(src, service) {
   const id = src[service.wikidataProperty.label];
   if (id == null) {
-    return null
+    return null;
   }
   // console.log({ id });
   const url = service.url(id);
   console.log({ url });
   const res = await fetch(url);
+  if (!res.ok) return null;
   const data = await res.json();
   // console.log({ data });
   const out = get(data, service.path);
