@@ -4,6 +4,14 @@ import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
 import { get } from "lodash";
 
+const args = {
+  startAtEntryIndex: {
+    flag: "-s",
+    description: "start from initial offset",
+    parse: (argPos) => parseInt(Deno?.args?.[argPos + 1]) ?? 0,
+  },
+};
+
 const abstractSources = [
   {
     name: "crossref",
@@ -124,10 +132,18 @@ async function main() {
     });
   }
 
+  console.log(Deno.args);
+  console.log(Deno?.args?.indexOf("-s"));
+  const initOffset = parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1]) ?? 0;
+  //  args["startAtEntryIndex"].parse(
+  //   Deno?.args?.findIndex(args["startAtEntryIndex"].flag),
+  // );
+  console.log({ initOffset });
+
   const items = entries.results.bindings.map((x) => x.item.value);
 
   const size = 50;
-  for (let offset = 0; offset < items.length; offset += size) {
+  for (let offset = initOffset; offset < items.length; offset += size) {
     for (let i = offset; i < offset + size && items.length; i++) {
       if (i < items.length) {
         console.log({ offset, i });
