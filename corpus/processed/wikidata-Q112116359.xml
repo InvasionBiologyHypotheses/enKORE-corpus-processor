@@ -33,29 +33,5 @@
   <dc:subject>Physa fontinalis</dc:subject>
   <dc:subject>Physa gyrina</dc:subject>
   <dc:publisher>FapUNIFESP (SciELO)</dc:publisher>
-  <dc:description>
-    &lt;jats:p&gt;Abstract Physids belong to Class Gastropoda; belong to Phylum Mollusca and being bioindicators, intermediate hosts of parasites and pests hold a key position in the ecosystem. There are three species of Genus Physa i.e. P. fontinalis, Physa acuta and P. gyrina water bodies of Central Punjab and were characterized on the basis of molecular markers High level of genetic diversity was revealed by polymorphic RAPD, however SSR markers were not amplified. The multivariate analysis revealed polymorphism ranging from 9.09 percent to 50 percent among the three Physid species. Total number of 79 loci were observed for the three species under study and 24 loci were observed to be polymorphic. These RAPD fragment(s) can be developed into co dominant markers (SCAR) by cloning and can be further sequenced for the development of the Physa species specific markers to identify the introduced and native species in Pakistan.&lt;/jats:p&gt;
-
-    &lt;jats:kwd&#45;group kwd&#45;group&#45;type=&quot;enkore&#45;habitat&quot;&gt;
-      &lt;jats:kwd id=&quot;wd:Q2890135&quot;&gt;
-        freshwater ecosystem
-      &lt;/jats:kwd&gt;
-    &lt;/jats:kwd&#45;group&gt;
-    &lt;jats:kwd&#45;group kwd&#45;group&#45;type=&quot;enkore&#45;geographicScope&quot;&gt;
-      &lt;jats:kwd id=&quot;Q4478&quot;&gt;
-        Punjab, Pakistan
-      &lt;/jats:kwd&gt;
-    &lt;/jats:kwd&#45;group&gt;
-    &lt;jats:kwd&#45;group kwd&#45;group&#45;type=&quot;enkore&#45;temporalScope&quot;&gt;
-      &lt;jats:compound&#45;kwd&gt;
-        &lt;jats:compound&#45;kwd&#45;part content&#45;type=&quot;date&#45;start&quot;&gt;
-          October 2017
-        &lt;/jats:compound&#45;kwd&#45;part&gt;
-        &lt;jats:compound&#45;kwd&#45;part content&#45;type=&quot;date&#45;end&quot;&gt;
-          March 2018
-        &lt;/jats:compound&#45;kwd&#45;part&gt;
-      &lt;/jats:compound&#45;kwd&gt;
-    &lt;/jats:kwd&#45;group&gt;
-
-  </dc:description>
+  <dc:description>&lt;jats:p&gt;Abstract Physids belong to Class Gastropoda; belong to Phylum Mollusca and being bioindicators, intermediate hosts of parasites and pests hold a key position in the ecosystem. There are three species of Genus Physa i.e. P. fontinalis, Physa acuta and P. gyrina water bodies of Central Punjab and were characterized on the basis of molecular markers High level of genetic diversity was revealed by polymorphic RAPD, however SSR markers were not amplified. The multivariate analysis revealed polymorphism ranging from 9.09 percent to 50 percent among the three Physid species. Total number of 79 loci were observed for the three species under study and 24 loci were observed to be polymorphic. These RAPD fragment(s) can be developed into co dominant markers (SCAR) by cloning and can be further sequenced for the development of the Physa species specific markers to identify the introduced and native species in Pakistan.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>
