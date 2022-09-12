@@ -1,3 +1,5 @@
+import "https://deno.land/x/dotenv/load.ts";
+
 import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
@@ -12,62 +14,87 @@ const args = {
   },
 };
 
-const abstractSources = [
+const sources = [
   {
     name: "crossref",
-    wikidataProperty: {
+    id: {
+      type: "wikidataProperty",
       id: "P356",
       label: "DOI",
     },
     url: (id) => `https://api.crossref.org/v1/works/${id}`,
-    path: "message.abstract",
     format: "json",
+    paths: {
+      abstract: {
+        path: "message.abstract",
+      },
+      license: {
+        path: "message.license[0].URL",
+      },
+    },
   },
   {
     name: "pmc",
-    wikidataProperty: {
+    id: {
+      type: "wikidataProperty",
       id: "P932",
       label: "PMCID",
     },
     url: (id) =>
       `https://www.ebi.ac.uk/europepmc/webservices/rest/article/PMC/PMC${id}?resultType=core&format=json`,
-    path: "result.abstractText",
     format: "json",
+    paths: {
+      abstract: {
+        path: "result.abstractText",
+      },
+      license: {
+        path: "result.license",
+      },
+    },
   },
   {
     name: "pubmed",
-    wikidataProperty: {
+    id: {
+      type: "wikidataProperty",
       id: "P698",
       label: "PMID",
     },
     url: (id) =>
       `https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/${id}?resultType=core&format=json`,
-    path: "result.abstractText",
     format: "json",
+    paths: {
+      abstract: {
+        path: "result.abstractText",
+      },
+      license: {
+        path: "result.license",
+      },
+    },
   },
 ];
+
 const sleep = (time = 0) => new Promise((resolve) => setTimeout(resolve, time));
 
-async function getAbstract(src, service) {
-  const id = src[service.wikidataProperty.label];
+async function getAbstract({ id, url, path }) {
   if (id == null) {
     return null;
   }
   // console.log({ id });
-  const url = service.url(id);
-  console.log({ url });
   const res = await fetch(url);
   if (!res.ok) return null;
   const data = await res.json();
-  // console.log({ data });
-  const out = get(data, service.path);
+  const out = get(data, path);
   // console.log({ out });
   return out;
 }
 
 async function findAbstract(wikidataItem) {
-  for (const source of abstractSources) {
-    const foundAbstract = await getAbstract(wikidataItem, source);
+  for (const source of sources) {
+    const foundAbstract = await getAbstract({
+      id: wikidataItem[source.id.label],
+      url: source.url,
+      path: source.paths.abstract.path,
+    });
     if (foundAbstract) {
       console.log(`found abstract in ${source.name}`);
       return foundAbstract;
@@ -102,22 +129,24 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   return await writeTXT(filename, xml);
 }
 
-async function updateEndpoint() {
-  const url = `https://enkore.toolforge.org/api/corpus/update.php`;
+async function updateEndpoint({ url }) {
+  if (!url) return null;
   const response = await fetch(url, {
     method: "GET",
   });
-  console.log({ response });
-  const notificationresponse = await fetch(Deno.env.get("notification_url"), {
+  return await response.text();
+}
+
+async function notify({ url, message, title, tags }) {
+  return await fetch(url, {
     method: "POST",
     body: message,
     headers: {
-      Title: "Corpus Update",
+      Title: title,
       Priority: 3,
-      Tags: "package",
+      Tags: tags,
     },
   });
-  console.log({ notificationresponse });
 }
 
 async function main() {
@@ -134,7 +163,10 @@ async function main() {
 
   console.log(Deno.args);
   console.log(Deno?.args?.indexOf("-s"));
-  const initOffset = parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1]) ?? 0;
+  const initOffset =
+    Deno?.args?.indexOf("-s") < 0
+      ? 0
+      : parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1]);
   //  args["startAtEntryIndex"].parse(
   //   Deno?.args?.findIndex(args["startAtEntryIndex"].flag),
   // );
@@ -168,7 +200,16 @@ async function main() {
     await sleep(1000);
   }
 
-  updateEndpoint();
+  const corpusUpdate = await updateEndpoint({
+    url: Deno.env.get("UPDATE_URL"),
+  });
+  if (corpusUpdate && corpusUpdate != "Already up to date.")
+    notify({
+      url: Deno.env.get("NOTIFICATION_URL"),
+      title: "Corpus Update",
+      message: corpusUpdate,
+      tags: "",
+    });
 }
 
 main();
