@@ -16,13 +16,30 @@ const args = {
 
 const sources = [
   {
+    name: "wikidata",
+    getSrc: async (entity) => {
+      const src = await new citationJS.Cite.async(entity);
+      return src.data[0];
+    },
+    id: {
+      path: "item.value",
+    },
+    format: "json",
+    paths: {
+      abstract: {
+        path: "message.abstract",
+      },
+      license: {
+        path: "message.license[0].URL",
+      },
+    },
+  },
+  {
     name: "crossref",
     id: {
-      type: "wikidataProperty",
-      id: "P356",
-      label: "DOI",
+      path: "DOI.value",
     },
-    url: (id) => `https://api.crossref.org/v1/works/${id}`,
+    getSrc: (id) => fetchSrc(`https://api.crossref.org/v1/works/${id}`),
     format: "json",
     paths: {
       abstract: {
@@ -36,12 +53,12 @@ const sources = [
   {
     name: "pmc",
     id: {
-      type: "wikidataProperty",
-      id: "P932",
-      label: "PMCID",
+      path: "PMCID.value",
     },
-    url: (id) =>
-      `https://www.ebi.ac.uk/europepmc/webservices/rest/article/PMC/PMC${id}?resultType=core&format=json`,
+    getSrc: (id) =>
+      fetchSrc(
+        `https://www.ebi.ac.uk/europepmc/webservices/rest/article/PMC/PMC${id}?resultType=core&format=json`,
+      ),
     format: "json",
     paths: {
       abstract: {
@@ -55,12 +72,12 @@ const sources = [
   {
     name: "pubmed",
     id: {
-      type: "wikidataProperty",
-      id: "P698",
-      label: "PMID",
+      path: "PMID.value",
     },
-    url: (id) =>
-      `https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/${id}?resultType=core&format=json`,
+    getSrc: (id) =>
+      fetchSrc(
+        `https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/${id}?resultType=core&format=json`,
+      ),
     format: "json",
     paths: {
       abstract: {
@@ -75,17 +92,11 @@ const sources = [
 
 const sleep = (time = 0) => new Promise((resolve) => setTimeout(resolve, time));
 
-async function getAbstract({ id, url, path }) {
-  if (id == null) {
-    return null;
-  }
-  // console.log({ id });
+async function fetchSrc(url) {
+  console.log({ url });
   const res = await fetch(url);
   if (!res.ok) return null;
-  const data = await res.json();
-  const out = get(data, path);
-  // console.log({ out });
-  return out;
+  return await res.json();
 }
 
 async function findAbstract(wikidataItem) {
@@ -149,6 +160,15 @@ async function notify({ url, message, title, tags }) {
   });
 }
 
+async function getSourceData(entry, src) {
+  const id = get(entry, src.id.path);
+  console.log({ entry, src, id });
+  const out = {
+    data: await src.getSrc(id),
+  };
+  return out;
+}
+
 async function main() {
   console.log("starting main");
   let entries;
@@ -172,29 +192,20 @@ async function main() {
   // );
   console.log({ initOffset });
 
-  const items = entries.results.bindings.map((x) => x.item.value);
+  const items = [entries.results.bindings[0]]; //entries.results.bindings.map((x) => x.item.value);
 
+  console.log({ items });
   const size = 50;
   for (let offset = initOffset; offset < items.length; offset += size) {
     for (let i = offset; i < offset + size && items.length; i++) {
       if (i < items.length) {
-        console.log({ offset, i });
-        const wikidataItem = await getWikidataItem(items[i]);
-        console.log("wikidataitem id: ", wikidataItem["id"]);
-        let crossrefItem;
-        if (wikidataItem.DOI) {
-          crossrefItem = await getCrossrefItem(wikidataItem.DOI);
-        }
-        const accumulatedData = {
-          abstract: await findAbstract(wikidataItem),
-        };
-        console.log({ accumulatedData });
-        const process = await processItem({
-          wikidataItem,
-          crossrefItem,
-          accumulatedData,
-        });
-        console.log({ process });
+        const srcData = {};
+        sources.forEach(
+          (source) => (srcData[source.name] = getSourceData(items[i], source)),
+        );
+        console.log({ srcData });
+        // const process = await processItem(srcData);
+        // console.log({ process });
       }
     }
     await sleep(1000);
