@@ -829,7 +829,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-09-29T17:14:25Z"
+        "value" : "2022-10-13T13:15:11Z"
       },
       "DOI" : {
         "type" : "literal",
@@ -4130,6 +4130,34 @@
       "DOI" : {
         "type" : "literal",
         "value" : "10.3897/BDJ.9.E64535"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111158949"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Evaluating Hypotheses of Plant Species Invasions on Mediterranean Islands: Inverse Patterns between Alien and Endemic Species"
+      },
+      "license" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20007257"
+      },
+      "licenseLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creative Commons Attribution 4.0 International"
+      },
+      "entryUpdatedDate" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-10-13T13:59:52Z"
+      },
+      "DOI" : {
+        "type" : "literal",
+        "value" : "10.3389/FEVO.2017.00091"
       }
     }, {
       "item" : {
@@ -32201,7 +32229,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-06-05T09:19:09Z"
+        "value" : "2022-10-13T13:11:51Z"
       },
       "DOI" : {
         "type" : "literal",
@@ -35237,7 +35265,7 @@
       "entryUpdatedDate" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2022-09-21T18:41:14Z"
+        "value" : "2022-10-13T12:42:19Z"
       },
       "DOI" : {
         "type" : "literal",
