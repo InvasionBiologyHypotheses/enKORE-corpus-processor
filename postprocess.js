@@ -1,3 +1,5 @@
+import "https://deno.land/x/dotenv/load.ts";
+
 import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
@@ -103,14 +105,14 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 }
 
 async function updateEndpoint() {
-  const url = `https://enkore.toolforge.org/api/corpus/update.php`;
-  const response = await fetch(url, {
+  const response = await fetch(Deno.env.get("UPDATE_URL"), {
     method: "GET",
   });
   console.log({ response });
-  const notificationresponse = await fetch(Deno.env.get("notification_url"), {
+  const message = await response.text();
+  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), {
     method: "POST",
-    body: message,
+    body: message || "no response!",
     headers: {
       Title: "Corpus Update",
       Priority: 3,
@@ -134,7 +136,10 @@ async function main() {
 
   console.log(Deno.args);
   console.log(Deno?.args?.indexOf("-s"));
-  const initOffset = parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1]) ?? 0;
+  const initOffset =
+    Deno.args.indexOf("-s") >= 0
+      ? parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1])
+      : 0;
   //  args["startAtEntryIndex"].parse(
   //   Deno?.args?.findIndex(args["startAtEntryIndex"].flag),
   // );
