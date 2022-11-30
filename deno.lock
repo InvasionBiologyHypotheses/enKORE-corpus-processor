@@ -66,21 +66,21 @@
   },
   "npm": {
     "specifiers": {
-      "@citation-js/core@0.5.7": "@citation-js/core@0.5.7",
-      "@citation-js/date@0.5.1": "@citation-js/date@0.5.1",
-      "@citation-js/name@0.4.2": "@citation-js/name@0.4.2",
+      "@citation-js/core": "@citation-js/core@0.6.1",
+      "@citation-js/date": "@citation-js/date@0.5.1",
+      "@citation-js/name": "@citation-js/name@0.4.2",
       "just-safe-get": "just-safe-get@4.1.1",
-      "wikidata-sdk@8.0.3": "wikidata-sdk@8.0.3",
-      "xmlbuilder2@3.0.2": "xmlbuilder2@3.0.2"
+      "wikidata-sdk": "wikidata-sdk@8.1.0",
+      "xmlbuilder2": "xmlbuilder2@3.0.2"
     },
     "packages": {
-      "@citation-js/core@0.5.7": {
-        "integrity": "sha512-ywKqOCQfLbm59VjiQCnM7vtx9wlLjDdxU2G27V9gQASKWCAVRIgTLrT8T2PFJMmur6plMZkrsaXR5Ajfpasfug==",
+      "@citation-js/core@0.6.1": {
+        "integrity": "sha512-zvVxsAP4ciVHiZ60TmKTfjui4m6xeISSp/rtIhOcvZxZ70bBfkt83+kGnuI4xRlhB/oUrZN2fC9BSRKdivSobQ==",
         "dependencies": {
           "@citation-js/date": "@citation-js/date@0.5.1",
           "@citation-js/name": "@citation-js/name@0.4.2",
-          "isomorphic-fetch": "isomorphic-fetch@3.0.0",
-          "sync-fetch": "sync-fetch@0.3.1"
+          "fetch-ponyfill": "fetch-ponyfill@7.1.0",
+          "sync-fetch": "sync-fetch@0.4.2"
         }
       },
       "@citation-js/date@0.5.1": {
@@ -137,16 +137,13 @@
         "integrity": "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==",
         "dependencies": {}
       },
+      "fetch-ponyfill@7.1.0": {
+        "integrity": "sha512-FhbbL55dj/qdVO3YNK7ZEkshvj3eQ7EuIGV2I6ic/2YiocvyWv+7jg2s4AyS0wdRU75s3tA8ZxI/xPigb0v5Aw==",
+        "dependencies": { "node-fetch": "node-fetch@2.6.7" }
+      },
       "ieee754@1.2.1": {
         "integrity": "sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==",
         "dependencies": {}
-      },
-      "isomorphic-fetch@3.0.0": {
-        "integrity": "sha512-qvUtwJ3j6qwsF3jLxkZ72qCgjMysPzDfeV240JHiGZsANBYd+EEuu35v7dfrJ9Up0Ak07D7GGSkGhCHTqg/5wA==",
-        "dependencies": {
-          "node-fetch": "node-fetch@2.6.7",
-          "whatwg-fetch": "whatwg-fetch@3.6.2"
-        }
       },
       "js-yaml@3.14.0": {
         "integrity": "sha512-/4IbIeHcD9VMHFqDR/gQ7EdZdLimOvW2DdcxFjdyyZ9NsbS+ccrXqVWDtab/lRl5AlUqmpBx8EhPaWR+OtY17A==",
@@ -167,8 +164,8 @@
         "integrity": "sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==",
         "dependencies": {}
       },
-      "sync-fetch@0.3.1": {
-        "integrity": "sha512-xj5qiCDap/03kpci5a+qc5wSJjc8ZSixgG2EUmH1B8Ea2sfWclQA7eH40hiHPCtkCn6MCk4Wb+dqcXdCy2PP3g==",
+      "sync-fetch@0.4.2": {
+        "integrity": "sha512-vilDD6yTGwyUjm7/W5WUUOCw1GH1aV591zC21XhbV6MJNZqfZcNMs9DVPHzy1UAmQ2GAg6S03F5TQ3paegKSdg==",
         "dependencies": {
           "buffer": "buffer@5.7.1",
           "node-fetch": "node-fetch@2.6.7"
@@ -182,10 +179,6 @@
         "integrity": "sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==",
         "dependencies": {}
       },
-      "whatwg-fetch@3.6.2": {
-        "integrity": "sha512-bJlen0FcuU/0EMLrdbJ7zOnW6ITZLrZMIarMUVmdKtsGvZna8vxKYaexICWPfZ8qwf9fzNq+UEIZrnSaApt6RA==",
-        "dependencies": {}
-      },
       "whatwg-url@5.0.0": {
         "integrity": "sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw==",
         "dependencies": {
@@ -197,8 +190,8 @@
         "integrity": "sha512-aDKqAzFM+D6MQ7dSL4O6NQ0EmWGC/K7/Ngby9mBXCfAyxTzF+50y/qqio+UC5Rlm4CeE49ON894A+abjthWNcw==",
         "dependencies": {}
       },
-      "wikidata-sdk@8.0.3": {
-        "integrity": "sha512-vGLzX+eh/K2vf8v7/wURFb05YLNyRpNmQ9LrWMWAroWqiTrYTtrQoeY/aFvjYtENvL4TtywecKmuQiQ1UlcdNg==",
+      "wikidata-sdk@8.1.0": {
+        "integrity": "sha512-8v0dnY56JDRUd8YMrvSQeMjWJW5I2a2FVhm7h9Y0P9J11HrB3/utMAKaBwGOPPEMwsyjVZUvAskByepTtNvH3g==",
         "dependencies": { "wikibase-sdk": "wikibase-sdk@8.1.0" }
       },
       "xmlbuilder2@3.0.2": {
