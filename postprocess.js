@@ -4,7 +4,7 @@ import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
-import { get } from "lodash";
+import get from "just-safe-get";
 
 const args = {
   startAtEntryIndex: {
@@ -104,6 +104,25 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   return await writeTXT(filename, xml);
 }
 
+async function getItemData(item) {
+  const wikidataItem = await getWikidataItem(item);
+  console.log("wikidataitem id: ", wikidataItem["id"]);
+  let crossrefItem;
+  if (wikidataItem.DOI) {
+    crossrefItem = await getCrossrefItem(wikidataItem.DOI);
+  }
+  const accumulatedData = {
+    abstract: await findAbstract(wikidataItem),
+  };
+  console.log({ accumulatedData });
+  const process = await processItem({
+    wikidataItem,
+    crossrefItem,
+    accumulatedData,
+  });
+  console.log({ process });
+}
+
 async function updateEndpoint() {
   const response = await fetch(Deno.env.get("UPDATE_URL"), {
     method: "GET",
@@ -124,18 +143,32 @@ async function updateEndpoint() {
 
 async function main() {
   console.log("starting main");
-  let entries;
-
-  if (typeof Deno?.args?.[0] === "string") {
-    const filename = Deno.args[0];
-    entries = await readJSON(filename).catch((error) => {
-      console.log(`ERROR: ${error}`);
-      Deno.exit(1);
-    });
-  }
 
   console.log(Deno.args);
-  console.log(Deno?.args?.indexOf("-s"));
+  const argNames = ["-e", "-s"];
+  argNames.forEach((x) =>
+    console.log(
+      x,
+      Deno?.args?.indexOf(x),
+      Deno?.args?.[Deno?.args?.indexOf(x) + 1],
+    ),
+  );
+
+  let items;
+
+  if (Deno.args.indexOf("-e") >= 0) {
+    items = Deno?.args?.[Deno?.args?.indexOf("-e") + 1].split("|") || [];
+  } else {
+    let entries;
+    if (typeof Deno?.args?.[0] === "string") {
+      const filename = Deno.args[0];
+      entries = await readJSON(filename).catch((error) => {
+        console.log(`ERROR: ${error}`);
+        Deno.exit(1);
+      });
+      items = entries.results.bindings.map((x) => x.item.value);
+    }
+  }
   const initOffset =
     Deno.args.indexOf("-s") >= 0
       ? parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1])
@@ -145,35 +178,18 @@ async function main() {
   // );
   console.log({ initOffset });
 
-  const items = entries.results.bindings.map((x) => x.item.value);
-
   const size = 50;
   for (let offset = initOffset; offset < items.length; offset += size) {
     for (let i = offset; i < offset + size && items.length; i++) {
       if (i < items.length) {
         console.log({ offset, i });
-        const wikidataItem = await getWikidataItem(items[i]);
-        console.log("wikidataitem id: ", wikidataItem["id"]);
-        let crossrefItem;
-        if (wikidataItem.DOI) {
-          crossrefItem = await getCrossrefItem(wikidataItem.DOI);
-        }
-        const accumulatedData = {
-          abstract: await findAbstract(wikidataItem),
-        };
-        console.log({ accumulatedData });
-        const process = await processItem({
-          wikidataItem,
-          crossrefItem,
-          accumulatedData,
-        });
-        console.log({ process });
+        getItemData(items[i]);
       }
     }
     await sleep(1000);
   }
 
-  updateEndpoint();
+  // updateEndpoint();
 }
 
 main();

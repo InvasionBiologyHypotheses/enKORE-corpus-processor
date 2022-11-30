@@ -1,11 +1,11 @@
 {
   "imports": {
-    "@citation-js/core": "https://esm.sh/@citation-js/core@0.5.7",
-    "@citation-js/date": "https://esm.sh/@citation-js/date@0.5.1",
-    "@citation-js/name": "https://esm.sh/@citation-js/name@0.4.2",
-    "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/citation-js-plugin/main/src/index.js",
-    "wikidata-sdk": "https://esm.sh/wikidata-sdk@8.0.3",
-    "lodash": "https://cdn.skypack.dev/lodash@4.17.21",
-    "xmlbuilder2": "https://esm.sh/xmlbuilder2@3.0.2"
+    "@citation-js/core": "npm:@citation-js/core@0.5.7",
+    "@citation-js/date": "npm:@citation-js/date@0.5.1",
+    "@citation-js/name": "npm:@citation-js/name@0.4.2",
+    "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js",
+    "wikidata-sdk": "npm:wikidata-sdk@8.0.3",
+    "just-safe-get": "npm:just-safe-get",
+    "xmlbuilder2": "npm:xmlbuilder2@3.0.2"
   }
 }
