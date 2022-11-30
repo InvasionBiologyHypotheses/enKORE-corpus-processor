@@ -66,12 +66,12 @@
   },
   "npm": {
     "specifiers": {
-      "@citation-js/core": "@citation-js/core@0.6.1",
-      "@citation-js/date": "@citation-js/date@0.5.1",
-      "@citation-js/name": "@citation-js/name@0.4.2",
-      "just-safe-get": "just-safe-get@4.1.1",
-      "wikidata-sdk": "wikidata-sdk@8.1.0",
-      "xmlbuilder2": "xmlbuilder2@3.0.2"
+      "@citation-js/core@0.6.1": "@citation-js/core@0.6.1",
+      "@citation-js/date@0.5.1": "@citation-js/date@0.5.1",
+      "@citation-js/name@0.4.2": "@citation-js/name@0.4.2",
+      "just-safe-get@4.1.1": "just-safe-get@4.1.1",
+      "wikidata-sdk@8.1.0": "wikidata-sdk@8.1.0",
+      "xmlbuilder2@3.0.2": "xmlbuilder2@3.0.2"
     },
     "packages": {
       "@citation-js/core@0.6.1": {
