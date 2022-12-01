@@ -1,13 +1,20 @@
 import "https://deno.land/x/dotenv/load.ts";
 import { parse } from "https://deno.land/std@0.166.0/flags/mod.ts";
 
-import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
+import {
+  readJSON,
+  readJSONFromURL,
+  writeJSON,
+  writeTXT,
+} from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
 import get from "just-safe-get";
+import extend from "just-extend";
+import * as log from "deno-std-log";
 
-import { abstractSources, settings } from "./config.js";
+import { abstractSources, logging, settings } from "./config.js";
 
 const sleep = (time = 1000) =>
   new Promise((resolve) => setTimeout(resolve, time));
@@ -16,33 +23,79 @@ async function processArgs(args) {
   const parsedArgs = parse(args, {
     string: ["entries", "filename"],
     alias: {
-      entries: "e",
+      pull: "p",
+      url: "u",
+      items: "i",
       file: "f",
       offset: "o",
       size: "s",
       delay: "d",
     },
     default: {
-      entries: null,
-      filename: null,
+      pull: settings?.data?.pull || true,
+      url: settings?.data?.url || null,
+      items: settings?.data?.items || null,
+      file: settings?.data?.file || null,
       offset: settings?.processing?.initialOffset || 0,
       size: settings?.processing?.batchSize || 50,
       delay: settings?.processing?.processingDelay || 1000,
     },
+    boolean: ["pull"],
+    negatable: ["pull"],
   });
-
-  let items = [];
-  if (parsedArgs.e) {
-    items = [...items, ...parsedArgs.entries.split("|")];
+  /* !! Can't mush entries together - object not array!
+  Simplify first?
+  */
+  let entries = {};
+  if (parsedArgs.pull) {
+    const retrieved = await fetchURLEntries(parsedArgs.url);
+    extend(entries, retrieved);
+    if (parsedArgs.file) {
+      await saveFileEntries(parsedArgs.file, retrieved);
+    }
+  } else {
+    if (parsedArgs.file) {
+      dl.debug(`Fetching file: ${parsedArgs.file}`);
+      const read = await fetchFileEntries(parsedArgs.file);
+      extend(entries, read);
+    }
   }
-  if (parsedArgs.f) {
-    const entries = await readJSON(parsedArgs.f).catch((error) => {
-      console.error(`ERROR: ${error}`);
-      Deno.exit(1);
-    });
-    items = [...items, ...entries.results.bindings.map((x) => x.item.value)];
+  dl.debug(entries.results);
+  let items = entries?.results?.bindings?.map((x) => x?.item?.value) || [];
+  if (parsedArgs.items) {
+    items = [...items, ...parsedArgs?.items?.split("|")];
   }
+  dl.debug(`${items.length} items`);
   return { parsedArgs, items };
+}
+
+async function fetchURLEntries(url) {
+  if (!url) {
+    dl.error("No url to fetch! Exiting...");
+    Deno.exit(1);
+    return;
+  }
+  dl.debug(`Fetching entries from ${url}`);
+  const entries = await readJSONFromURL(url);
+  dl.debug({ entries });
+  dl.debug(`Entries retrieved from url: ${entries?.results?.bindings?.length}`);
+  return entries;
+}
+
+async function fetchFileEntries(file) {
+  if (!file) return;
+  const entries = await readJSON(file).catch((error) => {
+    dl.error(`ERROR: ${error}`);
+    Deno.exit(1);
+  });
+  dl.debug(`${entries.length} entries retrieved from file: ${file}`);
+  return entries;
+}
+
+async function saveFileEntries(file, entries) {
+  const fileSave = await writeJSON(file, entries, null, 2);
+  dl.debug(`File written: ${file} - ${fileSave}`);
+  return fileSave;
 }
 
 async function getAbstract(src, service) {
@@ -50,15 +103,11 @@ async function getAbstract(src, service) {
   if (id == null) {
     return null;
   }
-  // console.log({ id });
   const url = service.url(id);
-  // console.log({ url });
   const res = await fetch(url);
   if (!res.ok) return null;
   const data = await res.json();
-  // console.log({ data });
   const out = get(data, service.path);
-  // console.log({ out });
   return out;
 }
 
@@ -66,7 +115,6 @@ async function findAbstract(wikidataItem) {
   for (const source of abstractSources) {
     const foundAbstract = await getAbstract(wikidataItem, source);
     if (foundAbstract) {
-      // console.log(`found abstract in ${source.name}`);
       return foundAbstract;
     }
   }
@@ -97,19 +145,17 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 async function getItemData(items) {
   const { data } = await new citationJS.Cite.async(items);
   data.forEach(async (item) => {
-    console.log("wikidataitem id: ", item["id"]);
-    console.log({ item });
+    dl.debug("wikidataitem id: ", item["id"]);
+    dl.debug({ item });
     let crossrefItem = await getCrossrefItem(item.DOI);
     const accumulatedData = {
       abstract: await findAbstract(item),
     };
-    // console.log({ accumulatedData });
     const process = await processItem({
       wikidataItem: item,
       crossrefItem,
       accumulatedData,
     });
-    // console.log({ process });
   });
 }
 
@@ -117,7 +163,7 @@ async function updateEndpoint() {
   const response = await fetch(Deno.env.get("UPDATE_URL"), {
     method: "GET",
   });
-  console.log({ response });
+  dl.debug({ response });
   const message = await response.text();
   const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), {
     method: "POST",
@@ -128,37 +174,48 @@ async function updateEndpoint() {
       Tags: "package",
     },
   });
-  console.log({ notificationresponse });
+  dl.debug({ notificationresponse });
 }
 
 async function main() {
-  console.log("starting main");
+  dl.debug("starting main");
+  const startTime = new Date();
 
   const {
     parsedArgs: { offset, size, delay },
     items,
   } = await processArgs(Deno.args);
 
+  dl.debug(items);
+
+  cl.info(`processor started at ${startTime}`);
   for (let count = offset; count < items.length; count += size) {
-    // for (let i = offset; i < offset + size && items.length; i++) {
-    //   if (i < items.length) {
-    //     console.log({ offset, i });
-    //     getItemData(items[i]);
-    //   }
-    // }S
     const batch = items.slice(
       offset,
       offset + size > items.length ? items.length : offset + size,
     );
-    console.log({ count });
-    console.log(batch);
+    cl.info(`Processing ${size} entries from ${count}`);
+    dl.debug({ count });
+    dl.debug(batch);
     await getItemData(batch);
-    console.log("start sleeping");
+    dl.debug("start sleeping");
     await sleep(delay);
-    console.log("stop sleeping");
+    dl.debug("stop sleeping");
   }
+  const endTime = new Date();
+  cl.info(`processor finished at ${endTime}`);
+  cl.info(
+    `processor took ${(endTime - startTime) / 6000} minutes for ${
+      item.length
+    } entries`,
+  );
 
   // updateEndpoint();
 }
+
+await log.setup(logging);
+
+const dl = log.getLogger();
+const cl = log.getLogger("client");
 
 main();
