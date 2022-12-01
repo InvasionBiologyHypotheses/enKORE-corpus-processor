@@ -1,4 +1,5 @@
 import "https://deno.land/x/dotenv/load.ts";
+import { parse } from "https://deno.land/std@0.166.0/flags/mod.ts";
 
 import { readJSON, writeTXT } from "https://deno.land/x/flat@0.0.15/mod.ts";
 import * as citationJS from "@citation-js/core";
@@ -6,49 +7,43 @@ import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
 import get from "just-safe-get";
 
-const args = {
-  startAtEntryIndex: {
-    flag: "-s",
-    description: "start from initial offset",
-    parse: (argPos) => parseInt(Deno?.args?.[argPos + 1]) ?? 0,
-  },
-};
+import { abstractSources, settings } from "./config.js";
 
-const abstractSources = [
-  {
-    name: "crossref",
-    wikidataProperty: {
-      id: "P356",
-      label: "DOI",
+const sleep = (time = 1000) =>
+  new Promise((resolve) => setTimeout(resolve, time));
+
+async function processArgs(args) {
+  const parsedArgs = parse(args, {
+    string: ["entries", "filename"],
+    alias: {
+      entries: "e",
+      file: "f",
+      offset: "o",
+      size: "s",
+      delay: "d",
     },
-    url: (id) => `https://api.crossref.org/v1/works/${id}`,
-    path: "message.abstract",
-    format: "json",
-  },
-  {
-    name: "pmc",
-    wikidataProperty: {
-      id: "P932",
-      label: "PMCID",
+    default: {
+      entries: null,
+      filename: null,
+      offset: settings?.processing?.initialOffset || 0,
+      size: settings?.processing?.batchSize || 50,
+      delay: settings?.processing?.processingDelay || 1000,
     },
-    url: (id) =>
-      `https://www.ebi.ac.uk/europepmc/webservices/rest/article/PMC/PMC${id}?resultType=core&format=json`,
-    path: "result.abstractText",
-    format: "json",
-  },
-  {
-    name: "pubmed",
-    wikidataProperty: {
-      id: "P698",
-      label: "PMID",
-    },
-    url: (id) =>
-      `https://www.ebi.ac.uk/europepmc/webservices/rest/article/MED/${id}?resultType=core&format=json`,
-    path: "result.abstractText",
-    format: "json",
-  },
-];
-const sleep = (time = 0) => new Promise((resolve) => setTimeout(resolve, time));
+  });
+
+  let items = [];
+  if (parsedArgs.e) {
+    items = [...items, ...parsedArgs.entries.split("|")];
+  }
+  if (parsedArgs.f) {
+    const entries = await readJSON(parsedArgs.f).catch((error) => {
+      console.error(`ERROR: ${error}`);
+      Deno.exit(1);
+    });
+    items = [...items, ...entries.results.bindings.map((x) => x.item.value)];
+  }
+  return { parsedArgs, items };
+}
 
 async function getAbstract(src, service) {
   const id = src[service.wikidataProperty.label];
@@ -57,7 +52,7 @@ async function getAbstract(src, service) {
   }
   // console.log({ id });
   const url = service.url(id);
-  console.log({ url });
+  // console.log({ url });
   const res = await fetch(url);
   if (!res.ok) return null;
   const data = await res.json();
@@ -71,18 +66,13 @@ async function findAbstract(wikidataItem) {
   for (const source of abstractSources) {
     const foundAbstract = await getAbstract(wikidataItem, source);
     if (foundAbstract) {
-      console.log(`found abstract in ${source.name}`);
+      // console.log(`found abstract in ${source.name}`);
       return foundAbstract;
     }
   }
   return null;
 }
 
-async function getWikidataItem(entity) {
-  const wdi = await new citationJS.Cite.async(entity);
-  console.log(wdi.data[0]);
-  return wdi.data[0];
-}
 async function getCrossrefItem(DOI) {
   let crossrefItem;
   const crossrefRes = await fetch(
@@ -104,23 +94,23 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   return await writeTXT(filename, xml);
 }
 
-async function getItemData(item) {
-  const wikidataItem = await getWikidataItem(item);
-  console.log("wikidataitem id: ", wikidataItem["id"]);
-  let crossrefItem;
-  if (wikidataItem.DOI) {
-    crossrefItem = await getCrossrefItem(wikidataItem.DOI);
-  }
-  const accumulatedData = {
-    abstract: await findAbstract(wikidataItem),
-  };
-  console.log({ accumulatedData });
-  const process = await processItem({
-    wikidataItem,
-    crossrefItem,
-    accumulatedData,
+async function getItemData(items) {
+  const { data } = await new citationJS.Cite.async(items);
+  data.forEach(async (item) => {
+    console.log("wikidataitem id: ", item["id"]);
+    console.log({ item });
+    let crossrefItem = await getCrossrefItem(item.DOI);
+    const accumulatedData = {
+      abstract: await findAbstract(item),
+    };
+    // console.log({ accumulatedData });
+    const process = await processItem({
+      wikidataItem: item,
+      crossrefItem,
+      accumulatedData,
+    });
+    // console.log({ process });
   });
-  console.log({ process });
 }
 
 async function updateEndpoint() {
@@ -144,49 +134,28 @@ async function updateEndpoint() {
 async function main() {
   console.log("starting main");
 
-  console.log(Deno.args);
-  const argNames = ["-e", "-s"];
-  argNames.forEach((x) =>
-    console.log(
-      x,
-      Deno?.args?.indexOf(x),
-      Deno?.args?.[Deno?.args?.indexOf(x) + 1],
-    ),
-  );
+  const {
+    parsedArgs: { offset, size, delay },
+    items,
+  } = await processArgs(Deno.args);
 
-  let items;
-
-  if (Deno.args.indexOf("-e") >= 0) {
-    items = Deno?.args?.[Deno?.args?.indexOf("-e") + 1].split("|") || [];
-  } else {
-    let entries;
-    if (typeof Deno?.args?.[0] === "string") {
-      const filename = Deno.args[0];
-      entries = await readJSON(filename).catch((error) => {
-        console.log(`ERROR: ${error}`);
-        Deno.exit(1);
-      });
-      items = entries.results.bindings.map((x) => x.item.value);
-    }
-  }
-  const initOffset =
-    Deno.args.indexOf("-s") >= 0
-      ? parseInt(Deno?.args?.[Deno?.args?.indexOf("-s") + 1])
-      : 0;
-  //  args["startAtEntryIndex"].parse(
-  //   Deno?.args?.findIndex(args["startAtEntryIndex"].flag),
-  // );
-  console.log({ initOffset });
-
-  const size = 50;
-  for (let offset = initOffset; offset < items.length; offset += size) {
-    for (let i = offset; i < offset + size && items.length; i++) {
-      if (i < items.length) {
-        console.log({ offset, i });
-        getItemData(items[i]);
-      }
-    }
-    await sleep(1000);
+  for (let count = offset; count < items.length; count += size) {
+    // for (let i = offset; i < offset + size && items.length; i++) {
+    //   if (i < items.length) {
+    //     console.log({ offset, i });
+    //     getItemData(items[i]);
+    //   }
+    // }S
+    const batch = items.slice(
+      offset,
+      offset + size > items.length ? items.length : offset + size,
+    );
+    console.log({ count });
+    console.log(batch);
+    await getItemData(batch);
+    console.log("start sleeping");
+    await sleep(delay);
+    console.log("stop sleeping");
   }
 
   // updateEndpoint();
