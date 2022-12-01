@@ -21,7 +21,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v3
       - name: Fetch data
-        uses: githubocto/flat@v3
+        uses: InvasionBiologyHypotheses/flat-action@enkore
         env:
           notification_url: ${{ secrets.CORPUS_NOTIFICATION_URL }}
         with:
