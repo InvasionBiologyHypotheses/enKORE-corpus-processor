@@ -4,6 +4,8 @@
     "https://cdn.deno.land/mimetypes/versions/v1.0.0/raw/mod.ts": "abd1ea614b32cfa7fd50b46f6e070617696664698b8a34935dc807f3035ad408",
     "https://cdn.deno.land/mimetypes/versions/v1.0.0/raw/src/mime.ts": "7cd7590eae6127dc1abfe710900fc749e94d5c715ffe8a148e59fe20ee21a9a5",
     "https://cdn.deno.land/url_parse/versions/1.0.0/raw/mod.ts": "f27f0d045343a4aff05c7560e285aa3f42e23096bfe0211dc549345f9a5feb94",
+    "https://deno.land/std@0.166.0/_util/asserts.ts": "d0844e9b62510f89ce1f9878b046f6a57bf88f208a10304aab50efcb48365272",
+    "https://deno.land/std@0.166.0/flags/mod.ts": "3b459daf581e047819b6b799c92b96c81b4eecbd5ea025643d54dc0abc6ac923",
     "https://deno.land/std@0.92.0/_util/assert.ts": "2f868145a042a11d5ad0a3c748dcf580add8a0dbc0e876eaa0026303a5488f58",
     "https://deno.land/std@0.92.0/_util/os.ts": "e282950a0eaa96760c0cf11e7463e66babd15ec9157d4c9ed49cc0925686f6a7",
     "https://deno.land/std@0.92.0/bytes/mod.ts": "1ae1ccfe98c4b979f12b015982c7444f81fcb921bea7aa215bf37d84f46e1e13",
@@ -58,7 +60,7 @@
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/id.js": "9f5a1659936f6a677dfc481c5add398fd70f9b443612196d9257a47925aba57b",
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/ignoredProps.json": "6f281e9cfe6ff995c1155bbb93f27ed792b9335794a8e884e547edde86663483",
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js": "a9818bc8ac22764d045f86983c054368b152cc4f1b2342a6fb0e3445cef06502",
-    "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/prop.js": "f0b1a8bc86a7b34632d267ea062a33962e2eef0eb67ba4438a3ffa1694b04e50",
+    "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/prop.js": "d78a8364c27e483aa4e9c94c47ca898137a952708bedc939dbdc197212e28adc",
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/props.json": "2f9752f672e93ef988d40d1048299f0d56e7afd20c47c6a7cf79f9b4bb008210",
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/response.js": "e7e3b5a8fa00e927d99dadde3280ac926cd56584bb4777b365f56b068f62b472",
     "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/types.json": "a0eff249518107cfaae22c938026f7aef23ff411d2585fc452b5abedafd9a8d0",
@@ -114,8 +116,8 @@
         "integrity": "sha512-T8TbSnGsxo6TDBJx/Sgv/BlVJL3tshxZP7Aq5R1mSnM5OcHY2dQaxLMu2+E8u3gN0MLOzdjurqN4ZRVuzQycOQ==",
         "dependencies": {}
       },
-      "@types/node@18.11.9": {
-        "integrity": "sha512-CRpX21/kGdzjOpFsZSkcrXMGIBWMGNIHXXBVFSH+ggkftxg+XYP20TESbh+zFvFj3EQOl5byk0HTRn1IL6hbqg==",
+      "@types/node@18.11.10": {
+        "integrity": "sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==",
         "dependencies": {}
       },
       "argparse@1.0.10": {
@@ -200,7 +202,7 @@
           "@oozcitak/dom": "@oozcitak/dom@1.15.10",
           "@oozcitak/infra": "@oozcitak/infra@1.0.8",
           "@oozcitak/util": "@oozcitak/util@8.3.8",
-          "@types/node": "@types/node@18.11.9",
+          "@types/node": "@types/node@18.11.10",
           "js-yaml": "js-yaml@3.14.0"
         }
       }
