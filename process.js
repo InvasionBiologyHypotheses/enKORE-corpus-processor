@@ -218,4 +218,6 @@ await log.setup(logging);
 const dl = log.getLogger();
 const cl = log.getLogger("client");
 
-main();
+if (import.meta.main) {
+  main();
+}
