@@ -1,4 +1,7 @@
 {
   "importMap": "import_map.json",
-  "tasks": { "process": "deno run -A --unstable process.js" }
+  "tasks": {
+    "process": "deno run -A --unstable process.js -f ./corpus/entries.json",
+    "process-dry": "deno run -A --unstable process.js"
+  }
 }
