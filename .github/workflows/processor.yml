@@ -1,0 +1,28 @@
+name: process-corpus
+on:
+  repository_dispatch:
+    types:
+      - webhook
+  # schedule:
+  #   - cron: "57 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/processor.yml
+      - ./process.js
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.28.x
+      - name: Check out repo
+        uses: actions/checkout@v3
+      # - name: Lint Deno Module
+      #   run: deno fmt --check
+      - name: Build Deno Module
+        run: deno task process
+      # - name: Test Deno Module
+      #   run: deno test --allow-none
