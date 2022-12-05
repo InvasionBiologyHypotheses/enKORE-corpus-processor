@@ -1,5 +1,6 @@
-import "dotenv";
+import { config } from "dotenv";
 import { parse } from "deno-std-flags";
+import * as retried from "retried";
 
 import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
@@ -101,11 +102,15 @@ async function getAbstract(src, service) {
     return null;
   }
   const url = service.url(id);
-  const res = await fetch(url);
-  if (!res.ok) return null;
-  const data = await res.json();
-  const out = get(data, service.path);
-  return out;
+  try {
+    const res = await faultTolerantFetch(url);
+    if (!res.ok) throw res.error;
+    const data = await res.json();
+    const out = get(data, service.path);
+    return out;
+  } catch (error) {
+    dl.error(`Fetch error: ${error}`);
+  }
 }
 
 async function findAbstract(wikidataItem) {
@@ -118,18 +123,41 @@ async function findAbstract(wikidataItem) {
   return null;
 }
 
+function faultTolerantFetch(address) {
+  dl.debug("entering faultTolerantFetch");
+  return new Promise((resolve, reject) => {
+    const operation = retried.operation({});
+    operation.attempt(async (currentAttempt) => {
+      try {
+        resolve(await fetch(address));
+        dl.debug("fetch succeeded");
+        operation.succeed();
+      } catch (error) {
+        dl.error(`Attempt ${currentAttempt}, Error:`);
+        dl.error(error);
+
+        if (await operation.retry(error)) return;
+        reject(error);
+      }
+    });
+  });
+}
+
 async function getCrossrefItem(DOI) {
-  let crossrefItem;
-  const crossrefRes = await fetch(
-    `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
-  );
-  if (crossrefRes.ok) {
-    crossrefItem = await crossrefRes.json();
-    return crossrefItem?.message;
-  } else {
-    dl.error(`CrossRef Fetch Failed: ${DOI}`);
-    dl.error(crossrefRes?.headers);
-    return null;
+  try {
+    const response = await faultTolerantFetch(
+      `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
+    );
+    if (response.ok) {
+      const data = await response.json();
+      return data?.message;
+    } else {
+      dl.error(`CrossRef Fetch Failed: ${DOI}`);
+      dl.error(response?.headers);
+      throw response.error;
+    }
+  } catch (error) {
+    dl.error(`Fetch Failed: ${error}`);
   }
 }
 
@@ -220,6 +248,7 @@ async function main() {
   // updateEndpoint();
 }
 
+await config();
 await log.setup(logging);
 
 const dl = log.getLogger();

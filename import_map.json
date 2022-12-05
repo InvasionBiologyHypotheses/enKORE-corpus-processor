@@ -1,8 +1,9 @@
 {
   "imports": {
-    "deno-std-flags": "https://deno.land/std@0.166.0/flags/mod.ts",
-    "deno-std-log": "https://deno.land/std/log/mod.ts",
-    "dotenv": "https://deno.land/x/dotenv/load.ts",
+    "retried": "https://deno.land/x/retried@1.0.1/mod.ts",
+    "deno-std-flags": "https://deno.land/std@0.167.0/flags/mod.ts",
+    "deno-std-log": "https://deno.land/std@0.167.0/log/mod.ts",
+    "dotenv": "https://deno.land/std@0.167.0/dotenv/mod.ts",
     "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js",
     "@citation-js/core": "npm:@citation-js/core@0.6.1",
     "@citation-js/date": "npm:@citation-js/date@0.5.1",
