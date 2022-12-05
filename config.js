@@ -11,7 +11,7 @@ export const settings = {
   processing: {
     initialOffset: 0,
     processingDelay: 500,
-    batchSize: 10,
+    batchSize: 20,
   },
 };
 
