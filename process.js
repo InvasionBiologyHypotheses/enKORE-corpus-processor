@@ -103,13 +103,16 @@ async function getAbstract(src, service) {
   }
   const url = service.url(id);
   try {
-    const res = await faultTolerantFetch(url);
-    if (!res.ok) throw res.error;
-    const data = await res.json();
-    const out = get(data, service.path);
-    return out;
+    const res = await fetch(url);
+    if (res.ok) {
+      const data = await res.json();
+      const out = get(data, service.path);
+      return out;
+    } else if (res.status == "404") {
+      return null;
+    }
   } catch (error) {
-    dl.error(`Fetch error: ${error}`);
+    dl.error(`Abstract fetch error: ${error} - ${url}`);
   }
 }
 
@@ -123,38 +126,43 @@ async function findAbstract(wikidataItem) {
   return null;
 }
 
-function faultTolerantFetch(address) {
-  dl.debug("entering faultTolerantFetch");
-  return new Promise((resolve, reject) => {
-    const operation = retried.operation({});
-    operation.attempt(async (currentAttempt) => {
-      try {
-        resolve(await fetch(address));
-        dl.debug("fetch succeeded");
-        operation.succeed();
-      } catch (error) {
-        dl.error(`Attempt ${currentAttempt}, Error:`);
-        dl.error(error);
-
-        if (await operation.retry(error)) return;
-        reject(error);
-      }
-    });
-  });
-}
+// function faultTolerantFetch(address) {
+//   dl.debug("entering faultTolerantFetch");
+//   cl.info(`faultTolerantFetch: ${address}`);
+//   return new Promise((resolve, reject) => {
+//     const operation = retried.operation({});
+//     operation.attempt(async (currentAttempt) => {
+//       try {
+//         resolve(await fetch(address));
+//         dl.debug(`fetch succeeded: ${address}`);
+//         operation.succeed();
+//       } catch (error) {
+//         dl.error(`Attempt ${currentAttempt}, address: ${address}, Error:`);
+//         dl.error(error);
+//         cl.error(
+//           `Attempt ${currentAttempt}, address: ${address}, Error: ${error}`,
+//         );
+//         if (await operation.retry(error)) return;
+//         reject(error);
+//       }
+//     });
+//   });
+// }
 
 async function getCrossrefItem(DOI) {
   try {
-    const response = await faultTolerantFetch(
+    const response = await fetch(
       `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
     );
     if (response.ok) {
       const data = await response.json();
       return data?.message;
+    } else if (response.status == "404") {
+      return null;
     } else {
       dl.error(`CrossRef Fetch Failed: ${DOI}`);
       dl.error(response?.headers);
-      throw response.error;
+      throw response.status;
     }
   } catch (error) {
     dl.error(`Fetch Failed: ${error}`);
