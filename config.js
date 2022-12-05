@@ -10,8 +10,8 @@ export const settings = {
   },
   processing: {
     initialOffset: 0,
-    processingDelay: 1000,
-    batchSize: 50,
+    processingDelay: 500,
+    batchSize: 10,
   },
 };
 

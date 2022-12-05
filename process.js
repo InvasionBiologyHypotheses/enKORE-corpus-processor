@@ -128,7 +128,7 @@ async function getCrossrefItem(DOI) {
     return crossrefItem?.message;
   } else {
     dl.error(`CrossRef Fetch Failed: ${DOI}`);
-    dl.error(crossrefRes);
+    dl.error(crossrefRes?.headers);
     return null;
   }
 }
