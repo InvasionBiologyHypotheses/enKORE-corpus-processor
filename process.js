@@ -226,8 +226,8 @@ async function main() {
   cl.info(`processor started at ${startTime}`);
   for (let count = offset; count < items.length; count += size) {
     const batch = items.slice(
-      offset,
-      offset + size > items.length ? items.length : offset + size,
+      count,
+      count + size > items.length ? items.length : count + size,
     );
     cl.info(`Processing ${size} entries from ${count}`);
     dl.debug({ count });
