@@ -5,6 +5,7 @@ export const settings = {
     pull: true,
     url: "https://query.wikidata.org/sparql?format=json&query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%0AWHERE%20%7B%20%0A%20%20%3Fitem%20wdt%3AP6104%20wd%3AQ56241615%20.%20%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ13442814%20.%0A%20%20%3Fitem%20wdt%3AP275%20%3Flicense%20.%0A%20%20%3Flicense%20wdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ30939938%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel",
     items: null,
+    read: true,
     file: "./corpus/entries.json",
   },
   processing: {

@@ -1,12 +1,7 @@
-import "https://deno.land/x/dotenv/load.ts";
-import { parse } from "https://deno.land/std@0.166.0/flags/mod.ts";
+import "dotenv";
+import { parse } from "deno-std-flags";
 
-import {
-  readJSON,
-  readJSONFromURL,
-  writeJSON,
-  writeTXT,
-} from "https://deno.land/x/flat@0.0.15/mod.ts";
+import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
 import { generateXML } from "./lib/xmlexporter.js";
@@ -26,6 +21,7 @@ async function processArgs(args) {
       pull: "p",
       url: "u",
       items: "i",
+      read: "r",
       file: "f",
       offset: "o",
       size: "s",
@@ -35,32 +31,34 @@ async function processArgs(args) {
       pull: settings?.data?.pull || true,
       url: settings?.data?.url || null,
       items: settings?.data?.items || null,
+      read: settings?.data?.read || false,
       file: settings?.data?.file || null,
       offset: settings?.processing?.initialOffset || 0,
       size: settings?.processing?.batchSize || 50,
       delay: settings?.processing?.processingDelay || 1000,
     },
-    boolean: ["pull"],
-    negatable: ["pull"],
+    boolean: ["pull", "read"],
+    negatable: ["pull", "read"],
   });
   /* !! Can't mush entries together - object not array!
   Simplify first?
   */
   let entries = {};
   if (parsedArgs.pull) {
+    dl.debug("Pull");
     const retrieved = await fetchURLEntries(parsedArgs.url);
     extend(entries, retrieved);
     if (parsedArgs.file) {
       await saveFileEntries(parsedArgs.file, retrieved);
     }
   } else {
-    if (parsedArgs.file) {
+    dl.debug("No pull");
+    if (parsedArgs.read && parsedArgs.file) {
       dl.debug(`Fetching file: ${parsedArgs.file}`);
       const read = await fetchFileEntries(parsedArgs.file);
       extend(entries, read);
     }
   }
-  dl.debug(entries.results);
   let items = entries?.results?.bindings?.map((x) => x?.item?.value) || [];
   if (parsedArgs.items) {
     items = [...items, ...parsedArgs?.items?.split("|")];
@@ -77,7 +75,6 @@ async function fetchURLEntries(url) {
   }
   dl.debug(`Fetching entries from ${url}`);
   const entries = await readJSONFromURL(url);
-  dl.debug({ entries });
   dl.debug(`Entries retrieved from url: ${entries?.results?.bindings?.length}`);
   return entries;
 }
@@ -127,9 +124,13 @@ async function getCrossrefItem(DOI) {
     `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
   );
   if (crossrefRes.ok) {
-    crossrefItem = (await crossrefRes.json()).message;
+    crossrefItem = await crossrefRes.json();
+    return crossrefItem?.message;
+  } else {
+    dl.error(`CrossRef Fetch Failed: ${DOI}`);
+    dl.error(crossrefRes);
+    return null;
   }
-  return crossrefItem;
 }
 
 async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
@@ -145,8 +146,8 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 async function getItemData(items) {
   const { data } = await new citationJS.Cite.async(items);
   data.forEach(async (item) => {
-    dl.debug("wikidataitem id: ", item["id"]);
-    dl.debug({ item });
+    dl.debug(`wikidataitem id: ${item?.id}`);
+    // dl.debug(JSON.stringify(item, null, 2));
     let crossrefItem = await getCrossrefItem(item.DOI);
     const accumulatedData = {
       abstract: await findAbstract(item),
@@ -156,6 +157,7 @@ async function getItemData(items) {
       crossrefItem,
       accumulatedData,
     });
+    await sleep(500);
   });
 }
 
@@ -186,7 +188,12 @@ async function main() {
     items,
   } = await processArgs(Deno.args);
 
-  dl.debug(items);
+  if (items?.length < 1) {
+    dl.info("No items to process - exiting.");
+    Deno.exit(0);
+  }
+
+  // dl.debug(items);
 
   cl.info(`processor started at ${startTime}`);
   for (let count = offset; count < items.length; count += size) {
@@ -196,7 +203,7 @@ async function main() {
     );
     cl.info(`Processing ${size} entries from ${count}`);
     dl.debug({ count });
-    dl.debug(batch);
+    // dl.debug(batch);
     await getItemData(batch);
     dl.debug("start sleeping");
     await sleep(delay);
@@ -206,7 +213,7 @@ async function main() {
   cl.info(`processor finished at ${endTime}`);
   cl.info(
     `processor took ${(endTime - startTime) / 6000} minutes for ${
-      item.length
+      items.length
     } entries`,
   );
 

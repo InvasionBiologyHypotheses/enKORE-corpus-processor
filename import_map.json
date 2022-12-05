@@ -1,10 +1,13 @@
 {
   "imports": {
+    "deno-std-flags": "https://deno.land/std@0.166.0/flags/mod.ts",
     "deno-std-log": "https://deno.land/std/log/mod.ts",
+    "dotenv": "https://deno.land/x/dotenv/load.ts",
     "@enkore/citationjs-plugin": "https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js",
     "@citation-js/core": "npm:@citation-js/core@0.6.1",
     "@citation-js/date": "npm:@citation-js/date@0.5.1",
     "@citation-js/name": "npm:@citation-js/name@0.4.2",
+    "flat-data": "https://deno.land/x/flat@0.0.15/mod.ts",
     "just-safe-get": "npm:just-safe-get@4.1.1",
     "just-extend": "npm:just-extend@6.1.1",
     "wikidata-sdk": "npm:wikidata-sdk@8.1.0",
