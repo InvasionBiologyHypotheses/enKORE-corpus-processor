@@ -29,5 +29,6 @@ jobs:
         run: echo "::set-output name=today::$(date +'%Y-%m-%d')"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
-          title: 'Automatic Corpus processing: ${{ steps.date.outputs.date }}'
+        with:
+          title: "Automatic Corpus processing: ${{ steps.date.outputs.date }}"
           branch: corpus-update
