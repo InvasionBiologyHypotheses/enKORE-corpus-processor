@@ -20,6 +20,8 @@ jobs:
           deno-version: v1.28.x
       - name: Check out repo
         uses: actions/checkout@v3
+      - name: Create Log Directory
+        run: mkdir logs
       # - name: Lint Deno Module
       #   run: deno fmt --check
       - name: Build Deno Module
