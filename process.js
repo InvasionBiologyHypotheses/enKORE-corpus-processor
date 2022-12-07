@@ -97,6 +97,7 @@ async function saveFileEntries(file, entries) {
 }
 
 async function getAbstract(src, service) {
+  dl.debug(`Entering getAbstract ${service?.name}`);
   const id = src[service.wikidataProperty.label];
   if (id == null) {
     return null;
@@ -113,43 +114,27 @@ async function getAbstract(src, service) {
     }
   } catch (error) {
     dl.error(`Abstract fetch error: ${error} - ${url}`);
+  } finally {
+    dl.debug(`Exiting getAbstract ${service?.name}`);
   }
 }
 
 async function findAbstract(wikidataItem) {
+  dl.debug(`Entering findAbstract`);
   for (const source of abstractSources) {
     const foundAbstract = await getAbstract(wikidataItem, source);
     if (foundAbstract) {
       return foundAbstract;
     }
   }
+  dl.debug(`Exiting getItemData`);
+
   return null;
 }
 
-// function faultTolerantFetch(address) {
-//   dl.debug("entering faultTolerantFetch");
-//   cl.info(`faultTolerantFetch: ${address}`);
-//   return new Promise((resolve, reject) => {
-//     const operation = retried.operation({});
-//     operation.attempt(async (currentAttempt) => {
-//       try {
-//         resolve(await fetch(address));
-//         dl.debug(`fetch succeeded: ${address}`);
-//         operation.succeed();
-//       } catch (error) {
-//         dl.error(`Attempt ${currentAttempt}, address: ${address}, Error:`);
-//         dl.error(error);
-//         cl.error(
-//           `Attempt ${currentAttempt}, address: ${address}, Error: ${error}`,
-//         );
-//         if (await operation.retry(error)) return;
-//         reject(error);
-//       }
-//     });
-//   });
-// }
-
-async function getCrossrefItem(DOI) {
+async function getCrossrefItem(DOI, retries = 4, delay = 0) {
+  dl.debug(`Entering getCrossrefItem ${DOI}`);
+  await delay;
   try {
     const response = await fetch(
       `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
@@ -159,6 +144,12 @@ async function getCrossrefItem(DOI) {
       return data?.message;
     } else if (response.status == "404") {
       return null;
+    } else if (retry > 0) {
+      getCrossrefItem(
+        DOI,
+        retries - 1,
+        response.status == "429" ? 5000 : delay,
+      );
     } else {
       dl.error(`CrossRef Fetch Failed: ${DOI}`);
       dl.error(response?.headers);
@@ -166,20 +157,25 @@ async function getCrossrefItem(DOI) {
     }
   } catch (error) {
     dl.error(`Fetch Failed: ${error}`);
+  } finally {
+    dl.debug("Exiting getCrossrefItem");
   }
 }
 
 async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
+  dl.debug(`Entering processItem ${wikidataItem.id}`);
   const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
   const xml = await generateXML({
     wikidataItem,
     crossrefItem,
     accumulatedData,
   });
+  dl.debug(`About to exit processItem ${wikidataItem.id}`);
   return await writeTXT(filename, xml);
 }
 
 async function getItemData(items) {
+  dl.debug(`Entering getItemData`);
   const { data } = await new citationJS.Cite.async(items);
   data.forEach(async (item) => {
     dl.debug(`wikidataitem id: ${item?.id}`);
@@ -195,6 +191,7 @@ async function getItemData(items) {
     });
     await sleep(500);
   });
+  dl.debug(`Exiting getItemData`);
 }
 
 async function updateEndpoint() {
