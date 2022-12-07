@@ -144,7 +144,7 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
       return data?.message;
     } else if (response.status == "404") {
       return null;
-    } else if (retry > 0) {
+    } else if (retries > 0) {
       getCrossrefItem(
         DOI,
         retries - 1,
