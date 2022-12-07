@@ -21,6 +21,6 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v3
       - name: Create Log Directory
-        run: mkdir logs
+        run: mkdir -p logs
       - name: Run Corpus Processor
         run: deno task process
