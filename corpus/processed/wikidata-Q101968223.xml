@@ -38,10 +38,13 @@
   <dc:date>2020-03-25</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>hypothesis:novel weapons hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q109996900</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
   <dc:subject>invasion biology</dc:subject>
-  <dc:subject>biotic resistance hypothesis</dc:subject>
-  <dc:subject>enemy release hypothesis</dc:subject>
-  <dc:subject>novel weapons hypothesis</dc:subject>
   <dc:subject>hypothesis</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
   <dc:description>&lt;h4&gt;Background and aims&lt;/h4&gt;Since its emergence in the mid-20th century, invasion biology has matured into a productive research field addressing questions of fundamental and applied importance. Not only has the number of empirical studies increased through time, but also has the number of competing, overlapping and, in some cases, contradictory hypotheses about biological invasions. To make these contradictions and redundancies explicit, and to gain insight into the field's current theoretical structure, we developed and applied a Delphi approach to create a consensus network of 39 existing invasion hypotheses.&lt;h4&gt;Results&lt;/h4&gt;The resulting network was analysed with a link-clustering algorithm that revealed five &lt;i&gt;concept clusters&lt;/i&gt; (resource availability, biotic interaction, propagule, trait and Darwin's clusters) representing complementary areas in the theory of invasion biology. The network also displays hypotheses that link two or more clusters, called &lt;i&gt;connecting hypotheses&lt;/i&gt;, which are important in determining network structure. The network indicates hypotheses that are logically linked either positively (77 connections of support) or negatively (that is, they contradict each other; 6 connections).&lt;h4&gt;Significance&lt;/h4&gt;The network visually synthesizes how invasion biology's predominant hypotheses are conceptually related to each other, and thus, reveals an emergent structure - a &lt;i&gt;conceptual map&lt;/i&gt; - that can serve as a navigation tool for scholars, practitioners and students, both inside and outside of the field of invasion biology, and guide the development of a more coherent foundation of theory. Additionally, the outlined approach can be more widely applied to create a conceptual map for the larger fields of ecology and biogeography.</dc:description>
