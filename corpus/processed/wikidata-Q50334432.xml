@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q50334432</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5811644</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2018.00134</dc:identifier>
+  <dc:title>Mechanisms of Invasion Resistance of Aquatic Plant Communities</dc:title>
+  <dc:creator>Petruzzella, Antonella</dc:creator>
+  <dc:creator>Manschot, Johan</dc:creator>
+  <dc:creator>Leeuwen, Casper H.A.</dc:creator>
+  <dc:creator>Grutters, Bart M C</dc:creator>
+  <dc:creator>Bakker, Liesbeth</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-02-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion resistance</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Invasive plant species are among the major threats to freshwater biodiversity. Few experimental studies have investigated whether native plant diversity can provide biotic resistance to invaders in freshwater ecosystems. At small spatial scales, invasion resistance may increase with plant species richness due to a better use of available resources, leaving less available for a potential invader (Complementarity effect) and/or the greater probability to have a highly competitive (or productive) native species in the community (Selection effect). In submerged aquatic plant communities, we tested the following hypotheses: (1) invader establishment success is greatest in the absence of a native plant community; (2) lower in plant communities with greater native species richness, due to complementary and/or selection effects; and (3) invader establishment success would be lowest in rooted plant communities, based on the limiting similarity theory as the invader is a rooted submerged species. In a greenhouse experiment, we established mesocosms planted with 0 (bare sediment), 1, 2, and 4 submerged plant species native to NW Europe and subjected these to the South African invader Lagarosiphon major (Ridl.) Moss. We used two rooted (Myriophyllum spicatum L., Potamogeton perfoliatus L.) and two non-rooted native species (Ceratophyllum demersum L., Utricularia vulgaris L.) representing two distinct functional groups considering their nutrient acquisition strategy which follows from their growth form, with, respectively, the sediment and water column as their main nutrient source. We found that the presence of native vegetation overall decreased the establishment success of an alien aquatic plant species. The strength of this observed biotic resistance increased with increasing species richness of the native community. Mainly due to a selection effect, the native biomass of mixed communities overyielded, and this further lowered the establishment success of the invader in our experiment. The strongest biotic resistance was caused by the two native plant species that were of the same functional group, i.e., functionally most similar to the invader. These results support the prediction of Elton's biotic resistance hypothesis in aquatic ecosystems and indicate that both species richness and functional group identity can play an important role in decreasing establishment success of alien plant species.</dc:description>
+</oai_dc:dc>

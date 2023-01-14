@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28539286</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0098056</dc:identifier>
+  <dc:title>Identification of T. gondii myosin light chain-1 as a direct target of TachypleginA-2, a small-molecule inhibitor of parasite motility and invasion</dc:title>
+  <dc:creator>Leung, Jacqueline M</dc:creator>
+  <dc:creator>Tran, Fanny</dc:creator>
+  <dc:creator>Pathak, Ravindra B</dc:creator>
+  <dc:creator>Poupart, Séverine</dc:creator>
+  <dc:creator>Heaslip, Aoife T</dc:creator>
+  <dc:creator>Ballif, Bryan A</dc:creator>
+  <dc:creator>Westwood, Nicholas J</dc:creator>
+  <dc:creator>Ward, Gary E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-06-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Motility of the protozoan parasite Toxoplasma gondii plays an important role in the parasite's life cycle and virulence within animal and human hosts. Motility is driven by a myosin motor complex that is highly conserved across the Phylum Apicomplexa. Two key components of this complex are the class XIV unconventional myosin, TgMyoA, and its associated light chain, TgMLC1. We previously showed that treatment of parasites with a small-molecule inhibitor of T. gondii invasion and motility, tachypleginA, induces an electrophoretic mobility shift of TgMLC1 that is associated with decreased myosin motor activity. However, the direct target(s) of tachypleginA and the molecular basis of the compound-induced TgMLC1 modification were unknown. We show here by "click" chemistry labelling that TgMLC1 is a direct and covalent target of an alkyne-derivatized analogue of tachypleginA. We also show that this analogue can covalently bind to model thiol substrates. The electrophoretic mobility shift induced by another structural analogue, tachypleginA-2, was associated with the formation of a 225.118 Da adduct on S57 and/or C58, and treatment with deuterated tachypleginA-2 confirmed that the adduct was derived from the compound itself. Recombinant TgMLC1 containing a C58S mutation (but not S57A) was refractory to click labelling and no longer exhibited a mobility shift in response to compound treatment, identifying C58 as the site of compound binding on TgMLC1. Finally, a knock-in parasite line expressing the C58S mutation showed decreased sensitivity to compound treatment in a quantitative 3D motility assay. These data strongly support a model in which tachypleginA and its analogues inhibit the motility of T. gondii by binding directly and covalently to C58 of TgMLC1, thereby causing a decrease in the activity of the parasite's myosin motor.</dc:description>
+</oai_dc:dc>

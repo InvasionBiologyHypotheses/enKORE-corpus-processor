@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q21559410</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000873</dc:identifier>
+  <dc:title>Production of extracellular traps against Aspergillus fumigatus in vitro and in infected lung tissue is dependent on invading neutrophils and influenced by hydrophobin RodA</dc:title>
+  <dc:creator>Bruns, Sandra</dc:creator>
+  <dc:creator>Kniemeyer, Olaf</dc:creator>
+  <dc:creator>Hasenberg, Mike</dc:creator>
+  <dc:creator>Aimanianda, Vishukumar</dc:creator>
+  <dc:creator>Nietzsche, Sandor</dc:creator>
+  <dc:creator>Thywissen, Andreas</dc:creator>
+  <dc:creator>Jeron, Andreas</dc:creator>
+  <dc:creator>Latgé, Jean-Paul</dc:creator>
+  <dc:creator>Brakhage, Axel A</dc:creator>
+  <dc:creator>Gunzer, Matthias</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aspergillus fumigatus</dc:subject>
+  <dc:subject>Conidial hydrophobin</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Aspergillus fumigatus is the most important airborne fungal pathogen causing life-threatening infections in immunocompromised patients. Macrophages and neutrophils are known to kill conidia, whereas hyphae are killed mainly by neutrophils. Since hyphae are too large to be engulfed, neutrophils possess an array of extracellular killing mechanisms including the formation of neutrophil extracellular traps (NETs) consisting of nuclear DNA decorated with fungicidal proteins. However, until now NET formation in response to A. fumigatus has only been demonstrated in vitro, the importance of neutrophils for their production in vivo is unclear and the molecular mechanisms of the fungus to defend against NET formation are unknown. Here, we show that human neutrophils produce NETs in vitro when encountering A. fumigatus. In time-lapse movies NET production was a highly dynamic process which, however, was only exhibited by a sub-population of cells. NETosis was maximal against hyphae, but reduced against resting and swollen conidia. In a newly developed mouse model we could then demonstrate the existence and measure the kinetics of NET formation in vivo by 2-photon microscopy of Aspergillus-infected lungs. We also observed the enormous dynamics of neutrophils within the lung and their ability to interact with and phagocytose fungal elements in situ. Furthermore, systemic neutrophil depletion in mice almost completely inhibited NET formation in lungs, thus directly linking the immigration of neutrophils with NET formation in vivo. By using fungal mutants and purified proteins we demonstrate that hydrophobin RodA, a surface protein making conidia immunologically inert, led to reduced NET formation of neutrophils encountering Aspergillus fungal elements. NET-dependent killing of Aspergillus-hyphae could be demonstrated at later time-points, but was only moderate. Thus, these data establish that NET formation occurs in vivo during host defence against A. fumigatus, but suggest that it does not play a major role in killing this fungus. Instead, NETs may have a fungistatic effect and may prevent further spreading.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q103800261</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7823162</dc:identifier>
+  <dc:identifier>doi:10.1242/JEB.237669</dc:identifier>
+  <dc:title>Effects of temperature on physiological performance and behavioral thermoregulation in an invasive fish, the round goby</dc:title>
+  <dc:creator>Christensen, Emil A.F.</dc:creator>
+  <dc:creator>Norin, Tommy</dc:creator>
+  <dc:creator>Tabak, Iren</dc:creator>
+  <dc:creator>Deurs, Mikael</dc:creator>
+  <dc:creator>Behrens, Jane W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-11-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive fish</dc:subject>
+  <dc:publisher>The Company of Biologists</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Invasive species exert negative impacts on biodiversity and ecosystems on a global scale, which may be enhanced in the future by climate change. Knowledge of how invasive species respond physiologically and behaviorally to novel and changing environments can improve our understanding of which traits enable the ecological success of these species, and potentially facilitate mitigation efforts. We examined the effects of acclimation to temperatures ranging from 5 to 28°C on aerobic metabolic rates, upper temperature tolerance (critical thermal maximum, CTmax), as well as temperature preference (Tpref) and avoidance (Tavoid) of round goby (Neogobius melanostomus), one of the most impactful invasive species in the world. We show that round goby maintained a high aerobic scope from 15 to 28°C; that is, the capacity to increase its aerobic metabolic rate above that of its maintenance metabolism remained high across a broad thermal range. Although CTmax increased relatively little with acclimation temperature compared to other species, Tpref and Tavoid were not affected by acclimation temperature at all, meaning that round goby maintained a large thermal safety margin (CTmax−Tavoid) across acclimation temperatures, indicating a high level of thermal resilience in the species. The unperturbed physiological performance and high thermal resilience was likely facilitated by high levels of phenotypic buffering, which can make species readily adaptable and ecologically competitive in novel and changing environments. We suggest that these physiological and behavioral traits could be common for invasive species, which would only increase their success under continued climate change.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

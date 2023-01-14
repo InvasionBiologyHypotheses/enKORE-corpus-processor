@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q98903857</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS9091123</dc:identifier>
+  <dc:title>Genetic Structure of Invasive Baby's Breath (Gypsophila paniculata L.) Populations in a Michigan Dune System</dc:title>
+  <dc:creator>Leimbach-Maus, Hailee B</dc:creator>
+  <dc:creator>McCluskey, Eric M</dc:creator>
+  <dc:creator>Locher, Alexandra</dc:creator>
+  <dc:creator>Parks, Syndell R</dc:creator>
+  <dc:creator>Partridge, Charlyn G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-08-31</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Gypsophila paniculata</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Coastal sand dunes are dynamic ecosystems with elevated levels of disturbance and are highly susceptible to plant invasions. One invasive plant that is of concern to the Great Lakes system is Gypsophila paniculata L. (perennial baby’s breath). The presence of G. paniculata negatively impacts native species and has the potential to alter ecosystem dynamics. Our research goals were to (1) estimate the genetic structure of invasive G. paniculata along the Michigan dune system and (2) identify landscape features that influence gene flow in this area. We analyzed 12 populations at 14 nuclear and two chloroplast microsatellite loci. We found strong genetic structure among populations (global FST = 0.228), and pairwise comparisons among all populations yielded significant FST values. Results from clustering analysis via STRUCTURE and discriminant analysis of principal components (DAPC) suggest two main genetic clusters that are separated by the Leelanau Peninsula, and this is supported by the distribution of chloroplast haplotypes. Land cover and topography better explained pairwise genetic distances than geographic distance alone, suggesting that these factors influence the genetic distribution of populations within the dunes system. Together, these data aid in our understanding of how invasive populations move through the dune landscape, providing valuable information for managing the spread of this species.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110862078</dc:identifier>
+  <dc:identifier>doi:10.3390/GEOMATICS1020011</dc:identifier>
+  <dc:title>Identifying Invasive Weed Species in Alpine Vegetation Communities Based on Spectral Profiles</dc:title>
+  <dc:creator>Ajamian, Chad</dc:creator>
+  <dc:creator>Chang, Hsing-Chung</dc:creator>
+  <dc:creator>Tomkins, Kerrie</dc:creator>
+  <dc:creator>Farebrother, William</dc:creator>
+  <dc:creator>Heim, Rene</dc:creator>
+  <dc:creator>Rahman, Shahriar</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-04-01</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;This study examined the use of hyperspectral profiles for identifying three selected weed species in the alpine region of New South Wales, Australia. The targeted weeds included Orange Hawkweed, Mouse-ear Hawkweed and Ox-eye daisy, which have caused a great concern to regional biodiversity and health of the environment in Kosciuszko National Park. Field surveys using a spectroradiometer were undertaken to measure the hyperspectral profiles of leaves and flowers of the selected weeds and companion native plants. Random Forest (RF) classification was then applied to distinguish which spectral bands would differentiate the weeds from the native plants. Our results showed that an accuracy of 95% was achieved if the spectral profiles of the distinct flowers of the weeds were considered, and an accuracy of 80% was achieved if only the profiles of the leaves were considered. Emulation of the spectral profiles of two multispectral sensors (Sentinel-2 and Parrot Sequoia) was then conducted to investigate whether classification accuracy could potentially be achieved using wider spectral bands.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

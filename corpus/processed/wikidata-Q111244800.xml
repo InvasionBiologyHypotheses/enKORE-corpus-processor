@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111244800</dc:identifier>
+  <dc:identifier>doi:10.3389/FENVS.2022.834860</dc:identifier>
+  <dc:title>Assessing Hybridization Risk Between ESA-Listed Native Bull Trout (Salvelinus confluentus) and Introduced Brook Trout (S. fontinalis) Using Habitat Modeling</dc:title>
+  <dc:creator>Manning, Michael A.</dc:creator>
+  <dc:creator>Arismendi, Ivan</dc:creator>
+  <dc:creator>Olivos, J. Andres</dc:creator>
+  <dc:creator>Giannico, Guillermo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-03-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>bull trout</dc:subject>
+  <dc:subject>habitat model</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>&lt;jats:p&gt;The introduction of non-native species can negatively impact native species through reduced genetic fitness resulting from hybridization. The lack of spatiotemporal data on hybrid occurrences makes hybridization risk assessment difficult. Here, we developed a spatially-explicit Hybridization Risk Model (HRM) between native Oregon bull trout, an Endangered Species Act-listed Oregon species, and introduced brook trout by combining an intrinsic potential model (IPM) of brook trout spawning habitat and existing bull trout distribution and habitat use datasets in Oregon, United States. We created an expert-based brook trout IPM classification score (0–1) of streams based on the potential of geophysical attributes (i.e., temperature, discharge, gradient, and valley confinement) to sustain spawning habitats. The HRM included a risk matrix based on the presence/absence of both species as well as the type of habitat (spawning versus other) at 100-m stream segment resolution. We defined the hybridization risk as “extreme” when stream reaches contained bull trout spawning habitat and brook trout were present with IPM moderate or greater scores (IPM &amp;gt;0.5). Conversely, “low” risk reaches contained historic or non-spawning bull trout habitat, brook trout were absent, and IPM scores were low (IPM &amp;lt;0.25). Our HRM classified 34 km of streams with extreme risk of hybridization, 115 km with high risk, 178 km with moderate risk, and 6,023 km with low risk. Our HRM can identify a differential risk of hybridization at multiple spatial scales when either both species coexist in bull trout spawning habitat or are absent. The model can also identify stream reaches that would have higher risk of hybridization, but where brook trout are not currently present. Our modeling approach can be applied to other species, such as cutthroat trout and rainbow trout, Chinook and coho salmon, or similar species occurring elsewhere that potentially hybridize in freshwaters.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

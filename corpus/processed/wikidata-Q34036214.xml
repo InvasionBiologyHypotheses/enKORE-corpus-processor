@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34036214</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203347</dc:identifier>
+  <dc:identifier>doi:10.1186/1471-2334-11-261</dc:identifier>
+  <dc:title>Anidulafungin compared with fluconazole for treatment of candidemia and other forms of invasive candidiasis caused by Candida albicans: a multivariate analysis of factors associated with improved outcome</dc:title>
+  <dc:creator>Reboli, Annette C</dc:creator>
+  <dc:creator>Shorr, Andrew F</dc:creator>
+  <dc:creator>Rotstein, Coleman</dc:creator>
+  <dc:creator>Pappas, Peter G</dc:creator>
+  <dc:creator>Kett, Daniel H</dc:creator>
+  <dc:creator>Schlamm, Haran T</dc:creator>
+  <dc:creator>Reisman, Arlene L</dc:creator>
+  <dc:creator>Biswas, Pinaki</dc:creator>
+  <dc:creator>Walsh, Thomas J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-09-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/2.0</dc:rights>
+  <dc:subject>multivariate statistics</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>candidiasis</dc:subject>
+  <dc:subject>fluconazole</dc:subject>
+  <dc:subject>candidemia</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive candidiasis</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Candida albicans is the most common cause of candidemia and other forms of invasive candidiasis. Systemic infections due to C. albicans exhibit good susceptibility to fluconazole and echinocandins. However, the echinocandin anidulafungin was recently demonstrated to be more effective than fluconazole for systemic Candida infections in a randomized, double-blind trial among 245 patients. In that trial, most infections were caused by C. albicans, and all respective isolates were susceptible to randomized study drug. We sought to better understand the factors associated with the enhanced efficacy of anidulafungin and hypothesized that intrinsic properties of the antifungal agents contributed to the treatment differences.&lt;h4&gt;Methods&lt;/h4&gt;Global responses at end of intravenous study treatment in patients with C. albicans infection were compared post-hoc. Multivariate logistic regression analyses were performed to predict response and to adjust for differences in independent baseline characteristics. Analyses focused on time to negative blood cultures, persistent infection at end of intravenous study treatment, and 6-week survival.&lt;h4&gt;Results&lt;/h4&gt;In total, 135 patients with C. albicans infections were identified. Among these, baseline APACHE II scores were similar between treatment arms. In these patients, global response was significantly better for anidulafungin than fluconazole (81.1% vs 62.3%; 95% confidence interval [CI] for difference, 3.7-33.9). After adjusting for baseline characteristics, the odds ratio for global response was 2.36 (95% CI, 1.06-5.25). Study treatment and APACHE II score were significant predictors of outcome. The most predictive logistic regression model found that the odds ratio for study treatment was 2.60 (95% CI, 1.14-5.91) in favor of anidulafungin, and the odds ratio for APACHE II score was 0.935 (95% CI, 0.885-0.987), with poorer responses associated with higher baseline APACHE II scores. Anidulafungin was associated with significantly faster clearance of blood cultures (log-rank p &lt; 0.05) and significantly fewer persistent infections (2.7% vs 13.1%; p &lt; 0.05). Survival through 6 weeks did not differ between treatment groups.&lt;h4&gt;Conclusions&lt;/h4&gt;In patients with C. albicans infection, anidulafungin was more effective than fluconazole, with more rapid clearance of positive blood cultures. This suggests that the fungicidal activity of echinocandins may have important clinical implications.&lt;h4&gt;Trial registration&lt;/h4&gt;ClinicalTrials.gov: NCT00058682.</dc:description>
+</oai_dc:dc>

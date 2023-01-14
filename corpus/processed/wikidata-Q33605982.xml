@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33605982</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406021</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0005546</dc:identifier>
+  <dc:title>Tiger on the prowl: Invasion history and spatio-temporal genetic structure of the Asian tiger mosquito Aedes albopictus (Skuse 1894) in the Indo-Pacific</dc:title>
+  <dc:creator>Maynard, Andrew J</dc:creator>
+  <dc:creator>Ambrose, Luke</dc:creator>
+  <dc:creator>Cooper, Robert D</dc:creator>
+  <dc:creator>Chow, Weng K</dc:creator>
+  <dc:creator>Davis, Joseph B</dc:creator>
+  <dc:creator>O Muzari, Mutizwa</dc:creator>
+  <dc:creator>Hurk, Andrew F</dc:creator>
+  <dc:creator>Hall-Mendelin, Sonja</dc:creator>
+  <dc:creator>Hasty, Jeomhee M</dc:creator>
+  <dc:creator>Burkot, Thomas R</dc:creator>
+  <dc:creator>Bangs, Michael J</dc:creator>
+  <dc:creator>Reimer, Lisa J</dc:creator>
+  <dc:creator>Butafa, Charles</dc:creator>
+  <dc:creator>Lobo, Neil F</dc:creator>
+  <dc:creator>Syafruddin, Din</dc:creator>
+  <dc:creator>Maung, Yan Naung Maung</dc:creator>
+  <dc:creator>Ahmad, Rohani</dc:creator>
+  <dc:creator>Beebe, Nigel W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-04-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Asian tiger mosquito</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Within the last century, increases in human movement and globalization of trade have facilitated the establishment of several highly invasive mosquito species in new geographic locations with concurrent major environmental, economic and health consequences. The Asian tiger mosquito, Aedes albopictus, is an extremely invasive and aggressive daytime-biting mosquito that is a major public health threat throughout its expanding range.&lt;h4&gt;Methodology/principal findings&lt;/h4&gt;We used 13 nuclear microsatellite loci (on 911 individuals) and mitochondrial COI sequences to gain a better understanding of the historical and contemporary movements of Ae. albopictus in the Indo-Pacific region and to characterize its population structure. Approximate Bayesian computation (ABC) was employed to test competing historical routes of invasion of Ae. albopictus within the Southeast (SE) Asian/Australasian region. Our ABC results show that Ae. albopictus was most likely introduced to New Guinea via mainland Southeast Asia, before colonizing the Solomon Islands via either Papua New Guinea or SE Asia. The analysis also supported that the recent incursion into northern Australia's Torres Strait Islands was seeded chiefly from Indonesia. For the first time documented in this invasive species, we provide evidence of a recently colonized population (the Torres Strait Islands) that has undergone rapid temporal changes in its genetic makeup, which could be the result of genetic drift or represent a secondary invasion from an unknown source.&lt;h4&gt;Conclusions/significance&lt;/h4&gt;There appears to be high spatial genetic structure and high gene flow between some geographically distant populations. The species' genetic structure in the region tends to favour a dispersal pattern driven mostly by human movements. Importantly, this study provides a more widespread sampling distribution of the species' native range, revealing more spatial population structure than previously shown. Additionally, we present the most probable invasion history of this species in the Australasian region using ABC analysis.</dc:description>
+</oai_dc:dc>

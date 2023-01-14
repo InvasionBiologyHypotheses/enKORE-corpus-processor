@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q21134046</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462614</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0045314</dc:identifier>
+  <dc:title>The importance of using multiple approaches for identifying emerging invasive species: the case of the Rasberry Crazy Ant in the United States</dc:title>
+  <dc:creator>Gotzek, Dietrich</dc:creator>
+  <dc:creator>Brady, Seán G</dc:creator>
+  <dc:creator>Kallal, Robert J</dc:creator>
+  <dc:creator>LaPolla, John S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>United States of America</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>In the past decade, Houston, Texas has been virtually overrun by an unidentified ant species, the sudden appearance and enormous population sizes and densities of which have received national media attention. The Rasberry Crazy Ant, as it has become known due to its uncertain species status, has since spread to neighboring states and is still a major concern to pest control officials. Previous attempts at identifying this species have resulted in widely different conclusions in regards to its native range, source, and biology. We identify this highly invasive pest species as Nylanderia fulva (Mayr) using morphometric data measured from 14 characters, molecular sequence data consisting of 4,669 aligned nucleotide sites from six independent loci and comparison with type specimens. This identification will allow for the study and control of this emerging pest species to proceed unencumbered by taxonomic uncertainty. We also show that N. fulva has a much wider distribution than previously thought and has most likely invaded all of the Gulf Coast states.</dc:description>
+</oai_dc:dc>

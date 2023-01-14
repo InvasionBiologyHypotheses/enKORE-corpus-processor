@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q51145645</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853265</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2018.00293</dc:identifier>
+  <dc:title>Mapping the Flowering of an Invasive Plant Using Unmanned Aerial Vehicles: Is There Potential for Biocontrol Monitoring?</dc:title>
+  <dc:creator>Sá, Nuno C</dc:creator>
+  <dc:creator>Castro, Paula</dc:creator>
+  <dc:creator>Carvalho, Sabrina</dc:creator>
+  <dc:creator>Marchante, Elizabete</dc:creator>
+  <dc:creator>López-Núñez, Francisco A</dc:creator>
+  <dc:creator>Marchante, Hélia</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-03-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biocontrol</dc:subject>
+  <dc:subject>unmanned aerial vehicle</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Invasion by alien species is a worldwide phenomenon with negative consequences at both natural and production areas. &lt;i&gt;Acacia longifolia&lt;/i&gt; is an invasive shrub/small tree well known for its negative ecological impacts in several places around the world. The recent introduction of a biocontrol agent (&lt;i&gt;Trichilogaster acaciaelongifoliae&lt;/i&gt;), an Australian bud-galling wasp which decreases flowering of &lt;i&gt;A. longifolia&lt;/i&gt;, in Portugal, demands the development of a cost-efficient method to monitor its establishment. We tested how unmanned aerial vehicles (UAV) can be used to map &lt;i&gt;A. longifolia&lt;/i&gt; flowering. Our core assumption is as the population of the biocontrol agent increases, its impacts on the reduction of &lt;i&gt;A. longifolia&lt;/i&gt; flowering will be increasingly visible. Additionally, we tested if there is a simple linear correlation between the number of flowers of &lt;i&gt;A. longifolia&lt;/i&gt; counted in field and the area covered by flowers in the UAV imagery. UAV imagery was acquired over seven coastal areas including frontal dunes, interior sand dunes and pine forests considering two phenological stages: peak and off-peak flowering season. The number of flowers of &lt;i&gt;A. longifolia&lt;/i&gt; was counted, in a minimum of 60 1 m&lt;sup&gt;2&lt;/sup&gt; quadrats per study area. For each study area, flower presence/absence maps were obtained using supervised Random Forest. The correlation between the number of flowers and the area covered by flowering plants could then be tested. The flowering of &lt;i&gt;A. longifolia&lt;/i&gt; was mapped using UAV mounted with RGB and CIR Cannon IXUS/ELPH cameras (Overall Accuracy &gt; 0.96; Cohen's Kappa &gt; 0.85) varying according to habitat type and flowering season. The correlation between the number of flowers counted and the area covered by flowering was weak (&lt;i&gt;r&lt;sup&gt;2&lt;/sup&gt;&lt;/i&gt; between 0.0134 and 0.156). This is probably explained, at least partially, by the high variability of &lt;i&gt;A. longifolia&lt;/i&gt; in what regards flowering morphology and distribution. The very high accuracy of our approach to map &lt;i&gt;A. longifolia&lt;/i&gt; flowering proved to be cost efficient and replicable, showing great potential for detecting the future decrease in flowering promoted by the biocontrol agent. The attempt to provide a low-cost method to estimate &lt;i&gt;A. longifolia&lt;/i&gt; flower productivity using UAV failed, but it provided valuable insights on the future steps.</dc:description>
+</oai_dc:dc>

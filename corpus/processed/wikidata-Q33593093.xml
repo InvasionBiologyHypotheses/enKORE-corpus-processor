@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33593093</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0010641</dc:identifier>
+  <dc:title>Front instabilities and invasiveness of simulated 3D avascular tumors</dc:title>
+  <dc:creator>Poplawski, Nikodem J</dc:creator>
+  <dc:creator>Shirinifard, Abbas</dc:creator>
+  <dc:creator>Agero, Ubirajara</dc:creator>
+  <dc:creator>Gens, J Scott</dc:creator>
+  <dc:creator>Swat, Maciej</dc:creator>
+  <dc:creator>Glazier, James A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-05-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>neoplastic invasiveness</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>We use the Glazier-Graner-Hogeweg model to simulate three-dimensional (3D), single-phenotype, avascular tumors growing in an homogeneous tissue matrix (TM) supplying a single limiting nutrient. We study the effects of two parameters on tumor morphology: a diffusion-limitation parameter defined as the ratio of the tumor-substrate consumption rate to the substrate-transport rate, and the tumor-TM surface tension. This initial model omits necrosis and oxidative/hypoxic metabolism effects, which can further influence tumor morphology, but our simplified model still shows significant parameter dependencies. The diffusion-limitation parameter determines whether the growing solid tumor develops a smooth (noninvasive) or fingered (invasive) interface, as in our earlier two-dimensional (2D) simulations. The sensitivity of 3D tumor morphology to tumor-TM surface tension increases with the size of the diffusion-limitation parameter, as in 2D. The 3D results are unexpectedly close to those in 2D. Our results therefore may justify using simpler 2D simulations of tumor growth, instead of more realistic but more computationally expensive 3D simulations. While geometrical artifacts mean that 2D sections of connected 3D tumors may be disconnected, the morphologies of 3D simulated tumors nevertheless correlate with the morphologies of their 2D sections, especially for low-surface-tension tumors, allowing the use of 2D sections to partially reconstruct medically-important 3D-tumor structures.</dc:description>
+</oai_dc:dc>

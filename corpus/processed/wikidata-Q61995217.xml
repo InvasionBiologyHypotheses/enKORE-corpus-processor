@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q61995217</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PBIO.3000154</dc:identifier>
+  <dc:title>Phosphodiesterase beta is the master regulator of cAMP signalling during malaria parasite invasion</dc:title>
+  <dc:creator>Flueck, Christian</dc:creator>
+  <dc:creator>Drought, Laura G</dc:creator>
+  <dc:creator>Jones, Andrew W</dc:creator>
+  <dc:creator>Patel, Avnish</dc:creator>
+  <dc:creator>Perrin, Abigail J</dc:creator>
+  <dc:creator>Walker, Eloise M</dc:creator>
+  <dc:creator>Nofal, Stephanie D</dc:creator>
+  <dc:creator>Snijders, Ambrosius P.</dc:creator>
+  <dc:creator>Blackman, Michael J</dc:creator>
+  <dc:creator>Baker, David A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-02-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>3'</dc:subject>
+  <dc:subject>5'-cyclic nucleotide phosphodiesterase beta</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Cyclic nucleotide signalling is a major regulator of malaria parasite differentiation. Phosphodiesterase (PDE) enzymes are known to control cyclic GMP (cGMP) levels in the parasite, but the mechanisms by which cyclic AMP (cAMP) is regulated remain enigmatic. Here, we demonstrate that Plasmodium falciparum phosphodiesterase β (PDEβ) hydrolyses both cAMP and cGMP and is essential for blood stage viability. Conditional gene disruption causes a profound reduction in invasion of erythrocytes and rapid death of those merozoites that invade. We show that this dual phenotype results from elevated cAMP levels and hyperactivation of the cAMP-dependent protein kinase (PKA). Phosphoproteomic analysis of PDEβ-null parasites reveals a &gt;2-fold increase in phosphorylation at over 200 phosphosites, more than half of which conform to a PKA substrate consensus sequence. We conclude that PDEβ plays a critical role in governing correct temporal activation of PKA required for erythrocyte invasion, whilst suppressing untimely PKA activation during early intra-erythrocytic development.</dc:description>
+</oai_dc:dc>

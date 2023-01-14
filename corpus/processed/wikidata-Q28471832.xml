@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28471832</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2140086</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PMED.0040337</dc:identifier>
+  <dc:title>Plasmodium vivax invasion of human erythrocytes inhibited by antibodies directed against the Duffy binding protein</dc:title>
+  <dc:creator>Grimberg, Brian T</dc:creator>
+  <dc:creator>Udomsangpetch, Rachanee</dc:creator>
+  <dc:creator>Xainli, Jia</dc:creator>
+  <dc:creator>McHenry, Amy</dc:creator>
+  <dc:creator>Panichakul, Tasanee</dc:creator>
+  <dc:creator>Sattabongkot, Jetsumon</dc:creator>
+  <dc:creator>Cui, Liwang</dc:creator>
+  <dc:creator>Bockarie, Moses</dc:creator>
+  <dc:creator>Chitnis, Chetan</dc:creator>
+  <dc:creator>Adams, John</dc:creator>
+  <dc:creator>Zimmerman, Peter A</dc:creator>
+  <dc:creator>King, Christopher L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2007-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>human erythrocyte</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Plasmodium vivax invasion requires interaction between the human Duffy antigen on the surface of erythrocytes and the P. vivax Duffy binding protein (PvDBP) expressed by the parasite. Given that Duffy-negative individuals are resistant and that Duffy-negative heterozygotes show reduced susceptibility to blood-stage infection, we hypothesized that antibodies directed against region two of P. vivax Duffy binding protein (PvDBPII) would inhibit P. vivax invasion of human erythrocytes.&lt;h4&gt;Methods and findings&lt;/h4&gt;Using a recombinant region two of the P. vivax Duffy binding protein (rPvDBPII), polyclonal antibodies were generated from immunized rabbits and affinity purified from the pooled sera of 14 P. vivax-exposed Papua New Guineans. It was determined by ELISA and by flow cytometry, respectively, that both rabbit and human antibodies inhibited binding of rPvDBPII to the Duffy antigen N-terminal region and to Duffy-positive human erythrocytes. Additionally, using immunofluorescent microscopy, the antibodies were shown to attach to native PvDBP on the apical end of the P. vivax merozoite. In vitro invasion assays, using blood isolates from individuals in the Mae Sot district of Thailand, showed that addition of rabbit anti-PvDBPII Ab or serum (antibodies against, or serum containing antibodies against, region two of the Plasmodium vivax Duffy binding protein) (1:100) reduced the number of parasite invasions by up to 64%, while pooled PvDBPII antisera from P. vivax-exposed people reduced P. vivax invasion by up to 54%.&lt;h4&gt;Conclusions&lt;/h4&gt;These results show, for what we believe to be the first time, that both rabbit and human antibodies directed against PvDBPII reduce invasion efficiency of wild P. vivax isolated from infected patients, and suggest that a PvDBP-based vaccine may reduce human blood-stage P. vivax infection.</dc:description>
+</oai_dc:dc>

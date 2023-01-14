@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28535338</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1003757</dc:identifier>
+  <dc:title>A small molecule glycosaminoglycan mimetic blocks Plasmodium invasion of the mosquito midgut</dc:title>
+  <dc:creator>Mathias, Derrick K</dc:creator>
+  <dc:creator>Pastrana-Mena, Rebecca</dc:creator>
+  <dc:creator>Ranucci, Elisabetta</dc:creator>
+  <dc:creator>Tao, Dingyin</dc:creator>
+  <dc:creator>Ferruti, Paolo</dc:creator>
+  <dc:creator>Ortega, Corrie</dc:creator>
+  <dc:creator>O Staples, Gregory</dc:creator>
+  <dc:creator>Zaia, Joseph</dc:creator>
+  <dc:creator>Takashima, Eizo</dc:creator>
+  <dc:creator>Tsuboi, Takafumi</dc:creator>
+  <dc:creator>Borg, Natalie A</dc:creator>
+  <dc:creator>Verotta, Luisella</dc:creator>
+  <dc:creator>Dinglasan, Rhoel</dc:creator>
+  <dc:creator>Dinglasan, Rhoel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Malaria transmission-blocking (T-B) interventions are essential for malaria elimination. Small molecules that inhibit the Plasmodium ookinete-to-oocyst transition in the midgut of Anopheles mosquitoes, thereby blocking sporogony, represent one approach to achieving this goal. Chondroitin sulfate glycosaminoglycans (CS-GAGs) on the Anopheles gambiae midgut surface are putative ligands for Plasmodium falciparum ookinetes. We hypothesized that our synthetic polysulfonated polymer, VS1, acting as a decoy molecular mimetic of midgut CS-GAGs confers malaria T-B activity. In our study, VS1 repeatedly reduced midgut oocyst development by as much as 99% (P&lt;0.0001) in mosquitoes fed with P. falciparum and Plasmodium berghei. Through direct-binding assays, we observed that VS1 bound to two critical ookinete micronemal proteins, each containing at least one von Willebrand factor A (vWA) domain: (i) circumsporozoite protein and thrombospondin-related anonymous protein-related protein (CTRP) and (ii) vWA domain-related protein (WARP). By immunofluorescence microscopy, we observed that VS1 stains permeabilized P. falciparum and P. berghei ookinetes but does not stain P. berghei CTRP knockouts or transgenic parasites lacking the vWA domains of CTRP while retaining the thrombospondin repeat region. We produced structural homology models of the first vWA domain of CTRP and identified, as expected, putative GAG-binding sites on CTRP that align closely with those predicted for the human vWA A1 domain and the Toxoplasma gondii MIC2 adhesin. Importantly, the models also identified patches of electropositive residues that may extend CTRP's GAG-binding motif and thus potentiate VS1 binding. Our molecule binds to a critical, conserved ookinete protein, CTRP, and exhibits potent malaria T-B activity. This study lays the framework for a high-throughput screen of existing libraries of safe compounds to identify those with potent T-B activity. We envision that such compounds when used as partner drugs with current antimalarial regimens and with RTS,S vaccine delivery could prevent the transmission of drug-resistant and vaccine-breakthrough strains.</dc:description>
+</oai_dc:dc>

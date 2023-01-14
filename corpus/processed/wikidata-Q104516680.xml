@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q104516680</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7767289</dc:identifier>
+  <dc:identifier>doi:10.3390/MICROORGANISMS8122022</dc:identifier>
+  <dc:title>Comparative Microbiome and Metabolome Analyses of the Marine Tunicate &lt;i&gt;Ciona intestinalis&lt;/i&gt; from Native and Invaded Habitats</dc:title>
+  <dc:creator>Utermann, Caroline</dc:creator>
+  <dc:creator>Blümel, Martina</dc:creator>
+  <dc:creator>Busch, Kathrin</dc:creator>
+  <dc:creator>Buedenbender, Larissa</dc:creator>
+  <dc:creator>Lin, Yaping</dc:creator>
+  <dc:creator>Haltli, Bradley A</dc:creator>
+  <dc:creator>Kerr, Russell G</dc:creator>
+  <dc:creator>Briski, Elizabeta</dc:creator>
+  <dc:creator>Hentschel, Ute</dc:creator>
+  <dc:creator>Tasdemir, Deniz</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Ciona intestinalis</dc:subject>
+  <dc:subject>metabolomics</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>habitat</dc:subject>
+  <dc:subject>comparative biology</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Massive fouling by the invasive ascidian Ciona intestinalis in Prince Edward Island (PEI, Canada) has been causing devastating losses to the local blue mussel farms. In order to gain first insights into so far unexplored factors that may contribute to the invasiveness of C. intestinalis in PEI, we undertook comparative microbiome and metabolome studies on specific tissues from C. intestinalis populations collected in invaded (PEI) and native regions (Helgoland and Kiel, Germany). Microbial community analyses and untargeted metabolomics revealed clear location- and tissue-specific patterns showing that biogeography and the sampled tissue shape the microbiome and metabolome of C. intestinalis. Moreover, we observed higher microbial and chemical diversity in C. intestinalis from PEI than in the native populations. Bacterial OTUs specific to C. intestinalis from PEI included Cyanobacteria (e.g., Leptolyngbya sp.) and Rhodobacteraceae (e.g., Roseobacter sp.), while populations from native sampling sites showed higher abundances of e.g., Firmicutes (Helgoland) and Epsilonproteobacteria (Kiel). Altogether 121 abundant metabolites were putatively annotated in the global ascidian metabolome, of which 18 were only detected in the invasive PEI population (e.g., polyketides and terpenoids), while six (e.g., sphingolipids) or none were exclusive to the native specimens from Helgoland and Kiel, respectively. Some identified bacteria and metabolites reportedly possess bioactive properties (e.g., antifouling and antibiotic) that may contribute to the overall fitness of C. intestinalis. Hence, this first study provides a basis for future studies on factors underlying the global invasiveness of Ciona species.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

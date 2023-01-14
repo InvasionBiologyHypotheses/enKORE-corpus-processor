@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q64086680</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6450370</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.6667</dc:identifier>
+  <dc:title>Spatial variation in allometric growth of invasive lionfish has management implications</dc:title>
+  <dc:creator>Villaseñor-Derbez, Juan Carlos</dc:creator>
+  <dc:creator>Fitzgerald, Sean</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Lionfish</dc:subject>
+  <dc:subject>allometry</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Lionfish (&lt;jats:italic&gt;Pterois volitans/miles&lt;/jats:italic&gt;) are an invasive species in the Western Atlantic and the Caribbean. Improving management of invasive lionfish populations requires accurate total biomass estimates, which depend on accurate estimates of allometric growth; sedentary species like lionfish often exhibit high levels of spatial variation in life history characteristics. We reviewed 17 published length-weight relationships for lionfish taken throughout their invasive range and found regional differences that led to significant misestimates when calculating weight from length observations. The spatial pattern we observed is consistent with findings from other studies focused on genetics or length-at-age. Here, the use of &lt;jats:italic&gt;ex situ&lt;/jats:italic&gt; parameter values resulted in total biomass estimates between 76.2% and 140% of true observed biomass, and up to a threefold under- or overestimation of total weight for an individual organism. These findings can have implications for management in terms of predicting effects on local ecosystems, evaluating the effectiveness of removal programs, or estimating biomass available for harvest.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

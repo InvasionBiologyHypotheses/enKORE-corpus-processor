@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35445595</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0112656</dc:identifier>
+  <dc:title>Strand Invasion Based Amplification (SIBA®): a novel isothermal DNA amplification technology demonstrating high specificity and sensitivity for a single molecule of target analyte</dc:title>
+  <dc:creator>Hoser, Mark J</dc:creator>
+  <dc:creator>Mansukoski, Hannu K</dc:creator>
+  <dc:creator>Morrical, Scott W</dc:creator>
+  <dc:creator>Eboigbodin, Kevin E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-11-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Isothermal nucleic acid amplification technologies offer significant advantages over polymerase chain reaction (PCR) in that they do not require thermal cycling or sophisticated laboratory equipment. However, non-target-dependent amplification has limited the sensitivity of isothermal technologies and complex probes are usually required to distinguish between non-specific and target-dependent amplification. Here, we report a novel isothermal nucleic acid amplification technology, Strand Invasion Based Amplification (SIBA). SIBA technology is resistant to non-specific amplification, is able to detect a single molecule of target analyte, and does not require target-specific probes. The technology relies on the recombinase-dependent insertion of an invasion oligonucleotide (IO) into the double-stranded target nucleic acid. The duplex regions peripheral to the IO insertion site dissociate, thereby enabling target-specific primers to bind. A polymerase then extends the primers onto the target nucleic acid leading to exponential amplification of the target. The primers are not substrates for the recombinase and are, therefore unable to extend the target template in the absence of the IO. The inclusion of 2'-O-methyl RNA to the IO ensures that it is not extendible and that it does not take part in the extension of the target template. These characteristics ensure that the technology is resistant to non-specific amplification since primer dimers or mis-priming are unable to exponentially amplify. Consequently, SIBA is highly specific and able to distinguish closely-related species with single molecule sensitivity in the absence of complex probes or sophisticated laboratory equipment. Here, we describe this technology in detail and demonstrate its use for the detection of Salmonella.</dc:description>
+</oai_dc:dc>

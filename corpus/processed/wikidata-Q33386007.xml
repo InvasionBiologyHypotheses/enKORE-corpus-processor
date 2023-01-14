@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33386007</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000217</dc:identifier>
+  <dc:title>the hyphal-associated adhesin and invasin Als3 of Candida albicans mediates iron acquisition from host ferritin</dc:title>
+  <dc:creator>Almeida, Ricardo S</dc:creator>
+  <dc:creator>Brunke, Sascha</dc:creator>
+  <dc:creator>Albrecht, Antje</dc:creator>
+  <dc:creator>Thewes, Sascha</dc:creator>
+  <dc:creator>Laue, Michael</dc:creator>
+  <dc:creator>Edwards, John E</dc:creator>
+  <dc:creator>Filler, Scott G</dc:creator>
+  <dc:creator>Hube, Bernhard</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-11-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Iron sequestration by host iron-binding proteins is an important mechanism of resistance to microbial infections. Inside oral epithelial cells, iron is stored within ferritin, and is therefore not usually accessible to pathogenic microbes. We observed that the ferritin concentration within oral epithelial cells was directly related to their susceptibility to damage by the human pathogenic fungus, Candida albicans. Thus, we hypothesized that host ferritin is used as an iron source by this organism. We found that C. albicans was able to grow on agar at physiological pH with ferritin as the sole source of iron, while the baker's yeast Saccharomyces cerevisiae could not. A screen of C. albicans mutants lacking components of each of the three known iron acquisition systems revealed that only the reductive pathway is involved in iron utilization from ferritin by this fungus. Additionally, C. albicans hyphae, but not yeast cells, bound ferritin, and this binding was crucial for iron acquisition from ferritin. Transcriptional profiling of wild-type and hyphal-defective C. albicans strains suggested that the C. albicans invasin-like protein Als3 is required for ferritin binding. Hyphae of an Deltaals3 null mutant had a strongly reduced ability to bind ferritin and these mutant cells grew poorly on agar plates with ferritin as the sole source of iron. Heterologous expression of Als3, but not Als1 or Als5, two closely related members of the Als protein family, allowed S. cerevisiae to bind ferritin. Immunocytochemical localization of ferritin in epithelial cells infected with C. albicans showed ferritin surrounding invading hyphae of the wild-type, but not the Deltaals3 mutant strain. This mutant was also unable to damage epithelial cells in vitro. Therefore, C. albicans can exploit iron from ferritin via morphology dependent binding through Als3, suggesting that this single protein has multiple virulence attributes.</dc:description>
+</oai_dc:dc>

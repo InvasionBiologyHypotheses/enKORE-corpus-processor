@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111137528</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.11776</dc:identifier>
+  <dc:title>The effects of genetic drift and genomic selection on differentiation and local adaptation of the introduced populations of Aedes albopictus in southern Russia</dc:title>
+  <dc:creator>Konorov, Evgenii A.</dc:creator>
+  <dc:creator>Yurchenko, Vyacheslav</dc:creator>
+  <dc:creator>Patraman, Ivan</dc:creator>
+  <dc:creator>Lukashev, Alexander</dc:creator>
+  <dc:creator>Oyun, Nadezhda</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-07-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Asian tiger mosquito</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>&lt;jats:sec&gt;
+&lt;jats:title&gt;Background&lt;/jats:title&gt;
+&lt;jats:p&gt;Asian tiger mosquito &lt;jats:italic&gt;Aedes albopictus&lt;/jats:italic&gt; is an arbovirus vector that has spread from its native habitation areal in Southeast Asia throughout North and South Americas, Europe, and Africa. &lt;jats:italic&gt;Ae. albopictus&lt;/jats:italic&gt; was first detected in the Southern Federal District of the Russian Federation in the subtropical town of Sochi in 2011. In subsequent years, this species has been described in the continental areas with more severe climate and lower winter temperatures.&lt;/jats:p&gt;
+&lt;/jats:sec&gt;
+&lt;jats:sec&gt;
+&lt;jats:title&gt;Methods&lt;/jats:title&gt;
+&lt;jats:p&gt;Genomic analysis of pooled &lt;jats:italic&gt;Ae. albopictus&lt;/jats:italic&gt; samples collected in the mosquito populations in the coastal and continental regions of the Krasnodar Krai was conducted to look for the genetic changes associated with the spread and potential cold adaptation in &lt;jats:italic&gt;Ae. albopictus&lt;/jats:italic&gt;.&lt;/jats:p&gt;
+&lt;/jats:sec&gt;
+&lt;jats:sec&gt;
+&lt;jats:title&gt;Results&lt;/jats:title&gt;
+&lt;jats:p&gt;The results of the phylogenetic analysis based on mitochondrial genomes corresponded well with the hypothesis that &lt;jats:italic&gt;Ae. albopictus&lt;/jats:italic&gt; haplotype A1a2a1 was introduced into the region from a single source. Population analysis revealed the role of dispersal and genetic drift in the local adaptation of the Asian tiger mosquito. The absence of shared haplotypes between the samples and high fixation indices suggest that gene flow between samples was heavily restricted. Mitochondrial and genomic differentiation together with different distances between dispersal routes, natural and anthropogenic barriers and local effective population size reduction could lead to difficulties in local climatic adaptations due to reduced selection effectiveness. We have found genomic regions with selective sweep patterns which can be considered as having been affected by recent selection events. The genes located in these regions participate in neural protection, lipid conservation, and cuticle formation during diapause. These processes were shown to be important for cold adaptation in the previous transcriptomic and proteomic studies. However, the population history and relatively low coverage obtained in the present article could have negatively affect sweep detection.&lt;/jats:p&gt;
+&lt;/jats:sec&gt;</dc:description>
+</oai_dc:dc>

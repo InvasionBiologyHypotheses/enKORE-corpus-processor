@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q55098247</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0195892</dc:identifier>
+  <dc:title>Invasion complexity at large spatial scales is an emergent property of interactions among landscape characteristics and invader traits.</dc:title>
+  <dc:creator>Muthukrishnan, Ranjan</dc:creator>
+  <dc:creator>Davis, Adam S.</dc:creator>
+  <dc:creator>Jordan, Nicholas R</dc:creator>
+  <dc:creator>Forester, James D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-05-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasion potential should be part of the evaluation of candidate species for any species introduction. However, estimating invasion risks remains a challenging problem, particularly in complex landscapes. Certain plant traits are generally considered to increase invasive potential and there is an understanding that landscapes influence invasions dynamics, but little research has been done to explore how those drivers of invasions interact. We evaluate the relative roles of, and potential interactions between, plant invasiveness traits and landscape characteristics on invasions with a case study using a model parameterized for the potentially invasive biomass crop, Miscanthus × giganteus. Using that model we simulate invasions on 1000 real landscapes to evaluate how landscape characteristics, including both composition and spatial structure, affect invasion outcomes. We conducted replicate simulations with differing strengths of plant invasiveness traits (dispersal ability, establishment ability, population growth rate, and the ability to utilize dispersal corridors) to evaluate how the importance of landscape characteristics for predicting invasion patterns changes depending on the invader details. Analysis of simulations showed that the presence of highly suitable habitat (e.g., grasslands) is generally the strongest determinant of invasion dynamics but that there are also more subtle interactions between landscapes and invader traits. These effects can also vary between different aspects of invasion dynamics (short vs. long time scales and population size vs. spatial extent). These results illustrate that invasions are complex emergent processes with multiple drivers and effective management needs to reflect the ecology of the species of interest and the particular goals or risks for which efforts need to be optimized.</dc:description>
+</oai_dc:dc>

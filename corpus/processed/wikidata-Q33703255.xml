@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33703255</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436557</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.3250</dc:identifier>
+  <dc:title>Are invasive populations characterized by a broader diet than native populations?</dc:title>
+  <dc:creator>Courant, Julien</dc:creator>
+  <dc:creator>Vogt, Solveig</dc:creator>
+  <dc:creator>Marques, Raquel</dc:creator>
+  <dc:creator>Measey, John</dc:creator>
+  <dc:creator>Secondi, Jean</dc:creator>
+  <dc:creator>Rebelo, Rui</dc:creator>
+  <dc:creator>De Villiers, André</dc:creator>
+  <dc:creator>Ihlow, Flora</dc:creator>
+  <dc:creator>De Busschere, Charlotte</dc:creator>
+  <dc:creator>Backeljau, Thierry</dc:creator>
+  <dc:creator>Rödder, Dennis</dc:creator>
+  <dc:creator>Herrel, Anthony</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>&lt;jats:sec&gt;
+               &lt;jats:title&gt;Background&lt;/jats:title&gt;
+               &lt;jats:p&gt;Invasive species are among the most significant threats to biodiversity. The diet of invasive animal populations is a crucial factor that must be considered in the context of biological invasions. A broad dietary spectrum is a frequently cited characteristic of invasive species, allowing them to thrive in a wide range of environments. Therefore, empirical studies comparing diet in invasive and native populations are necessary to understand dietary requirements, dietary flexibility, and the associated impacts of invasive species.&lt;/jats:p&gt;
+            &lt;/jats:sec&gt;
+            &lt;jats:sec&gt;
+               &lt;jats:title&gt;Methods&lt;/jats:title&gt;
+               &lt;jats:p&gt;In this study, we compared the diet of populations of the African clawed frog, &lt;jats:italic&gt;Xenopus laevis&lt;/jats:italic&gt; in its native range, with several areas where it has become invasive. Each prey category detected in stomach contents was assigned to an ecological category, allowing a comparison of the diversity of ecological traits among the prey items in the diet of native and introduced populations. The comparison of diets was also performed using evenness as a niche breadth index on all sampled populations, and electivity as a prey selection index for three out of the six sampled populations.&lt;/jats:p&gt;
+            &lt;/jats:sec&gt;
+            &lt;jats:sec&gt;
+               &lt;jats:title&gt;Results&lt;/jats:title&gt;
+               &lt;jats:p&gt;Our results showed that diet breadth could be either narrow or broad in invasive populations. According to diet and prey availability, zooplankton was strongly preferred in most cases. In lotic environments, zooplankton was replaced by benthic preys, such as ephemeropteran larvae.&lt;/jats:p&gt;
+            &lt;/jats:sec&gt;
+            &lt;jats:sec&gt;
+               &lt;jats:title&gt;Discussion&lt;/jats:title&gt;
+               &lt;jats:p&gt;The relative proportions of prey with different ecological traits, and dietary variability within and between areas of occurrence, suggest that &lt;jats:italic&gt;X. laevis&lt;/jats:italic&gt; is a generalist predator in both native and invasive populations. Shifts in the realized trophic niche are observed, and appear related to resource availability. &lt;jats:italic&gt;Xenopus laevis&lt;/jats:italic&gt; may strongly impact aquatic ecosystems because of its near complete aquatic lifestyle and its significant consumption of key taxa for the trophic relationships in ponds.&lt;/jats:p&gt;
+            &lt;/jats:sec&gt;</dc:description>
+</oai_dc:dc>

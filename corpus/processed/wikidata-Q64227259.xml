@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q64227259</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6455121</dc:identifier>
+  <dc:identifier>doi:10.1080/22221751.2018.1558960</dc:identifier>
+  <dc:title>A Listeria monocytogenes ST2 clone lacking chitinase ChiB from an outbreak of non-invasive gastroenteritis</dc:title>
+  <dc:creator>Halbedel, Sven</dc:creator>
+  <dc:creator>Prager, Rita</dc:creator>
+  <dc:creator>Banerji, Sangeeta</dc:creator>
+  <dc:creator>Kleta, Sylvia</dc:creator>
+  <dc:creator>Trost, Eva</dc:creator>
+  <dc:creator>Nishanth, Gopala</dc:creator>
+  <dc:creator>Alles, Georg</dc:creator>
+  <dc:creator>Hölzel, Christina</dc:creator>
+  <dc:creator>Schlesiger, Friederike</dc:creator>
+  <dc:creator>Pietzka, Ariane</dc:creator>
+  <dc:creator>Schlüter, Dirk</dc:creator>
+  <dc:creator>Flieger, Antje</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Informa UK Limited</dc:publisher>
+  <dc:description>An outbreak with a remarkable Listeria monocytogenes clone causing 163 cases of non-invasive listeriosis occurred in Germany in 2015. Core genome multi locus sequence typing grouped non-invasive outbreak isolates and isolates obtained from related food samples into a single cluster, but clearly separated genetically close isolates obtained from invasive listeriosis cases. A comparative genomic approach identified a premature stop codon in the chiB gene, encoding one of the two L. monocytogenes chitinases, which clustered with disease outcome. Correction of this premature stop codon in one representative gastroenteritis outbreak isolate restored chitinase production, but effects in infection experiments were not found. While the exact role of chitinases in virulence of L. monocytogenes is still not fully understood, our results now clearly show that ChiB-derived activity is not required to establish L. monocytogenes gastroenteritis in humans. This limits a possible role of ChiB in human listeriosis to later steps of the infection.</dc:description>
+</oai_dc:dc>
