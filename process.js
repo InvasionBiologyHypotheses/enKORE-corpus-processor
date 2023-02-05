@@ -1,3 +1,6 @@
+// ###################################
+// ##### Import required modules #####
+// ###################################
 import { config } from "dotenv";
 import { parse } from "deno-std-flags";
 import * as retried from "retried";
@@ -5,16 +8,25 @@ import * as retried from "retried";
 import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
+// ##### Note: xmlexporter is imported to save contents to file(XML)
 import { generateXML } from "./lib/xmlexporter.js";
 import get from "just-safe-get";
 import extend from "just-extend";
 import * as log from "deno-std-log";
-
+// ##### Note: information about API's sources, logging and additional settings
 import { abstractSources, logging, settings } from "./config.js";
+
+// ######################################################
+// ##### Information for console debugging purposes #####
+// ######################################################
+const filename_this = "Log(process.js): "; // ##### Note: not needed because it is currently using dl.debug("string");
 
 const sleep = (time = 1000) =>
   new Promise((resolve) => setTimeout(resolve, time));
 
+// #####################################################
+// ##### Function to process all arguments (START) #####
+// #####################################################
 async function processArgs(args) {
   const parsedArgs = parse(args, {
     string: ["entries", "filename"],
@@ -60,14 +72,23 @@ async function processArgs(args) {
       extend(entries, read);
     }
   }
-  let items = entries?.results?.bindings?.map((x) => x?.item?.value) || [];
+
+  let items = entries?.results?.bindings?.map((x) => x?.item?.value) || []; // ##### Note: defining entries
+
   if (parsedArgs.items) {
     items = [...items, ...parsedArgs?.items?.split("|")];
   }
   dl.debug(`${items.length} items`);
   return { parsedArgs, items };
 }
+// ###################################################
+// ##### Function to process all arguments (END) #####
+// ###################################################
 
+// ########################################################
+// ##### Function to get URL entries-list (START/END) #####
+// ########################################################
+// ##### Note: Requesting information to create entries.json
 async function fetchURLEntries(url) {
   if (!url) {
     dl.error("No url to fetch! Exiting...");
@@ -80,6 +101,20 @@ async function fetchURLEntries(url) {
   return entries;
 }
 
+// #####################################################
+// ##### Function to save entries.json (START/END) #####
+// #####################################################
+// ##### Note: Saving information returned from fetchURLEntries
+async function saveFileEntries(file, entries) {
+  const fileSave = await writeJSON(file, entries, null, 2);
+  dl.debug(`File written: ${file} - ${fileSave}`);
+  return fileSave;
+}
+
+// ####################################################
+// ##### Function to get URL contents (START/END) #####
+// ####################################################
+// ##### Note: Requesting information for each files listed in entries.json
 async function fetchFileEntries(file) {
   if (!file) return;
   const entries = await readJSON(file).catch((error) => {
@@ -90,12 +125,10 @@ async function fetchFileEntries(file) {
   return entries;
 }
 
-async function saveFileEntries(file, entries) {
-  const fileSave = await writeJSON(file, entries, null, 2);
-  dl.debug(`File written: ${file} - ${fileSave}`);
-  return fileSave;
-}
-
+// #############################################################
+// ##### Function to request URL with Abstract (START/END) #####
+// #############################################################
+// ##### Note:
 async function getAbstract(src, service) {
   dl.debug(`Entering getAbstract ${service?.name}`);
   const id = src[service.wikidataProperty.label];
@@ -119,6 +152,10 @@ async function getAbstract(src, service) {
   }
 }
 
+// ######################################################################
+// ##### Function to extract Abstract from WikidataItem (START/END) #####
+// ######################################################################
+// ##### Note: Checking in Abstract is available in Wikidata
 async function findAbstract(wikidataItem) {
   dl.debug(`Entering findAbstract`);
   for (const source of abstractSources) {
@@ -132,6 +169,10 @@ async function findAbstract(wikidataItem) {
   return null;
 }
 
+// #######################################################################
+// ##### Function to request URL from CrossRef using DOI (START/END) #####
+// #######################################################################
+// ##### Note:
 async function getCrossrefItem(DOI, retries = 4, delay = 0) {
   dl.debug(`Entering getCrossrefItem ${DOI}`);
   await delay;
@@ -162,7 +203,50 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
   }
 }
 
+// ###########################################################
+// ##### Function to process the THREE main data (START) #####
+// ###########################################################
+// ##### Note: Passing information from the three main API's
+// ##### Note: Funcation called in getItemData()
 async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
+
+  const wikidataItem_id_string = JSON.stringify(wikidataItem.id);
+
+  // ##### Note: wikidataItem to save structure
+  // const wikidataItem_target = `Q35745846`; // ##### Note: optional for whatever ${anything_required}
+  const wikidataItem_target = 'Q35745846';
+  
+  // ##### Note: piece to target specific object contents
+  if (wikidataItem_id_string.includes(wikidataItem_target)) {
+
+    dl.debug(`################################################`);
+
+    setTimeout(() => {  dl.debug(`${wikidataItem.id} just found!`); }, 5000);
+  
+    // ##### Note: Saving structure for wikidataItem
+    try {
+
+      const filename = `${wikidataItem.id}_Struct_wikidataItem.json`;
+      const wikidataItem_content = JSON.stringify(wikidataItem);
+      const content = wikidataItem_content;
+      await writeTXT(filename, content);
+      setTimeout(() => {  dl.debug(`filesaved_yes`); }, 500);
+
+    } catch (err) {
+
+      setTimeout(() => {  dl.debug(`filesaved_no`); }, 500);
+
+    }
+
+    dl.debug(`################################################`);
+
+  } else {
+
+    // ##### Note: Do nothing!
+
+  }
+
+  // ##### Note: this script is imported from (/lib/xmlexporter.js)
   dl.debug(`Entering processItem ${wikidataItem.id}`);
   const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
   const xml = await generateXML({
@@ -173,19 +257,26 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   dl.debug(`About to exit processItem ${wikidataItem.id}`);
   return await writeTXT(filename, xml);
 }
+// #########################################################
+// ##### Function to process the THREE main data (END) #####
+// #########################################################
 
+// ##############################################################
+// ##### Function to cluster data from all APIs (START/END) #####
+// ##############################################################
+// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, and PubMedCentral
 async function getItemData(items) {
   dl.debug(`Entering getItemData`);
   const { data } = await new citationJS.Cite.async(items);
   data.forEach(async (item) => {
     dl.debug(`wikidataitem id: ${item?.id}`);
     // dl.debug(JSON.stringify(item, null, 2));
-    let crossrefItem = await getCrossrefItem(item.DOI);
+    let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem
     const accumulatedData = {
-      abstract: await findAbstract(item),
+      abstract: await findAbstract(item), // ##### Note: defining accumulatedData
     };
     const process = await processItem({
-      wikidataItem: item,
+      wikidataItem: item, // ##### Note: defining wikidataItem as item and passing into function
       crossrefItem,
       accumulatedData,
     });
@@ -194,6 +285,10 @@ async function getItemData(items) {
   dl.debug(`Exiting getItemData`);
 }
 
+// ##################################################
+// ##### Function to update the Endpoint (START/END)
+// ##################################################
+// ##### Note: Currently not used!
 async function updateEndpoint() {
   const response = await fetch(Deno.env.get("UPDATE_URL"), {
     method: "GET",
@@ -212,13 +307,16 @@ async function updateEndpoint() {
   dl.debug({ notificationresponse });
 }
 
+// ######################################
+// ##### Function-Conductor (START) #####
+// ######################################
 async function main() {
   dl.debug("starting main");
   const startTime = new Date();
 
   const {
     parsedArgs: { offset, size, delay },
-    items,
+    items,                                  // ##### Note: items come as return from processArgs
   } = await processArgs(Deno.args);
 
   if (items?.length < 1) {
@@ -252,6 +350,9 @@ async function main() {
 
   // updateEndpoint();
 }
+// ####################################
+// ##### Function-Conductor (END) #####
+// ####################################
 
 await config();
 await log.setup(logging);
