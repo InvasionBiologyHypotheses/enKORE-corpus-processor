@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q56774607</dc:identifier>
+  <dc:identifier>doi:10.1016/J.RSE.2007.06.028</dc:identifier>
+  <dc:title>QuickBird and Hyperion data analysis of an invasive plant species in the Galapagos Islands of Ecuador: Implications for control and land use management</dc:title>
+  <dc:creator>Walsh, Stephen J.</dc:creator>
+  <dc:creator>McCleary, Amy L.</dc:creator>
+  <dc:creator>Mena, Carlos F.</dc:creator>
+  <dc:creator>Shao, Yang</dc:creator>
+  <dc:creator>Tuttle, Julie P.</dc:creator>
+  <dc:creator>González, Augusto</dc:creator>
+  <dc:creator>Atkinson, Rachel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>land use</dc:subject>
+  <dc:subject>Ecuador</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>Galapagos Islands</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35176358</dc:identifier>
+  <dc:identifier>doi:10.1126/SCIENCE.1250763</dc:identifier>
+  <dc:title>Optimal approaches for balancing invasive species eradication and endangered species management</dc:title>
+  <dc:creator>Lampert, Adam</dc:creator>
+  <dc:creator>Hastings, Alan</dc:creator>
+  <dc:creator>Grosholz, Edwin D</dc:creator>
+  <dc:creator>Jardine, Sunny L</dc:creator>
+  <dc:creator>Sanchirico, James N</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-05-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive species eradication</dc:subject>
+  <dc:subject>invasive species management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>American Association for the Advancement of Science (AAAS)</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Conservation vs. eradication&lt;/jats:title&gt;
+          &lt;jats:p&gt;
+            What's an ecologist to do when an endangered bird lives in an invasive grass? Ecosystems are complicated networks, with one species relying on another, and managing one species in isolation may damage other members of a community. Lampert
+            &lt;jats:italic&gt;et al.&lt;/jats:italic&gt;
+            (see the Perspective by Buckley and Han) looked at the conflict between eradicating a damaging invasive grass species and protecting an endangered bird species that uses the grass as its home. The most effective management and restoration approach focused not on eradicating the invasive grass as quickly as possible but on making changes slowly enough that the birds could adapt. This approach may prove useful in other situations in which active restoration conflicts with other conservation goals.
+          &lt;/jats:p&gt;
+          &lt;jats:p&gt;
+            &lt;jats:italic&gt;Science&lt;/jats:italic&gt;
+            , this issue p.
+            &lt;jats:related-article xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" issue="6187" page="1028" related-article-type="in-this-issue" vol="344" xlink:href="10.1126/science.1250763"&gt;1028&lt;/jats:related-article&gt;
+            ; see also p.
+            &lt;jats:related-article xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" issue="6187" page="975" related-article-type="in-this-issue" vol="344" xlink:href="10.1126/science.1254662"&gt;975&lt;/jats:related-article&gt;
+          &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

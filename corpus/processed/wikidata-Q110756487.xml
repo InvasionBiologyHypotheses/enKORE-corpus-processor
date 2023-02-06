@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110756487</dc:identifier>
+  <dc:identifier>doi:10.1098/RSTB.2021.0025</dc:identifier>
+  <dc:title>Managing human-mediated range shifts: understanding spatial, temporal and genetic variation in marine non-native species</dc:title>
+  <dc:creator>Holman, Luke E.</dc:creator>
+  <dc:creator>Parker-Nance, Shirley</dc:creator>
+  <dc:creator>Bruyn, Mark</dc:creator>
+  <dc:creator>Creer, Simon</dc:creator>
+  <dc:creator>Carvalho, Gary</dc:creator>
+  <dc:creator>Rius, Marc</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-01-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+  <dc:description>&lt;jats:p&gt;
+            The use of molecular tools to manage natural resources is increasingly common. However, DNA-based methods are seldom used to understand the spatial and temporal dynamics of species' range shifts. This is important when managing range shifting species such as non-native species (NNS), which can have negative impacts on biotic communities. Here, we investigated the ascidian NNS
+            &lt;jats:italic&gt;Ciona robusta&lt;/jats:italic&gt;
+            ,
+            &lt;jats:italic&gt;Clavelina lepadiformis&lt;/jats:italic&gt;
+            ,
+            &lt;jats:italic&gt;Microcosmus squamiger&lt;/jats:italic&gt;
+            and
+            &lt;jats:italic&gt;Styela plicata&lt;/jats:italic&gt;
+            using a combined methodological approach. We first conducted non-molecular biodiversity surveys for these NNS along the South African coastline, and compared the results with historical surveys. We detected no consistent change in range size across species, with some displaying range stability and others showing range shifts. We then sequenced a section of cytochrome c oxidase subunit I (COI) from tissue samples and found genetic differences along the coastline but no change over recent times. Finally, we found that environmental DNA metabarcoding data showed broad congruence with both the biodiversity survey and the COI datasets, but failed to capture the complete incidence of all NNS. Overall, we demonstrated how a combined methodological approach can effectively detect spatial and temporal variation in genetic composition and range size, which is key for managing both thriving NNS and threatened species.
+          &lt;/jats:p&gt;
+          &lt;jats:p&gt;This article is part of the theme issue ‘Species’ ranges in the face of changing environments (part I)’.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

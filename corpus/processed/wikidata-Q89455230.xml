@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q89455230</dc:identifier>
+  <dc:identifier>doi:10.1016/J.SCITOTENV.2018.06.304</dc:identifier>
+  <dc:title>Environmental correlates of food-chain length, mean trophic level and trophic level variance in invaded riverine fish assemblages</dc:title>
+  <dc:creator>Maceda-Veiga, Alberto</dc:creator>
+  <dc:creator>Mac Nally, Ralph</dc:creator>
+  <dc:creator>Sostoa, Adolfo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>disturbance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>Examining how the trophic structure of biotic assemblages is affected by human impacts, such as habitat degradation and the introduction of alien species, is important for understanding the consequences of such impacts on ecosystem functioning. We used general linear mixed models and hierarchical partitioning analyses of variance to examine for the first time the applicability of three hypotheses (ecosystem-size, productivity and disturbance) for explaining food-chain length (FCL) in invaded fish assemblages. We used Fishbase trophic level (TL) estimates for 16 native and 18 alien fish species in an extensive riverine system in north-eastern Spain (99,700 km&lt;sup&gt;2&lt;/sup&gt;, 15 catchments, 530 sites). The FCL of assemblages ranged from 2.7 to 4.42. Ecosystem size-related variables (Strahler stream order, physical habitat diversity) and human-disturbance (conductivity) made the largest contribution to the explained variance in the FCL model after accounting for spatial confounding factors and collinearity among predictors. Within-assemblage TL also was positively associated with Strahler stream order, suggesting that large rivers have the highest trophic diversity. High conductivity was negatively associated with FCL, as did with the mean TL of fish assemblages. However, an inverse association was found between mean TL and Strahler stream order, possibly because the presence of fish species of high TL may be offset by larger numbers of alien species of lower TL in large rivers. Given that there may be trophic replacements among native and alien species, this inference needs to be addressed with detailed trophic studies. However, reducing water conductivity by improved wastewater treatment and better agricultural practices probably would help to conserve the fish species on the apices of aquatic food-webs.</dc:description>
+</oai_dc:dc>

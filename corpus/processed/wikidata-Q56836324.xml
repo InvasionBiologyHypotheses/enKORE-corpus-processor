@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:enkore="http://enkore.hi-knowledge.org/XMLSchema-instance"
-  xmlns:wd="http://www.wikidata.org/entity/"
-  xmlns:wdt="http://www.wikidata.org/prop/direct/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"
-  xmlns:jats="http://jats.nlm.nih.gov/">
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
   <dc:identifier>http://www.wikidata.org/entity/Q56836324</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-014-0806-Y</dc:identifier>
   <dc:title>Enemy release and genetic founder effects in invasive killer shrimp populations of Great Britain</dc:title>
@@ -19,10 +13,13 @@
   <dc:date>2014-11-04</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://www.springer.com/tdm</dc:rights>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Dikerogammarus villosus</dc:subject>
   <dc:subject>Great Britain</dc:subject>
-  <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>sailing ballast</dc:subject>
   <dc:subject>Grafham Water</dc:subject>
   <dc:subject>Cardiff Bay</dc:subject>
@@ -37,137 +34,4 @@
   <dc:subject>freshwater ecosystem</dc:subject>
   <dc:subject>founder effect</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>
-    The predatory killer shrimp Dikerogammarus villosus invaded Britain from mainland Europe in 2010. Originating in the Ponto-Caspian region, this invader has caused significant degradation of European freshwater ecosystems by predating and competitively excluding native invertebrate species. In contrast to continental Europe, in which invasions occurred through the migration of large numbers of individuals along rivers and canals, the invasion of Great Britain must have involved long distance dispersal across the sea. This makes the loss of genetic diversity and of debilitating parasites more likely. Analysis of nuclear microsatellite loci and mitochondrial DNA sequences of D. villosus samples from the four known populations in Britain reveal loss of rare alleles, in comparison to reference populations from the west coast of continental Europe. Screening of the British D. villosus populations by PCR detected no microsporidian parasites, in contrast with continental populations of D. villosus and native amphipod populations, most of which are infected with microsporidia. These findings suggest that the initial colonisation of Great Britain and subsequent long distance dispersal within Britain were associated with genetic founder effects and enemy release due to loss of parasites. Such effects are also likely to occur during future long-distance dispersal events of D. villosus to Ireland or North America.
-
-    <jats:kwd-group kwd-group-type="enkore-hypothesis">
-      <jats:kwd>enemy release hypothesis</jats:kwd>
-    </jats:kwd-group>
-    <jats:kwd-group kwd-group-type="enkore-taxa">
-      <jats:kwd id="wd:Q447913">
-          Dikerogammarus villosus
-      </jats:kwd>
-      <jats:kwd id="wd:Q111917557">
-          Nosema granulosis
-      </jats:kwd>
-      <jats:kwd id="wd:Q111917785">
-          Dictyocoela muelleri
-      </jats:kwd>
-      <jats:kwd id="wd:Q111917879">
-          Dictyocoela berillonum
-      </jats:kwd>
-    </jats:kwd-group>
-    <jats:kwd-group kwd-group-type="enkore-habitat">
-      <jats:nested-kwd>
-        <jats:kwd id="wd:Q2890135">
-          freshwater ecosystem
-        </jats:kwd>
-        <jats:nested-kwd>
-          <jats:kwd id="wd:Q5592486">
-            Grafham Water
-          </jats:kwd>
-          <jats:kwd id="wd:Q3396731">
-            Cardiff Bay
-          </jats:kwd>
-          <jats:kwd id="wd:Q3403842">
-            Eglwys Nunydd
-          </jats:kwd>
-          <jats:kwd id="wd:Q2886137">
-            Barton Broad
-          </jats:kwd>
-        </jats:nested-kwd>
-      </jats:nested-kwd>
-    </jats:kwd-group>
-    <jats:kwd-group kwd-group-type="enkore-temporalScope">
-      <jats:kwd id="Q1994">
-        2011
-      </jats:kwd>
-    </jats:kwd-group>
-
-    <enkore:test-xml>
-      <enkore:hypothesis id="wd:Q85759287">enemy release hypothesis</enkore:hypothesis>
-      <enkore:taxon id="wd:Q447913">
-        Dikerogammarus villosus
-      </enkore:taxon>
-      <enkore:taxon id="wd:Q111917557">
-        Nosema granulosis
-      </enkore:taxon>
-      <enkore:taxon id="wd:Q111917785">
-        Dictyocoela muelleri
-      </enkore:taxon>
-      <enkore:taxon id="wd:Q111917879">
-        Dictyocoela berillonum
-      </enkore:taxon>
-      <enkore:habitat>
-        <enkore:ecosystem id="wd:Q2890135">
-          freshwater ecosystem
-        </enkore:ecosystem>
-        <enkore:location id="wd:Q5592486">
-          Grafham Water
-        </enkore:location>
-        <enkore:location id="wd:Q3396731">
-          Cardiff Bay
-        </enkore:location>
-        <enkore:location id="wd:Q3403842">
-          Eglwys Nunydd
-        </enkore:location>
-        <enkore:location id="wd:Q2886137">
-          Barton Broad
-        </enkore:location>
-      </enkore:habitat>
-      <enkore:temporalScope id="Q1994">
-        2011
-      </enkore:temporalScope>
-    </enkore:test-xml>
-
-    <enkore:test-xml-prefixed>
-      <wd:Q41719 id="wd:Q85759287">enemy release hypothesis</wd:Q41719>
-      <wd:Q16521 id="wd:Q447913">
-        Dikerogammarus villosus
-      </wd:Q16521>
-      <wd:Q16521 id="wd:Q111917557">
-        Nosema granulosis
-      </wd:Q16521>
-      <wd:Q16521 id="wd:Q111917785">
-        Dictyocoela muelleri
-      </wd:Q16521>
-      <wd:Q16521 id="wd:Q111917879">
-        Dictyocoela berillonum
-      </wd:Q16521>
-      <wd:Q152105>
-        <wd:Q111535406 id="wd:Q2890135">
-          freshwater ecosystem
-        </wd:Q111535406>
-        <wd:Q17334923 id="wd:Q5592486">
-          Grafham Water
-        </wd:Q17334923>
-        <wd:Q17334923 id="wd:Q3396731">
-        Cardiff Bay
-        </wd:Q17334923>
-        <wd:Q17334923 id="wd:Q3403842">
-        Eglwys Nunydd
-        </wd:Q17334923>
-        <wd:Q17334923 id="wd:Q2886137">
-        Barton Broad
-        </wd:Q17334923>
-      </wd:Q152105>
-      <wd:Q111985654 id="Q1994">
-        2011
-      </wd:Q111985654>
-    </enkore:test-xml-prefixed>
-
-    <enkore:test-rdf-turtle>
-      wd:Q56836324    wd:Q41719           wd:Q85759287       ;    # enemy release hypothesis
-                      wd:Q16521           wd:Q447913         ;    # taxon: Dikerogammarus villosus
-                      wd:Q16521           wd:Q111917557      ;    # taxon: Nosema granulosis
-                      wd:Q16521           wd:Q111917785      ;    # taxon: Dictyocoela muelleri
-                      wd:Q16521           wd:Q111917879      ;    # taxon: Dictyocoela berillonum
-                      wd:Q111535406       wd:Q2890135        ;    # freshwater ecosystem
-                      wd:Q17334923        wd:Q5592486        ;    # Grafham Water
-                      wd:Q17334923        wd:Q3396731        ;    # Cardiff Bay
-                      wd:Q17334923        wd:Q3403842        ;    # Eglwys Nunydd
-                      wd:Q17334923        wd:Q2886137        ;    # Barton Broad
-                      wd:Q111985654       wd:Q1994           .    # 2011
-    </enkore:test-rdf-turtle>
-  </dc:description>
 </oai_dc:dc>

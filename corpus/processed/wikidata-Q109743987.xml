@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q109743987</dc:identifier>
+  <dc:identifier>doi:10.1002/ECM.1413</dc:identifier>
+  <dc:title>Experimental study of species invasion: early population dynamics and role of disturbance in invasion success</dc:title>
+  <dc:creator>Reznick, David N.</dc:creator>
+  <dc:creator>De Bona, Sebastiano</dc:creator>
+  <dc:creator>López‐Sepulcre, Andrés</dc:creator>
+  <dc:creator>Torres, Mauricio</dc:creator>
+  <dc:creator>Bassar, Ronald D.</dc:creator>
+  <dc:creator>Benzen, Paul</dc:creator>
+  <dc:creator>Travis, Joseph</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#am</dc:rights>
+  <dc:subject>disturbance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>population dynamics</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

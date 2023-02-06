@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35544414</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1750888</dc:identifier>
+  <dc:identifier>doi:10.1073/PNAS.0609603103</dc:identifier>
+  <dc:title>Introduced cryptic species of parasites exhibit different invasion pathways</dc:title>
+  <dc:creator>Miura, Osamu</dc:creator>
+  <dc:creator>Torchin, Mark E</dc:creator>
+  <dc:creator>Kuris, Armand M</dc:creator>
+  <dc:creator>Hechinger, Ryan F</dc:creator>
+  <dc:creator>Chiba, Satoshi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-12-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>cryptic species complex</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+  <dc:description>&lt;jats:p&gt;
+            Sometimes infectious agents invade and become established in new geographic regions. Others may be introduced yet never become established because of the absence of suitable hosts in the new region. This phenomenon may be particularly true for the many parasites with complex life cycles, where various life stages require different host species. Homogenization of the world's biota through human-mediated invasions may reunite hosts and parasites, resulting in disease outbreaks in novel regions. Here we use molecular genetics to differentiate invasion pathways for two digenean trematode parasites and their exotic host, the Asian mud snail,
+            &lt;jats:italic&gt;Batillaria attramentaria&lt;/jats:italic&gt;
+            . All of the snail haplotypes found in introduced populations in North America were identical to haplotypes common in the areas of Japan that provided oysters for cultivation in North America, supporting the hypothesis that the snails were introduced from Japan with seed oysters. Two cryptic trematode species were introduced to North American populations in high frequencies. We found a marked reduction of genetic variation in one of these species, suggesting it experienced a bottleneck or founder event comparable to that of the host snail. In contrast, no genetic variation was lost in the other parasite species. We hypothesize that this parasite was and is dispersed naturally by migratory shorebirds and was able to establish only after the host snail,
+            &lt;jats:italic&gt;B. attramentaria&lt;/jats:italic&gt;
+            , was introduced to North America. Evaluation of the nature of invasion pathways and postinvasion consequences will aid mitigation of spreading diseases of humans, livestock, and wildlife in an increasingly globalized world.
+          &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

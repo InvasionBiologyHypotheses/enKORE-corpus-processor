@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q56387398</dc:identifier>
+  <dc:identifier>doi:10.1287/INTE.2015.0822</dc:identifier>
+  <dc:title>A Decision Support Tool for Adaptive Management of Native Prairie Ecosystems</dc:title>
+  <dc:creator>Hunt, Victoria M.</dc:creator>
+  <dc:creator>Jacobi, Sarah K.</dc:creator>
+  <dc:creator>Gannon, Jill J.</dc:creator>
+  <dc:creator>Zorn, Jennifer E.</dc:creator>
+  <dc:creator>Moore, Clinton T.</dc:creator>
+  <dc:creator>Lonsdorf, Eric V.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>decision support system</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Institute for Operations Research and the Management Sciences (INFORMS)</dc:publisher>
+  <dc:description>&lt;jats:p&gt; The Native Prairie Adaptive Management initiative is a decision support framework that provides cooperators with management-action recommendations to help them conserve native species and suppress invasive species on prairie lands. We developed a Web-based decision support tool (DST) for the U.S. Fish and Wildlife Service and the U.S. Geological Survey initiative. The DST facilitates cross-organizational data sharing, performs analyses to improve conservation delivery, and requires no technical expertise to operate. Each year since 2012, the DST has used monitoring data to update ecological knowledge that it translates into situation-specific management-action recommendations (e.g., controlled burn or prescribed graze). The DST provides annual recommendations for more than 10,000 acres on 20 refuge complexes in four U.S. states. We describe how the DST promotes the long-term implementation of the program for which it was designed and may facilitate decision support and improve ecological outcomes of other conservation efforts. &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

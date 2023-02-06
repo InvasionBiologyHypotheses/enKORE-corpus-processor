@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q52569306</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909192</dc:identifier>
+  <dc:identifier>doi:10.1016/J.MARPOL.2017.08.014</dc:identifier>
+  <dc:title>Recommendations for developing and applying genetic tools to assess and manage biological invasions in marine ecosystems.</dc:title>
+  <dc:creator>Darling, John A</dc:creator>
+  <dc:creator>Galil, Bella S</dc:creator>
+  <dc:creator>Carvalho, Gary R</dc:creator>
+  <dc:creator>Rius, Marc</dc:creator>
+  <dc:creator>Viard, Frédérique</dc:creator>
+  <dc:creator>Piraino, Stefano</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-01-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>The European Union's Marine Strategy Framework Directive (MSFD) aims to adopt integrated ecosystem management approaches to achieve or maintain "Good Environmental Status" for marine waters, habitats and resources, including mitigation of the negative effects of non-indigenous species (NIS). The Directive further seeks to promote broadly standardized monitoring efforts and assessment of temporal trends in marine ecosystem condition, incorporating metrics describing the distribution and impacts of NIS. Accomplishing these goals will require application of advanced tools for NIS surveillance and risk assessment, particularly given known challenges associated with surveying and monitoring with traditional methods. In the past decade, a host of methods based on nucleic acids (DNA and RNA) analysis have been developed or advanced that promise to dramatically enhance capacity in assessing and managing NIS. However, ensuring that these rapidly evolving approaches remain accessible and responsive to the needs of resource managers remains a challenge. This paper provides recommendations for future development of these genetic tools for assessment and management of NIS in marine systems, within the context of the explicit requirements of the MSFD. Issues considered include technological innovation, methodological standardization, data sharing and collaboration, and the critical importance of shared foundational resources, particularly integrated taxonomic expertise. Though the recommendations offered here are not exhaustive, they provide a basis for future intentional (and international) collaborative development of a genetic toolkit for NIS research, capable of fulfilling the immediate and long term goals of marine ecosystem and resource conservation.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q42037400</dc:identifier>
+  <dc:identifier>doi:10.1111/J.1365-2656.2006.01098.X</dc:identifier>
+  <dc:title>Modelling the impacts of two exotic invasive species on a native butterfly: top-down vs. bottom-up effects.</dc:title>
+  <dc:creator>Keeler, Margaret S</dc:creator>
+  <dc:creator>Chew, Frances S</dc:creator>
+  <dc:creator>Goodale, Britton C</dc:creator>
+  <dc:creator>Reed, J Michael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-05-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>1. Exotic invasive species can influence population dynamics of native species through top-down or bottom-up forces. The present study examined separate and interactive effects of multiple exotic species invasions on the native mustard white butterfly, Pieris napi oleracea Harris (Lepidoptera: Pieridae), using a stochastic simulation model. 2. P. n. oleracea populations in North America have decreased regionally since the 1860s. Competition with an exotic congener (P. rapae L.), loss of native host plants and parasitism by the introduced broconid wasp (Cotesia glomerata L.), have been suggested to be independently responsible for its decline. The present study examined these hypotheses, as well as an alternative, invasion by an exotic crucifer, garlic mustard (Alliaria petiolata[Bieb.] Cavara &amp; Grande). 3. A stochastic simulation model of P. n. oleracea population dynamics revealed that decreasing the number of host plants available for oviposition and larval development (i.e. habitat loss), sharply reduced the probability of populations persistence and decreased population size for those that persisted. 4. Simulated invasion by garlic mustard also substantially decreased both probability of persistence (= 0 at approximately 50% cover) and mean population size. Persistence probability never reached zero under any C. glomerata scenarios, even when larval mortality in the second generation due to parasitism was 100%. The impact of garlic mustard was intensified by the addition of C. glomerata parasitism. 5. Results suggest that bottom-up forces, loss of host plants through forest understorey loss and/or garlic mustard invasion are the most important forces driving P. n. oleracea population decline. Parasitism by C. glomerata may interact to reduce P. n. oleracea populations more rapidly, but appears insufficient alone to cause local extinction.</dc:description>
+</oai_dc:dc>

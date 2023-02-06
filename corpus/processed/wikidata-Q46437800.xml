@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q46437800</dc:identifier>
+  <dc:identifier>doi:10.1007/S00442-016-3798-8</dc:identifier>
+  <dc:title>Limiting similarity and Darwin's naturalization hypothesis: understanding the drivers of biotic resistance against invasive plant species.</dc:title>
+  <dc:creator>Yannelli, Florencia A.</dc:creator>
+  <dc:creator>Koch, C</dc:creator>
+  <dc:creator>Jeschke, Jonathan</dc:creator>
+  <dc:creator>Kollmann, J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-01-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://www.springer.com/tdm</dc:rights>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biotic resistance</dc:subject>
+  <dc:subject>naturalization</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Several hypotheses have been proposed to explain biotic resistance of a recipient plant community based on reduced niche opportunities for invasive alien plant species. The limiting similarity hypothesis predicts that invasive species are less likely to establish in communities of species holding similar functional traits. Likewise, Darwin's naturalization hypothesis states that invasive species closely related to the native community would be less successful. We tested both using the invasive alien Ambrosia artemisiifolia L. and Solidago gigantea Aiton, and grassland species used for ecological restoration in central Europe. We classified all plant species into groups based on functional traits obtained from trait databases and calculated the phylogenetic distance among them. In a greenhouse experiment, we submitted the two invasive species at two propagule pressures to competition with communities of ten native species from the same functional group. In another experiment, they were submitted to pairwise competition with native species selected from each functional group. At the community level, highest suppression for both invasive species was observed at low propagule pressure and not explained by similarity in functional traits. Moreover, suppression decreased asymptotically with increasing phylogenetic distance to species of the native community. When submitted to pairwise competition, suppression for both invasive species was also better explained by phylogenetic distance. Overall, our results support Darwin's naturalization hypothesis but not the limiting similarity hypothesis based on the selected traits. Biotic resistance of native communities against invasive species at an early stage of establishment is enhanced by competitive traits and phylogenetic relatedness.</dc:description>
+</oai_dc:dc>

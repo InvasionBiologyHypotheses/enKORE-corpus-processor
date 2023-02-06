@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q27348042</dc:identifier>
+  <dc:identifier>doi:10.1158/0008-5472.CAN-14-1428</dc:identifier>
+  <dc:title>Impact of metabolic heterogeneity on tumor growth, invasion, and treatment outcomes</dc:title>
+  <dc:creator>Robertson-Tessi, Mark</dc:creator>
+  <dc:creator>Gillies, Robert J</dc:creator>
+  <dc:creator>Gatenby, Robert A</dc:creator>
+  <dc:creator>Anderson, Alexander</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>heterogeneity</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>American Association for Cancer Research (AACR)</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+               &lt;jats:p&gt;Histopathologic knowledge that extensive heterogeneity exists between and within tumors has been confirmed and deepened recently by molecular studies. However, the impact of tumor heterogeneity on prognosis and treatment remains as poorly understood as ever. Using a hybrid multiscale mathematical model of tumor growth in vascularized tissue, we investigated the selection pressures exerted by spatial and temporal variations in tumor microenvironment and the resulting phenotypic adaptations. A key component of this model is normal and tumor metabolism and its interaction with microenvironmental factors. The metabolic phenotype of tumor cells is plastic, and microenvironmental selection leads to increased tumor glycolysis and decreased pH. Once this phenotype emerges, the tumor dramatically changes its behavior due to acid-mediated invasion, an effect that depends on both variations in the tumor cell phenotypes and their spatial distribution within the tumor. In early stages of growth, tumors are stratified, with the most aggressive cells developing within the interior of the tumor. These cells then grow to the edge of the tumor and invade into the normal tissue using acidosis. Simulations suggest that diffusible cytotoxic treatments, such as chemotherapy, may increase the metabolic aggressiveness of a tumor due to drug-mediated selection. Chemotherapy removes the metabolic stratification of the tumor and allows more aggressive cells to grow toward blood vessels and normal tissue. Antiangiogenic therapy also selects for aggressive phenotypes due to degradation of the tumor microenvironment, ultimately resulting in a more invasive tumor. In contrast, pH buffer therapy slows down the development of aggressive tumors, but only if administered when the tumor is still stratified. Overall, findings from this model highlight the risks of cytotoxic and antiangiogenic treatments in the context of tumor heterogeneity resulting from a selection for more aggressive behaviors. Cancer Res; 75(8); 1567–79. ©2015 AACR.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

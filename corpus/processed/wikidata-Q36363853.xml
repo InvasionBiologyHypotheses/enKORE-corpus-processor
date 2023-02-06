@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36363853</dc:identifier>
+  <dc:identifier>doi:10.1007/S00267-017-0884-6</dc:identifier>
+  <dc:title>Climatic-Induced Shifts in the Distribution of Teak (Tectona grandis) in Tropical Asia: Implications for Forest Management and Planning</dc:title>
+  <dc:creator>Deb, Jiban Chandra</dc:creator>
+  <dc:creator>Phinn, Stuart</dc:creator>
+  <dc:creator>Butt, Nathalie</dc:creator>
+  <dc:creator>McAlpine, Clive A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://www.springer.com/tdm</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>Tectona grandis</dc:subject>
+  <dc:subject>forest management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Modelling the future suitable climate space for tree species has become a widely used tool for forest management planning under global climate change. Teak (Tectona grandis) is one of the most valuable tropical hardwood species in the international timber market, and natural teak forests are distributed from India through Myanmar, Laos and Thailand. The extents of teak forests are shrinking due to deforestation and the local impacts of global climate change. However, the direct impacts of climate changes on the continental-scale distributions of native and non-native teak have not been examined. In this study, we developed a species distribution model for teak across its entire native distribution in tropical Asia, and its non-native distribution in Bangladesh. We used presence-only records of trees and twelve environmental variables that were most representative for current teak distributions in South and Southeast Asia. MaxEnt (maximum entropy) models were used to model the distributions of teak under current and future climate scenarios. We found that land use/land cover change and elevation were the two most important variables explaining the current and future distributions of native and non-native teak in tropical Asia. Changes in annual precipitation, precipitation seasonality and annual mean actual evapotranspiration may result in shifts in the distributions of teak across tropical Asia. We discuss the implications for the conservation of critical teak habitats, forest management planning, and risks of biological invasion that may occur due to its cultivation in non-native ranges.</dc:description>
+</oai_dc:dc>

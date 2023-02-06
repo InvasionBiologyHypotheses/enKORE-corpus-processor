@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q113904225</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-022-02862-Y</dc:identifier>
+  <dc:title>Predicting invasive consumer impact via the comparative functional response approach: linking application to ecological theory</dc:title>
+  <dc:creator>McCoy, Michael W</dc:creator>
+  <dc:creator>Vonesh, James</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-08-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;The Comparative Functional Response Approach (CFRA) was developed to provide a practical methodology by which short-term experiments can be used to forecast the longer-term impacts of a potential invading consumer. The CFRA makes inferences about potential invader impact based on comparisons of the functional responses of invader and native consumers on native resources in a common experimental venue. Application of the CFRA and derivative approaches have proliferated since it was introduced in 2014. Here we examine the conceptual foundations of the CFRA within the context of basic Lotka–Volterra consumer-resource theory. Our goals are to assess whether core predictions of the CFRA hold within this framework, to consider the relative importance of background mortality and consumer assimilation efficiency in determining predator impact, and to leverage this conceptual framework to expand the discussion regarding stability and long term consumer and resource dynamics. The CFRA assertion that consumers with a higher functional response will have larger impacts on resources only holds as long as all other parameters are equal, but basic theory indicates that predator impacts on prey abundance and stability will depend more on variation in conversion efficiency and background mortality. While examination of the CFRA within this framework highlights limitations about its current application, it also points to potential strengths that are only revealed when a theoretical context is identified, in this case the implications for stability and conceptual links to competition theory.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

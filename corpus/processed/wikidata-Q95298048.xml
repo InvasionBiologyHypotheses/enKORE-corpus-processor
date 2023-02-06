@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q95298048</dc:identifier>
+  <dc:identifier>doi:10.1016/J.SCITOTENV.2020.138677</dc:identifier>
+  <dc:title>Assessing invasive alien species in European catchments: Distribution and impacts</dc:title>
+  <dc:creator>Magliozzi, Chiara</dc:creator>
+  <dc:creator>Tsiamis, Konstantinos</dc:creator>
+  <dc:creator>Vigiak, Olga</dc:creator>
+  <dc:creator>Deriu, Ivan</dc:creator>
+  <dc:creator>Gervasini, Eugenio</dc:creator>
+  <dc:creator>Cardoso, Ana Cristina</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>Invasive alien species (IAS) induce changes to community structure and functions which lead to a decline of endemic species and major irreversible changes to the local physical habitat. The distribution and the impacts of multiple freshwater IAS are not well known, and they have not been investigated simultaneously at catchment and at European scales. This study provides an assessment of the distribution and cumulative impact of freshwater IAS over European catchments. IAS occurrences were retrieved from the European Alien Species Information Network geospatial dataset and updated with the most recent records from the literature. The Cumulative Impact Index of Invasive Alien Species (CIMPAL) was derived by aggregating the impacts of species and their occupied area at catchment level by following three steps: i) IAS were scored by both the magnitude of impacts on freshwater ecosystems and the strength of evidence in the literature, ii) scores were mapped over the catchment area, and iii) scores were summed across IAS over the catchment. The distribution of CIMPAL in the river ecological classes of the Water Framework Directive was examined and increasing/decreasing patterns identified across ecological statuses. Results showed strong spatial variation in the documented distribution and impacts of IAS in Europe. Catchments with CIMPAL scores &gt;40 (range 0-55) clustered in Western European countries (e.g. Belgium and France) were characterised by plant, invertebrate and vertebrate IAS that had both a large impact in magnitude and colonisation at local (catchment level) and large scale (across catchments). CIMPAL showed statistically significant and increasing values from high to bad ecological classes in eight countries only (Belgium, the Czech Republic, Germany, France, Hungary, Italy, Luxemburg, Poland). This study provides comprehensive evidence of the distribution and impact of IAS within freshwater environments that could be used to improve understanding of the ecological pressures at catchment scale.</dc:description>
+</oai_dc:dc>

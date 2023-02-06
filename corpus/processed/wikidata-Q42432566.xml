@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q42432566</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1932858</dc:identifier>
+  <dc:identifier>doi:10.1128/IAI.00249-07</dc:identifier>
+  <dc:title>Invasion pathways and malaria severity in Kenyan Plasmodium falciparum clinical isolates.</dc:title>
+  <dc:creator>Deans, Anne-Marie</dc:creator>
+  <dc:creator>Nery, Susana</dc:creator>
+  <dc:creator>Conway, David J.</dc:creator>
+  <dc:creator>Kai, Oscar</dc:creator>
+  <dc:creator>Marsh, Kevin</dc:creator>
+  <dc:creator>Rowe, J Alexandra</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2007-04-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://journals.asm.org/non-commercial-tdm-license</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>Kenya</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Microbiology</dc:publisher>
+  <dc:description>&lt;jats:title&gt;ABSTRACT&lt;/jats:title&gt;
+          &lt;jats:p&gt;
+            The invasion of erythrocytes by
+            &lt;jats:italic&gt;Plasmodium falciparum&lt;/jats:italic&gt;
+            occurs through multiple pathways that can be studied in vitro by examining the invasion of erythrocytes treated with enzymes such as neuraminidase, trypsin, and chymotrypsin. We have studied the invasion pathways used by 31 Kenyan
+            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
+            isolates from children with uncomplicated or severe malaria. Six distinct invasion profiles were detected, out of eight possible profiles. The majority of isolates (23 of 31) showed neuraminidase-resistant, trypsin-sensitive invasion, characteristic of the pathway mediated by an unknown parasite ligand and erythrocyte receptor “X.” The neuraminidase-sensitive, trypsin-sensitive phenotype consistent with invasion mediated by the binding of parasite ligand erythrocyte binding antigen 175 to glycophorin A, the most common invasion profile in a previous study of Gambian field isolates, was seen in only 3 of 31 Kenyan isolates. No particular invasion profile was associated with severe
+            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
+            malaria, and there was no significant difference in the levels of inhibition by the various enzyme treatments between isolates from children with severe malaria and those from children with uncomplicated malaria (
+            &lt;jats:italic&gt;P&lt;/jats:italic&gt;
+            , &gt;0.1 for all enzymes; Mann-Whitney U test). These results do not support the hypothesis that differences in invasion phenotypes play an important role in malaria virulence and indicate that considerable gaps remain in our knowledge of the molecular basis of invasion pathways in natural
+            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
+            infections.
+          &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

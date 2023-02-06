@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q51494889</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3813329</dc:identifier>
+  <dc:identifier>doi:10.1098/RSPB.2013.1958</dc:identifier>
+  <dc:title>Geographical range, heat tolerance and invasion success in aquatic species.</dc:title>
+  <dc:creator>Bates, Amanda E</dc:creator>
+  <dc:creator>McKelvie, Catherine M</dc:creator>
+  <dc:creator>Sorte, Cascade J B</dc:creator>
+  <dc:creator>Morley, Simon A</dc:creator>
+  <dc:creator>Jones, Nicholas A R</dc:creator>
+  <dc:creator>Mondon, Julie A</dc:creator>
+  <dc:creator>Bird, Tomas J</dc:creator>
+  <dc:creator>Quinn, Gerry</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-12-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Species with broader geographical ranges are expected to be ecological generalists, while species with higher heat tolerances may be relatively competitive at more extreme and increasing temperatures. Thus, both traits are expected to relate to increased survival during transport to new regions of the globe, and once there, establishment and spread. Here, we explore these expectations using datasets of latitudinal range breadth and heat tolerance in freshwater and marine invertebrates and fishes. After accounting for the latitude and hemisphere of each species’ native range, we find that species introduced to freshwater systems have broader geographical ranges in comparison to native species. Moreover, introduced species are more heat tolerant than related native species collected from the same habitats. We further test for differences in range breadth and heat tolerance in relation to invasion success by comparing species that have established geographically restricted versus extensive introduced distributions. We find that geographical range size is positively related to invasion success in freshwater species only. However, heat tolerance is implicated as a trait correlated to widespread occurrence of introduced populations in both freshwater and marine systems. Our results emphasize the importance of formal risk assessments before moving heat tolerant species to novel locations.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

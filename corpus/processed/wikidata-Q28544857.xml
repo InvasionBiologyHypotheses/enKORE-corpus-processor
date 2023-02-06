@@ -4,7 +4,7 @@
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370511</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0121358</dc:identifier>
   <dc:title>No evidence of enemy release in pathogen and microbial communities of common wasps (Vespula vulgaris) in their native and introduced range</dc:title>
-  <dc:creator>Lester, Philip J.</dc:creator>
+  <dc:creator>Lester, Phil</dc:creator>
   <dc:creator>Bosch, Peter J</dc:creator>
   <dc:creator>Gruber, Monica A M</dc:creator>
   <dc:creator>Kapp, Eugene A</dc:creator>
@@ -21,6 +21,8 @@
   <dc:date>2015-03-23</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>Vespula vulgaris</dc:subject>

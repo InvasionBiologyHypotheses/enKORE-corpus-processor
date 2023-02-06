@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33820176</dc:identifier>
+  <dc:identifier>doi:10.1111/J.1461-0248.2011.01600.X</dc:identifier>
+  <dc:title>Testing Darwin's naturalization hypothesis in the Azores</dc:title>
+  <dc:creator>Schaefer, Hanno</dc:creator>
+  <dc:creator>Hardy, Olivier J</dc:creator>
+  <dc:creator>Silva, Luís</dc:creator>
+  <dc:creator>Barraclough, Timothy G</dc:creator>
+  <dc:creator>Savolainen, Vincent</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-02-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>naturalization</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Invasive species are a threat for ecosystems worldwide, especially oceanic islands. Predicting the invasive potential of introduced species remains difficult, and only a few studies have found traits correlated to invasiveness. We produced a molecular phylogenetic dataset and an ecological trait database for the entire Azorean flora and find that the phylogenetic nearest neighbour distance (PNND), a measure of evolutionary relatedness, is significantly correlated with invasiveness. We show that introduced plant species are more likely to become invasive in the absence of closely related species in the native flora of the Azores, verifying Darwin's 'naturalization hypothesis'. In addition, we find that some ecological traits (especially life form and seed size) also have predictive power on invasive success in the Azores. Therefore, we suggest a combination of PNND with ecological trait values as a universal predictor of invasiveness that takes into account characteristics of both introduced species and receiving ecosystem.</dc:description>
+</oai_dc:dc>

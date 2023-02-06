@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110862522</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-020-02418-Y</dc:identifier>
+  <dc:title>Drivers of species richness, biomass, and dominance of invasive macrophytes in temperate lakes</dc:title>
+  <dc:creator>Brainard, Andrew S.</dc:creator>
+  <dc:creator>Luzadis, Valerie A.</dc:creator>
+  <dc:creator>Schulz, Kimberly L.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-01-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://www.springer.com/tdm</dc:rights>
+  <dc:subject>propagule pressure hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>disturbance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>macrophyte</dc:subject>
+  <dc:subject>invasive macrophyte</dc:subject>
+  <dc:subject>species richness</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q62564503</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458372</dc:identifier>
+  <dc:identifier>doi:10.1098/RSOS.181577</dc:identifier>
+  <dc:title>Emerging infectious diseases and biological invasions: a call for a One Health collaboration in science and management</dc:title>
+  <dc:creator>Ogden, Nicholas</dc:creator>
+  <dc:creator>Wilson, John R. U.</dc:creator>
+  <dc:creator>Richardson, David Mark</dc:creator>
+  <dc:creator>Hui, Cang</dc:creator>
+  <dc:creator>Davies, Sarah J</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Roux, Johannes J. Le</dc:creator>
+  <dc:creator>Roux, Johannes J. Le</dc:creator>
+  <dc:creator>Measey, G. John</dc:creator>
+  <dc:creator>Saul, Wolf-Christian</dc:creator>
+  <dc:creator>Pulliam, Juliet</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>emerging communicable disease</dc:subject>
+  <dc:subject>collaboration</dc:subject>
+  <dc:subject>One Health</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+  <dc:description>&lt;jats:p&gt;The study and management of emerging infectious diseases (EIDs) and of biological invasions both address the ecology of human-associated biological phenomena in a rapidly changing world. However, the two fields work mostly in parallel rather than in concert. This review explores how the general phenomenon of an organism rapidly increasing in range or abundance is caused, highlights the similarities and differences between research on EIDs and invasions, and discusses shared management insights and approaches. EIDs can arise by: (i) crossing geographical barriers due to human-mediated dispersal, (ii) crossing compatibility barriers due to evolution, and (iii) lifting of environmental barriers due to environmental change. All these processes can be implicated in biological invasions, but only the first defines them. Research on EIDs is embedded within the One Health concept—the notion that human, animal and ecosystem health are interrelated and that holistic approaches encompassing all three components are needed to respond to threats to human well-being. We argue that for sustainable development, biological invasions should be explicitly considered within One Health. Management goals for the fields are the same, and direct collaborations between invasion scientists, disease ecologists and epidemiologists on modelling, risk assessment, monitoring and management would be mutually beneficial.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

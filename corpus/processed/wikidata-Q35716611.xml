@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35716611</dc:identifier>
+  <dc:identifier>doi:10.1890/14-0545.1</dc:identifier>
+  <dc:title>Ecological impacts of invasive alien species along temperature gradients: testing the role of environmental matching</dc:title>
+  <dc:creator>Iacarella, Josephine C</dc:creator>
+  <dc:creator>Dick, Jaimie T A</dc:creator>
+  <dc:creator>Alexander, Mhairi E</dc:creator>
+  <dc:creator>Ricciardi, Anthony</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Invasive alien species (IAS) can cause substantive ecological impacts, and the role of temperature in mediating these impacts may become increasingly significant in a changing climate. Habitat conditions and physiological optima offer predictive information for IAS impacts in novel environments. Here, using meta-analysis and laboratory experiments, we tested the hypothesis that the impacts of IAS in the field are inversely correlated with the difference in their ambient and optimal temperatures. A meta-analysis of 29 studies of consumptive impacts of IAS in inland waters revealed that the impacts of fishes and crustaceans are higher at temperatures that more closely match their thermal growth optima. In particular, the maximum impact potential was constrained by increased differences between ambient and optimal temperatures, as indicated by the steeper slope of a quantile regression on the upper 25th percentile of impact data compared to that of a weighted linear regression on all data with measured variances. We complemented this study with an experimental analysis of the functional response (the relationship between predation rate and prey supply) of two invasive predators (freshwater mysid shrimp, Hemimysis anomala and Mysis diluviana) across. relevant temperature gradients; both of these species have previously been found to exert strong community-level impacts that are corroborated by their functional responses to different prey items. The functional response experiments showed that maximum feeding rates of H. anomala and M. diluviana have distinct peaks near their respective thermal optima. Although variation in impacts may be caused by numerous abiotic or biotic habitat characteristics, both our analyses point to temperature as a key mediator of IAS impact levels in inland waters and suggest that IAS management should prioritize habitats in the invaded range that more closely match the thermal optima of targeted invaders.</dc:description>
+</oai_dc:dc>
