@@ -15,11 +15,13 @@ export const settings = {
     url: "https://query.wikidata.org/sparql?format=json&query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3Ftopic%20%3FtopicLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP6104%20wd%3AQ56241615%3B%0A%20%20%20%20%20%20%20%20wdt%3AP356%20%3Fdoi%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20.%0A%20%0A%20%20%7B%3Ftopic%20wdt%3AP31%20wd%3AQ41719%20.%7D%0A%20%20UNION%0A%20%20%7BVALUES%20%3Ftopic%20%7B%20wd%3AQ109467185%20wd%3AQ112148709%20wd%3AQ111525751%20wd%3AQ113019190%7D%20%7D%0A%20%20UNION%0A%20%20%7B%3Fitem%20wdt%3AP275%20%3Flicense%20.%0A%20%20%3Flicense%20wdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ30939938%20.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3Ftopic%20%3FtopicLabel",
     items: null,
     read: true,
-    file: "./corpus/entries.json", // ##### Note: filename to save list of WikidataItems
+    // ##### Note: if filename to save entries.json is not provided inside (deno.jsonc), then 
+    // the code will consider the name given below.
+    file: "./corpus/entries_log.json", // ##### Note: filename to save entries, if not provided inside (deno.jsonc)
   },
   processing: {
     initialOffset: 0, // ##### Note: Initial offset to start extraction process
-    processingDelay: 2000, // ##### Note: resting time between batches (in milliseconds)
+    processingDelay: 3000, // ##### Note: resting time between batches (in milliseconds)
     batchSize: 10, // ##### Note: quantity of consecutive wikidataItem-URL-extraction without resting
   },
 };
@@ -65,7 +67,7 @@ export const abstractSources = [
   {
     name: "crossref", // ##### Note: CrossRef
     wikidataProperty: {
-      id: "P356",
+      id: "P356", // ##### Note: Property number in Wikidata
       label: "DOI",
     },
     url: (id) => `https://api.crossref.org/v1/works/${id}`,
@@ -75,7 +77,7 @@ export const abstractSources = [
   {
     name: "pmc", // ##### Note: PubMedCentral
     wikidataProperty: {
-      id: "P932",
+      id: "P932", // ##### Note: Property number in Wikidata
       label: "PMCID",
     },
     url: (id) =>
@@ -86,7 +88,7 @@ export const abstractSources = [
   {
     name: "pubmed", // ##### Note: PubMed
     wikidataProperty: {
-      id: "P698",
+      id: "P698", // ##### Note: Property number in Wikidata
       label: "PMID",
     },
     url: (id) =>

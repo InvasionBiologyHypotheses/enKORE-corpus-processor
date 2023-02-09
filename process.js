@@ -1,3 +1,26 @@
+// ##### ==============================================================================
+// ##### This script is the main conductor for the branch (enKORE-corpus-processor-main)
+// ##### This branch is under the umbrella of enKORE-project
+// ##### As the main outcome, XML files are generated for publications sourced from a
+// ##### a SPARQL submitted to Wikidata
+// ##### ==============================================================================
+// ##### Name: process.js
+// ##### Purpose: Create a corpus for the EndPoint source BASE (https://www.base-search.net/about/en/about_sources_data.php)
+// ##### Author: Steph et al. (https://github.com/bootsa)
+// ##### Version: unknown and in progress
+// ##### Version-date: N/A
+// ##### Additional comments: This conductor manages other scripts collecting information from three main sources, listed as:
+// ##### (1) WIkidata, (2) CrossRef, (3) PubMed, and (4) PubMedCentral
+// ##### Additional comments: This code is currently running in Toolforge, but implementations mostly locally.
+// ##### Additional comments: N/A
+// ##### Additional comments: N/A
+// ##### ==============================================================================
+// ##### Notes before the initialisation
+// ##### Notes: N/A
+// ##### Notes: N/A
+// ##### Notes: N/A
+// ##### ==============================================================================
+
 // ###################################
 // ##### Import required modules #####
 // ###################################
@@ -9,12 +32,12 @@ import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin";
 // ##### Note: xmlexporter is imported to save contents to file(XML)
-import { generateXML } from "./lib/xmlexporter.js";
+import { generateXML } from "./lib/xmlexporter.js"; // ##### Note: get needed information and scripts from (xmlexporter.js)
 import get from "just-safe-get";
 import extend from "just-extend";
 import * as log from "deno-std-log";
 // ##### Note: information about API's sources, logging and additional settings
-import { abstractSources, logging, settings } from "./config.js";
+import { abstractSources, logging, settings } from "./config.js"; // ##### Note: get needed information and scripts from (config.js)
 
 // ######################################################
 // ##### Information for console debugging purposes #####
@@ -47,8 +70,8 @@ async function processArgs(args) {
       read: settings?.data?.read || false,
       file: settings?.data?.file || null,
       offset: settings?.processing?.initialOffset || 0,
-      size: settings?.processing?.batchSize || 10,
-      delay: settings?.processing?.processingDelay || 2000,
+      size: settings?.processing?.batchSize || 50,
+      delay: settings?.processing?.processingDelay || 1000,
     },
     boolean: ["pull", "read"],
     negatable: ["pull", "read"],
@@ -128,7 +151,7 @@ async function fetchFileEntries(file) {
 // #############################################################
 // ##### Function to request URL with Abstract (START/END) #####
 // #############################################################
-// ##### Note:
+// ##### Note: N/A
 async function getAbstract(src, service) {
   dl.debug(`Entering getAbstract ${service?.name}`);
   const id = src[service.wikidataProperty.label];
@@ -172,7 +195,7 @@ async function findAbstract(wikidataItem) {
 // #######################################################################
 // ##### Function to request URL from CrossRef using DOI (START/END) #####
 // #######################################################################
-// ##### Note:
+// ##### Note: N/A
 async function getCrossrefItem(DOI, retries = 4, delay = 0) {
   dl.debug(`Entering getCrossrefItem ${DOI}`);
   await delay;
@@ -229,7 +252,14 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
       const filename = `${wikidataItem.id}_Struct_wikidataItem.json`;
       const wikidataItem_content = JSON.stringify(wikidataItem);
       const content = wikidataItem_content;
-      await writeTXT(filename, content);
+
+      // ######################################################################################################################
+      // ##### Note: Uncomment line below to save the strucutre of a required WikidataItem
+      //
+      // await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
+      //
+      // ######################################################################################################################
+
       setTimeout(() => {  dl.debug(`filesaved_yes`); }, 500);
 
     } catch (err) {
@@ -348,7 +378,7 @@ async function main() {
     } entries`,
   );
 
-  // updateEndpoint();
+  // updateEndpoint(); // ##### not yet using this function
 }
 // ####################################
 // ##### Function-Conductor (END) #####
