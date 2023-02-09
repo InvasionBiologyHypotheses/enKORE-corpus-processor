@@ -1,7 +1,17 @@
 {
+  // ##### Note: "import_map.json" will provide additional modules for (deno) and (citation.js)
   "importMap": "import_map.json",
   "tasks": {
-    "process": "deno run -A --unstable process.js -f ./corpus/entries.json",
+    // #####
+    // ##### Note: option below does not save file entries.json
+    // ##### However, if (entries.json) is provided inside file (config.js), then the code takes this information from (config.js).
+    // ##### Meaning, filename (entries.json) provided in (deno.jsonc) has priority over (config.js)
+    //"process": "deno run -A --unstable process.js",
+    // #####
+    // ##### Note: option below saves file entries.json
+    "process": "deno run -A --unstable process.js -f ./corpus/entries_log.json",
+    // #####
     "process-dry": "deno run -A --unstable process.js"
+    // #####
   }
 }
