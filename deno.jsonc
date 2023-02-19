@@ -1,17 +1,28 @@
 {
+
   // ##### Note: "import_map.json" will provide additional modules for (deno) and (citation.js)
   "importMap": "import_map.json",
+  
   "tasks": {
+
     // #####
-    // ##### Note: option below does not save file entries.json
+    // ##### Note: option below pulls entries from URL, but does not provide a filename to save entries.
     // ##### However, if (entries.json) is provided inside file (config.js), then the code takes this information from (config.js).
     // ##### Meaning, filename (entries.json) provided in (deno.jsonc) has priority over (config.js)
     //"process": "deno run -A --unstable process.js",
     // #####
-    // ##### Note: option below saves file entries.json
-    "process": "deno run -A --unstable process.js -f ./corpus/entries_log.json",
+    // ##### Note: option below pulls entries from URL and save to file indicated.
+    "process": "deno run -A --unstable process.js -f ./corpus/entries_log1.json",
+    "process-pull": "deno run -A --unstable process.js -f ./corpus/entries_log1.json", // ##### same as above, but called using a more descripted string
     // #####
-    "process-dry": "deno run -A --unstable process.js"
+    // ##### Note: 
+    "process-dry": "deno run -A --unstable process.js",
     // #####
+    // ##### Note: option below pulls entries from existing and indicated.
+    // ##### Note: If you do not pull entries from URL (i.e. -p false), then you must provide a file containing the entries to be processed
+    // ##### Note: If pull (false), then a filename must be given in (deno.jsonc)
+    "process-read": "deno run -A --unstable process.js -p false -f ./corpus/entries_test1.json" // ##### run to test target list of entries
+
   }
+
 }
