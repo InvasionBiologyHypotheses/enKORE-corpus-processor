@@ -298,14 +298,14 @@ async function checkWikidataItem(items) {
       try {
 
         const fs_p = require('fs').promises;
-        const content = await fs_p.readFile('./corpus/Template_emptied_XML.txt');
+        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt");
         const filename = `./corpus/processed/${files_list_i}`;
         await writeTXT(filename, content);
         dl.debug(`Log(checkWikidataItem): template given [./corpus/Template_emptied_XML.txt] and considered to write file [${files_list_i}]`);
 
       } catch(err) {
 
-        const content = "NULL";
+        const content = "DELETED";
         const filename = `./corpus/processed/${files_list_i}`;
         await writeTXT(filename, content);
         dl.debug(`Log(checkWikidataItem): template missing [./corpus/Template_emptied_XML.txt], so we are using (NULL) to write file  [${files_list_i}]`);
@@ -651,12 +651,12 @@ async function main() {
 
   // dl.debug(items);
   const startTime = new Date();
-  dl.debug('Log(main): ##########');
-  dl.debug('Log(main): Main() has just started! #####');
+  dl.debug("Log(main): ##########");
+  dl.debug("Log(main): Main() has just started! #####");
   cl.info(`Log(main): processor started at ${startTime}`);
   dl.debug(`Log(main): processor started at ${startTime}`);
   dl.debug("Log(main): main()_getItemData()_IN");
-  dl.debug('Log(main): ##########');
+  dl.debug("Log(main): ##########");
 
   for (let count = offset; count < items.length; count += size) {
 
@@ -675,9 +675,9 @@ async function main() {
 
   }
 
-  dl.debug('Log(main): ##########');
+  dl.debug("Log(main): ##########");
   dl.debug("Log(main): main()_getItemData()_OUT");
-  dl.debug('Log(main): ##########');
+  dl.debug("Log(main): ##########");
 
   //
   //
@@ -693,7 +693,7 @@ async function main() {
   dl.debug(`Log(main): processor finished at ${endTime}`);
   dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
 
-  dl.debug('Log(main): Main() is now finished! #####');
+  dl.debug("Log(main): Main() is now finished! #####");
 
 }
 // ####################################
@@ -704,7 +704,7 @@ await config();
 await log.setup(logging);
 
 const dl = log.getLogger();
-const cl = log.getLogger("client");
+const cl = log.getLogger('client');
 
 if (import.meta.main) {
 
