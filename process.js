@@ -910,7 +910,7 @@ async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
 
 }
 //
-const c1 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c1 = true; // ##### Note: (cron alias) can be transferred to arguments if needed.
 //
 if (c1) {
 
@@ -918,17 +918,18 @@ if (c1) {
   console.log(`Log(run_cron_option1): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
 
-  // ##### Input
+  // ##### Input: Function-1
   const sec1 = "1";
-  const min1 = "43";
-  const hr1 = "2";
+  const min1 = "26";
+  const hr1 = "6";
   const weekday1 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  // ##### Input: Function-2
   const sec2 = "1";
-  const min2 = "45";
-  const hr2 = "2";
+  const min2 = "27";
+  const hr2 = "6";
   const weekday2 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   
-  // ##### Function
+  // ##### Function to call Functions
   run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2);
 
 } else {
@@ -937,7 +938,7 @@ if (c1) {
   console.log(`Log(run_cron_option1): cron not used!`);
   console.log(`##################################################`);
 
-  if (import.meta.main) { main(); }
+  // if (import.meta.main) { main(); }
 
 }
 
@@ -966,10 +967,10 @@ if (c2) {
   console.log(`Log(run_cron_option2): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
 
-  // ##### Input
+  // ##### Input: Function-1
   const dt1 = '1';
 
-  // ##### Function
+  // ##### Function to call Functions
   run_cron_option2(dt1);
 
 } else {
@@ -1013,11 +1014,12 @@ if (c3) {
   console.log(`Log(run_cron_option3): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
 
-  // ##### Input
+  // ##### Input: Function-1
   const dt1 = '5';
+  // ##### Input: Function-2
   const dt2 = '1';
 
-  // ##### Function
+  // ##### Function to call Functions
   run_cron_option3(dt1,dt2);
 
 } else {
@@ -1030,6 +1032,12 @@ if (c3) {
 
 }
 // ##### OPTION-3 (END) ##################
+
+if (c1 == false && c2 == false && c3 == false) {
+
+  if (import.meta.main) { main(); }
+
+}
 
 // #####################################
 // ##### CRON - TIME CONTROL (END) #####
