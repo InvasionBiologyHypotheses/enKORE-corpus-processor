@@ -881,6 +881,11 @@ console.log(``);
 // Example: To run 1st to 7th day of every month on 3rd, 6th and 9th hour and every 30 minutes if it's monday cron('1 */30 3,6,9 1-7 */1 1'', () => {function_called(); }); // ##### Need to be tested
 // Example: To run every Friday at 23:50:01 cron('1 50 23 * * */5', () => {function_called(); }); // ##### Tested!
 
+// ##### Note: Only one must be true, or all false to run main() without cron
+const c1 = true; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c2 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c3 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
+
 // ##### OPTION-1 (START) ################
 async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
 
@@ -904,15 +909,13 @@ async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
   cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option1): to process main()!`); main(); });
 
   // ##### Function-2
-  async function updateEndpoint_test() { console.log(`########## UPDATED!`); } // ##### Note: Update function can be called inside main() if not here.
+  async function updateEndpoint_test() { console.log(`########## Endpoint Updated!`); } // ##### Note: Update function can be called inside main() if not here.
   cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
 
 
 }
-//
-const c1 = true; // ##### Note: (cron alias) can be transferred to arguments if needed.
-//
-if (c1) {
+
+if (c1 == true && c2 == false && c3 == false) {
 
   console.log(`##################################################`);
   console.log(`Log(run_cron_option1): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
@@ -920,13 +923,13 @@ if (c1) {
 
   // ##### Input: Function-1
   const sec1 = "1";
-  const min1 = "26";
+  const min1 = "56";
   const hr1 = "6";
-  const weekday1 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const weekday1 = "7"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   // ##### Input: Function-2
   const sec2 = "1";
-  const min2 = "27";
-  const hr2 = "6";
+  const min2 = "57";
+  const hr2 = "7";
   const weekday2 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   
   // ##### Function to call Functions
@@ -958,10 +961,8 @@ async function run_cron_option2(dt1) {
   cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option2): to process main()!`); main(); });
 
 }
-//
-const c2 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
-//
-if (c2) {
+
+if (c1 == false && c2 == true && c3 == false) {
 
   console.log(`##################################################`);
   console.log(`Log(run_cron_option2): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
@@ -1005,10 +1006,8 @@ async function run_cron_option3(dt1,dt2) {
   cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
 
 }
-//
-const c3 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
-//
-if (c3) {
+
+if (c1 == false && c2 == false && c3 == true) {
 
   console.log(`##################################################`);
   console.log(`Log(run_cron_option3): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
@@ -1033,11 +1032,8 @@ if (c3) {
 }
 // ##### OPTION-3 (END) ##################
 
-if (c1 == false && c2 == false && c3 == false) {
-
-  if (import.meta.main) { main(); }
-
-}
+// ##### Note: Running main() without cron
+if (c1 == false && c2 == false && c3 == false) { if (import.meta.main) { main(); } }
 
 // #####################################
 // ##### CRON - TIME CONTROL (END) #####
