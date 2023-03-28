@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36267517</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5289467</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0170837</dc:identifier>
+  <dc:title>Population control methods in stochastic extinction and outbreak scenarios</dc:title>
+  <dc:creator>Segura, Juan</dc:creator>
+  <dc:creator>Hilker, Frank M</dc:creator>
+  <dc:creator>Franco, Daniel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-02-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Adaptive limiter control (ALC) and adaptive threshold harvesting (ATH) are two related control methods that have been shown to stabilize fluctuating populations. Large variations in population abundance can threaten the constancy and the persistence stability of ecological populations, which may impede the success and efficiency of managing natural resources. Here, we consider population models that include biological mechanisms characteristic for causing extinctions on the one hand and pest outbreaks on the other hand. These models include Allee effects and the impact of natural enemies (as is typical of forest defoliating insects). We study the impacts of noise and different levels of biological parameters in three extinction and two outbreak scenarios. Our results show that ALC and ATH have an effect on extinction and outbreak risks only for sufficiently large control intensities. Moreover, there is a clear disparity between the two control methods: in the extinction scenarios, ALC can be effective and ATH can be counterproductive, whereas in the outbreak scenarios the situation is reversed, with ATH being effective and ALC being potentially counterproductive.</dc:description>
+</oai_dc:dc>

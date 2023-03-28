@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34218005</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314632</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0034517</dc:identifier>
+  <dc:title>Bacterial diversity stabilizes community productivity</dc:title>
+  <dc:creator>Eisenhauer, Nico</dc:creator>
+  <dc:creator>Scheu, Stefan</dc:creator>
+  <dc:creator>Jousset, Alexandre</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-03-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Stability is a crucial ecosystem feature gaining particular importance in face of increasing anthropogenic stressors. Biodiversity is considered to be a driving biotic force maintaining stability, and in this study we investigate how different indices of biodiversity affect the stability of communities in varied abiotic (composition of available resources) and biotic (invasion) contexts.&lt;h4&gt;Methodology/principal findings&lt;/h4&gt;We set up microbial microcosms to study the effects of genotypic diversity on the reliability of community productivity, defined as the inverse of the coefficient of variation of across-treatment productivity, in different environmental contexts. We established a bacterial diversity gradient ranging from 1 to 8 Pseudomonas fluorescens genotypes and grew the communities in different resource environments or in the presence of model invasive species. Biodiversity significantly stabilized community productivity across treatments in both experiments. Path analyses revealed that different aspects of diversity determined stability: genotypic richness stabilized community productivity across resource environments, whereas functional diversity determined stability when subjected to invasion.&lt;h4&gt;Conclusions/significance&lt;/h4&gt;Biodiversity increases the stability of microbial communities against both biotic and abiotic environmental perturbations. Depending on stressor type, varying aspects of biodiversity contribute to the stability of ecosystem functions. The results suggest that both genetic and functional diversity need to be preserved to ensure buffering of communities against abiotic and biotic stresses.</dc:description>
+</oai_dc:dc>

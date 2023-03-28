@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36148388</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5042559</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0163930</dc:identifier>
+  <dc:title>Associations between an Invasive Plant (Taeniatherum caput-medusae, Medusahead) and Soil Microbial Communities</dc:title>
+  <dc:creator>Gornish, Elise S</dc:creator>
+  <dc:creator>Fierer, Noah</dc:creator>
+  <dc:creator>Barberán, Albert</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-09-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Taeniatherum caput-medusae</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding plant-microbe relationships can be important for developing management strategies for invasive plants, particularly when these relationships interact with underlying variables, such as habitat type and seedbank density, to mediate control efforts. In a field study located in California, USA, we investigated how soil microbial communities differ across the invasion front of Taeniatherum caput-medusae (medusahead), an annual grass that has rapidly invaded most of the western USA. Plots were installed in habitats where medusahead invasion is typically successful (open grassland) and typically not successful (oak woodland). Medusahead was seeded into plots at a range of densities (from 0-50,000 seeds/m2) to simulate different levels of invasion. We found that bacterial and fungal soil community composition were significantly different between oak woodland and open grassland habitats. Specifically, ectomycorrhizal fungi were more abundant in oak woodlands while arbuscular mycorrhizal fungi and plant pathogens were more abundant in open grasslands. We did not find a direct effect of medusahead density on soil microbial communities across the simulated invasion front two seasons after medusahead were seeded into plots. Our results suggest that future medusahead management initiatives might consider plant-microbe interactions.</dc:description>
+</oai_dc:dc>

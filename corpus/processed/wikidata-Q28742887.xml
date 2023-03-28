@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28742887</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1001276</dc:identifier>
+  <dc:title>The RON2-AMA1 interaction is a critical step in moving junction-dependent invasion by apicomplexan parasites</dc:title>
+  <dc:creator>Lamarque, Mauld</dc:creator>
+  <dc:creator>Besteiro, Sébastien</dc:creator>
+  <dc:creator>Papoin, Julien</dc:creator>
+  <dc:creator>Roques, Magali</dc:creator>
+  <dc:creator>Normand, Brigitte Vulliez-Le</dc:creator>
+  <dc:creator>Morlon-Guyot, Juliette</dc:creator>
+  <dc:creator>Dubremetz, Jean-François</dc:creator>
+  <dc:creator>Fauquenoy, Sylvain</dc:creator>
+  <dc:creator>Tomavo, Stanislas</dc:creator>
+  <dc:creator>Faber, Bart W</dc:creator>
+  <dc:creator>Kocken, Clemens H</dc:creator>
+  <dc:creator>Thomas, Alan W</dc:creator>
+  <dc:creator>Boulanger, Martin J</dc:creator>
+  <dc:creator>Bentley, Graham A</dc:creator>
+  <dc:creator>Lebrun, Maryse</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-02-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Obligate intracellular Apicomplexa parasites share a unique invasion mechanism involving a tight interaction between the host cell and the parasite surfaces called the moving junction (MJ). The MJ, which is the anchoring structure for the invasion process, is formed by secretion of a macromolecular complex (RON2/4/5/8), derived from secretory organelles called rhoptries, into the host cell membrane. AMA1, a protein secreted from micronemes and associated with the parasite surface during invasion, has been shown in vitro to bind the MJ complex through a direct association with RON2. Here we show that RON2 is inserted as an integral membrane protein in the host cell and, using several interaction assays with native or recombinant proteins, we define the region that binds AMA1. Our studies were performed both in Toxoplasma gondii and Plasmodium falciparum and although AMA1 and RON2 proteins have diverged between Apicomplexa species, we show an intra-species conservation of their interaction. More importantly, invasion inhibition assays using recombinant proteins demonstrate that the RON2-AMA1 interaction is crucial for both T. gondii and P. falciparum entry into their host cells. This work provides the first evidence that AMA1 uses the rhoptry neck protein RON2 as a receptor to promote invasion by Apicomplexa parasites.</dc:description>
+</oai_dc:dc>

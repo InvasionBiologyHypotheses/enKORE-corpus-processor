@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q46386351</dc:identifier>
+  <dc:identifier>doi:10.1002/ECY.1852</dc:identifier>
+  <dc:title>Biotic resistance shapes the influence of propagule pressure on invasion success in bacterial communities</dc:title>
+  <dc:creator>Jones, Matt L</dc:creator>
+  <dc:creator>Massagué, Josep Ramoneda</dc:creator>
+  <dc:creator>Rivett, Damian W</dc:creator>
+  <dc:creator>Bell, Thomas</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>propagule pressure</dc:subject>
+  <dc:subject>biotic resistance</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>The number of invaders and the timing of invasion are recognized as key determinants of successful invasions. Despite the recognized importance of "propagule pressure," invasion ecology has largely focused on how characteristics of the native community confer invasion resistance. We simultaneously manipulated community composition and invader propagule pressure in microcosm communities of freshwater bacteria. We show that high propagule pressures can be necessary to establish an invader population, but that the influence of propagule pressure depends on the composition of the resident species. In particular, the number of individuals invading was most important to invasion success when one of the species in a resident community is a strong competitor against other species. By contrast, the timing of invasion was most important when communities had lower growth rates. The results suggest that the importance of propagule pressure varies both between communities and within the same community over time, and therefore have implications for the way we understand the relationship between biotic resistance and invasion success.</dc:description>
+</oai_dc:dc>

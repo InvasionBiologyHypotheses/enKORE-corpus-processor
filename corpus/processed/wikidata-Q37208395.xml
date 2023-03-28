@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q37208395</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4999553</dc:identifier>
+  <dc:identifier>doi:10.1128/MBIO.01261-16</dc:identifier>
+  <dc:title>A Novel Erythrocyte Binding Protein of Plasmodium vivax Suggests an Alternate Invasion Pathway into Duffy-Positive Reticulocytes</dc:title>
+  <dc:creator>Ntumngia, Francis B</dc:creator>
+  <dc:creator>Thomson-Luque, Richard</dc:creator>
+  <dc:creator>Menezes Torres, Letícia</dc:creator>
+  <dc:creator>Gunalan, Karthigayan</dc:creator>
+  <dc:creator>Carvalho, Luzia H</dc:creator>
+  <dc:creator>Adams, John H</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-08-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>duffy binding protein 2</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Microbiology</dc:publisher>
+  <dc:description>&lt;jats:title&gt;ABSTRACT&lt;/jats:title&gt;
+          &lt;jats:p&gt;
+            Erythrocyte invasion by malaria parasites is essential for blood-stage development and an important determinant of host range. In
+            &lt;jats:named-content content-type="genus-species"&gt;Plasmodium vivax&lt;/jats:named-content&gt;
+            , the interaction between the Duffy binding protein (DBP) and its cognate receptor, the Duffy antigen receptor for chemokines (DARC), on human erythrocytes is central to blood-stage infection. Contrary to this established pathway of invasion, there is growing evidence of
+            &lt;jats:named-content content-type="genus-species"&gt;P. vivax&lt;/jats:named-content&gt;
+            infections occurring in Duffy blood group-negative individuals, suggesting that the parasite might have gained an alternative pathway to infect this group of individuals. Supporting this concept, a second distinct erythrocyte binding protein (EBP2), representing a new member of the DBP family, was discovered in
+            &lt;jats:named-content content-type="genus-species"&gt;P. vivax&lt;/jats:named-content&gt;
+            and may be the ligand in an alternate invasion pathway. Our study characterizes this novel ligand and determines its potential role in reticulocyte invasion by
+            &lt;jats:named-content content-type="genus-species"&gt;P. vivax&lt;/jats:named-content&gt;
+            merozoites
+            &lt;jats:italic&gt;.&lt;/jats:italic&gt;
+            EBP2 binds preferentially to young (CD71
+            &lt;jats:sup&gt;high&lt;/jats:sup&gt;
+            ) Duffy-positive (Fy
+            &lt;jats:sup&gt;+&lt;/jats:sup&gt;
+            ) reticulocytes and has minimal binding capacity for Duffy-negative reticulocytes. Importantly, EBP2 is antigenically distinct from DBP and cannot be functionally inhibited by anti-DBP antibodies. Consequently, our results do not support EBP2 as a ligand for invasion of Duffy-negative blood cells, but instead, EBP2 may represent a novel ligand for an alternate invasion pathway of Duffy-positive reticulocytes.
+          &lt;/jats:p&gt;
+          &lt;jats:p&gt;
+            &lt;jats:bold&gt;IMPORTANCE&lt;/jats:bold&gt;
+            For decades,
+            &lt;jats:named-content content-type="genus-species"&gt;P. vivax&lt;/jats:named-content&gt;
+            infections in humans have been defined by a unique requirement for the interaction between the Duffy binding protein ligand of the parasite and the Duffy blood group antigen receptor (DARC). Recent reports of
+            &lt;jats:named-content content-type="genus-species"&gt;P. vivax&lt;/jats:named-content&gt;
+            infections in Duffy-negative individuals challenge this paradigm and suggest an alternate pathway of infection, potentially using the recently discovered EBP2. However, we demonstrate that EBP2 host cell specificity is more restricted than DBP binding and that EBP2 binds preferentially to Duffy-positive, young reticulocytes. This finding indicates that this DBP paralog does mediate a Duffy-independent pathway of infection.
+          &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

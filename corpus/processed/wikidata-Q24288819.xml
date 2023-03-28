@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q24288819</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857756</dc:identifier>
+  <dc:identifier>doi:10.12688/F1000RESEARCH.8107.1</dc:identifier>
+  <dc:title>Surveillance, insecticide resistance and control of an invasive Aedes aegypti (Diptera: Culicidae) population in California</dc:title>
+  <dc:creator>Cornel, Anthony J</dc:creator>
+  <dc:creator>Holeman, Jodi</dc:creator>
+  <dc:creator>Nieman, Catelyn C</dc:creator>
+  <dc:creator>Lee, Yoosook</dc:creator>
+  <dc:creator>Smith, Charles</dc:creator>
+  <dc:creator>Amorino, Mark</dc:creator>
+  <dc:creator>Brisco, Katherine K</dc:creator>
+  <dc:creator>Barrera, Roberto</dc:creator>
+  <dc:creator>Lanzaro, Gregory C</dc:creator>
+  <dc:creator>Mulligan, F Stephen</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>insecticide</dc:subject>
+  <dc:subject>Culicidae</dc:subject>
+  <dc:subject>California</dc:subject>
+  <dc:subject>insecticide resistance</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Diptera</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>F1000 Research Ltd</dc:publisher>
+  <dc:description>&lt;ns4:p&gt;The invasion and subsequent establishment in California of &lt;ns4:italic&gt;Aedes aegypti &lt;/ns4:italic&gt;in 2013 has created new challenges for local mosquito abatement and vector control districts. Studies were undertaken to identify effective and economical strategies to monitor the abundance and spread of this mosquito species as well as for its control. Overall, BG Sentinel (BGS) traps were found to be the most sensitive trap type to measure abundance and spread into new locations. Autocidal-Gravid-Ovitraps (AGO-B), when placed at a site for a week, performed equally to BGS in detecting the presence of female &lt;ns4:italic&gt;Ae. aegypti.&lt;/ns4:italic&gt; Considering operational cost and our findings, we recommend use of BGS traps for surveillance in response to service requests especially in locations outside the known infestation area. We recommend AGO-Bs be placed at fixed sites, cleared and processed once a week to monitor mosquito abundance within a known infestation area. Long-term high density placements of AGO-Bs were found to show promise as an environmentally friendly trap-kill control strategy. California &lt;ns4:italic&gt;Ae. aegypti &lt;/ns4:italic&gt;were found to be homozygous for the V1016I mutation in the voltage gated sodium channel gene, which is implicated to be involved in insecticide resistance. This strain originating from Clovis, California was resistant to some pyrethroids but not to deltamethrin in bottle bio-assays. Sentinel cage ultra-low-volume (ULV) trials using a new formulation of deltamethrin (DeltaGard®) demonstrated that it provided some control (average of 56% death in sentinel cages in a 91.4 m spray swath) after a single truck mounted aerial ULV application in residential areas.&lt;/ns4:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q96433934</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270165</dc:identifier>
+  <dc:identifier>doi:10.3389/FMICB.2020.00927</dc:identifier>
+  <dc:title>Habitat Disturbances Modulate the Barrier Effect of Resident Soil Microbiota on Listeria monocytogenes Invasion Success</dc:title>
+  <dc:creator>Spor, Aymé</dc:creator>
+  <dc:creator>Camargo, Angela Rocio Ortiz</dc:creator>
+  <dc:creator>Bru, David</dc:creator>
+  <dc:creator>Gaba, Sabrina</dc:creator>
+  <dc:creator>Garmyn, Dominique</dc:creator>
+  <dc:creator>Gal, Laurent</dc:creator>
+  <dc:creator>Piveteau, Pascal</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Microbial communities are continuously exposed to the arrival of alien species. In complex environments such as soil, the success of invasion depends on the characteristics of the habitat, especially the diversity and structure of the residing bacterial communities. While most data available on microbial invasion relies on experiments run under constant conditions, the fate of invading species when the habitat faces disturbances has not yet been addressed. Here, we designed experiments to assess the consequences of habitat disturbance on the success of ongoing microbial invasion. We investigated (i) if disturbance-induced alterations in resident microbial communities could mitigate or facilitate invasion of &lt;i&gt;Listeria monocytogenes&lt;/i&gt;, (ii) if disturbance itself could either improve or reduce the invader's fitness and (iii) if the invading species alters the structure of indigenous microbial communities. Our data show that environmental disturbances affect invasion patterns of &lt;i&gt;L. monocytogenes&lt;/i&gt; in soils. Intriguingly, successful invasion was recorded in a regimen of disturbances that triggered small changes in microbial community structure while maintaining high bacterial diversity. On the opposite, dramatic decline of the invader was recorded when disturbance resulted in emergence of specific communities albeit concomitant with a diversity loss. This suggests that community composition is more important than its diversity when it comes to prevent the establishment of an invading species. Finally, shifts in bacterial communities during the disturbance event were strengthened by the presence of the invader indicating a major impact of invasion on microbial diversity when the habitat faces disturbance.</dc:description>
+</oai_dc:dc>

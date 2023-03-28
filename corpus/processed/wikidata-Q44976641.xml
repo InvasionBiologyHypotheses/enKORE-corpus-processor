@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q44976641</dc:identifier>
+  <dc:identifier>doi:10.1016/J.JTBI.2012.04.017</dc:identifier>
+  <dc:title>Interference competition and invasion: spatial structure, novel weapons and resistance zones.</dc:title>
+  <dc:creator>Allstadt, Andrew</dc:creator>
+  <dc:creator>Caraco, Thomas</dc:creator>
+  <dc:creator>Molnár, F</dc:creator>
+  <dc:creator>Korniss, G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-04-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>novel weapons hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q109996900</dc:subject>
+  <dc:subject>hypothesis:novel weapons hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q109996900</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>Certain invasive plants may rely on interference mechanisms (e.g., allelopathy) to gain competitive superiority over native species. But expending resources on interference presumably exacts a cost in another life-history trait, so that the significance of interference competition for invasion ecology remains uncertain. We model ecological invasion when combined effects of preemptive and interference competition govern interactions at the neighborhood scale. We consider three cases. Under "novel weapons," only the initially rare invader exercises interference. For "resistance zones" only the resident species interferes, and finally we take both species as interference competitors. Interference increases the other species' mortality, opening space for colonization. However, a species exercising greater interference has reduced propagation, which can hinder its colonization of open sites. Interference never enhances a rare invader's growth in the homogeneously mixing approximation to our model. But interference can significantly increase an invader's competitiveness, and its growth when rare, if interactions are structured spatially. That is, interference can increase an invader's success when colonization of open sites depends on local, rather than global, species densities. In contrast, interference enhances the common, resident species' resistance to invasion independently of spatial structure, unless the propagation-cost is too great. The particular combination of propagation and interference producing the strongest biotic resistance in a resident species depends on the shape of the tradeoff between the two traits. Increases in background mortality (i.e., mortality not due to interference) always reduce the effectiveness of interference competition.</dc:description>
+</oai_dc:dc>

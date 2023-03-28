@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110862511</dc:identifier>
+  <dc:identifier>doi:10.1007/S13595-021-01033-8</dc:identifier>
+  <dc:title>How do invasive trees impact shrub layer diversity and productivity in temperate forests?</dc:title>
+  <dc:creator>Dyderski, Marcin K.</dc:creator>
+  <dc:creator>Jagodziński, Andrzej M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-02-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasive tree</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Key message&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;&lt;jats:bold&gt;Invasive tree species alter taxonomic diversity and functioning of forest shrub layers:&lt;/jats:bold&gt;&lt;jats:bold&gt;&lt;jats:italic&gt; Prunus serotina&lt;/jats:italic&gt;&lt;/jats:bold&gt;&lt;jats:bold&gt; increases shrub layer biomass two to three times but decreases its biodiversity,&lt;/jats:bold&gt;&lt;jats:bold&gt;&lt;jats:italic&gt; Robinia pseudoacacia&lt;/jats:italic&gt;&lt;/jats:bold&gt;&lt;jats:bold&gt; slightly increases shrub layer biomass and has no effect on its biodiversity, while &lt;/jats:bold&gt;&lt;jats:bold&gt;&lt;jats:italic&gt;Quercus rubra&lt;/jats:italic&gt;&lt;/jats:bold&gt;&lt;jats:bold&gt; both biomass and biodiversity of the shrub layer.&lt;/jats:bold&gt;&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Context&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;Although the impact of invasive trees on understory biodiversity is known, very little data exist about their influence on shrub layer biodiversity and productivity.&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Aims&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;To assess impacts of &lt;jats:italic&gt;Prunus serotina&lt;/jats:italic&gt; Ehrh., &lt;jats:italic&gt;Quercus rubra&lt;/jats:italic&gt; L., and &lt;jats:italic&gt;Robinia pseudoacacia&lt;/jats:italic&gt; L. on shrub layer aboveground biomass, species composition, and alpha diversity.&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Methods&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;We measured stand structures in a set of 168 study plots established in Wielkopolski National Park (W Poland), and we compared biomass and diversity metrics using generalized mixed-effects linear models.&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Results&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;We found the lowest aboveground biomass of shrub layers in &lt;jats:italic&gt;Q. rubra&lt;/jats:italic&gt; forests. &lt;jats:italic&gt;P. sylvestris&lt;/jats:italic&gt; forests invaded by &lt;jats:italic&gt;P. serotina&lt;/jats:italic&gt; had two to three times higher aboveground biomass than non-invaded forests. &lt;jats:italic&gt;R. pseudoacacia&lt;/jats:italic&gt; forests had 27.8% higher shrub layer biomass than &lt;jats:italic&gt;Quercus-Acer-Tilia&lt;/jats:italic&gt; forests. We found negative impacts of &lt;jats:italic&gt;Q. rubra&lt;/jats:italic&gt; and negligible impacts of &lt;jats:italic&gt;R. pseudoacacia&lt;/jats:italic&gt; on shrub layer alpha diversity metrics. However, the effect of &lt;jats:italic&gt;Q. rubra&lt;/jats:italic&gt; was similar to native &lt;jats:italic&gt;F. sylvatica&lt;/jats:italic&gt;. &lt;jats:italic&gt;P. serotina&lt;/jats:italic&gt; negatively affected functional diversity, but its effects were lower in rich &lt;jats:italic&gt;P. sylvestris&lt;/jats:italic&gt; forests than in poor &lt;jats:italic&gt;P. sylvestris&lt;/jats:italic&gt; forests.&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;&lt;jats:sec&gt;
+                &lt;jats:title&gt;• &lt;jats:bold&gt;&lt;jats:italic&gt;Conclusion&lt;/jats:italic&gt;&lt;/jats:bold&gt;
+                        &lt;/jats:title&gt;
+                &lt;jats:p&gt;The introduction of alien tree species alters ecosystem services and species diversity of shrub layers. The direction and magnitude of these alterations are alien species-specific and context-dependent. Therefore, their management should account for their impacts.&lt;/jats:p&gt;
+              &lt;/jats:sec&gt;</dc:description>
+</oai_dc:dc>

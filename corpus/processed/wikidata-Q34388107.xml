@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34388107</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206405</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0110363</dc:identifier>
+  <dc:title>Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962-1994.</dc:title>
+  <dc:creator>Francis, Tessa B</dc:creator>
+  <dc:creator>Wolkovich, Elizabeth M</dc:creator>
+  <dc:creator>Scheuerell, Mark D</dc:creator>
+  <dc:creator>Katz, Stephen L</dc:creator>
+  <dc:creator>Holmes, Elizabeth E</dc:creator>
+  <dc:creator>Hampton, Stephanie E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-10-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>lake</dc:subject>
+  <dc:subject>plankton</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding how changing climate, nutrient regimes, and invasive species shift food web structure is critically important in ecology. Most analytical approaches, however, assume static species interactions and environmental effects across time. Therefore, we applied multivariate autoregressive (MAR) models in a moving window context to test for shifting plankton community interactions and effects of environmental variables on plankton abundance in Lake Washington, U.S.A. from 1962-1994, following reduced nutrient loading in the 1960s and the rise of Daphnia in the 1970s. The moving-window MAR (mwMAR) approach showed shifts in the strengths of interactions between Daphnia, a dominant grazer, and other plankton taxa between a high nutrient, Oscillatoria-dominated regime and a low nutrient, Daphnia-dominated regime. The approach also highlighted the inhibiting influence of the cyanobacterium Oscillatoria on other plankton taxa in the community. Overall community stability was lowest during the period of elevated nutrient loading and Oscillatoria dominance. Despite recent warming of the lake, we found no evidence that anomalous temperatures impacted plankton abundance. Our results suggest mwMAR modeling is a useful approach that can be applied across diverse ecosystems, when questions involve shifting relationships within food webs, and among species and abiotic drivers.</dc:description>
+</oai_dc:dc>

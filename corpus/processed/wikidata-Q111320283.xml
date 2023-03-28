@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111320283</dc:identifier>
+  <dc:identifier>doi:10.3389/FDATA.2022.796897</dc:identifier>
+  <dc:title>Network Models and Simulation Analytics for Multi-scale Dynamics of Biological Invasions</dc:title>
+  <dc:creator>Adiga, Abhijin</dc:creator>
+  <dc:creator>Palmer, Nicholas</dc:creator>
+  <dc:creator>Baek, Young Yun</dc:creator>
+  <dc:creator>Mortveit, Henning</dc:creator>
+  <dc:creator>Ravi, S S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-02-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Globalization and climate change facilitate the spread and establishment of invasive species throughout the world via multiple pathways. These spread mechanisms can be effectively represented as diffusion processes on multi-scale, spatial networks. Such network-based modeling and simulation approaches are being increasingly applied in this domain. However, these works tend to be largely domain-specific, lacking any graph theoretic formalisms, and do not take advantage of more recent developments in network science. This work is aimed toward filling some of these gaps. We develop a generic multi-scale spatial network framework that is applicable to a wide range of models developed in the literature on biological invasions. A key question we address is the following: how do individual pathways and their combinations influence the rate and pattern of spread? The analytical complexity arises more from the multi-scale nature and complex functional components of the networks rather than from the sizes of the networks. We present theoretical bounds on the spectral radius and the diameter of multi-scale networks. These two structural graph parameters have established connections to diffusion processes. Specifically, we study how network properties, such as spectral radius and diameter are influenced by model parameters. Further, we analyze a multi-pathway diffusion model from the literature by conducting simulations on synthetic and real-world networks and then use regression tree analysis to identify the important network and diffusion model parameters that influence the dynamics.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

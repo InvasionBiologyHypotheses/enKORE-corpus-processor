@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q51733874</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835522</dc:identifier>
+  <dc:identifier>doi:10.3389/FMICB.2018.00360</dc:identifier>
+  <dc:title>Rac1/WAVE2 and Cdc42/N-WASP Participation in Actin-Dependent Host Cell Invasion by Extracellular Amastigotes of Trypanosoma cruzi.</dc:title>
+  <dc:creator>Bonfim-Melo, Alexis</dc:creator>
+  <dc:creator>Ferreira, Éden R</dc:creator>
+  <dc:creator>Mortara, Renato A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-02-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>This study evaluated the participation of host cell Rho-family GTPases and their effector proteins in the actin-dependent invasion by Trypanosoma cruzi extracellular amastigotes (EAs). We observed that all proteins were recruited and colocalized with actin at EA invasion sites in live or fixed cells. EA internalization was inhibited in cells depleted in Rac1, N-WASP, and WAVE2. Time-lapse experiments with Rac1, N-WASP and WAVE2 depleted cells revealed that EA internalization kinetics is delayed even though no differences were observed in the proportion of EA-induced actin recruitment in these groups. Overexpression of constitutively active constructs of Rac1 and RhoA altered the morphology of actin recruitments to EA invasion sites. Additionally, EA internalization was increased in cells overexpressing CA-Rac1 but inhibited in cells overexpressing CA-RhoA. WT-Cdc42 expression increased EA internalization, but curiously, CA-Cdc42 inhibited it. Altogether, these results corroborate the hypothesis of EA internalization in non-phagocytic cells by a phagocytosis-like mechanism and present Rac1 as the key Rho-family GTPase in this process.</dc:description>
+</oai_dc:dc>

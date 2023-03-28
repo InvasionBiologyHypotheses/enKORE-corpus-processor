@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q101241987</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593967</dc:identifier>
+  <dc:identifier>doi:10.1128/MBIO.02089-20</dc:identifier>
+  <dc:title>Biotic Interactions Are More Important than Propagule Pressure in Microbial Community Invasions</dc:title>
+  <dc:creator>Albright, Michaeline</dc:creator>
+  <dc:creator>Sevanto, Sanna</dc:creator>
+  <dc:creator>Dunbar, John</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>propagule pressure</dc:subject>
+  <dc:subject>biotic interaction</dc:subject>
+  <dc:publisher>American Society for Microbiology</dc:publisher>
+  <dc:description>&lt;jats:p&gt;With increasing frequency, humans are introducing new microbes into preexisting microbiomes to alter functioning. Example applications include modification of microflora in human guts for better health and those of soil for food security and/or climate management. Probiotic applications are often approached as trial-and-error endeavors and have mixed outcomes. We propose that increased success in microbiome engineering may be achieved with a better understanding of microbial invasions. We conducted a microbial community invasion experiment to test the relative importance of propagule pressure and biotic interactions in driving microbial community composition and ecosystem functioning in microcosms. We found that biotic interactions were more important than propagule pressure in determining the impact of microbial invasions. Furthermore, the principles for community engineering vary among organismal groups (bacteria versus fungi).&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

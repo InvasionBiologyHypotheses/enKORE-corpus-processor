@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33847763</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3048367</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002005</dc:identifier>
+  <dc:title>Invasive extravillous trophoblasts restrict intracellular growth and spread of Listeria monocytogenes</dc:title>
+  <dc:creator>Zeldovich, Varvara B</dc:creator>
+  <dc:creator>Robbins, Jennifer R.</dc:creator>
+  <dc:creator>Kapidzic, Mirhan</dc:creator>
+  <dc:creator>Lauer, Peter</dc:creator>
+  <dc:creator>Bakardjiev, Anna I</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-03-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Listeria monocytogenes is a facultative intracellular bacterial pathogen that can infect the placenta, a chimeric organ made of maternal and fetal cells. Extravillous trophoblasts (EVT) are specialized fetal cells that invade the uterine implantation site, where they come into direct contact with maternal cells. We have shown previously that EVT are the preferred site of initial placental infection. In this report, we infected primary human EVT with L. monocytogenes. EVT eliminated ∼80% of intracellular bacteria over 24-hours. Bacteria were unable to escape into the cytoplasm and remained confined to vacuolar compartments that became acidified and co-localized with LAMP1, consistent with bacterial degradation in lysosomes. In human placental organ cultures bacterial vacuolar escape rates differed between specific trophoblast subpopulations. The most invasive EVT-those that would be in direct contact with maternal cells in vivo-had lower escape rates than trophoblasts that were surrounded by fetal cells and tissues. Our results suggest that EVT present a bottleneck in the spread of L. monocytogenes from mother to fetus by inhibiting vacuolar escape, and thus intracellular bacterial growth. However, if L. monocytogenes is able to spread beyond EVT it can find a more hospitable environment. Our results elucidate a novel aspect of the maternal-fetal barrier.</dc:description>
+</oai_dc:dc>

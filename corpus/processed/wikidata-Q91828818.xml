@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q91828818</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625730</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0219700</dc:identifier>
+  <dc:title>Detection of an invasive aquatic plant in natural water bodies using environmental DNA</dc:title>
+  <dc:creator>d'Auriac, Marc B Anglès</dc:creator>
+  <dc:creator>Strand, David A</dc:creator>
+  <dc:creator>Mjelde, Marit</dc:creator>
+  <dc:creator>O L Demars, Benoit</dc:creator>
+  <dc:creator>Thaulow, Jens</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-07-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>environmental DNA</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The ability to detect founding populations of invasive species or rare species with low number of individuals is important for aquatic ecosystem management. Traditional approaches use historical data, knowledge of the species' ecology and time-consuming surveys. Within the past decade, environmental DNA (eDNA) has emerged as a powerful additional tracking tool. While much work has been done with animals, comparatively very little has been done with aquatic plants. Here we investigated the transportation and seasonal changes in eDNA concentrations for an invasive aquatic species, Elodea canadensis, in Norway. A specific probe assay was developed using chloroplast DNA to study the fate of the targeted eDNA through space and time. The spatial study used a known source of Elodea canadensis within Lake Nordbytjern 400 m away from the lake outlet flowing into the stream Tveia. The rate of disappearance of E. canadensis eDNA was an order of magnitude loss over about 230 m in the lake and 1550 m in the stream. The time series study was performed monthly from May to October in lake Steinsfjorden harbouring E. canadensis, showing that eDNA concentrations varied by up to three orders of magnitude, peaking during fall. In both studies, the presence of suspended clay or turbidity for some samples did not hamper eDNA analysis. This study shows how efficient eDNA tools may be for tracking aquatic plants in the environment and provides key spatial and temporal information on the fate of eDNA.</dc:description>
+</oai_dc:dc>

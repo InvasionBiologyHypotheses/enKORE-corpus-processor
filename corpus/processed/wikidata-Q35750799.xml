@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35750799</dc:identifier>
+  <dc:identifier>doi:10.1111/COBI.12610</dc:identifier>
+  <dc:title>Improving credibility and transparency of conservation impact evaluations through the partial identification approach</dc:title>
+  <dc:creator>McConnachie, Matthew M</dc:creator>
+  <dc:creator>Romero, Claudia</dc:creator>
+  <dc:creator>Ferraro, Paul J</dc:creator>
+  <dc:creator>Wilgen, Brian W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-08-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>The fundamental challenge of evaluating the impact of conservation interventions is that researchers must estimate the difference between the outcome after an intervention occurred and what the outcome would have been without it (counterfactual). Because the counterfactual is unobservable, researchers must make an untestable assumption that some units (e.g., organisms or sites) that were not exposed to the intervention can be used as a surrogate for the counterfactual (control). The conventional approach is to make a point estimate (i.e., single number along with a confidence interval) of impact, using, for example, regression. Point estimates provide powerful conclusions, but in nonexperimental contexts they depend on strong assumptions about the counterfactual that often lack transparency and credibility. An alternative approach, called partial identification (PI), is to first estimate what the counterfactual bounds would be if the weakest possible assumptions were made. Then, one narrows the bounds by using stronger but credible assumptions based on an understanding of why units were selected for the intervention and how they might respond to it. We applied this approach and compared it with conventional approaches by estimating the impact of a conservation program that removed invasive trees in part of the Cape Floristic Region. Even when we used our largest PI impact estimate, the program's control costs were 1.4 times higher than previously estimated. PI holds promise for applications in conservation science because it encourages researchers to better understand and account for treatment selection biases; can offer insights into the plausibility of conventional point-estimate approaches; could reduce the problem of advocacy in science; might be easier for stakeholders to agree on a bounded estimate than a point estimate where impacts are contentious; and requires only basic arithmetic skills.</dc:description>
+</oai_dc:dc>

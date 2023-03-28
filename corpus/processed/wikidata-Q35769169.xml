@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35769169</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4565550</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0137198</dc:identifier>
+  <dc:title>Native and Non-Native Supergeneralist Bee Species Have Different Effects on Plant-Bee Networks</dc:title>
+  <dc:creator>Giannini, Tereza C</dc:creator>
+  <dc:creator>Garibaldi, Lucas A</dc:creator>
+  <dc:creator>Acosta, Andre L</dc:creator>
+  <dc:creator>Silva, Juliana S</dc:creator>
+  <dc:creator>Maia, Kate P</dc:creator>
+  <dc:creator>Saraiva, Antonio M</dc:creator>
+  <dc:creator>Guimarães, Paulo R</dc:creator>
+  <dc:creator>Kleinert, Astrid M P</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-09-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Supergeneralists, defined as species that interact with multiple groups of species in ecological networks, can act as important connectors of otherwise disconnected species subsets. In Brazil, there are two supergeneralist bees: the honeybee Apis mellifera, a non-native species, and Trigona spinipes, a native stingless bee. We compared the role of both species and the effect of geographic and local factors on networks by addressing three questions: 1) Do both species have similar abundance and interaction patterns (degree and strength) in plant-bee networks? 2) Are both species equally influential to the network structure (nestedness, connectance, and plant and bee niche overlap)? 3) How are these species affected by geographic (altitude, temperature, precipitation) and local (natural vs. disturbed habitat) factors? We analyzed 21 plant-bee weighted interaction networks, encompassing most of the main biomes in Brazil. We found no significant difference between both species in abundance, in the number of plant species with which each bee species interacts (degree), and in the sum of their dependencies (strength). Structural equation models revealed the effect of A. mellifera and T. spinipes, respectively, on the interaction network pattern (nestedness) and in the similarity in bee's interactive partners (bee niche overlap). It is most likely that the recent invasion of A. mellifera resulted in its rapid settlement inside the core of species that retain the largest number of interactions, resulting in a strong influence on nestedness. However, the long-term interaction between native T. spinipes and other bees most likely has a more direct effect on their interactive behavior. Moreover, temperature negatively affected A. mellifera bees, whereas disturbed habitats positively affected T. spinipes. Conversely, precipitation showed no effect. Being positively (T. spinipes) or indifferently (A. mellifera) affected by disturbed habitats makes these species prone to pollinate plant species in these areas, which are potentially poor in pollinators.</dc:description>
+</oai_dc:dc>

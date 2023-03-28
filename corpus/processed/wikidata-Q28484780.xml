@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28484780</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0048505</dc:identifier>
+  <dc:title>Metagenomic analysis of the microbiota from the crop of an invasive snail reveals a rich reservoir of novel genes</dc:title>
+  <dc:creator>Cardoso, Alexander M</dc:creator>
+  <dc:creator>Cavalcante, Janaína J V</dc:creator>
+  <dc:creator>Cantão, Maurício E</dc:creator>
+  <dc:creator>Thompson, Claudia E</dc:creator>
+  <dc:creator>Flatschart, Roberto B</dc:creator>
+  <dc:creator>Glogauer, Arnaldo</dc:creator>
+  <dc:creator>Scapin, Sandra M N</dc:creator>
+  <dc:creator>Sade, Youssef B</dc:creator>
+  <dc:creator>Beltrão, Paulo J M S I</dc:creator>
+  <dc:creator>Gerber, Alexandra L</dc:creator>
+  <dc:creator>Martins, Orlando B</dc:creator>
+  <dc:creator>Garcia, Eloi S</dc:creator>
+  <dc:creator>Souza, Wanderley</dc:creator>
+  <dc:creator>Vasconcelos, Ana Tereza R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive snail</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The shortage of petroleum reserves and the increase in CO(2) emissions have raised global concerns and highlighted the importance of adopting sustainable energy sources. Second-generation ethanol made from lignocellulosic materials is considered to be one of the most promising fuels for vehicles. The giant snail Achatina fulica is an agricultural pest whose biotechnological potential has been largely untested. Here, the composition of the microbial population within the crop of this invasive land snail, as well as key genes involved in various biochemical pathways, have been explored for the first time. In a high-throughput approach, 318 Mbp of 454-Titanium shotgun metagenomic sequencing data were obtained. The predominant bacterial phylum found was Proteobacteria, followed by Bacteroidetes and Firmicutes. Viruses, Fungi, and Archaea were present to lesser extents. The functional analysis reveals a variety of microbial genes that could assist the host in the degradation of recalcitrant lignocellulose, detoxification of xenobiotics, and synthesis of essential amino acids and vitamins, contributing to the adaptability and wide-ranging diet of this snail. More than 2,700 genes encoding glycoside hydrolase (GH) domains and carbohydrate-binding modules were detected. When we compared GH profiles, we found an abundance of sequences coding for oligosaccharide-degrading enzymes (36%), very similar to those from wallabies and giant pandas, as well as many novel cellulase and hemicellulase coding sequences, which points to this model as a remarkable potential source of enzymes for the biofuel industry. Furthermore, this work is a major step toward the understanding of the unique genetic profile of the land snail holobiont.</dc:description>
+</oai_dc:dc>

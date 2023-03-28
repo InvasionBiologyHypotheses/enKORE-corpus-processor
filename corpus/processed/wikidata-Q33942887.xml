@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33942887</dc:identifier>
+  <dc:identifier>doi:10.1016/J.MBS.2011.06.002</dc:identifier>
+  <dc:title>Optimal invasive species management under multiple uncertainties</dc:title>
+  <dc:creator>Kotani, Koji</dc:creator>
+  <dc:creator>Kakinaka, Makoto</dc:creator>
+  <dc:creator>Matsuda, Hiroyuki</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-06-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive species management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>The management programs for invasive species have been proposed and implemented in many regions of the world. However, practitioners and scientists have not reached a consensus on how to control them yet. One reason is the presence of various uncertainties associated with the management. To give some guidance on this issue, we characterize the optimal strategy by developing a dynamic model of invasive species management under uncertainties. In particular, focusing on (i) growth uncertainty and (ii) measurement uncertainty, we identify how these uncertainties affect optimal strategies and value functions. Our results suggest that a rise in growth uncertainty causes the optimal strategy to involve more restrained removals and the corresponding value function to shift up. Furthermore, we also find that a rise in measurement uncertainty affects optimal policies in a highly complex manner, but their corresponding value functions generally shift down as measurement uncertainty rises. Overall, a rise in growth uncertainty can be beneficial, while a rise in measurement uncertainty brings about an adverse effect, which implies the potential gain of precisely identifying the current stock size of invasive species.</dc:description>
+</oai_dc:dc>

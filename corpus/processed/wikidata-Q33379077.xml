@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33379077</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563030</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000188</dc:identifier>
+  <dc:title>Host cell egress and invasion induce marked relocations of glycolytic enzymes in Toxoplasma gondii tachyzoites</dc:title>
+  <dc:creator>Pomel, Sebastien</dc:creator>
+  <dc:creator>Luk, Flora C Y</dc:creator>
+  <dc:creator>Beckers, Con J M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-10-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Apicomplexan parasites are dependent on an F-actin and myosin-based motility system for their invasion into and escape from animal host cells, as well as for their general motility. In Toxoplasma gondii and Plasmodium species, the actin filaments and myosin motor required for this process are located in a narrow space between the parasite plasma membrane and the underlying inner membrane complex, a set of flattened cisternae that covers most the cytoplasmic face of the plasma membrane. Here we show that the energy required for Toxoplasma motility is derived mostly, if not entirely, from glycolysis and lactic acid production. We also demonstrate that the glycolytic enzymes of Toxoplasma tachyzoites undergo a striking relocation from the parasites' cytoplasm to their pellicles upon Toxoplasma egress from host cells. Specifically, it appears that the glycolytic enzymes are translocated to the cytoplasmic face of the inner membrane complex as well as to the space between the plasma membrane and inner membrane complex. The glycolytic enzymes remain pellicle-associated during extended incubations of parasites in the extracellular milieu and do not revert to a cytoplasmic location until well after parasites have completed invasion of new host cells. Translocation of glycolytic enzymes to and from the Toxoplasma pellicle appears to occur in response to changes in extracellular [K(+)] experienced during egress and invasion, a signal that requires changes of [Ca(2+)](c) in the parasite during egress. Enzyme translocation is, however, not dependent on either F-actin or intact microtubules. Our observations indicate that Toxoplasma gondii is capable of relocating its main source of energy between its cytoplasm and pellicle in response to exit from or entry into host cells. We propose that this ability allows Toxoplasma to optimize ATP delivery to those cellular processes that are most critical for survival outside host cells and those required for growth and replication of intracellular parasites.</dc:description>
+</oai_dc:dc>

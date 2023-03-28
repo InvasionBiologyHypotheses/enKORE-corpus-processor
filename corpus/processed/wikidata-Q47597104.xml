@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q47597104</dc:identifier>
+  <dc:identifier>doi:10.3892/IJO.2017.4176</dc:identifier>
+  <dc:title>Histone acetyltransferase p300/CBP inhibitor C646 blocks the survival and invasion pathways of gastric cancer cell lines.</dc:title>
+  <dc:creator>Wang, Ya-Mei</dc:creator>
+  <dc:creator>Gu, Meng-Li</dc:creator>
+  <dc:creator>Meng, Fan-Sheng</dc:creator>
+  <dc:creator>Jiao, Wen-Rui</dc:creator>
+  <dc:creator>Zhou, Xin-Xin</dc:creator>
+  <dc:creator>Yao, Hang-Ping</dc:creator>
+  <dc:creator>Ji, Feng</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-10-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Spandidos Publications</dc:publisher>
+  <dc:description>The histone acetyltransferases (HATs) adenovirus E1A-associated protein (p300) and CREB binding protein (CBP) serve as coactivators during a diverse assortment of cellular processes. In the present study, p300 and CBP were highly expressed in 5 gastric cancer (GC) cell lines (SGC‑7901, MKN45, MGC-803, BGC-823 and KATO III) compared with human normal gastric epithelial cell line (GES-1). C646, a selective inhibitor of p300 and CBP, inhibited cell viability and cell cycle and promoted cell apoptosis in all 5 GC cell lines. In addition, C646 suppressed the migration and invasion capability of the GC cell lines, except for the middle-differentiated SGC-7901 cell line. Furthermore, we detected the differential expression of corresponding oncogenic signalling molecules, such as c-Met, Akt, Bcl-2, Bax, cyclin D1, MMP7 and MMP9, in GC cells following C646 treatment. In conclusion, our results suggest that C646 inhibits the acetylation of histone H3 via inactivation of p300 and CBP, resulting in antineoplastic effects toward GC cells. Thus, the selective HAT inhibitor C646 could be a promising antitumour reagent for GC treatment.</dc:description>
+</oai_dc:dc>

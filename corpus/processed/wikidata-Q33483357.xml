@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33483357</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0006275</dc:identifier>
+  <dc:title>Impact of alien plant invaders on pollination networks in two archipelagos</dc:title>
+  <dc:creator>Padrón, Benigno</dc:creator>
+  <dc:creator>Traveset, Anna</dc:creator>
+  <dc:creator>Biedenweg, Tine</dc:creator>
+  <dc:creator>Díaz, Diana</dc:creator>
+  <dc:creator>Nogales, Manuel</dc:creator>
+  <dc:creator>Olesen, Jes</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-07-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>pollination</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Mutualistic interactions between plants and animals promote integration of invasive species into native communities. In turn, the integrated invaders may alter existing patterns of mutualistic interactions. Here we simultaneously map in detail effects of invaders on parameters describing the topology of both plant-pollinator (bi-modal) and plant-plant (uni-modal) networks. We focus on the invader Opuntia spp., a cosmopolitan alien cactus. We compare two island systems: Tenerife (Canary Islands) and Menorca (Balearic Islands). Opuntia was found to modify the number of links between plants and pollinators, and was integrated into the new communities via the most generalist pollinators, but did not affect the general network pattern. The plant uni-modal networks showed disassortative linkage, i.e. species with many links tended to connect to species with few links. Thus, by linking to generalist natives, Opuntia remained peripheral to network topology, and this is probably why native network properties were not affected at least in one of the islands. We conclude that the network analytical approach is indeed a valuable tool to evaluate the effect of invaders on native communities.</dc:description>
+</oai_dc:dc>

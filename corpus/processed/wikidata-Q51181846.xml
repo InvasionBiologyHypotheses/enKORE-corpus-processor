@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q51181846</dc:identifier>
+  <dc:identifier>doi:10.1016/J.MBS.2009.03.009</dc:identifier>
+  <dc:title>Dynamic economic analysis on invasive species management: some policy implications of catchability.</dc:title>
+  <dc:creator>Kotani, Koji</dc:creator>
+  <dc:creator>Kakinaka, Makoto</dc:creator>
+  <dc:creator>Matsuda, Hiroyuki</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-04-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive species management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>The problem of controlling invasive species has emerged as a global issue. In response to invasive species threats, governments often propose eradication. This article challenges the eradication view by studying optimal strategies for controlling invasive species in a simple dynamic model. The analysis mainly focuses on deriving policy implications of catchability in a situation where a series of controlling actions incurs operational costs that derive from the fact that catchability depends on the current stock size of invasive species. We analytically demonstrate that the optimal policy changes drastically, depending on the sensitivity of catchability in response to a change in the stock size, as well as on the initial stock. If the sensitivity of catchability is sufficiently high, the constant escapement policy with some interior target level is optimal. In contrast, if the sensitivity of catchability is sufficiently low, there could exist a threshold of the initial stock which differentiates the optimal action between immediate eradication and giving-up without any control. In the intermediate range, immediate eradication, giving-up without any control, or more complex policies may be optimal. Numerical analysis is employed to present economic intuitions and insights in both analytically tractable and intractable cases.</dc:description>
+</oai_dc:dc>

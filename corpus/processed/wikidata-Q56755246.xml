@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q56755246</dc:identifier>
+  <dc:identifier>doi:10.3897/BISS.2.24749</dc:identifier>
+  <dc:title>TrIAS, leveraging citizen science data to monitor invasive species in Belgium</dc:title>
+  <dc:creator>Groom, Quentin</dc:creator>
+  <dc:creator>Adriaens, Tim</dc:creator>
+  <dc:creator>Oldoni, Damiano</dc:creator>
+  <dc:creator>Oldoni, Damiano</dc:creator>
+  <dc:creator>Reyserhove, Lien</dc:creator>
+  <dc:creator>Strubbe, Diederik</dc:creator>
+  <dc:creator>Strubbe, Diederik</dc:creator>
+  <dc:creator>Vanderhoeven, Sonia</dc:creator>
+  <dc:creator>Vanderhoeven, Sonia</dc:creator>
+  <dc:creator>Desmet, Peter</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-03-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>citizen science</dc:subject>
+  <dc:subject>Belgium</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Reducing the damage caused by invasive species requires a community approach informed by rapidly mobilized data. Even if local stakeholders work together, invasive species do not respect borders, and national, continental and global policies are required. Yet, in general, data on invasive species are slow to be mobilized, often of insufficient quality for their intended application and distributed among many stakeholders and their organizations, including scientists, land managers, and citizen scientists. The Belgian situation is typical. We struggle with the fragmentation of data sources and restrictions to data mobility. Nevertheless, there is a common view that the issue of invasive alien species needs to be addressed. In 2017 we launched the Tracking Invasive Alien Species (TrIAS) project, which envisages a future where alien species data are rapidly mobilized, the spread of exotic species is regularly monitored, and potential impacts and risks are rapidly evaluated in support of policy decisions (Vanderhoeven et al. 2017). TrIAS is building a seamless, data-driven workflow, from raw data to policy support documentation. TrIAS brings together 21 different stakeholder organizations that covering all organisms in the terrestrial, freshwater and marine environments. These organizations also include those involved in citizen science, research and wildlife management.&lt;/jats:p&gt;
+          &lt;jats:p&gt;TrIAS is an Open Science project and all the software, data and documentation are being shared openly (Groom et al. 2018). This means that the workflow can be reused as a whole or in part, either after the project or in different countries. We hope to prove that rapid data workflows are not only an indispensable tool in the control of invasive species, but also for integrating and motivating the citizens and organizations involved.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

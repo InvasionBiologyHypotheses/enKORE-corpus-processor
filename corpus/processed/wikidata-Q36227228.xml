@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36227228</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2117763</dc:identifier>
+  <dc:identifier>doi:10.1172/JCI32138</dc:identifier>
+  <dc:title>Variation in use of erythrocyte invasion pathways by Plasmodium falciparum mediates evasion of human inhibitory antibodies</dc:title>
+  <dc:creator>Persson, Kristina E M</dc:creator>
+  <dc:creator>McCallum, Fiona J</dc:creator>
+  <dc:creator>Reiling, Linda</dc:creator>
+  <dc:creator>Lister, Nicole A</dc:creator>
+  <dc:creator>Stubbs, Janine</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:creator>Marsh, Kevin</dc:creator>
+  <dc:creator>Beeson, James G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-01-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Clinical Investigation</dc:publisher>
+  <dc:description>Antibodies that inhibit Plasmodium falciparum invasion of erythrocytes are believed to be an important component of immunity against malaria. During blood-stage infection, P. falciparum can use different pathways for erythrocyte invasion by varying the expression and/or utilization of members of 2 invasion ligand families: the erythrocyte-binding antigens (EBAs) and reticulocyte-binding homologs (PfRhs). Invasion pathways can be broadly classified into 2 groups based on the use of sialic acid (SA) on the erythrocyte surface by parasite ligands. We found that inhibitory antibodies are acquired by malaria-exposed Kenyan children and adults against ligands of SA-dependent and SA-independent invasion pathways, and the ability of antibodies to inhibit erythrocyte invasion depended on the pathway used by P. falciparum isolates. Differential inhibition of P. falciparum lines that varied in their use of specific EBA and PfRh proteins pointed to these ligand families as major targets of inhibitory antibodies. Antibodies against recombinant EBA and PfRh proteins were acquired in an age-associated manner, and inhibitory antibodies against EBA175 appeared prominent among some individuals. These findings suggest that variation in invasion phenotype might have evolved as a mechanism that facilitates immune evasion by P. falciparum and that a broad inhibitory response against multiple ligands may be required for effective immunity.</dc:description>
+</oai_dc:dc>

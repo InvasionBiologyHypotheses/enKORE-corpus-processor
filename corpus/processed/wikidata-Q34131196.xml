@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34131196</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257272</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0030251</dc:identifier>
+  <dc:title>Targeting sialic acid dependent and independent pathways of invasion in Plasmodium falciparum</dc:title>
+  <dc:creator>Ord, Rosalynn Louise</dc:creator>
+  <dc:creator>Rodriguez, Marilis</dc:creator>
+  <dc:creator>Yamasaki, Tsutomu</dc:creator>
+  <dc:creator>Takeo, Satoru</dc:creator>
+  <dc:creator>Tsuboi, Takafumi</dc:creator>
+  <dc:creator>Lobo, Cheryl A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-01-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The pathology of malaria is a consequence of the parasitaemia which develops through the cyclical asexual replication of parasites in a patient's red blood cells. Multiple parasite ligand-erythrocyte receptor interactions must occur for successful Plasmodium invasion of the human red cell. Two major malaria ligand families have been implicated in these variable ligand-receptor interactions used by Plasmodium falciparum to invade human red cells: the micronemal proteins from the Erythrocyte Binding Ligands (EBL) family and the rhoptry proteins from the Reticulocyte binding Homolog (PfRH) family. Ligands from the EBL family largely govern the sialic acid (SA) dependent pathways of invasion and the RH family ligands (except for RH1) mediate SA independent invasion. In an attempt to dissect out the invasion inhibitory effects of antibodies against ligands from both pathways, we have used EBA-175 and RH5 as model members of each pathway. Mice were immunized with either region II of EBA-175 produced in Pichia pastoris or full-length RH5 produced by the wheat germ cell-free system, or a combination of the two antigens to look for synergistic inhibitory effects of the induced antibodies. Sera obtained from these immunizations were tested for native antigen recognition and for efficacy in invasion inhibition assays. Results obtained show promise for the potential use of such hybrid vaccines to induce antibodies that can block multiple parasite ligand-red cell receptor interactions and thus inhibit parasite invasion.</dc:description>
+</oai_dc:dc>

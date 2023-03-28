@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q28658518</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051700</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0099546</dc:identifier>
+  <dc:title>Calibrating snakehead diversity with DNA barcodes: expanding taxonomic coverage to enable identification of potential and established invasive species</dc:title>
+  <dc:creator>Serrao, Natasha R</dc:creator>
+  <dc:creator>Steinke, Dirk</dc:creator>
+  <dc:creator>Hanner, Robert H</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Detecting and documenting the occurrence of invasive species outside their native range requires tools to support their identification. This can be challenging for taxa with diverse life stages and/or problematic or unresolved morphological taxonomies. DNA barcoding provides a potent method for identifying invasive species, as it allows for species identification at all life stages, including fragmentary remains. It also provides an efficient interim taxonomic framework for quantifying cryptic genetic diversity by parsing barcode sequences into discontinuous haplogroup clusters (typical of reproductively isolated species) and labelling them with unique alphanumeric identifiers. Snakehead fishes are a diverse group of opportunistic predators endemic to Asia and Africa that may potentially pose significant threats as aquatic invasive species. At least three snakehead species (Channa argus, C. maculata, and C. marulius) are thought to have entered North America through the aquarium and live-food fish markets, and have established populations, yet their origins remain unclear. The objectives of this study were to assemble a library of DNA barcode sequences derived from expert identified reference specimens in order to determine the identity and aid invasion pathway analysis of the non-indigenous species found in North America using DNA barcodes. Sequences were obtained from 121 tissue samples representing 25 species and combined with public records from GenBank for a total of 36 putative species, which then partitioned into 49 discrete haplogroups. Multiple divergent clusters were observed within C. gachua, C. marulius, C. punctata and C. striata suggesting the potential presence of cryptic species diversity within these lineages. Our findings demonstrate that DNA barcoding is a valuable tool for species identification in challenging and under-studied taxonomic groups such as snakeheads, and provides a useful framework for inferring invasion pathway analysis.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q55437997</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022014</dc:identifier>
+  <dc:identifier>doi:10.3389/FIMMU.2018.01346</dc:identifier>
+  <dc:title>Mycobacterium tuberculosis Invasion of the Human Lung: First Contact</dc:title>
+  <dc:creator>Maertzdorf, Jeroen</dc:creator>
+  <dc:creator>Tönnies, Mario</dc:creator>
+  <dc:creator>Lozza, Laura</dc:creator>
+  <dc:creator>Schommer-Leitner, Sandra</dc:creator>
+  <dc:creator>Mollenkopf, Hans</dc:creator>
+  <dc:creator>Bauer, Torsten T</dc:creator>
+  <dc:creator>Kaufmann, Stefan H E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-06-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Mycobacterium tuberculosis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Early immune responses to &lt;i&gt;Mycobacterium tuberculosis&lt;/i&gt; (Mtb) invasion of the human lung play a decisive role in the outcome of infection, leading to either rapid clearance of the pathogen or stable infection. Despite their critical impact on health and disease, these early host-pathogen interactions at the primary site of infection are still poorly understood. &lt;i&gt;In vitro&lt;/i&gt; studies cannot fully reflect the complexity of the lung architecture and its impact on host-pathogen interactions, while animal models have their own limitations. In this study, we have investigated the initial responses in human lung tissue explants to Mtb infection, focusing primarily on gene expression patterns in different tissue-resident cell types. As first cell types confronted with pathogens invading the lung, alveolar macrophages, and epithelial cells displayed rapid proinflammatory chemokine and cytokine responses to Mtb infection. Other tissue-resident innate cells like gamma/delta T cells, mucosal associated invariant T cells, and natural killer cells showed partially similar but weaker responses, with a high degree of variability across different donors. Finally, we investigated the responses of tissue-resident innate lymphoid cells to the inflammatory milieu induced by Mtb infection. Our infection model provides a unique approach toward host-pathogen interactions at the natural port of Mtb entry and site of its implantation, i.e., the human lung. Our data provide a first detailed insight into the early responses of different relevant pulmonary cells in the alveolar microenvironment to contact with Mtb. These results can form the basis for the identification of host markers that orchestrate early host defense and provide resistance or susceptibility to stable Mtb infection.</dc:description>
+</oai_dc:dc>

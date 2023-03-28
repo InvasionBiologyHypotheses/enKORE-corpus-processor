@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q92983767</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PGEN.1008233</dc:identifier>
+  <dc:title>Parallel evolution leading to impaired biofilm formation in invasive Salmonella strains</dc:title>
+  <dc:creator>MacKenzie, Keith D</dc:creator>
+  <dc:creator>Wang, Yejun</dc:creator>
+  <dc:creator>Musicha, Patrick</dc:creator>
+  <dc:creator>Hansen, Elizabeth G</dc:creator>
+  <dc:creator>Palmer, Melissa B</dc:creator>
+  <dc:creator>Herman, Dakoda J</dc:creator>
+  <dc:creator>Feasey, Nicholas A</dc:creator>
+  <dc:creator>White, Aaron P</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-06-24</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biofilm</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Pathogenic Salmonella strains that cause gastroenteritis are able to colonize and replicate within the intestines of multiple host species. In general, these strains have retained an ability to form the rdar morphotype, a resistant biofilm physiology hypothesized to be important for Salmonella transmission. In contrast, Salmonella strains that are host-adapted or even host-restricted like Salmonella enterica serovar Typhi, tend to cause systemic infections and have lost the ability to form the rdar morphotype. Here, we investigated the rdar morphotype and CsgD-regulated biofilm formation in two non-typhoidal Salmonella (NTS) strains that caused invasive disease in Malawian children, S. Typhimurium D23580 and S. Enteritidis D7795, and compared them to a panel of NTS strains associated with gastroenteritis, as well as S. Typhi strains. Sequence comparisons combined with luciferase reporter technology identified key SNPs in the promoter region of csgD that either shut off biofilm formation completely (D7795) or reduced transcription of this key biofilm regulator (D23580). Phylogenetic analysis showed that these SNPs are conserved throughout the African clades of invasive isolates, dating as far back as 80 years ago. S. Typhi isolates were negative for the rdar morphotype due to truncation of eight amino acids from the C-terminus of CsgD. We present new evidence in support of parallel evolution between lineages of nontyphoidal Salmonella associated with invasive disease in Africa and the archetypal host-restricted invasive serovar; S. Typhi. We hypothesize that the African invasive isolates are becoming human-adapted and 'niche specialized' with less reliance on environmental survival, as compared to gastroenteritis-causing isolates.</dc:description>
+</oai_dc:dc>

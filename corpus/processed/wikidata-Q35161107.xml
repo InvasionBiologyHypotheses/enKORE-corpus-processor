@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35161107</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354255</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2656.12292</dc:identifier>
+  <dc:title>Predicting invasive species impacts: a community module functional response approach reveals context dependencies</dc:title>
+  <dc:creator>Paterson, Rachel A</dc:creator>
+  <dc:creator>Dick, Jaimie T A</dc:creator>
+  <dc:creator>Pritchard, Daniel W</dc:creator>
+  <dc:creator>Ennis, Marilyn</dc:creator>
+  <dc:creator>Hatcher, Melanie J</dc:creator>
+  <dc:creator>Dunn, Alison M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-10-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Predatory functional responses play integral roles in predator-prey dynamics, and their assessment promises greater understanding and prediction of the predatory impacts of invasive species. Other interspecific interactions, however, such as parasitism and higher-order predation, have the potential to modify predator-prey interactions and thus the predictive capability of the comparative functional response approach. We used a four-species community module (higher-order predator; focal native or invasive predators; parasites of focal predators; native prey) to compare the predatory functional responses of native Gammarus duebeni celticus and invasive Gammarus pulex amphipods towards three invertebrate prey species (Asellus aquaticus, Simulium spp., Baetis rhodani), thus, quantifying the context dependencies of parasitism and a higher-order fish predator on these functional responses. Our functional response experiments demonstrated that the invasive amphipod had a higher predatory impact (lower handling time) on two of three prey species, which reflects patterns of impact observed in the field. The community module also revealed that parasitism had context-dependent influences, for one prey species, with the potential to further reduce the predatory impact of the invasive amphipod or increase the predatory impact of the native amphipod in the presence of a higher-order fish predator. Partial consumption of prey was similar for both predators and occurred increasingly in the order A. aquaticus, Simulium spp. and B. rhodani. This was associated with increasing prey densities, but showed no context dependencies with parasitism or higher-order fish predator. This study supports the applicability of comparative functional responses as a tool to predict and assess invasive species impacts incorporating multiple context dependencies.</dc:description>
+</oai_dc:dc>

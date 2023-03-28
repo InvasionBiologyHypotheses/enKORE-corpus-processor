@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q113237942</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1010643</dc:identifier>
+  <dc:title>The AMA1-RON complex drives Plasmodium sporozoite invasion in the mosquito and mammalian hosts</dc:title>
+  <dc:creator>Fernandes, Priyanka</dc:creator>
+  <dc:creator>Loubens, Manon</dc:creator>
+  <dc:creator>Borgne, Rémi Le</dc:creator>
+  <dc:creator>Marinach, Carine</dc:creator>
+  <dc:creator>Ardin, Béatrice</dc:creator>
+  <dc:creator>Briquet, Sylvie</dc:creator>
+  <dc:creator>Vincensini, Laetitia</dc:creator>
+  <dc:creator>Hamada, Soumia</dc:creator>
+  <dc:creator>Hoareau-Coudert, Bénédicte</dc:creator>
+  <dc:creator>Verbavatz, Jean-Marc</dc:creator>
+  <dc:creator>Weiner, Allon</dc:creator>
+  <dc:creator>Silvie, Olivier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-06-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;jats:p&gt;&lt;jats:italic&gt;Plasmodium&lt;/jats:italic&gt; sporozoites that are transmitted by blood-feeding female &lt;jats:italic&gt;Anopheles&lt;/jats:italic&gt; mosquitoes invade hepatocytes for an initial round of intracellular replication, leading to the release of merozoites that invade and multiply within red blood cells. Sporozoites and merozoites share a number of proteins that are expressed by both stages, including the Apical Membrane Antigen 1 (AMA1) and the Rhoptry Neck Proteins (RONs). Although AMA1 and RONs are essential for merozoite invasion of erythrocytes during asexual blood stage replication of the parasite, their function in sporozoites was still unclear. Here we show that AMA1 interacts with RONs in mature sporozoites. By using DiCre-mediated conditional gene deletion in &lt;jats:italic&gt;P&lt;/jats:italic&gt;. &lt;jats:italic&gt;berghei&lt;/jats:italic&gt;, we demonstrate that loss of AMA1, RON2 or RON4 in sporozoites impairs colonization of the mosquito salivary glands and invasion of mammalian hepatocytes, without affecting transcellular parasite migration. Three-dimensional electron microscopy data showed that sporozoites enter salivary gland cells through a ring-like structure and by forming a transient vacuole. The absence of a functional AMA1-RON complex led to an altered morphology of the entry junction, associated with epithelial cell damage. Our data establish that AMA1 and RONs facilitate host cell invasion across &lt;jats:italic&gt;Plasmodium&lt;/jats:italic&gt; invasive stages, and suggest that sporozoites use the AMA1-RON complex to efficiently and safely enter the mosquito salivary glands to ensure successful parasite transmission. These results open up the possibility of targeting the AMA1-RON complex for transmission-blocking antimalarial strategies.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35606847</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4401722</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0123567</dc:identifier>
+  <dc:title>Crystal structure of Plasmodium knowlesi apical membrane antigen 1 and its complex with an invasion-inhibitory monoclonal antibody</dc:title>
+  <dc:creator>Normand, Brigitte Vulliez-Le</dc:creator>
+  <dc:creator>Faber, Bart W</dc:creator>
+  <dc:creator>Saul, Frederick A</dc:creator>
+  <dc:creator>Eijk, Marjolein</dc:creator>
+  <dc:creator>Thomas, Alan W</dc:creator>
+  <dc:creator>Singh, Balbir</dc:creator>
+  <dc:creator>Kocken, Clemens H M</dc:creator>
+  <dc:creator>Bentley, Graham A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium knowlesi</dc:subject>
+  <dc:subject>apical membrane antigen 1</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The malaria parasite Plasmodium knowlesi, previously associated only with infection of macaques, is now known to infect humans as well and has become a significant public health problem in Southeast Asia. This species should therefore be targeted in vaccine and therapeutic strategies against human malaria. Apical Membrane Antigen 1 (AMA1), which plays a role in Plasmodium merozoite invasion of the erythrocyte, is currently being pursued in human vaccine trials against P. falciparum. Recent vaccine trials in macaques using the P. knowlesi orthologue PkAMA1 have shown that it protects against infection by this parasite species and thus should be developed for human vaccination as well. Here, we present the crystal structure of Domains 1 and 2 of the PkAMA1 ectodomain, and of its complex with the invasion-inhibitory monoclonal antibody R31C2. The Domain 2 (D2) loop, which is displaced upon binding the Rhoptry Neck Protein 2 (RON2) receptor, makes significant contacts with the antibody. R31C2 inhibits binding of the Rhoptry Neck Protein 2 (RON2) receptor by steric blocking of the hydrophobic groove and by preventing the displacement of the D2 loop which is essential for exposing the complete binding site on AMA1. R31C2 recognizes a non-polymorphic epitope and should thus be cross-strain reactive. PkAMA1 is much less polymorphic than the P. falciparum and P. vivax orthologues. Unlike these two latter species, there are no polymorphic sites close to the RON2-binding site of PkAMA1, suggesting that P. knowlesi has not developed a mechanism of immune escape from the host's humoral response to AMA1.</dc:description>
+</oai_dc:dc>

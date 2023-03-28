@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35049678</dc:identifier>
+  <dc:identifier>doi:10.1890/12-1985.1</dc:identifier>
+  <dc:title>Modeling the relationship between propagule pressure and invasion risk to inform policy and management</dc:title>
+  <dc:creator>Wonham, Marjorie J</dc:creator>
+  <dc:creator>Byers, James E</dc:creator>
+  <dc:creator>Grosholz, Edwin D</dc:creator>
+  <dc:creator>Leung, Brian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-10-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>propagule pressure</dc:subject>
+  <dc:subject>ecological invasion risk</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Predicting population establishment based on initial population size is a theoretically and empirically challenging problem whose resolution informs a multitude of applications. Indeed, it is a central problem in the management of introduced, endangered, harvested, and pathogenic organisms. We focus here on introduced species. We synthesize the current state of modeling in this predictive enterprise and outline future directions in the application of these models to developing regulations intended to prevent the establishment of invaders. Descriptive and mechanistic models of single-population introductions are fairly well developed and have provided insight into invasion risk in laboratory and field conditions. However, many invasions stem from large-scale and repeated releases of a multitude of species from relatively indiscriminate invasion vectors associated with international trade and travel. Vector-scale models of invasion risk are less well developed and are characterized largely by the use of untested proxy variables for propagule pressure. We illustrate the problems associated with proxy variables and introduce a more mechanistic theoretical formulation characterizing vector-scale invasion pressure in terms of propagule pressure (number of introduced individuals) and colonization pressure (number of introduced species). We outline key questions to be addressed in applying both single-population and vector-scale models to the development of threshold-based invasion regulations. We illustrate these ecological and applied questions using examples from terrestrial, aquatic, and marine systems. We develop in detail examples from ballast-water transport that, as one of the best-characterized global invasion vectors and one that is subject to emerging international threshold-based biosecurity regulations, provides a rich case study.</dc:description>
+</oai_dc:dc>

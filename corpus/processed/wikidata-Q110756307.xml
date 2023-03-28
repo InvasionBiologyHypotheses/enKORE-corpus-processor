@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110756307</dc:identifier>
+  <dc:identifier>doi:10.3390/RS12101536</dc:identifier>
+  <dc:title>Factors Influencing Movement of the Manila Dunes and Its Impact on Establishing Non-Native Species</dc:title>
+  <dc:creator>Madurapperuma, Buddhika</dc:creator>
+  <dc:creator>Lamping, James</dc:creator>
+  <dc:creator>McDermott, Michael</dc:creator>
+  <dc:creator>Murphy, Brian</dc:creator>
+  <dc:creator>McFarland, Jeremy</dc:creator>
+  <dc:creator>Deyoung, Kristy</dc:creator>
+  <dc:creator>Smith, Colleen</dc:creator>
+  <dc:creator>MacAdam, Sam</dc:creator>
+  <dc:creator>Monroe, Sierra</dc:creator>
+  <dc:creator>Corro, Lucila</dc:creator>
+  <dc:creator>Magstadt, Shayne</dc:creator>
+  <dc:creator>Dellysse, John</dc:creator>
+  <dc:creator>Mitchell, Solveig</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Unmanned aerial vehicles (UAVs) are being widely used to monitor microtopographic and vegetation changes in coastal habitats using remote sensing techniques. Sand dune habitats are vital ecosystems along the North coast of Humboldt County in California. This study was conducted at the Manila Dunes, west of the Humboldt Coastal Nature Center, in Manila, California. Various factors influence dune movements, including vegetative stabilization and the creation of social trails. The purpose of this paper is to understand the dune movements in relation to social vs. established trails, vegetation density, topography, and also, mapping invasive vs. native species in the Mal-le’l Dunes area of the Humboldt Bay National Wildlife Refuge. A DJI Mavic Pro multicopter small unmanned aerial vehicle (UAV) was used to fly a 22.5-acre plot of the Manila Dunes. The images from this flight were used to create an orthomosaic image using a photogrammetry process (Structure-from-Motion (SfM)). From our analysis, the installation of trails lessened the impact of dune movements. Social trails digitized within the study site were found to have more local movements than the established trails when compared to movements across the entire site. We compared two methods of classification, viz., the object-based feature extraction method and a pixel-based supervised maximum likelihood classification method, in order to identify the best way to classify dune vegetation. In conclusion, this study is useful for providing baseline dune movement information that can aid in informing how trail and infrastructure constructions can be impacted in land management or in areas with dynamic communities of flora and fauna.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

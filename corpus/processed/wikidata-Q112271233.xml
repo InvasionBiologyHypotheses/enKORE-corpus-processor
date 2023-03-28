@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q112271233</dc:identifier>
+  <dc:identifier>doi:10.1038/S41467-022-29378-2</dc:identifier>
+  <dc:title>Biological invasions facilitate zoonotic disease emergences</dc:title>
+  <dc:creator>Zhang, Lin</dc:creator>
+  <dc:creator>Rohr, Jason R</dc:creator>
+  <dc:creator>Cui, Ruina</dc:creator>
+  <dc:creator>Xin, Yusi</dc:creator>
+  <dc:creator>Han, Lixia</dc:creator>
+  <dc:creator>Yang, Xiaona</dc:creator>
+  <dc:creator>Gu, Shimin</dc:creator>
+  <dc:creator>Du, Yuanbao</dc:creator>
+  <dc:creator>Liang, Jing</dc:creator>
+  <dc:creator>Wang, Xuyu</dc:creator>
+  <dc:creator>Wu, Zhengjun</dc:creator>
+  <dc:creator>Hao, Qin</dc:creator>
+  <dc:creator>Liu, Xuan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-04-01</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>emerging communicable disease</dc:subject>
+  <dc:subject>zoonosis</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>epidemiology</dc:subject>
+  <dc:subject>ecological epidemiology</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Outbreaks of zoonotic diseases are accelerating at an unprecedented rate in the current era of globalization, with substantial impacts on the global economy, public health, and sustainability. Alien species invasions have been hypothesized to be important to zoonotic diseases by introducing both existing and novel pathogens to invaded ranges. However, few studies have evaluated the generality of alien species facilitating zoonoses across multiple host and parasite taxa worldwide. Here, we simultaneously quantify the role of 795 established alien hosts on the 10,473 zoonosis events across the globe since the 14&lt;jats:sup&gt;th&lt;/jats:sup&gt; century. We observe an average of ~5.9 zoonoses per alien zoonotic host. After accounting for species-, disease-, and geographic-level sampling biases, spatial autocorrelation, and the lack of independence of zoonosis events, we find that the number of zoonosis events increase with the richness of alien zoonotic hosts, both across space and through time. We also detect positive associations between the number of zoonosis events per unit space and climate change, land-use change, biodiversity loss, human population density, and PubMed citations. These findings suggest that alien host introductions have likely contributed to zoonosis emergences throughout recent history and that minimizing future zoonotic host species introductions could have global health benefits.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q89936011</dc:identifier>
+  <dc:identifier>doi:10.1093/MOLBEV/MSAA050</dc:identifier>
+  <dc:title>Genetic diversity and thermal performance in invasive and native populations of African fig flies</dc:title>
+  <dc:creator>Comeault, Aaron A</dc:creator>
+  <dc:creator>Wang, Jeremy</dc:creator>
+  <dc:creator>Tittes, Silas</dc:creator>
+  <dc:creator>Isbell, Kristin</dc:creator>
+  <dc:creator>Ingley, Spencer</dc:creator>
+  <dc:creator>Hurlbert, Allen H</dc:creator>
+  <dc:creator>Matute, Daniel R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-02-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>genetic diversity</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;During biological invasions, invasive populations can suffer losses of genetic diversity that are predicted to negatively impact their fitness/performance. Despite examples of invasive populations harboring lower diversity than conspecific populations in their native range, few studies have linked this lower diversity to a decrease in fitness. Using genome sequences, we show that invasive populations of the African fig fly, Zaprionus indianus, have less genetic diversity than conspecific populations in their native range and that diversity is proportionally lower in regions of the genome experiencing low recombination rates. This result suggests that selection may have played a role in lowering diversity in the invasive populations. We next use interspecific comparisons to show that genetic diversity remains relatively high in invasive populations of Z. indianus when compared with other closely related species. By comparing genetic diversity in orthologous gene regions, we also show that the genome-wide landscape of genetic diversity differs between invasive and native populations of Z. indianus indicating that invasion not only affects amounts of genetic diversity but also how that diversity is distributed across the genome. Finally, we use parameter estimates from thermal performance curves for 13 species of Zaprionus to show that Z. indianus has the broadest thermal niche of measured species, and that performance does not differ between invasive and native populations. These results illustrate how aspects of genetic diversity in invasive species can be decoupled from measures of fitness, and that a broad thermal niche may have helped facilitate Z. indianus’s range expansion.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

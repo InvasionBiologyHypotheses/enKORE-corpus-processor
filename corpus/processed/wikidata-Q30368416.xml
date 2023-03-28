@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30368416</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5136135</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.2730</dc:identifier>
+  <dc:title>Age, growth and population structure of invasive lionfish (Pterois volitans/miles) in northeast Florida using a length-based, age-structured population model</dc:title>
+  <dc:creator>Johnson, Eric G</dc:creator>
+  <dc:creator>Swenarton, Mary Katherine</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Florida</dc:subject>
+  <dc:subject>Pterois volitans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>population structure</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>&lt;jats:p&gt;The effective management of invasive species requires detailed understanding of the invader’s life history. This information is essential for modeling population growth and predicting rates of expansion, quantifying ecological impacts and assessing the efficacy of removal and control strategies. Indo-Pacific lionfish (&lt;jats:italic&gt;Pterois volitans/miles&lt;/jats:italic&gt;) have rapidly invaded the western Atlantic, Gulf of Mexico and Caribbean Sea with documented negative impacts on native ecosystems. To better understand the life history of this species, we developed and validated a length-based, age-structured model to investigate age, growth and population structure in northeast Florida. The main findings of this study were: (1) lionfish exhibited rapid growth with seasonal variation in growth rates; (2) distinct cohorts were clearly identifiable in the length-frequency data, suggesting that lionfish are recruiting during a relatively short period in summer; and (3) the majority of lionfish were less than two years old with no lionfish older than three years of age, which may be the result of culling efforts as well as ontogenetic habitat shifts to deeper water.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34311559</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002736</dc:identifier>
+  <dc:title>DNase Sda1 allows invasive M1T1 Group A Streptococcus to prevent TLR9-dependent recognition</dc:title>
+  <dc:creator>Uchiyama, Satoshi</dc:creator>
+  <dc:creator>Andreoni, Federica</dc:creator>
+  <dc:creator>Schuepbach, Reto A</dc:creator>
+  <dc:creator>Nizet, Victor</dc:creator>
+  <dc:creator>Zinkernagel, Annelies S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-06-14</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>toll-like receptor</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Group A Streptococcus (GAS) has developed a broad arsenal of virulence factors that serve to circumvent host defense mechanisms. The virulence factor DNase Sda1 of the hyperinvasive M1T1 GAS clone degrades DNA-based neutrophil extracellular traps allowing GAS to escape extracellular killing. TLR9 is activated by unmethylated CpG-rich bacterial DNA and enhances innate immune resistance. We hypothesized that Sda1 degradation of bacterial DNA could alter TLR9-mediated recognition of GAS by host innate immune cells. We tested this hypothesis using a dual approach: loss and gain of function of DNase in isogenic GAS strains and presence and absence of TLR9 in the host. Either DNA degradation by Sda1 or host deficiency of TLR9 prevented GAS induced IFN-α and TNF-α secretion from murine macrophages and contributed to bacterial survival. Similarly, in a murine necrotizing fasciitis model, IFN-α and TNF-α levels were significantly decreased in wild type mice infected with GAS expressing Sda1, whereas no such Sda1-dependent effect was seen in a TLR9-deficient background. Thus GAS Sda1 suppressed both the TLR9-mediated innate immune response and macrophage bactericidal activity. Our results demonstrate a novel mechanism of bacterial innate immune evasion based on autodegradation of CpG-rich DNA by a bacterial DNase.</dc:description>
+</oai_dc:dc>

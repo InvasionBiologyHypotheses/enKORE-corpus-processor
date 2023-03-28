@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36163820</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065173</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0164629</dc:identifier>
+  <dc:title>Climate and Human Pressure Constraints Co-Explain Regional Plant Invasion at Different Spatial Scales</dc:title>
+  <dc:creator>Campos, Juan Antonio</dc:creator>
+  <dc:creator>García-Baquero, Gonzalo</dc:creator>
+  <dc:creator>Caño, Lidia</dc:creator>
+  <dc:creator>Biurrun, Idoia</dc:creator>
+  <dc:creator>García-Mijangos, Itziar</dc:creator>
+  <dc:creator>Loidi, Javier</dc:creator>
+  <dc:creator>Herrera, Mercedes</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-10-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Alien species invasion represents a global threat to biodiversity and ecosystems. Explaining invasion patterns in terms of environmental constraints will help us to assess invasion risks and plan control strategies. We aim to identify plant invasion patterns in the Basque Country (Spain), and to determine the effects of climate and human pressure on that pattern. We modeled the regional distribution of 89 invasive plant species using two approaches. First, distance-based Moran's eigenvector maps were used to partition variation in the invasive species richness, S, into spatial components at broad and fine scales; redundancy analysis was then used to explain those components on the basis of climate and human pressure descriptors. Second, we used generalized additive mixed modeling to fit species-specific responses to the same descriptors. Climate and human pressure descriptors have different effects on S at different spatial scales. Broad-scale spatially structured temperature and precipitation, and fine-scale spatially structured human population density and percentage of natural and semi-natural areas, explained altogether 38.7% of the total variance. The distribution of 84% of the individually tested species was related to either temperature, precipitation or both, and 68% was related to either population density or natural and semi-natural areas, displaying similar responses. The spatial pattern of the invasive species richness is strongly environmentally forced, mainly by climate factors. Since individual species responses were proved to be both similarly constrained in shape and explained variance by the same environmental factors, we conclude that the pattern of invasive species richness results from individual species' environmental preferences.</dc:description>
+</oai_dc:dc>

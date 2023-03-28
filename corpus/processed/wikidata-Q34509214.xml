@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34509214</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4714930</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0147017</dc:identifier>
+  <dc:title>Comparative Functional Responses Predict the Invasiveness and Ecological Impacts of Alien Herbivorous Snails</dc:title>
+  <dc:creator>Xu, Meng</dc:creator>
+  <dc:creator>Mu, Xidong</dc:creator>
+  <dc:creator>Dick, Jaimie T A</dc:creator>
+  <dc:creator>Fang, Miao</dc:creator>
+  <dc:creator>Gu, Dangen</dc:creator>
+  <dc:creator>Zhang, Jiaen</dc:creator>
+  <dc:creator>Luo, Jianren</dc:creator>
+  <dc:creator>Hu, Yinchang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>herbivory</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding determinants of the invasiveness and ecological impacts of alien species is amongst the most sought-after and urgent research questions in ecology. Several studies have shown the value of comparing the functional responses (FRs) of alien and native predators towards native prey, however, the technique is under-explored with herbivorous alien species and as a predictor of invasiveness as distinct from ecological impact. Here, in China, we conducted a mesocosm experiment to compare the FRs among three herbivorous snail species: the golden apple snail, Pomacea canaliculata, a highly invasive and high impact alien listed in "100 of the World's Worst Invasive Alien Species"; Planorbarius corneus, a non-invasive, low impact alien; and the Chinese native snail, Bellamya aeruginosa, when feeding on four locally occurring plant species. Further, by using a numerical response equation, we modelled the population dynamics of the snail consumers. For standard FR parameters, we found that the invasive and damaging alien snail had the highest "attack rates" a, shortest "handling times" h and also the highest estimated maximum feeding rates, 1/hT, whereas the native species had the lowest attack rates, longest handling times and lowest maximum feeding rates. The non-invasive, low impact alien species had consistently intermediate FR parameters. The invasive alien species had higher population growth potential than the native snail species, whilst that of the non-invasive alien species was intermediate. Thus, while the comparative FR approach has been proposed as a reliable method for predicting the ecological impacts of invasive predators, our results further suggest that comparative FRs could extend to predict the invasiveness and ecological impacts of alien herbivores and should be explored in other taxa and trophic groups to determine the general utility of the approach.</dc:description>
+</oai_dc:dc>

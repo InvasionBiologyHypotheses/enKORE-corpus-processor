@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q38445081</dc:identifier>
+  <dc:identifier>doi:10.1016/J.JPROT.2016.07.002</dc:identifier>
+  <dc:title>Proteomic analysis of the venom and venom sac of the woodwasp, Sirex noctilio - Towards understanding its biological impact</dc:title>
+  <dc:creator>Wang, Tianfang</dc:creator>
+  <dc:creator>Zhao, Min</dc:creator>
+  <dc:creator>Rotgans, Bronwyn A</dc:creator>
+  <dc:creator>Ni, Guoying</dc:creator>
+  <dc:creator>Dean, Jeffrey F D</dc:creator>
+  <dc:creator>Nahrung, Helen F</dc:creator>
+  <dc:creator>Cummins, Scott F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>venom</dc:subject>
+  <dc:subject>Sirex woodwasp</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>&lt;h4&gt;Unlabelled&lt;/h4&gt;The European horntail woodwasp, Sirex noctilio, is an invasive insect that attacks conifer hosts, particularly Pinus species. Venom injected by female S. noctilio, together with its symbiotic fungus, damages the normal physiology of Pinus, leading to death of the tree. To identify the proteinaceous components in the venom and uncover the interplay between venom proteins and tree proteins, clarification of the overall profile of proteins produced in the venom gland apparatus was carried out in this work. The venom sac proteome utilised in-solution digested in either a natural or deglycosylated state, prior to nanoHPLC LTQ-Orbitrap under CID/ETD mode. Here, we report the identification of 1454 and 1225 proteins in venom and sac, respectively, with 410 mutual proteins. Approximately 90 proteins were predicted to be secretory, of which 8 have features characteristic of toxins. Chemosensory binding proteins were also identified. Gene ontology and KEGG pathway analysis were employed to predict the protein functions and biological pathways in venom and sac. Protein-protein interaction (PPI) analysis suggested that one-step responses represent the majority of the Sirex-Pinus PPIs, and the proteins representing network hub nodes could be of importance for the development of pest management strategies.&lt;h4&gt;Significance&lt;/h4&gt;The woodwasp Sirex noctilio is an invasive species in many parts of the world, including Australia and North America, where it is considered within the top 10 most serious forest insects. Where they have been introduced, the female woodwasps attack living pine trees, causing significant economic losses. Central to this destruction is the woodwasp's life cycle requirement to bore a hole to deposit eggs and a toxic mucus that disables the tree's network for transporting water and nutrients, yet aids in larval survival. Here we specifically examine the mucus gland apparatus and its contents, revealing the protein components that together with 'noctilisin' facilitate this complex association. The identification of chemosensory binding proteins further supports a role for the woodwasp ovipositor as an instrument for early stages of host tree selection. These findings could provide important clues towards the development of novel control tools against this pest.</dc:description>
+</oai_dc:dc>

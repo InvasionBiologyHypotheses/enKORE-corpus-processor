@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q94545349</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190871</dc:identifier>
+  <dc:identifier>doi:10.3389/FIMMU.2020.00656</dc:identifier>
+  <dc:title>CD209 C-Type Lectins Promote Host Invasion, Dissemination, and Infection of Toxoplasma gondii</dc:title>
+  <dc:creator>Njiri, Olivia Adhiambo</dc:creator>
+  <dc:creator>Zhang, Xiaoyan</dc:creator>
+  <dc:creator>Zhang, Yingmiao</dc:creator>
+  <dc:creator>Wu, Bicong</dc:creator>
+  <dc:creator>Jiang, Lingyu</dc:creator>
+  <dc:creator>Li, Qiao</dc:creator>
+  <dc:creator>Liu, Wenqi</dc:creator>
+  <dc:creator>Chen, Tie</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>&lt;i&gt;Toxoplasma gondii&lt;/i&gt;, the causative agent of toxoplasmosis and a major opportunistic parasite associated with AIDS, is able to invade host cells of animals and humans. Studies suggested that the ability of host invasion by the tachyzoite, the infectious form of &lt;i&gt;T. gondii&lt;/i&gt;, is essential for the pathogenicity to promote its dissemination to other parts of animal hosts. However, the detailed molecular mechanisms for host invasion and dissemination of the parasites are not clear. On the other hand, viruses and bacteria are able to interact with and hijack DC-SIGN (CD209) C-type lectin on antigen presenting cells (APCs), such as dendritic cells and macrophages as the Trojan horses to promote host dissemination. In this study, we showed that invasion of &lt;i&gt;T. gondii&lt;/i&gt; into host cells was enhanced by this parasite-CD209 interaction that were inhibited by ligand mimicking-oligosaccharides and the anti-CD209 antibody. Furthermore, covering the exposures of DC-SIGN by these oligosaccharides reduced parasite burden, host spreading and mortality associated with &lt;i&gt;T. gondii&lt;/i&gt; infection. These results suggested that interaction of &lt;i&gt;T. gondii&lt;/i&gt; to APCs expressing DC-SIGN might promote host dissemination and infection. Can the blockage of this interaction with Mannan and/or anti-CD209 antibody be developed as a prevention or treatment method for &lt;i&gt;T. gondii&lt;/i&gt; infection?</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34110849</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241715</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0029224</dc:identifier>
+  <dc:title>Quantitative and rapid DNA detection by laser transmission spectroscopy</dc:title>
+  <dc:creator>Li, Frank</dc:creator>
+  <dc:creator>Mahon, Andrew R</dc:creator>
+  <dc:creator>Barnes, Matthew A</dc:creator>
+  <dc:creator>Feder, Jeffery</dc:creator>
+  <dc:creator>Lodge, David M</dc:creator>
+  <dc:creator>Hwang, Ching-Ting</dc:creator>
+  <dc:creator>Schafer, Robert</dc:creator>
+  <dc:creator>Ruggiero, Steven T</dc:creator>
+  <dc:creator>Tanner, Carol E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-12-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Laser transmission spectroscopy (LTS) is a quantitative and rapid in vitro technique for measuring the size, shape, and number of nanoparticles in suspension. Here we report on the application of LTS as a novel detection method for species-specific DNA where the presence of one invasive species was differentiated from a closely related invasive sister species. The method employs carboxylated polystyrene nanoparticles functionalized with short DNA fragments that are complimentary to a specific target DNA sequence. In solution, the DNA strands containing targets bind to the tags resulting in a sizable increase in the nanoparticle diameter, which is rapidly and quantitatively measured using LTS. DNA strands that do not contain the target sequence do not bind and produce no size change of the carboxylated beads. The results show that LTS has the potential to become a quantitative and rapid DNA detection method suitable for many real-world applications.</dc:description>
+</oai_dc:dc>

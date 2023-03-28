@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q61450434</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6338382</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0007023</dc:identifier>
+  <dc:title>Matching the genetics of released and local Aedes aegypti populations is critical to assure Wolbachia invasion</dc:title>
+  <dc:creator>Azambuja Garcia, Gabriela</dc:creator>
+  <dc:creator>Sylvestre, Gabriel</dc:creator>
+  <dc:creator>Aguiar, Raquel</dc:creator>
+  <dc:creator>Costa, Guilherme Borges</dc:creator>
+  <dc:creator>Martins, Ademir Jesus</dc:creator>
+  <dc:creator>Lima, José Bento Pereira</dc:creator>
+  <dc:creator>Petersen, Martha T</dc:creator>
+  <dc:creator>Lourenço-de-Oliveira, Ricardo</dc:creator>
+  <dc:creator>Shadbolt, Marion F</dc:creator>
+  <dc:creator>Rašić, Gordana</dc:creator>
+  <dc:creator>Hoffmann, Ary</dc:creator>
+  <dc:creator>Villela, Daniel A M</dc:creator>
+  <dc:creator>Dias, Fernando B S</dc:creator>
+  <dc:creator>Dong, Yi</dc:creator>
+  <dc:creator>O'Neill, Scott L</dc:creator>
+  <dc:creator>Moreira, Luciano Andrade</dc:creator>
+  <dc:creator>Maciel-de-Freitas, Rafael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Traditional vector control approaches such as source reduction and insecticide spraying have limited effect on reducing Aedes aegypti population. The endosymbiont Wolbachia is pointed as a promising tool to mitigate arbovirus transmission and has been deployed worldwide. Models predict a rapid increase on the frequency of Wolbachia-positive Ae. aegypti mosquitoes in local settings, supported by cytoplasmic incompatibility (CI) and high maternal transmission rate associated with the wMelBr strain.&lt;h4&gt;Methodology/principle findings&lt;/h4&gt;Wolbachia wMelBr strain was released for 20 consecutive weeks after receiving &gt;87% approval of householders of the isolated community of Tubiacanga, Rio de Janeiro. wMelBr frequency plateued~40% during weeks 7-19, peaked 65% but dropped as releases stopped. A high (97.56%) maternal transmission was observed. Doubling releases and deploying mosquitoes with large wing length and low laboratory mortality produced no detectable effects on invasion trend. By investigating the lab colony maintenance procedures backwardly, pyrethroid resistant genotypes in wMelBr decreased from 68% to 3.5% after 17 generations. Therefore, we initially released susceptible mosquitoes in a local population highly resistant to pyrethroids which, associated with the over use of insecticides by householders, ended jeopardizing Wolbachia invasion. A new strain (wMelRio) was produced after backcrossing wMelBr females with males from field to introduce mostly pyrethroid resistance alleles. The new strain increased mosquito survival but produced relevant negative effects on Ae. aegypti fecundity traits, reducing egg clutche size and egg hatch. Despite the cost on fitness, wMelRio successful established where wMelBr failed, revealing that matching the local population genetics, especially insecticide resistance background, is critical to achieve invasion.&lt;h4&gt;Conclusions/significance&lt;/h4&gt;Local householders support was constantly high, reaching 90% backing on the second release (wMelRio strain). Notwithstanding the drought summer, the harsh temperature recorded (daily average above 30°C) did not seem to affect the expression of maternal transmission of wMel on a Brazilian background. Wolbachia deployment should match the insecticide resistance profile of the wild population to achieve invasion. Considering pyrethroid-resistance is a widely distributed phenotype in natural Ae. aegypti populations, future Wolbachia deployments must pay special attention in maintaining insecticide resistance in lab colonies for releases.</dc:description>
+</oai_dc:dc>

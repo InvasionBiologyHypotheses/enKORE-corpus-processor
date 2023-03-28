@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30933938</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4400009</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0123715</dc:identifier>
+  <dc:title>Plant community responses to simultaneous changes in temperature, nitrogen availability, and invasion</dc:title>
+  <dc:creator>Gornish, Elise S</dc:creator>
+  <dc:creator>Miller, Thomas E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Increasing rates of change in climate have been observed across the planet and have contributed to the ongoing range shifts observed for many species. Although ecologists are now using a variety of approaches to study how much and through what mechanisms increasing temperature and nutrient pollution may influence the invasions inherent in range shifts, accurate predictions are still lacking.&lt;h4&gt;Methods and results&lt;/h4&gt;In this study, we conducted a factorial experiment, simultaneously manipulating warming, nitrogen addition and introduction of Pityopsis aspera, to determine how range-shifting species affect a plant community. We quantified the resident community using ordination scores, then used structural equation modeling to examine hypotheses related to how plants respond to a network of experimental treatments and environmental variables. Variation in soil pH explained plant community response to nitrogen addition in the absence of invasion. However, in the presence of invasion, the direct effect of nitrogen on the community was negligible and soil moisture was important for explaining nitrogen effects. We did not find effects of warming on the native plant community in the absence of invasion. In the presence of invasion, however, warming had negative effects on functional richness directly and invasion and herbivory explained the overall positive effect of warming on the plant community.&lt;h4&gt;Conclusions and significance&lt;/h4&gt;This work highlights the variation in the biotic and abiotic factors responsible for explaining independent and collective climate change effects over a short time scale. Future work should consider the complex and non-additive relationships among factors of climate change and invasion in order to capture more ecologically relevant features of our changing environment.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q104141688</dc:identifier>
+  <dc:identifier>doi:10.1016/J.JENVMAN.2020.111759</dc:identifier>
+  <dc:title>Opportunities and challenges in using remote sensing for invasive tree species management, and in the identification of restoration sites in tropical montane grasslands</dc:title>
+  <dc:creator>Arasumani, M</dc:creator>
+  <dc:creator>Bunyan, Milind</dc:creator>
+  <dc:creator>Robin, V V</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>grassland</dc:subject>
+  <dc:subject>invasive tree</dc:subject>
+  <dc:subject>remote sensing</dc:subject>
+  <dc:subject>grassland restoration</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>Tropical montane grasslands (TMG) support biodiverse and endemic taxa and provide vital ecosystem services to downstream communities. Nevertheless, invasive alien tree species across the world have threatened tropical grasslands and grassland endemic species. In India, TMG in the Shola Sky Islands of the Western Ghats have been reduced due to exotic tree invasions (Acacias, Pines, and Eucalyptus species). The loss of grassland habitat has, in turn, reduced the range sizes of species endemic to grasslands (plants, birds, amphibians, and mammals), driving some populations to local extinction. Grassland conversion to exotic trees has also impacted ecosystem services in the Western Ghats. Conserving existing grassland and restoring invaded habitat is critical to reverse these losses. This research focused on identifying grassland restoration sites using satellite images with a high spatial resolution (RapidEye). We used an object-oriented Random Forest classification to map the area for grassland restoration. We identified an area of 254 sq. km. as suitable for grassland restoration and an area of 362 sq. km. for grassland conservation and preventing invasion by exotic tree species. For restoration, we recommend careful removal of young and isolated exotic trees at the invasion front and restoring grasslands, instead of removing dense stands of mature exotic trees. Although our limited data indicate that areas with low fire frequency tend to be invaded, and areas invaded by exotic trees tend to burn at higher intensities, we recommend a broader investigation of these patterns to critically examine a potential role for the use of fire in invasive species management. We assume that removing exotic tree species in the identified restoration sites and restoring the grassland will help recover lost habitat and ensure the viability of indigenous and endemic species and increase streamflow.</dc:description>
+</oai_dc:dc>

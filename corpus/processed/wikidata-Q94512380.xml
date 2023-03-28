@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q94512380</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1008503</dc:identifier>
+  <dc:title>Salmonella typhimurium discreet-invasion of the murine gut absorptive epithelium</dc:title>
+  <dc:creator>Fattinger, Stefan A</dc:creator>
+  <dc:creator>Böck, Désirée</dc:creator>
+  <dc:creator>Di Martino, Maria Letizia</dc:creator>
+  <dc:creator>Deuring, Sabrina</dc:creator>
+  <dc:creator>Ventayol, Pilar Samperio</dc:creator>
+  <dc:creator>Ek, Viktor</dc:creator>
+  <dc:creator>Furter, Markus</dc:creator>
+  <dc:creator>Kreibich, Saskia</dc:creator>
+  <dc:creator>Bosia, Francesco</dc:creator>
+  <dc:creator>Müller-Hauser, Anna A</dc:creator>
+  <dc:creator>Nguyen, Bidong D</dc:creator>
+  <dc:creator>Rohde, Manfred</dc:creator>
+  <dc:creator>Pilhofer, Martin</dc:creator>
+  <dc:creator>Hardt, Wolf-Dietrich</dc:creator>
+  <dc:creator>Sellin, Mikael E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Salmonella typhimurium</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Salmonella enterica serovar Typhimurium (S.Tm) infections of cultured cell lines have given rise to the ruffle model for epithelial cell invasion. According to this model, the Type-Three-Secretion-System-1 (TTSS-1) effectors SopB, SopE and SopE2 drive an explosive actin nucleation cascade, resulting in large lamellipodia- and filopodia-containing ruffles and cooperative S.Tm uptake. However, cell line experiments poorly recapitulate many of the cell and tissue features encountered in the host's gut mucosa. Here, we employed bacterial genetics and multiple imaging modalities to compare S.Tm invasion of cultured epithelial cell lines and the gut absorptive epithelium in vivo in mice. In contrast to the prevailing ruffle-model, we find that absorptive epithelial cell entry in the mouse gut occurs through "discreet-invasion". This distinct entry mode requires the conserved TTSS-1 effector SipA, involves modest elongation of local microvilli in the absence of expansive ruffles, and does not favor cooperative invasion. Discreet-invasion preferentially targets apicolateral hot spots at cell-cell junctions and shows strong dependence on local cell neighborhood. This proof-of-principle evidence challenges the current model for how S.Tm can enter gut absorptive epithelial cells in their intact in vivo context.</dc:description>
+</oai_dc:dc>

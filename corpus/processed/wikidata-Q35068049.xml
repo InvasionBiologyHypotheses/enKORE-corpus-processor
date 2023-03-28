@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35068049</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854868</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0002569</dc:identifier>
+  <dc:title>De novo assembly of a field isolate genome reveals novel Plasmodium vivax erythrocyte invasion genes</dc:title>
+  <dc:creator>Hester, James</dc:creator>
+  <dc:creator>Chan, Ernest R</dc:creator>
+  <dc:creator>Ménard, Didier</dc:creator>
+  <dc:creator>Mercereau-Puijalon, Odile</dc:creator>
+  <dc:creator>Barnwell, John</dc:creator>
+  <dc:creator>Zimmerman, Peter A</dc:creator>
+  <dc:creator>Serre, David</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-12-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>duffy binding protein 2</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Recent sequencing of Plasmodium vivax field isolates and monkey-adapted strains enabled characterization of SNPs throughout the genome. These analyses relied on mapping short reads onto the P. vivax reference genome that was generated using DNA from the monkey-adapted strain Salvador I. Any genomic locus deleted in this strain would be lacking in the reference genome sequence and missed in previous analyses. Here, we report de novo assembly of a P. vivax field isolate genome. Out of 2,857 assembled contigs, we identify 362 contigs, each containing more than 5 kb of contiguous DNA sequences absent from the reference genome sequence. These novel P. vivax DNA sequences account for 3.8 million nucleotides and contain 792 predicted genes. Most of these contigs contain members of multigene families and likely originate from telomeric regions. Interestingly, we identify two contigs containing predicted protein coding genes similar to known Plasmodium red blood cell invasion proteins. One gene encodes the reticulocyte-binding protein gene orthologous to P. cynomolgi RBP2e and P. knowlesi NBPXb. The second gene harbors all the hallmarks of a Plasmodium erythrocyte-binding protein, including conserved Duffy-binding like and C-terminus cysteine-rich domains. Phylogenetic analysis shows that this novel gene clusters separately from all known Plasmodium Duffy-binding protein genes. Additional analyses showing that this gene is present in most P. vivax genomes and transcribed in blood-stage parasites suggest that P. vivax red blood cell invasion mechanisms may be more complex than currently understood. The strategy employed here complements previous genomic analyses and takes full advantage of next-generation sequencing data to provide a comprehensive characterization of genetic variations in this important malaria parasite. Further analyses of the novel protein coding genes discovered through de novo assembly have the potential to identify genes that influence key aspects of P. vivax biology, including alternative mechanisms of human erythrocyte invasion.</dc:description>
+</oai_dc:dc>

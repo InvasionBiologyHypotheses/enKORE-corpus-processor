@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111148945</dc:identifier>
+  <dc:identifier>doi:10.3390/RS12060922</dc:identifier>
+  <dc:title>Phenology-Based Mapping of an Alien Invasive Species Using Time Series of Multispectral Satellite Data: A Case-Study with Glossy Buckthorn in Québec, Canada</dc:title>
+  <dc:creator>Labonté, Joanie</dc:creator>
+  <dc:creator>Drolet, Guillaume</dc:creator>
+  <dc:creator>Sylvain, Jean-Daniel</dc:creator>
+  <dc:creator>Thiffault, Nelson</dc:creator>
+  <dc:creator>Hébert, Francois</dc:creator>
+  <dc:creator>Girard, Francois</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>phenology</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Glossy buckthorn (Frangula alnus Mill.) is an alien species in Canada that is invading many forested areas. Glossy buckthorn has impacts on the biodiversity and productivity of invaded forests. Currently, we do not know much about the species’ ecology and no thorough study of its distribution in temperate forests has been performed yet. As is often the case with invasive plant species, the phenology of glossy buckthorn differs from that of other indigenous plant species found in invaded communities. In the forests of eastern Canada, the main phenological difference is a delay in the shedding of glossy buckthorn leaves, which occurs later in the fall than for other indigenous tree species found in that region. Therefore, our objective was to use that phenological characteristic to map the spatial distribution of glossy buckthorn over a portion of southern Québec, Canada, using remote sensing-based approaches. We achieved this by applying a linear temporal unmixing model to a time series of the normalized difference vegetation index (NDVI) derived from Landsat 8 Operational Land Imager (OLI) images to create a map of the probability of the occurrence of glossy buckthorn for the study area. The map resulting from the temporal unmixing model shows an agreement of 69% with field estimates of glossy buckthorn occurrence measured in 121 plots distributed over the study area. Glossy buckthorn mapping accuracy was limited by evergreen species and by the spectral and spatial resolution of the Landsat 8 OLI.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

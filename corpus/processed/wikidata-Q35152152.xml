@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35152152</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004074</dc:identifier>
+  <dc:title>The apical complex provides a regulated gateway for secretion of invasion factors in Toxoplasma</dc:title>
+  <dc:creator>Katris, Nicholas J</dc:creator>
+  <dc:creator>Dooren, Giel G</dc:creator>
+  <dc:creator>Mcmillan, Paul</dc:creator>
+  <dc:creator>Hanssen, Eric</dc:creator>
+  <dc:creator>Tilley, Leann</dc:creator>
+  <dc:creator>Waller, Ross</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The apical complex is the definitive cell structure of phylum Apicomplexa, and is the focus of the events of host cell penetration and the establishment of intracellular parasitism. Despite the importance of this structure, its molecular composition is relatively poorly known and few studies have experimentally tested its functions. We have characterized a novel Toxoplasma gondii protein, RNG2, that is located at the apical polar ring--the common structural element of apical complexes. During cell division, RNG2 is first recruited to centrosomes immediately after their duplication, confirming that assembly of the new apical complex commences as one of the earliest events of cell replication. RNG2 subsequently forms a ring, with the carboxy- and amino-termini anchored to the apical polar ring and mobile conoid, respectively, linking these two structures. Super-resolution microscopy resolves these two termini, and reveals that RNG2 orientation flips during invasion when the conoid is extruded. Inducible knockdown of RNG2 strongly inhibits host cell invasion. Consistent with this, secretion of micronemes is prevented in the absence of RNG2. This block, however, can be fully or partially overcome by exogenous stimulation of calcium or cGMP signaling pathways, respectively, implicating the apical complex directly in these signaling events. RNG2 demonstrates for the first time a role for the apical complex in controlling secretion of invasion factors in this important group of parasites.</dc:description>
+</oai_dc:dc>

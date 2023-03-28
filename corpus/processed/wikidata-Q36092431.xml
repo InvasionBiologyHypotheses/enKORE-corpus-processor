@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36092431</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4970754</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0004883</dc:identifier>
+  <dc:title>Surface Molecules Released by Trypanosoma cruzi Metacyclic Forms Downregulate Host Cell Invasion</dc:title>
+  <dc:creator>Clemente, Tatiana Mordente</dc:creator>
+  <dc:creator>Cortez, Cristian</dc:creator>
+  <dc:creator>Silva Novaes, Antônio</dc:creator>
+  <dc:creator>Yoshida, Nobuko</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-08-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;The question whether metacylic trypomastigote (MT) forms of different T. cruzi strains differentially release surface molecules, and how they affect host cell invasion, remains to be fully clarified. We addressed that question using T. cruzi strains that differ widely in the ability to invade cells.&lt;h4&gt;Methodology/principal findings&lt;/h4&gt;Metacyclic forms were incubated at 37°C for 1 h in complete D10 medium or in nutrient-deprived PBS containing Ca2+ and Mg2+ (PBS++). The conditioned medium (CM), collected after parasite centrifugation, was used for cell invasion assays and Western blot analysis, using monoclonal antibodies directed to gp82 and gp90, the MT surface molecules that promote and negatively regulate invasion, respectively. CM of poorly invasive G strain (G-CM) contained high amounts of gp90 and gp82, either in vesicles or as soluble molecules. CM of highly invasive CL strain (CL-CM) contained gp90 and gp82 at very low levels. HeLa cells were incubated for 1 h with CL strain MT in D10, in absence or in the presence of G-CM or CL-CM. Parasite invasion was significantly inhibited by G-CM, but not by CL-CM. As G strain MT invasion rate in D10 is very low, assays with this strain were performed in PBS++, which induces invasion-promoting lysosome-spreading. G-CM, but not CL-CM, significantly inhibited G strain internalization, effect that was counteracted by preincubating G-CM with an anti-gp90 monoclonal antibody or anti-gp82 polyclonal antibody that do not recognize live MT. G strain CM generated in PBS++ contained much lower amounts of gp90 and gp82 as compared to CM produced in D10, and exhibited lower inhibitory effect on host cell invasion.&lt;h4&gt;Conclusion/significance&lt;/h4&gt;Our data suggest that the surface molecules spontaneously released by MT impair parasite-host cell interaction, gp82 presumably competing with the molecule expressed on MT surface for the host cell receptor, and gp90 further contributing to down modulate invasion.</dc:description>
+</oai_dc:dc>

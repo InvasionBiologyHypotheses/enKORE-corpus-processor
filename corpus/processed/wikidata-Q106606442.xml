@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q106606442</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.64.60004</dc:identifier>
+  <dc:title>Predicting terrestrial dispersal corridors of the invasive African clawed frog Xenopus laevis in Portugal</dc:title>
+  <dc:creator>Ginal, Philipp</dc:creator>
+  <dc:creator>Moreira, Francisco D.</dc:creator>
+  <dc:creator>Marques, Raquel</dc:creator>
+  <dc:creator>Rebelo, Rui</dc:creator>
+  <dc:creator>Rödder, Dennis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-01-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>African clawed frog</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Invasive species, such as the mainly aquatic African clawed frog &lt;jats:italic&gt;Xenopus laevis&lt;/jats:italic&gt;, are a main threat to global biodiversity. The identification of dispersal corridors is necessary to restrict further expansion of these species and help to elaborate management plans for their control and eradication. Here we use remote sensing derived resistance surfaces, based on the normalised difference vegetation index (NDVI) and the normalised difference water index (NDWI) accounting for behavioural and physiological dispersal limitations of the species, in combination with elevation layers, to determine fine scale dispersal patterns of invasive populations of &lt;jats:italic&gt;X. laevis&lt;/jats:italic&gt; in Portugal, where the frog had established populations in two rivers. We reconstruct past dispersal routes between these two invaded rivers and highlight high risk areas for future expansion. Our models suggest terrestrial dispersal corridors that connect both invaded rivers and identify artificial water bodies as stepping stones for overland movement of &lt;jats:italic&gt;X. laevis&lt;/jats:italic&gt;. Additionally, we found several potential stepping stones into novel areas and provide concrete information for invasive species management.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

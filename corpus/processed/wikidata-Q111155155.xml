@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111155155</dc:identifier>
+  <dc:identifier>doi:10.3389/FMARS.2021.728456</dc:identifier>
+  <dc:title>Environmental DNA Based Surveillance for the Highly Invasive Carpet Sea Squirt Didemnum vexillum: A Targeted Single-Species Approach</dc:title>
+  <dc:creator>Matejusova, Iveta</dc:creator>
+  <dc:creator>Graham, Jennifer</dc:creator>
+  <dc:creator>Bland, Fiona</dc:creator>
+  <dc:creator>Lacaze, Jean-Pierre</dc:creator>
+  <dc:creator>Herman, Guillaume</dc:creator>
+  <dc:creator>Brown, Lyndsay</dc:creator>
+  <dc:creator>Dalgarno, Eric</dc:creator>
+  <dc:creator>Bishop, John D.</dc:creator>
+  <dc:creator>Kakkonen, Jenni E.</dc:creator>
+  <dc:creator>Smith, Kirsty F.</dc:creator>
+  <dc:creator>Douglas, Alex</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-09-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Didemnum vexillum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>&lt;jats:p&gt;The presence and diversity of marine non-native species, the number of new invasions, and the impact on native communities and habitats are important metrics used to assess the health of marine ecosystems. Monitoring for marine non-native species, using traditional approaches such as rapid assessment surveys (RASs), requires taxonomic expertise and may still fail to detect rare or inconspicuous species. This study reports a validation process for a quantitative PCR (qPCR) assay based on the cytochrome oxidase 1 gene, designed to detect highly invasive tunicate &lt;jats:italic&gt;Didemnum vexillum&lt;/jats:italic&gt; by targeting environmental DNA (eDNA) present in water samples. The &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; qPCR assay showed high sensitivity, with the threshold limit of detection (LOD) and modeled LOD3 (based on triplicate qPCR reactions) estimated as 9.187 and 1.117 copies reaction&lt;jats:sup&gt;–1&lt;/jats:sup&gt;, respectively and the limit of quantification (LOQ) was calculated as 18 copies reaction&lt;jats:sup&gt;–1&lt;/jats:sup&gt;. Analyses of water samples collected from selected Pacific oyster farms and recreational marinas in Scotland showed 100% concordance between the historical data on presence of &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; from RASs and detection of &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; eDNA. Consistency of detection of &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; eDNA among different sampling points within each infected sampling site varied, ranging between 100% positive throughout the site to some sampling points testing “negative” or only as “suspected” for &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt;. Sites with lower within-site detection consistency included sites with a low density of &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; as reported by RASs or were sites undergoing &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; management. The present pilot monitoring program demonstrates the potential to generate important data on presence of &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt;. This program will be scaled up across large geographic regions and used in the first instance to focus and target the traditional RASs to &lt;jats:italic&gt;D. vexillum&lt;/jats:italic&gt; eDNA-positive sites in a cost-effective way, with an aim to verify the species presence by visual observation and direct Sanger sequencing of positive qPCR products.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

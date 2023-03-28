@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35739703</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529188</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1005056</dc:identifier>
+  <dc:title>Widespread Reassortment Shapes the Evolution and Epidemiology of Bluetongue Virus following European Invasion</dc:title>
+  <dc:creator>Nomikou, Kyriaki</dc:creator>
+  <dc:creator>Hughes, Joseph</dc:creator>
+  <dc:creator>Wash, Rachael</dc:creator>
+  <dc:creator>Kellam, Paul</dc:creator>
+  <dc:creator>Breard, Emmanuel</dc:creator>
+  <dc:creator>Palmarini, Massimo</dc:creator>
+  <dc:creator>Biek, Roman</dc:creator>
+  <dc:creator>Mertens, Peter</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-08-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>bluetongue virus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Genetic exchange by a process of genome-segment 'reassortment' represents an important mechanism for evolutionary change in all viruses with segmented genomes, yet in many cases a detailed understanding of its frequency and biological consequences is lacking. We provide a comprehensive assessment of reassortment in bluetongue virus (BTV), a globally important insect-borne pathogen of livestock, during recent outbreaks in Europe. Full-genome sequences were generated and analysed for over 150 isolates belonging to the different BTV serotypes that have emerged in the region over the last 5 decades. Based on this novel dataset we confirm that reassortment is a frequent process that plays an important and on-going role in evolution of the virus. We found evidence for reassortment in all ten segments without a significant bias towards any particular segment. However, we observed biases in the relative frequency at which particular segments were associated with each other during reassortment. This points to selective constraints possibly caused by functional relationships between individual proteins or genome segments and genome-wide epistatic interactions. Sites under positive selection were more likely to undergo amino acid changes in newly reassorted viruses, providing additional evidence for adaptive dynamics as a consequence of reassortment. We show that the live attenuated vaccines recently used in Europe have repeatedly reassorted with field strains, contributing to their genotypic, and potentially phenotypic, variability. The high degree of plasticity seen in the BTV genome in terms of segment origin suggests that current classification schemes that are based primarily on serotype, which is determined by only a single genome segment, are inadequate. Our work highlights the need for a better understanding of the mechanisms and epidemiological consequences of reassortment in BTV, as well as other segmented RNA viruses.</dc:description>
+</oai_dc:dc>

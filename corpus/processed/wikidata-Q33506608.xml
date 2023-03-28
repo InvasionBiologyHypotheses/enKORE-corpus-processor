@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33506608</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739428</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PGEN.1000664</dc:identifier>
+  <dc:title>An RNA transport system in Candida albicans regulates hyphal morphology and invasive growth</dc:title>
+  <dc:creator>Elson, Sarah L</dc:creator>
+  <dc:creator>Noble, Suzanne M</dc:creator>
+  <dc:creator>Solis, Norma V</dc:creator>
+  <dc:creator>Filler, Scott G</dc:creator>
+  <dc:creator>Johnson, Alexander D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-09-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Localization of specific mRNAs is an important mechanism through which cells achieve polarity and direct asymmetric growth. Based on a framework established in Saccharomyces cerevisiae, we describe a She3-dependent RNA transport system in Candida albicans, a fungal pathogen of humans that grows as both budding (yeast) and filamentous (hyphal and pseudohyphal) forms. We identify a set of 40 mRNAs that are selectively transported to the buds of yeast-form cells and to the tips of hyphae, and we show that many of the genes encoded by these mRNAs contribute to hyphal development, as does the transport system itself. Although the basic system of mRNA transport is conserved between S. cerevisiae and C. albicans, we find that the cargo mRNAs have diverged considerably, implying that specific mRNAs can easily move in and out of transport control over evolutionary timescales. The differences in mRNA cargos likely reflect the distinct selective pressures acting on the two species.</dc:description>
+</oai_dc:dc>

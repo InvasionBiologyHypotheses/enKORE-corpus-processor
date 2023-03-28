@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35265097</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0107857</dc:identifier>
+  <dc:title>SPI-23 of S. Derby: role in adherence and invasion of porcine tissues</dc:title>
+  <dc:creator>Hayward, Matthew R</dc:creator>
+  <dc:creator>AbuOun, Manal</dc:creator>
+  <dc:creator>La Ragione, Roberto M</dc:creator>
+  <dc:creator>Tchórzewska, Monika A</dc:creator>
+  <dc:creator>Cooley, William A</dc:creator>
+  <dc:creator>Everest, David J</dc:creator>
+  <dc:creator>Petrovska, Liljana</dc:creator>
+  <dc:creator>Jansen, Vincent A. A.</dc:creator>
+  <dc:creator>Woodward, Martin J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Salmonella enterica serovars Derby and Mbandaka are isolated from different groups of livestock species in the UK. S. Derby is predominantly isolated from pigs and turkeys and S. Mbandaka is predominantly isolated from cattle and chickens. Alignment of the genome sequences of two isolates of each serovar led to the discovery of a new putative Salmonella pathogenicity island, SPI-23, in the chromosome sequence of S. Derby isolates. SPI-23 is 37 kb in length and contains 42 ORFs, ten of which are putative type III effector proteins. In this study we use porcine jejunum derived cell line IPEC-J2 and in vitro organ culture of porcine jejunum and colon, to characterise the association and invasion rates of S. Derby and S. Mbandaka, and tissue tropism of S. Derby respectively. We show that S. Derby invades and associates to an IPEC-J2 monolayer in significantly greater numbers than S. Mbandaka, and that S. Derby preferentially attaches to porcine jejunum over colon explants. We also show that nine genes across SPI-23 are up-regulated to a greater degree in the jejunum compared to the colon explants. Furthermore, we constructed a mutant of the highly up-regulated, pilV-like gene, potR, and find that it produces an excess of surface pili compared to the parent strain which form a strong agglutinating phenotype interfering with association and invasion of IPEC-J2 monolayers. We suggest that potR may play a role in tissue tropism.</dc:description>
+</oai_dc:dc>

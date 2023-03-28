@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q51041116</dc:identifier>
+  <dc:identifier>doi:10.1016/J.TPB.2014.08.005</dc:identifier>
+  <dc:title>The genetic signature of rapid range expansions: How dispersal, growth and invasion speed impact heterozygosity and allele surfing</dc:title>
+  <dc:creator>Goodsman, Devin W</dc:creator>
+  <dc:creator>Cooke, Barry</dc:creator>
+  <dc:creator>Coltman, David W.</dc:creator>
+  <dc:creator>Lewis, Mark A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:description>As researchers collect spatiotemporal population and genetic data in tandem, models that connect demography and dispersal to genetics are increasingly relevant. The dominant spatiotemporal model of invasion genetics is the stepping-stone model which represents a gradual range expansion in which individuals jump to uncolonized locations one step at a time. However, many range expansions occur quickly as individuals disperse far from currently colonized regions. For these types of expansion, stepping-stone models are inappropriate. To more accurately reflect wider dispersal in many organisms, we created kernel-based models of invasion genetics based on integrodifference equations. Classic theory relating to integrodifference equations suggests that the speed of range expansions is a function of population growth and dispersal. In our simulations, populations that expanded at the same speed but with spread rates driven by dispersal retained more heterozygosity along axes of expansion than range expansions with rates of spread that were driven primarily by population growth. To investigate surfing we introduced mutant alleles in wave fronts of simulated range expansions. In our models based on random mating, surfing alleles remained at relatively low frequencies and surfed less often compared to previous results based on stepping-stone simulations with asexual reproduction.</dc:description>
+</oai_dc:dc>

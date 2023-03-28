@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q56332251</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6979717</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-017-1393-5</dc:identifier>
+  <dc:title>Modelling the spread and control of Xylella fastidiosa in the early stages of invasion in Apulia, Italy</dc:title>
+  <dc:creator>White, Steven M</dc:creator>
+  <dc:creator>Bullock, James M</dc:creator>
+  <dc:creator>Hooftman, Danny A P</dc:creator>
+  <dc:creator>Chapman, Daniel S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-02-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Italy</dc:subject>
+  <dc:subject>2013–20 olive quick decline syndrome outbreak</dc:subject>
+  <dc:subject>Xylella fastidiosa</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Xylella fastidiosa is an important plant pathogen that attacks several plants of economic importance. Once restricted to the Americas, the bacterium, which causes olive quick decline syndrome, was discovered near Lecce, Italy in 2013. Since the initial outbreak, it has invaded 23,000 ha of olives in the Apulian Region, southern Italy, and is of great concern throughout Mediterranean basin. Therefore, predicting its spread and estimating the efficacy of control are of utmost importance. As data on this invasive infectious disease are poor, we have developed a spatially-explicit simulation model for X. fastidiosa to provide guidance for predicting spread in the early stages of invasion and inform management strategies. The model qualitatively and quantitatively predicts the patterns of spread. We model control zones currently employed in Apulia, showing that increasing buffer widths decrease infection risk beyond the control zone, but this may not halt the spread completely due to stochastic long-distance jumps caused by vector dispersal. Therefore, management practices should aim to reduce vector long-distance dispersal. We find optimal control scenarios that minimise control effort while reducing X. fastidiosa spread maximally-suggesting that increasing buffer zone widths should be favoured over surveillance efforts as control budgets increase. Our model highlights the importance of non-olive hosts which increase the spread rate of the disease and may lead to an order of magnitude increase in risk. Many aspects of X. fastidiosa disease invasion remain uncertain and hinder forecasting; we recommend future studies investigating quantification of the infection growth rate, and short and long distance dispersal.</dc:description>
+</oai_dc:dc>

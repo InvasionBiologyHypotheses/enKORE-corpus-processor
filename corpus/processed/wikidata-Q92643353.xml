@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q92643353</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6959351</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-019-56386-Y</dc:identifier>
+  <dc:title>Investigating a Plasmodium falciparum erythrocyte invasion phenotype switch at the whole transcriptome level</dc:title>
+  <dc:creator>Nyarko, B</dc:creator>
+  <dc:creator>Tarr, Sarah J</dc:creator>
+  <dc:creator>Aniweh, Yaw</dc:creator>
+  <dc:creator>Stewart, Lindsay B</dc:creator>
+  <dc:creator>Conway, David J.</dc:creator>
+  <dc:creator>Awandare, Gordon A</dc:creator>
+  <dc:creator>Nyarko, P.B.</dc:creator>
+  <dc:creator>Tarr, S.J.</dc:creator>
+  <dc:creator>Aniweh, Y.</dc:creator>
+  <dc:creator>Stewart, L.B.</dc:creator>
+  <dc:creator>Conway, D.J.</dc:creator>
+  <dc:creator>Awandare, G.A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-01-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>asexuality</dc:subject>
+  <dc:subject>homology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;The central role that erythrocyte invasion plays in &lt;jats:italic&gt;Plasmodium falciparum&lt;/jats:italic&gt; survival and reproduction makes this process an attractive target for therapeutic or vaccine development. However, multiple invasion-related genes with complementary and overlapping functions afford the parasite the plasticity to vary ligands used for invasion, leading to phenotypic variation and immune evasion. Overcoming the challenge posed by redundant ligands requires a deeper understanding of conditions that select for variant phenotypes and the molecular mediators. While host factors including receptor heterogeneity and acquired immune responses may drive parasite phenotypic variation, we have previously shown that host-independent changes in invasion phenotype can be achieved by continuous culturing of the W2mef and Dd2 &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt; strains in moving suspension as opposed to static conditions. Here, we have used a highly biologically replicated whole transcriptome sequencing approach to identify the molecular signatures of variation associated with the phenotype switch. The data show increased expression of particular invasion-related genes in switched parasites, as well as a large number of genes encoding proteins that are either exported or form part of the export machinery. The genes with most markedly increased expression included members of the erythrocyte binding antigens (&lt;jats:italic&gt;EBA&lt;/jats:italic&gt;), reticulocyte binding homologues (&lt;jats:italic&gt;RH&lt;/jats:italic&gt;), surface associated interspersed proteins (&lt;jats:italic&gt;SURFIN&lt;/jats:italic&gt;), exported protein family 1 (&lt;jats:italic&gt;EPF1&lt;/jats:italic&gt;) and Plasmodium Helical Interspersed Sub-Telomeric (&lt;jats:italic&gt;PHIST&lt;/jats:italic&gt;) gene families. The data indicate changes in expression of a repertoire of genes not previously associated with erythrocyte invasion phenotypes, suggesting the possibility that moving suspension culture may also select for other traits.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q111157987</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.655313</dc:identifier>
+  <dc:title>Explaining the Geographic Pattern of Plant Invasion in 67 Nature Reserves in China</dc:title>
+  <dc:creator>Chen, Shengbin</dc:creator>
+  <dc:creator>Chen, Zhiyang</dc:creator>
+  <dc:creator>Huang, Wenjie</dc:creator>
+  <dc:creator>Shao, Changliang</dc:creator>
+  <dc:creator>Mao, Lingfeng</dc:creator>
+  <dc:creator>Slik, Johan Willem Frederik</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-09-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Biological invasion is a serious threat to biodiversity and ecosystem function in nature reserves. However, the knowledge of the spatial patterns and underlying mechanisms of plant invasions in nature reserves is still limited. Based on a recent dataset on both invasive and native plants in 67 nature reserves of China, we used correlation, regression, and variation partitioning methods to statistically assess the relative roles of the “human activity,” “biotic acceptance,” and “environmental heterogeneity” hypotheses in explaining the geographic pattern of plant invasion. A total of 235 invasive plant species were compiled from 67 nature reserves. The high explanatory power of the human activity variables supported the human activity hypothesis. The biotic acceptance hypothesis was weakly supported since no significant correlations between climatic variables and invasion levels were found when the effects of the other factors were controlled. The environmental heterogeneity hypothesis was partially supported, since the number of native plants, representing environmental heterogeneity at fine-scale explained remarkable proportion of spatial variance of invasive plants but not that of the proportion of invasive plants. We predict that nature reserves with high plant diversity affected by rapid economic development and increasing temperature will face a serious threat of exotic plant invasion. In conclusion, our results provide crucial clues for understanding geographic variance of plant invasion in China’s nature reserves and spatial risk assessment.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

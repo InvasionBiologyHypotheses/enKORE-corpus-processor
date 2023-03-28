@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110630275</dc:identifier>
+  <dc:identifier>doi:10.1098/RSPB.2020.2622</dc:identifier>
+  <dc:title>Warming indirectly increases invasion success in food webs</dc:title>
+  <dc:creator>Sentis, Arnaud</dc:creator>
+  <dc:creator>Montoya, Jose M.</dc:creator>
+  <dc:creator>Lurgi, Miguel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-03-17</dc:date>
+  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>food web</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Climate warming and biological invasions are key drivers of biodiversity change. Their combined effects on ecological communities remain largely unexplored. We investigated the direct and indirect influences of temperature on invasion success, and their synergistic effects on community structure and dynamics. Using size-structured food web models, we found that higher temperatures increased invasion success. The direct physiological effects of temperature on invasions were minimal in comparison with indirect effects mediated by changes on food web structure and stability. Warmer communities with less connectivity, shortened food chains and reduced temporal variability were more susceptible to invasions. The directionality and magnitude of invasions effects on food webs varied across temperature regimes. When invaded, warmer communities became smaller, more connected and with more predator species than their colder counterparts. They were also less stable and their species more abundant. Considering food web structure is crucial to predict invasion success and its impacts along temperature gradients.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

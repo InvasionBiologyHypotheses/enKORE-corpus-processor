@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35432558</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0121655</dc:identifier>
+  <dc:title>Environmental DNA (eDNA) sampling improves occurrence and detection estimates of invasive burmese pythons</dc:title>
+  <dc:creator>Hunter, Margaret E</dc:creator>
+  <dc:creator>Oyler-McCance, Sara J</dc:creator>
+  <dc:creator>Dorazio, Robert M</dc:creator>
+  <dc:creator>Fike, Jennifer A</dc:creator>
+  <dc:creator>Smith, Brian J</dc:creator>
+  <dc:creator>Hunter, Charles T</dc:creator>
+  <dc:creator>Reed, Robert N</dc:creator>
+  <dc:creator>Hart, Kristen M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Myanmar</dc:subject>
+  <dc:subject>environmental DNA</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Environmental DNA (eDNA) methods are used to detect DNA that is shed into the aquatic environment by cryptic or low density species. Applied in eDNA studies, occupancy models can be used to estimate occurrence and detection probabilities and thereby account for imperfect detection. However, occupancy terminology has been applied inconsistently in eDNA studies, and many have calculated occurrence probabilities while not considering the effects of imperfect detection. Low detection of invasive giant constrictors using visual surveys and traps has hampered the estimation of occupancy and detection estimates needed for population management in southern Florida, USA. Giant constrictor snakes pose a threat to native species and the ecological restoration of the Florida Everglades. To assist with detection, we developed species-specific eDNA assays using quantitative PCR (qPCR) for the Burmese python (Python molurus bivittatus), Northern African python (P. sebae), boa constrictor (Boa constrictor), and the green (Eunectes murinus) and yellow anaconda (E. notaeus). Burmese pythons, Northern African pythons, and boa constrictors are established and reproducing, while the green and yellow anaconda have the potential to become established. We validated the python and boa constrictor assays using laboratory trials and tested all species in 21 field locations distributed in eight southern Florida regions. Burmese python eDNA was detected in 37 of 63 field sampling events; however, the other species were not detected. Although eDNA was heterogeneously distributed in the environment, occupancy models were able to provide the first estimates of detection probabilities, which were greater than 91%. Burmese python eDNA was detected along the leading northern edge of the known population boundary. The development of informative detection tools and eDNA occupancy models can improve conservation efforts in southern Florida and support more extensive studies of invasive constrictors. Generic sampling design and terminology are proposed to standardize and clarify interpretations of eDNA-based occupancy models.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36364244</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5435356</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1006379</dc:identifier>
+  <dc:title>Calmodulin-like proteins localized to the conoid regulate motility and cell invasion by Toxoplasma gondii</dc:title>
+  <dc:creator>Long, Shaojun</dc:creator>
+  <dc:creator>Brown, Kevin M</dc:creator>
+  <dc:creator>Drewry, Lisa L.</dc:creator>
+  <dc:creator>Anthony, Bryan</dc:creator>
+  <dc:creator>Phan, Isabelle Q. H.</dc:creator>
+  <dc:creator>Sibley, L. David</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Toxoplasma gondii contains an expanded number of calmodulin (CaM)-like proteins whose functions are poorly understood. Using a combination of CRISPR/Cas9-mediated gene editing and a plant-like auxin-induced degron (AID) system, we examined the roles of three apically localized CaMs. CaM1 and CaM2 were individually dispensable, but loss of both resulted in a synthetic lethal phenotype. CaM3 was refractory to deletion, suggesting it is essential. Consistent with this prediction auxin-induced degradation of CaM3 blocked growth. Phenotypic analysis revealed that all three CaMs contribute to parasite motility, invasion, and egress from host cells, and that they act downstream of microneme and rhoptry secretion. Super-resolution microscopy localized all three CaMs to the conoid where they overlap with myosin H (MyoH), a motor protein that is required for invasion. Biotinylation using BirA fusions with the CaMs labeled a number of apical proteins including MyoH and its light chain MLC7, suggesting they may interact. Consistent with this hypothesis, disruption of MyoH led to degradation of CaM3, or redistribution of CaM1 and CaM2. Collectively, our findings suggest these CaMs may interact with MyoH to control motility and cell invasion.</dc:description>
+</oai_dc:dc>

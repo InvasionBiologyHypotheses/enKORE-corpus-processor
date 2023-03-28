@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35780801</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3287371</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.8</dc:identifier>
+  <dc:title>Small founding number and low genetic diversity in an introduced species exhibiting limited invasion success (speckled dace, Rhinichthys osculus)</dc:title>
+  <dc:creator>Kinziger, Andrew P</dc:creator>
+  <dc:creator>Nakamoto, Rodney J</dc:creator>
+  <dc:creator>Anderson, Eric C</dc:creator>
+  <dc:creator>Harvey, Bret C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-09-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Molecular evaluations of successful invaders are common, however studies of introduced species that have had limited invasion success, or have died out completely, are rare. We studied an introduced population of speckled dace (Rhinichthys osculus) from northern California, USA that has rapidly increased in abundance but remained restricted to a 25-km stretch of river since its introduction in the mid-1980s. Field and laboratory analyses indicate that invasion success of speckled dace is constrained by the combined effects of multiple predators. The role of bottleneck effects associated with the introduction has not been studied. We assayed variation in seven microsatellite loci and one mitochondrial DNA gene in the introduced population and nine putative source populations to identify the source population and evaluate bottleneck effects. The Trinity River system was supported as the source owing to its genetic similarity and geographic proximity to the introduced population. Consistent with a bottleneck, the introduced population exhibited reduced allelic and haplotype richness in comparison to source populations. Estimates of the genetically effective number of individuals founding the introduced population using nuclear coalescent analyses and a mitochondrial simulation procedure were highly concordant in suggesting that the initial colonizing group was comprised of about 10 individuals. A bottleneck effect in an exotic species exhibiting limited invasion success has rarely been documented and thus introduction of speckled dace represents an important model system for future investigation. Establishing a relationship between genetic diversity and factors limiting invasion success in this system (e.g., predator avoidance) will help determine the extent to which genetic diversity loss has constrained invasion success in speckled dace.</dc:description>
+</oai_dc:dc>

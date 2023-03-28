@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q36320100</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0174097</dc:identifier>
+  <dc:title>Measuring mortality due to HIV-associated tuberculosis among adults in South Africa: Comparing verbal autopsy, minimally-invasive autopsy, and research data</dc:title>
+  <dc:creator>Karat, Aaron S</dc:creator>
+  <dc:creator>Tlali, Mpho</dc:creator>
+  <dc:creator>Fielding, Katherine L</dc:creator>
+  <dc:creator>Charalambous, Salome</dc:creator>
+  <dc:creator>Chihota, Violet N</dc:creator>
+  <dc:creator>Churchyard, Gavin J</dc:creator>
+  <dc:creator>Hanifa, Yasmeen</dc:creator>
+  <dc:creator>Johnson, Suzanne</dc:creator>
+  <dc:creator>McCarthy, Kerrigan</dc:creator>
+  <dc:creator>Martinson, Neil A</dc:creator>
+  <dc:creator>Omar, Tanvier</dc:creator>
+  <dc:creator>Kahn, Kathleen</dc:creator>
+  <dc:creator>Chandramohan, Daniel</dc:creator>
+  <dc:creator>Grant, Alison D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>South Africa</dc:subject>
+  <dc:subject>autopsy</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;The World Health Organization (WHO) aims to reduce tuberculosis (TB) deaths by 95% by 2035; tracking progress requires accurate measurement of TB mortality. International Classification of Diseases (ICD) codes do not differentiate between HIV-associated TB and HIV more generally. Verbal autopsy (VA) is used to estimate cause of death (CoD) patterns but has mostly been validated against a suboptimal gold standard for HIV and TB. This study, conducted among HIV-positive adults, aimed to estimate the accuracy of VA in ascertaining TB and HIV CoD when compared to a reference standard derived from a variety of clinical sources including, in some, minimally-invasive autopsy (MIA).&lt;h4&gt;Methods and findings&lt;/h4&gt;Decedents were enrolled into a trial of empirical TB treatment or a cohort exploring diagnostic algorithms for TB in South Africa. The WHO 2012 instrument was used; VA CoD were assigned using physician-certified VA (PCVA), InterVA-4, and SmartVA-Analyze. Reference CoD were assigned using MIA, research, and health facility data, as available. 259 VAs were completed: 147 (57%) decedents were female; median age was 39 (interquartile range [IQR] 33-47) years and CD4 count 51 (IQR 22-102) cells/μL. Compared to reference CoD that included MIA (n = 34), VA underestimated mortality due to HIV/AIDS (94% reference, 74% PCVA, 47% InterVA-4, and 41% SmartVA-Analyze; chance-corrected concordance [CCC] 0.71, 0.42, and 0.31, respectively) and HIV-associated TB (41% reference, 32% PCVA; CCC 0.23). For individual decedents, all VA methods agreed poorly with reference CoD that did not include MIA (n = 259; overall CCC 0.14, 0.06, and 0.15 for PCVA, InterVA-4, and SmartVA-Analyze); agreement was better at population level (cause-specific mortality fraction accuracy 0.78, 0.61, and 0.57, for the three methods, respectively).&lt;h4&gt;Conclusions&lt;/h4&gt;Current VA methods underestimate mortality due to HIV-associated TB. ICD and VA methods need modifications that allow for more specific evaluation of HIV-related deaths and direct estimation of mortality due to HIV-associated TB.</dc:description>
+</oai_dc:dc>

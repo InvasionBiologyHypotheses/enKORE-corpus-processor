@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q58698200</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157060</dc:identifier>
+  <dc:identifier>doi:10.1186/S12931-018-0895-8</dc:identifier>
+  <dc:title>PrtA immunization fails to protect against pulmonary and invasive infection by Streptococcus pneumoniae</dc:title>
+  <dc:creator>Hsu, Chen-Fang</dc:creator>
+  <dc:creator>Hsiao, Chen-Hao</dc:creator>
+  <dc:creator>Tseng, Shun-Fu</dc:creator>
+  <dc:creator>Chen, Jian-Ru</dc:creator>
+  <dc:creator>Liao, Yu-Jou</dc:creator>
+  <dc:creator>Chen, Sy-Jou</dc:creator>
+  <dc:creator>Lin, Chin-Sheng</dc:creator>
+  <dc:creator>Sytwu, Huey-Kang</dc:creator>
+  <dc:creator>Chuang, Yi-Ping</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>immunization</dc:subject>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Streptococcus pneumoniae is a respiratory pathogen causing severe lung infection that may lead to complications such as bacteremia. Current polysaccharide vaccines have limited serotype coverage and therefore cannot provide maximal and long-term protection. Global efforts are being made to develop a conserved protein vaccine candidate. PrtA, a pneumococcal surface protein, was identified by screening a pneumococcal genomic expression library using convalescent patient serum. The prtA gene is prevalent and conserved among S. pneumoniae strains. Its protective efficacy, however, has not been described. Mucosal immunization could sensitize both local and systemic immunity, which would be an ideal scenario for preventing S. pneumoniae infection.&lt;h4&gt;Methods&lt;/h4&gt;We immunized BALB/c mice intranasally with a combination of a PrtA fragment (amino acids 144-1041) and Th17 potentiated adjuvant, curdlan. We then measured the T-cell and antibody responses. The protective efficacy conferred to the immunized mice was further evaluated using a murine model of acute pneumococcal pneumonia and pneumococcal bacteremia.&lt;h4&gt;Results&lt;/h4&gt;There was a profound antigen-specific IL-17A and IFN-γ response in PrtA-immunized mice compared with that of adjuvant control group. Even though PrtA-specific IgG and IgA titer in sera was elevated in immunized mice, only a moderate IgA response was observed in the bronchoalveolar lavage fluid. The PrtA-immunized antisera facilitated the activated murine macrophage, RAW264.7, to opsonophagocytose S. pneumoniae D39 strain; however, PrtA-specific immunoglobulins bound to pneumococcal surfaces with a limited potency. Finally, PrtA-induced immune reactions failed to protect mice against S. pneumoniae-induced acute pneumonia and bacterial propagation through the blood.&lt;h4&gt;Conclusions&lt;/h4&gt;Immunization with recombinant PrtA combined with curdlan produced antigen-specific antibodies and elicited IL-17A response. However, it failed to protect the mice against S. pneumoniae-induced infection.</dc:description>
+</oai_dc:dc>

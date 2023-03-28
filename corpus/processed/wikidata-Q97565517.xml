@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q97565517</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS11070441</dc:identifier>
+  <dc:title>Genetic Diversity in Invasive Populations of Argentine Stem Weevil Associated with Adaptation to Biocontrol</dc:title>
+  <dc:creator>Harrop, Thomas W R</dc:creator>
+  <dc:creator>Lec, Marissa F Le</dc:creator>
+  <dc:creator>Jauregui, Ruy</dc:creator>
+  <dc:creator>Taylor, Shannon E</dc:creator>
+  <dc:creator>Inwood, Sarah N</dc:creator>
+  <dc:creator>Stijn, Tracey</dc:creator>
+  <dc:creator>Henry, Hannah</dc:creator>
+  <dc:creator>Skelly, John</dc:creator>
+  <dc:creator>Ganesh, Siva</dc:creator>
+  <dc:creator>Ashby, Rachael</dc:creator>
+  <dc:creator>Jacobs, Jeanne M. E.</dc:creator>
+  <dc:creator>Goldson, Stephen</dc:creator>
+  <dc:creator>Dearden, Peter K</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biocontrol</dc:subject>
+  <dc:subject>genetic diversity</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Modified, agricultural landscapes are susceptible to damage by insect pests. Biological control of pests is typically successful once a control agent has established, but this depends on the agent’s capacity to co-evolve with the host. Theoretical studies have shown that different levels of genetic variation between the host and the control agent will lead to rapid evolution of resistance in the host. Although this has been reported in one instance, the underlying genetics have not been studied. To address this, we measured the genetic variation in New Zealand populations of the pasture pest, Argentine stem weevil (Listronotus bonariensis), which is controlled with declining effectiveness by a parasitoid wasp, Microctonus hyperodae. We constructed a draft reference genome of the weevil, collected samples from a geographical survey of 10 sites around New Zealand, and genotyped them using a modified genotyping-by-sequencing approach. New Zealand populations of Argentine stem weevil have high levels of heterozygosity and low population structure, consistent with a large effective population size and frequent gene flow. This implies that Argentine stem weevils were able to evolve more rapidly than their biocontrol agent, which reproduces asexually. These findings show that monitoring genetic diversity in biocontrol agents and their targets is critical for long-term success of biological control.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

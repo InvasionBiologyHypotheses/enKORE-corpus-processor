@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35259050</dc:identifier>
+  <dc:identifier>doi:10.1890/13-1799.1</dc:identifier>
+  <dc:title>Temperature-mediated biotic interactions influence enemy release of nonnative species in warming environments</dc:title>
+  <dc:creator>Fey, Samuel B</dc:creator>
+  <dc:creator>Herren, Cristina M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-08-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biotic interaction</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>"Enemy release" occurs when invading species suffer from interactions with pathogens, parasites, herbivores, or predators to a lesser degree than native species due to a lack of shared evolutionary history. Here we provide strong support for the hypothesis that variable thermal sensitivities between a consumer and its resources can generate temperature-dependent enemy release using both a mathematical model and a field experiment. We identify three common scenarios where changes in temperature should alter enemy release based on asymmetric responses among enemies and their resources to changes in temperature: (1) the vital rates of a shared enemy are more sensitive to changes in temperature than its resources, (2) the enemy's thermal maximum for consumption is higher than the resources' maxima for growth, and (3) the invading resource has a higher thermal maximum for growth than its native competitor. Mathematical representations indicated that warming is capable of altering enemy release in each of these three scenarios. We also tested our hypothesis using a mesocosm warming experiment in a system that exhibits variable thermal sensitivities between a predator and its native and nonnative prey. We conducted a six-week experiment manipulating the presence of Lepomis sunfish (present, absent) and water temperature (ambient, heated) using the nonnative crustacean zooplankter, Daphnia lumholtzi, whose morphological defenses reduce predation from juvenile sunfish relative to native Daphnia pulex. Our results indicate that D. lumholtzi benefited to a greater extent from the presence of Lepomis predators as temperatures increase. Taken together, our model and experiment indicate that changes in environmental temperature may directly influence the success of nonnative species and may assist with forecasting the community consequences of biological invasions in a warming world.</dc:description>
+</oai_dc:dc>

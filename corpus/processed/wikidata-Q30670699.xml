@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30670699</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782357</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-013-0453-8</dc:identifier>
+  <dc:title>Combining field epidemiological information and genetic data to comprehensively reconstruct the invasion history and the microevolution of the sudden oak death agent Phytophthora ramorum (Stramenopila: Oomycetes) in California</dc:title>
+  <dc:creator>Croucher, Peter J P</dc:creator>
+  <dc:creator>Mascheretti, Silvia</dc:creator>
+  <dc:creator>Garbelotto, Matteo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-05-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/2.0</dc:rights>
+  <dc:subject>Phytophthora ramorum</dc:subject>
+  <dc:subject>California</dc:subject>
+  <dc:subject>microevolution</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Understanding the migration patterns of invasive organisms is of paramount importance to predict and prevent their further spread. Previous attempts at reconstructing the entire history of the sudden oak death (SOD) epidemic in California were limited by: (1) incomplete sampling; (2) the inability to include infestations caused by a single genotype of the pathogen; (3) collapsing of non-spatially contiguous yet genetically similar samples into large meta-samples that confounded the coalescent analyses. Here, we employ an intensive sampling coverage of 832 isolates of &lt;i&gt;Phytopthora ramorum&lt;/i&gt; (the causative agent of SOD) from 60 California forests, genotyped at nine microsatellite loci, to reconstruct its invasion. By using age of infestation as a constraint on coalescent analyses, by dividing genetically indistinguishable meta-populations into highly-resolved sets of spatially contiguous populations, and by using Bruvo genetic distances for most analyses, we reconstruct the entire history of the epidemic and convincingly show infected nursery plants are the original source for the entire California epidemic. Results indicate that multiple human-mediated introductions occurred in most counties and that further disease sources were represented by large wild infestations. The study also identifies minor introductions, some of them relatively recent, linked to infected ornamental plants. Finally, using archival isolates collected soon after the discovery of the pathogen in California, we corroborate that the epidemic is likely to have resulted form 3 to 4 core founder individuals evolved from a single genotype. This is probably the most complete reconstruction ever completed for an invasion by an exotic forest pathogen, and the approach here described may be useful for the reconstruction of invasions by any clonally reproducing organism with a relatively limited natural dispersal range.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q38384850</dc:identifier>
+  <dc:identifier>doi:10.1007/S10661-015-4900-0</dc:identifier>
+  <dc:title>Land use change detection and impact assessment in Anzali international coastal wetland using multi-temporal satellite images</dc:title>
+  <dc:creator>Mousazadeh, Roya</dc:creator>
+  <dc:creator>Ghaffarzadeh, Hamidreza</dc:creator>
+  <dc:creator>Nouri, Jafar</dc:creator>
+  <dc:creator>Gharagozlou, Alireza</dc:creator>
+  <dc:creator>Farahpour, Mehdi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-11-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://www.springer.com/tdm</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>land use</dc:subject>
+  <dc:subject>coastal wetland</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Anzali is one of the 18 Iranian wetlands of international importance listed in Ramsar Convention. This unique ecosystem in the world with high ecological diversity is highly threatened by various factors such as pollutants, sedimentation, unauthorized development of urban infrastructure, over-harvesting of wetland resources, land use changes, and invasive species. Among which, one of the most challenging destructive factors, land use change, was scrutinized in this study. For this, remotely sensed data and Geographical Information System (GIS) were used to detect land changes and corresponding impacts on the study area over a 38-year period from 1975 to 2013.. Changes in the study area were traced in five dominant land-use classes at four time intervals of 1975, 1989, 2007, and 2013. Accordingly, changes in different categories were quantified using satellite images. The methodology adopted in this study includes an integrated approach of supervised classification, zonal and object-oriented image analyses. According to the Kappa coefficient of 0.84 for the land use map of 2013, the overall accuracy of the method was estimated at 89%, which indicated that this method can be useful for monitoring and behavior analysis of other Iranian wetlands. The obtained results revealed extensive land use changes over the study period. As the results suggest, between the years 1975 to 2013, approximately 6500 ha (∼69%) rangeland area degraded. Further, urban and agricultural areas have been extended by 2982 ha (∼74%) and 2228 ha (∼6%), respectively. This could leave a negative impact on water quality of the wetland.</dc:description>
+</oai_dc:dc>

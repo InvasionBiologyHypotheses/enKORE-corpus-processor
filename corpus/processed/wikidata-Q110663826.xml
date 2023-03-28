@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q110663826</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.49.36086</dc:identifier>
+  <dc:title>Native and introduced Argentine ant populations are characterised by distinct transcriptomic signatures associated with behaviour and immunity</dc:title>
+  <dc:creator>Felden, Antoine</dc:creator>
+  <dc:creator>Paris, Carolina</dc:creator>
+  <dc:creator>Chapple, David G.</dc:creator>
+  <dc:creator>Suarez, Andrew V.</dc:creator>
+  <dc:creator>Tsutsui, Neil D.</dc:creator>
+  <dc:creator>Lester, Philip J.</dc:creator>
+  <dc:creator>Gruber, Monica A. M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-08-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Biological invasions can be influenced by trait variation in the invader, such as behavioural traits and ecological factors, such as variation in pathogen pressure. High-throughput nucleotide sequencing has increased our capacity to investigate the genomic basis of the functional changes associated with biological invasions. Here, we used RNA-sequencing in Argentina and California, Australia and New Zealand to investigate if native and introduced Argentine ant populations were characterised by distinct transcriptomic signatures. We focused our analysis on viral pressure and immunity, as well as genes associated with biogenic amines known to modulate key behaviour in social insects. Using a combination of differential expression analysis, gene co-expression network analysis and candidate gene approach, we show that native and introduced populations have distinct transcriptomic signatures. Genes associated with biogenic amines were overall up-regulated in the native range compared to introduced populations. Although we found no significant variation in overall viral loads amongst regions for viruses known to infect Argentine ants, viral diversity was lower in most of the introduced range which was interestingly associated with down-regulation of the RNAi immune pathway, primarily directed against viruses. Altogether, our data show that Argentine ant populations exhibit range-specific transcriptomic signatures, perhaps reflecting regional adaptations that may contribute to the ecological success of introduced populations.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

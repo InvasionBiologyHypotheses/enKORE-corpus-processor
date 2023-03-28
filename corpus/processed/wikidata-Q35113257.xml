@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35113257</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4338254</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0118214</dc:identifier>
+  <dc:title>A transcriptome derived female-specific marker from the invasive Western mosquitofish (Gambusia affinis).</dc:title>
+  <dc:creator>Lamatsch, Dunja K</dc:creator>
+  <dc:creator>Adolfsson, Sofia</dc:creator>
+  <dc:creator>M, Alistair</dc:creator>
+  <dc:creator>Christiansen, Guntram</dc:creator>
+  <dc:creator>Pichler, Maria</dc:creator>
+  <dc:creator>Ozaki, Yuichi</dc:creator>
+  <dc:creator>Smeds, Linnéa</dc:creator>
+  <dc:creator>Schartl, Manfred</dc:creator>
+  <dc:creator>Nakagawa, Shinichi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-02-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>RNA sequencing</dc:subject>
+  <dc:subject>mosquitofish</dc:subject>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Sex-specific markers are a prerequisite for understanding reproductive biology, genetic factors involved in sex differences, mechanisms of sex determination, and ultimately the evolution of sex chromosomes. The Western mosquitofish, Gambusia affinis, may be considered a model species for sex-chromosome evolution, as it displays female heterogamety (ZW/ZZ), and is also ecologically interesting as a worldwide invasive species. Here, de novo RNA-sequencing on the gonads of sexually mature G. affinis was used to identify contigs that were highly transcribed in females but not in males (i.e., transcripts with ovary-specific expression). Subsequently, 129 primer pairs spanning 79 contigs were tested by PCR to identify sex-specific transcripts. Of those primer pairs, one female-specific DNA marker was identified, Sanger sequenced and subsequently validated in 115 fish. Sequence analyses revealed a high similarity between the identified sex-specific marker and the 3´ UTR of the aminomethyl transferase (amt) gene of the closely related platyfish (Xiphophorus maculatus). This is the first time that RNA-seq has been used to successfully characterize a sex-specific marker in a fish species in the absence of a genome map. Additionally, the identified sex-specific marker represents one of only a handful of such markers in fishes.</dc:description>
+</oai_dc:dc>

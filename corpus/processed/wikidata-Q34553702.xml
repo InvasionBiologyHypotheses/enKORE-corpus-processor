@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34553702</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357339</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.3104</dc:identifier>
+  <dc:title>Climate-change-induced range shifts of three allergenic ragweeds (Ambrosia L.) in Europe and their potential impact on human health</dc:title>
+  <dc:creator>Rasmussen, Karen</dc:creator>
+  <dc:creator>Thyrring, Jakob</dc:creator>
+  <dc:creator>Muscarella, Robert</dc:creator>
+  <dc:creator>Borchsenius, Finn</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>&lt;jats:p&gt;Invasive allergenic plant species may have severe health-related impacts. In this study we aim to predict the effects of climate change on the distribution of three allergenic ragweed species (&lt;jats:italic&gt;Ambrosia&lt;/jats:italic&gt;spp.) in Europe and discuss the potential associated health impact. We built species distribution models based on presence-only data for three ragweed species, using MAXENT software. Future climatic habitat suitability was modeled under two IPCC climate change scenarios (RCP 6.0 and RCP 8.5). We quantify the extent of the increase in ‘high allergy risk’ (HAR) areas, i.e., parts of Europe with climatic conditions corresponding to the highest quartile (25%) of present day habitat suitability for each of the three species. We estimate that by year 2100, the distribution range of all three ragweed species increases towards Northern and Eastern Europe under all climate scenarios. HAR areas will expand in Europe by 27–100%, depending on species and climate scenario. Novel HAR areas will occur mostly in Denmark, France, Germany, Russia and the Baltic countries, and overlap with densely populated cities such as Paris and St. Petersburg. We conclude that areas in Europe affected by severe ragweed associated allergy problems are likely to increase substantially by year 2100, affecting millions of people. To avoid this, management strategies must be developed that restrict ragweed dispersal and establishment of new populations. Precautionary efforts should limit the spread of ragweed seeds and reduce existing populations. Only by applying cross-countries management plans can managers mitigate future health risks and economical consequences of a ragweed expansion in Europe.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

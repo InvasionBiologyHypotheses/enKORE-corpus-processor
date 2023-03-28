@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q35755437</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC18539</dc:identifier>
+  <dc:identifier>doi:10.1073/PNAS.100110397</dc:identifier>
+  <dc:title>Reduced genetic variation and the success of an invasive species</dc:title>
+  <dc:creator>Tsutsui, N D</dc:creator>
+  <dc:creator>Suarez, A V</dc:creator>
+  <dc:creator>Holway, D A</dc:creator>
+  <dc:creator>Case, T J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2000-05-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+  <dc:description>&lt;jats:p&gt;
+            Despite the severe ecological and economic damage caused by introduced species, factors that allow invaders to become successful often remain elusive. Of invasive taxa, ants are among the most widespread and harmful. Highly invasive ants are often unicolonial, forming supercolonies in which workers and queens mix freely among physically separate nests. By reducing costs associated with territoriality, unicolonial species can attain high worker densities, allowing them to achieve interspecific dominance. Here we examine the behavior and population genetics of the invasive Argentine ant (
+            &lt;jats:italic&gt;Linepithema humile&lt;/jats:italic&gt;
+            ) in its native and introduced ranges, and we provide a mechanism to explain its success as an invader. Using microsatellite markers, we show that a population bottleneck has reduced the genetic diversity of introduced populations. This loss is associated with reduced intraspecific aggression among spatially separate nests, and leads to the formation of interspecifically dominant supercolonies. In contrast, native populations are more genetically variable and exhibit pronounced intraspecific aggression. Although reductions in genetic diversity are generally considered detrimental, these findings provide an example of how a genetic bottleneck can lead to widespread ecological success. In addition, these results provide insights into the origin and evolution of unicoloniality, which is often considered a challenge to kin selection theory.
+          &lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

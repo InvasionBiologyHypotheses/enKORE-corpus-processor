@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q97554838</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390453</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0008463</dc:identifier>
+  <dc:title>Population genomics of two invasive mosquitoes (Aedes aegypti and Aedes albopictus) from the Indo-Pacific</dc:title>
+  <dc:creator>Schmidt, Thomas L</dc:creator>
+  <dc:creator>Chung, Jessica</dc:creator>
+  <dc:creator>Honnen, Ann-Christin</dc:creator>
+  <dc:creator>Weeks, Andrew R</dc:creator>
+  <dc:creator>Hoffmann, Ary A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>genomics</dc:subject>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>Asian tiger mosquito</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive mosquito species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The arbovirus vectors Aedes aegypti (yellow fever mosquito) and Ae. albopictus (Asian tiger mosquito) are both common throughout the Indo-Pacific region, where 70% of global dengue transmission occurs. For Ae. aegypti all Indo-Pacific populations are invasive, having spread from an initial native range of Africa, while for Ae. albopictus the Indo-Pacific includes invasive populations and those from the native range: putatively, India to Japan to Southeast Asia. This study analyses the population genomics of 480 of these mosquitoes sampled from 27 locations in the Indo-Pacific. We investigated patterns of genome-wide genetic differentiation to compare pathways of invasion and ongoing gene flow in both species, and to compare invasive and native-range populations of Ae. albopictus. We also tested landscape genomic hypotheses that genetic differentiation would increase with geographical distance and be lower between locations with high connectivity to human transportation routes, the primary means of dispersal at these scales. We found that genetic distances were generally higher in Ae. aegypti, with Pacific populations the most highly differentiated. The most differentiated Ae. albopictus populations were in Vanuatu, Indonesia and Sri Lanka, the latter two representing potential native-range populations and potential cryptic subspeciation respectively. Genetic distances in Ae. aegypti increased with geographical distance, while in Ae. albopictus they decreased with higher connectivity to human transportation routes. Contrary to the situation in Ae. aegypti, we found evidence of long-distance Ae. albopictus colonisation events, including colonisation of Mauritius from East Asia and of Fiji from Southeast Asia. These direct genomic comparisons indicate likely differences in dispersal ecology in these species, despite their broadly sympatric distributions and similar use of human transport to disperse. Our findings will assist biosecurity operations to trace the source of invasive material and for biocontrol operations that benefit from matching genetic backgrounds of released and local populations.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q34700002</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630166</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0060768</dc:identifier>
+  <dc:title>Rapid mitochondrial genome evolution through invasion of mobile elements in two closely related species of arbuscular mycorrhizal fungi</dc:title>
+  <dc:creator>Beaudet, Denis</dc:creator>
+  <dc:creator>Nadimi, Maryam</dc:creator>
+  <dc:creator>Iffis, Bachir</dc:creator>
+  <dc:creator>Hijri, Mohamed</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-04-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>mycorrhiza</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Arbuscular mycorrhizal fungi (AMF) are common and important plant symbionts. They have coenocytic hyphae and form multinucleated spores. The nuclear genome of AMF is polymorphic and its organization is not well understood, which makes the development of reliable molecular markers challenging. In stark contrast, their mitochondrial genome (mtDNA) is homogeneous. To assess the intra- and inter-specific mitochondrial variability in closely related Glomus species, we performed 454 sequencing on total genomic DNA of Glomus sp. isolate DAOM-229456 and we compared its mtDNA with two G. irregulare isolates. We found that the mtDNA of Glomus sp. is homogeneous, identical in gene order and, with respect to the sequences of coding regions, almost identical to G. irregulare. However, certain genomic regions vary substantially, due to insertions/deletions of elements such as introns, mitochondrial plasmid-like DNA polymerase genes and mobile open reading frames. We found no evidence of mitochondrial or cytoplasmic plasmids in Glomus species, and mobile ORFs in Glomus are responsible for the formation of four gene hybrids in atp6, atp9, cox2, and nad3, which are most probably the result of horizontal gene transfer and are expressed at the mRNA level. We found evidence for substantial sequence variation in defined regions of mtDNA, even among closely related isolates with otherwise identical coding gene sequences. This variation makes it possible to design reliable intra- and inter-specific markers.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q30978950</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493580</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP11828</dc:identifier>
+  <dc:title>Combined impacts of global changes on biodiversity across the USA.</dc:title>
+  <dc:creator>Bellard, C</dc:creator>
+  <dc:creator>Leclerc, C</dc:creator>
+  <dc:creator>Courchamp, F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-07-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Most studies of the effects of global changes on biodiversity focus on a single threat, but multiple threats lead to species extinction. We lack spatially explicit assessments of the intensity of multiple threats and their impacts on biodiversity. Here, we used a novel metric of cumulative threats and impacts to assess the consequences of multiple threats on 196 endemic species across the USA. We predict that large areas with high cumulative impact scores for amphibians, birds, mammals and reptiles will be concentrated in the eastern part of the USA by the 2050 s and 2080 s. These high cumulative impact values are due mainly to the presence of invasive species, climate change, cropland and pasture areas; additionally, a significant proportion of endemic species are vulnerable to some of these threats where they occur. This analysis provides a useful means of identifying where conservation measures and monitoring programs that should consider multiple threats should be implemented in the future.&lt;/jats:p&gt;</dc:description>
+</oai_dc:dc>

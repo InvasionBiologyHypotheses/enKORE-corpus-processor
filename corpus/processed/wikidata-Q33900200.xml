@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>http://www.wikidata.org/entity/Q33900200</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3091870</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0019666</dc:identifier>
+  <dc:title>Evaluating the potential efficacy of invasive lionfish (Pterois volitans) removals</dc:title>
+  <dc:creator>Barbour, Andrew B</dc:creator>
+  <dc:creator>Allen, Micheal S</dc:creator>
+  <dc:creator>Frazer, Thomas K</dc:creator>
+  <dc:creator>Sherman, Krista D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-05-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Pterois volitans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The lionfish, Pterois volitans (Linnaeus) and Pterois miles (Bennett), invasion of the Western Atlantic Ocean, Caribbean Sea and Gulf of Mexico has the potential to alter aquatic communities and represents a legitimate ecological concern. Several local removal programs have been initiated to control this invasion, but it is not known whether removal efforts can substantially reduce lionfish numbers to ameliorate these concerns. We used an age-structured population model to evaluate the potential efficacy of lionfish removal programs and identified critical data gaps for future studies. We used high and low estimates for uncertain parameters including: length at 50% vulnerability to harvest (L(vul)), instantaneous natural mortality (M), and the Goodyear compensation ratio (CR). The model predicted an annual exploitation rate between 35 and 65% would be required to cause recruitment overfishing on lionfish populations for our baseline parameter estimates for M and CR (0.5 and 15). Lionfish quickly recovered from high removal rates, reaching 90% of unfished biomass six years after a 50-year simulated removal program. Quantifying lionfish natural mortality and the size-selective vulnerability to harvest are the most important knowledge gaps for future research. We suggest complete eradication of lionfish through fishing is unlikely, and substantial reduction of adult abundance will require a long-term commitment and may be feasible only in small, localized areas where annual exploitation can be intense over multiple consecutive years.</dc:description>
+</oai_dc:dc>
