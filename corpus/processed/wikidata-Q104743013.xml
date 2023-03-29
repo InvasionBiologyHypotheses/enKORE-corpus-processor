@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104743013</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104743013</dc:identifier>
+  <dc:identifier>doi:10.3390/PATHOGENS10010023</dc:identifier>
+  <dc:title>&lt;i&gt;ERG3&lt;/i&gt;-Encoding Sterol C5,6-DESATURASE in &lt;i&gt;Candida albicans&lt;/i&gt; Is Required for Virulence in an Enterically Infected Invasive Candidiasis Mouse Model</dc:title>
+  <dc:creator>Hirayama, Tatsuro</dc:creator>
+  <dc:creator>Miyazaki, Taiga</dc:creator>
+  <dc:creator>Sumiyoshi, Makoto</dc:creator>
+  <dc:creator>Ashizawa, Nobuyuki</dc:creator>
+  <dc:creator>Takazono, Takahiro</dc:creator>
+  <dc:creator>Yamamoto, Kazuko</dc:creator>
+  <dc:creator>Imamura, Yoshifumi</dc:creator>
+  <dc:creator>Izumikawa, Koichi</dc:creator>
+  <dc:creator>Yanagihara, Katsunori</dc:creator>
+  <dc:creator>Kohno, Shigeru</dc:creator>
+  <dc:creator>Mukae, Hiroshi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-31</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive candidiasis</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Gastrointestinal colonization by Candida species is considered the main source of candidemia. The ERG3 gene in Candida albicans encodes a sterol C5,6-desaturase, which is essential for ergosterol biosynthesis. Although ERG3 inactivation shows reduced virulence in mouse models of disseminated candidiasis, the role of ERG3 in intestinal infections is unknown. Here, we infected mice with the C. albicans strains CAE3DU3 and CAF2-1, containing mutant and wild-type ERG3, respectively, and studied gut infection and colonization by these strains. We found that the CAE3DU3 strain showed reduced colonization, pathogenesis, damage to gut mucosa, and chemokine production in the mouse model of invasive candidiasis. Additionally, mice inoculated with CAE3DU3 showed lower mortality than mice inoculated with CAF2-1 (p &lt; 0.0001). Chemokines were less induced in the gut inoculated with CAE3DU3 than in the gut inoculated with CAF2-1. Histopathologically, although the wild-type gene was associated with a higher pathogenicity and invasion of the gut mucosa and liver tissues causing remarkable tissue necrosis, the erg3/erg3 mutant was associated with a higher accumulation of cells and lower damage to surrounding tissues than wild-type ERG3. These results establish that the ergosterol biosynthetic pathway may be associated with C. albicans gut colonization and subsequent dissemination.</dc:description>
+</oai_dc:dc>

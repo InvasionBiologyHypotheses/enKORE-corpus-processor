@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110663906</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110663906</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.63.53811</dc:identifier>
+  <dc:title>Combining live and lethal trapping to inform the management of alien invasive rodent populations in a tropical montane forest</dc:title>
+  <dc:creator>Duron, Quiterie</dc:creator>
+  <dc:creator>Cornulier, Thomas</dc:creator>
+  <dc:creator>Vidal, Eric</dc:creator>
+  <dc:creator>Bourguet, Edouard</dc:creator>
+  <dc:creator>Ruffino, Lise</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive rodent</dc:subject>
+  <dc:subject>montane forest</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>On large inhabited islands where complete eradication of alien invasive rodents through the use of poison delivery is often not practical or acceptable, mechanical trapping may represent the only viable option to reduce their impact in areas of high biodiversity value. However, the feasibility of sustained rodent control by trapping remains uncertain under realistic operational constraints. This study aimed to assess the effectiveness of non-toxic rat control strategies through a combination of lethal and live-trapping experiments, and scenario modelling, using the example of a remote montane rainforest of New Caledonia. Rat densities, estimated with spatially-explicit capture-recapture models, fluctuated seasonally (9.533.6 ind.ha-1). Capture probability (.01.25) and home range sizes (HR95, .23.75 ha) varied greatly according to trapping session, age class, sex and species. Controlling rats through the use of lethal trapping allowed maintaining rat densities at ca. 8 ind.ha-1 over a seven-month period in a 5.5-ha montane forest. Simulation models based on field parameter estimates over a 200-ha pilot management area indicated that without any financial and social constraints, trapping grids with the finest mesh sizes achieved cumulative capture probabilities &amp;gt; .90 after 15 trapping days, but were difficult to implement and sustain with the local workforce. We evaluated the costs and effectiveness of alternative trapping strategies taking into account the prevailing set of local constraints, and identified those that were likely to be successful. Scenario modelling, informed by trapping experiments, is a flexible tool for informing the design of sustainable control programs of island-invasive rodent populations, under idiosyncratic local circumstances.</dc:description>
+</oai_dc:dc>

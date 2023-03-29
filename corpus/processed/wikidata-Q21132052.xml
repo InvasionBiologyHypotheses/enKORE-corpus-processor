@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21132052</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q21132052</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4006787</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0095691</dc:identifier>
+  <dc:title>Landscape factors facilitating the invasive dynamics and distribution of the brown marmorated stink bug, Halyomorpha halys (Hemiptera: Pentatomidae), after arrival in the United States</dc:title>
+  <dc:creator>Wallner, Adam M</dc:creator>
+  <dc:creator>Hamilton, George C</dc:creator>
+  <dc:creator>Nielsen, Anne L</dc:creator>
+  <dc:creator>Hahn, Noel</dc:creator>
+  <dc:creator>Green, Edwin J</dc:creator>
+  <dc:creator>Rodriguez-Saona, Cesar R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>brown marmorated stink bug</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Hemiptera</dc:subject>
+  <dc:subject>Pentatomidae</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The brown marmorated stink bug, Halyomorpha halys, a native of Asia, has become a serious invasive pest in the USA. H. halys was first detected in the USA in the mid 1990s, dispersing to over 41 other states. Since 1998, H. halys has spread throughout New Jersey, becoming an important pest of agriculture, and a major nuisance in urban developments. In this study, we used spatial analysis, geostatistics, and Bayesian linear regression to investigate the invasion dynamics and colonization processes of this pest in New Jersey. We present the results of monitoring H. halys from 51 to 71 black light traps that were placed on farms throughout New Jersey from 2004 to 2011 and examined relationships between total yearly densities of H. halys and square hectares of 48 landscape/land use variables derived from urban, wetland, forest, and agriculture metadata, as well as distances to nearest highways. From these analyses we propose the following hypotheses: (1) H. halys density is strongly associated with urban developments and railroads during its initial establishment and dispersal from 2004 to 2006; (2) H. halys overwintering in multiple habitats and feeding on a variety of plants may have reduced the Allee effect, thus facilitating movement into the southernmost regions of the state by railroads from 2005 to 2008; (3) density of H. halys contracted in 2009 possibly from invading wetlands or sampling artifact; (4) subsequent invasion of H. halys from the northwest to the south in 2010 may conform to a stratified-dispersal model marked by rapid long-distance movement, from railroads and wetland rights-of-way; and (5) high densities of H. halys may be associated with agriculture in southern New Jersey in 2011. These landscape features associated with the invasion of H. halys in New Jersey may predict its potential rate of invasion across the USA and worldwide.</dc:description>
+</oai_dc:dc>

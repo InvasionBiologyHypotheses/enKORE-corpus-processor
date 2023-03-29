@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28959140</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28959140</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5086354</dc:identifier>
+  <dc:identifier>doi:10.1155/2016/6720947</dc:identifier>
+  <dc:title>Analysis of Gene Expression in an Inbred Line of Soft-Shell Clams (Mya arenaria) Displaying Growth Heterosis: Regulation of Structural Genes and the NOD2 Pathway</dc:title>
+  <dc:creator>Wilson, John J</dc:creator>
+  <dc:creator>Wilson, John-James</dc:creator>
+  <dc:creator>Grendler, Janelle</dc:creator>
+  <dc:creator>Dunlap-Smith, Azaline</dc:creator>
+  <dc:creator>Beal, Brian F</dc:creator>
+  <dc:creator>Page, Shallee T</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-10-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>heterosis</dc:subject>
+  <dc:subject>Mya arenaria</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Hindawi Limited</dc:publisher>
+  <dc:description>Mya arenariais a bivalve mollusk of commercial and economic importance, currently impacted by ocean warming, acidification, and invasive species. In order to inform studies on the growth ofM. arenaria, we selected and inbred a population of soft-shell clams for a fast-growth phenotype. This population displayed significantly faster growth (p&lt;0.0001), as measured by 35.4% greater shell size. To assess the biological basis of this growth heterosis, we characterized the complete transcriptomes of six individuals and identified differentially expressed genes by RNAseq. Pathways differentially expressed included structural gene pathways. Also differentially expressed was the nucleotide-binding oligomerization domain 2 (NOD2) receptor pathway that contributes to determination of growth, immunity, apoptosis, and proliferation. NOD2 pathway members that were upregulated included a subset of isoforms ofRIPK2(mean 3.3-fold increase in expression),ERK/MAPK14(3.8-fold),JNK/MAPK8(4.1-fold), andNFB(4.08-fold). These transcriptomes will be useful resources for both the aquaculture community and researchers with an interest in mollusks and growth heterosis.</dc:description>
+</oai_dc:dc>

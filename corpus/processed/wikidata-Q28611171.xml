@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28611171</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28611171</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4536047</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0132917</dc:identifier>
+  <dc:title>Recent Invasion of the Symbiont-Bearing Foraminifera Pararotalia into the Eastern Mediterranean Facilitated by the Ongoing Warming Trend</dc:title>
+  <dc:creator>Schmidt, Christiane</dc:creator>
+  <dc:creator>Morard, Raphael</dc:creator>
+  <dc:creator>Almogi-Labin, Ahuva</dc:creator>
+  <dc:creator>Weinmann, Anna E.</dc:creator>
+  <dc:creator>Titelboim, Danna</dc:creator>
+  <dc:creator>Abramovich, Sigal</dc:creator>
+  <dc:creator>Kucera, Michal</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-08-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The eastern Mediterranean is a hotspot of biological invasions. Numerous species of Indo-pacific origin have colonized the Mediterranean in recent times, including tropical symbiont-bearing foraminifera. Among these is the species Pararotalia calcariformata. Unlike other invasive foraminifera, this species was discovered only two decades ago and is restricted to the eastern Mediterranean coast. Combining ecological, genetic and physiological observations, we attempt to explain the recent invasion of this species in the Mediterranean Sea. Using morphological and genetic data, we confirm the species attribution to P. calcariformata McCulloch 1977 and identify its symbionts as a consortium of diatom species dominated by Minutocellus polymorphus. We document photosynthetic activity of its endosymbionts using Pulse Amplitude Modulated Fluorometry and test the effects of elevated temperatures on growth rates of asexual offspring. The culturing of asexual offspring for 120 days shows a 30-day period of rapid growth followed by a period of slower growth. A subsequent 48-day temperature sensitivity experiment indicates a similar developmental pathway and high growth rate at 28C, whereas an almost complete inhibition of growth was observed at 20C and 35C. This indicates that the offspring of this species may have lower tolerance to cold temperatures than what would be expected for species native to the Mediterranean. We expand this hypothesis by applying a Species Distribution Model (SDM) based on modern occurrences in the Mediterranean using three environmental variables: irradiance, turbidity and yearly minimum temperature. The model reproduces the observed restricted distribution and indicates that the range of the species will drastically expand westwards under future global change scenarios. We conclude that P. calcariformata established a population in the Levant because of the recent warming in the region. In line with observations from other groups of organisms, our results indicate that continued warming of the eastern Mediterranean will facilitate the invasion of more tropical marine taxa into the Mediterranean, disturbing local biodiversity and ecosystem structure.</dc:description>
+</oai_dc:dc>

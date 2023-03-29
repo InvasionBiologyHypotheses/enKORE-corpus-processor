@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28652977</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28652977</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4278822</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.1303</dc:identifier>
+  <dc:title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</dc:title>
+  <dc:creator>Hudson, Lawrence</dc:creator>
+  <dc:creator>Newbold, Tim</dc:creator>
+  <dc:creator>Contu, Sara</dc:creator>
+  <dc:creator>Hill, Samantha L L</dc:creator>
+  <dc:creator>Lysenko, Igor</dc:creator>
+  <dc:creator>De Palma, Adriana</dc:creator>
+  <dc:creator>Phillips, Helen R P</dc:creator>
+  <dc:creator>A, Rebecca</dc:creator>
+  <dc:creator>Bennett, Dominic J</dc:creator>
+  <dc:creator>Booth, Hollie</dc:creator>
+  <dc:creator>Choimes, Aryirios</dc:creator>
+  <dc:creator>Correia, David L P</dc:creator>
+  <dc:creator>Day, Julie</dc:creator>
+  <dc:creator>Echeverría-Londoño, Susy</dc:creator>
+  <dc:creator>Garon, Morgan</dc:creator>
+  <dc:creator>Harrison, Michelle L K</dc:creator>
+  <dc:creator>Ingram, Daniel J</dc:creator>
+  <dc:creator>Jung, Martin</dc:creator>
+  <dc:creator>Kemp, Victoria</dc:creator>
+  <dc:creator>Kirkpatrick, Lucinda</dc:creator>
+  <dc:creator>Martin, Callum D</dc:creator>
+  <dc:creator>Pan, Yuan</dc:creator>
+  <dc:creator>White, Hannah J</dc:creator>
+  <dc:creator>Aben, Job</dc:creator>
+  <dc:creator>Abrahamczyk, Stefan</dc:creator>
+  <dc:creator>Adum, Gilbert B</dc:creator>
+  <dc:creator>Aguilar-Barquero, Virginia</dc:creator>
+  <dc:creator>Aizen, Marcelo A</dc:creator>
+  <dc:creator>Ancrenaz, Marc</dc:creator>
+  <dc:creator>Arbeláez-Cortés, Enrique</dc:creator>
+  <dc:creator>Armbrecht, Inge</dc:creator>
+  <dc:creator>Azhar, Badrul</dc:creator>
+  <dc:creator>Azpiroz, Adrián B</dc:creator>
+  <dc:creator>Baeten, Lander</dc:creator>
+  <dc:creator>Báldi, András</dc:creator>
+  <dc:creator>Banks, John E</dc:creator>
+  <dc:creator>Barlow, Jos</dc:creator>
+  <dc:creator>Batáry, Péter</dc:creator>
+  <dc:creator>Bates, Adam J</dc:creator>
+  <dc:creator>Bayne, Erin M</dc:creator>
+  <dc:creator>Beja, Pedro</dc:creator>
+  <dc:creator>Berg, Åke</dc:creator>
+  <dc:creator>Berry, Nicholas J</dc:creator>
+  <dc:creator>Bicknell, Jake E</dc:creator>
+  <dc:creator>Bihn, Jochen H</dc:creator>
+  <dc:creator>Böhning-Gaese, Katrin</dc:creator>
+  <dc:creator>Boekhout, Teun</dc:creator>
+  <dc:creator>Boutin, Céline</dc:creator>
+  <dc:creator>Bouyer, Jérémy</dc:creator>
+  <dc:creator>Brearley, Francis Q</dc:creator>
+  <dc:creator>Brito, Isabel</dc:creator>
+  <dc:creator>Brunet, Jörg</dc:creator>
+  <dc:creator>Buczkowski, Grzegorz</dc:creator>
+  <dc:creator>Buscardo, Erika</dc:creator>
+  <dc:creator>Cabra-García, Jimmy</dc:creator>
+  <dc:creator>Calviño-Cancela, María</dc:creator>
+  <dc:creator>Cameron, Sydney A</dc:creator>
+  <dc:creator>Cancello, Eliana M</dc:creator>
+  <dc:creator>Carrijo, Tiago F</dc:creator>
+  <dc:creator>Carvalho, Anelena L</dc:creator>
+  <dc:creator>Castro, Helena</dc:creator>
+  <dc:creator>Castro-Luna, Alejandro A</dc:creator>
+  <dc:creator>Cerda, Rolando</dc:creator>
+  <dc:creator>Cerezo, Alexis</dc:creator>
+  <dc:creator>Chauvat, Matthieu</dc:creator>
+  <dc:creator>Clarke, Frank M</dc:creator>
+  <dc:creator>Cleary, Daniel F R</dc:creator>
+  <dc:creator>Connop, Stuart P</dc:creator>
+  <dc:creator>D'Aniello, Biagio</dc:creator>
+  <dc:creator>Silva, Pedro Giovâni</dc:creator>
+  <dc:creator>Darvill, Ben</dc:creator>
+  <dc:creator>Dauber, Jens</dc:creator>
+  <dc:creator>Dejean, Alain</dc:creator>
+  <dc:creator>Diekötter, Tim</dc:creator>
+  <dc:creator>Dominguez-Haydar, Yamileth</dc:creator>
+  <dc:creator>Dormann, Carsten F</dc:creator>
+  <dc:creator>Dumont, Bertrand</dc:creator>
+  <dc:creator>Dures, Simon G</dc:creator>
+  <dc:creator>Dynesius, Mats</dc:creator>
+  <dc:creator>Edenius, Lars</dc:creator>
+  <dc:creator>Elek, Zoltán</dc:creator>
+  <dc:creator>Entling, Martin H</dc:creator>
+  <dc:creator>Fayle, Tom M</dc:creator>
+  <dc:creator>Felicioli, Antonio</dc:creator>
+  <dc:creator>Felton, Annika M</dc:creator>
+  <dc:creator>Ficetola, Gentile F</dc:creator>
+  <dc:creator>Filgueiras, Bruno K C</dc:creator>
+  <dc:creator>Fonte, Steven J</dc:creator>
+  <dc:creator>Fraser, Lauchlan H</dc:creator>
+  <dc:creator>Fukuda, Daisuke</dc:creator>
+  <dc:creator>Furlani, Dario</dc:creator>
+  <dc:creator>Ganzhorn, Jörg U</dc:creator>
+  <dc:creator>Garden, Jenni G</dc:creator>
+  <dc:creator>Gheler-Costa, Carla</dc:creator>
+  <dc:creator>Giordani, Paolo</dc:creator>
+  <dc:creator>Giordano, Simonetta</dc:creator>
+  <dc:creator>Gottschalk, Marco S</dc:creator>
+  <dc:creator>Goulson, Dave</dc:creator>
+  <dc:creator>Gove, Aaron D</dc:creator>
+  <dc:creator>Grogan, James</dc:creator>
+  <dc:creator>Hanley, Mick E</dc:creator>
+  <dc:creator>Hanson, Thor</dc:creator>
+  <dc:creator>Hashim, Nor R</dc:creator>
+  <dc:creator>Hawes, Joseph E</dc:creator>
+  <dc:creator>Hébert, Christian</dc:creator>
+  <dc:creator>Helden, Alvin J</dc:creator>
+  <dc:creator>Henden, John-André</dc:creator>
+  <dc:creator>Hernández, Lionel</dc:creator>
+  <dc:creator>Herzog, Felix</dc:creator>
+  <dc:creator>Higuera-Diaz, Diego</dc:creator>
+  <dc:creator>Hilje, Branko</dc:creator>
+  <dc:creator>Horgan, Finbarr G</dc:creator>
+  <dc:creator>Horváth, Roland</dc:creator>
+  <dc:creator>Hylander, Kristoffer</dc:creator>
+  <dc:creator>Isaacs-Cubides, Paola</dc:creator>
+  <dc:creator>Ishitani, Masahiro</dc:creator>
+  <dc:creator>Jacobs, Carmen T</dc:creator>
+  <dc:creator>Jaramillo, Víctor J</dc:creator>
+  <dc:creator>Jauker, Birgit</dc:creator>
+  <dc:creator>Jonsell, Mats</dc:creator>
+  <dc:creator>Jung, Thomas S</dc:creator>
+  <dc:creator>Kapoor, Vena</dc:creator>
+  <dc:creator>Kati, Vassiliki</dc:creator>
+  <dc:creator>Katovai, Eric</dc:creator>
+  <dc:creator>Kessler, Michael</dc:creator>
+  <dc:creator>Knop, Eva</dc:creator>
+  <dc:creator>Kolb, Annette</dc:creator>
+  <dc:creator>Krösi, Ádám</dc:creator>
+  <dc:creator>Krösi, Ádám</dc:creator>
+  <dc:creator>Lachat, Thibault</dc:creator>
+  <dc:creator>Lantschner, Victoria</dc:creator>
+  <dc:creator>Féon, Violette Le</dc:creator>
+  <dc:creator>LeBuhn, Gretchen</dc:creator>
+  <dc:creator>Légaré, Jean-Philippe</dc:creator>
+  <dc:creator>Letcher, Susan G</dc:creator>
+  <dc:creator>Littlewood, Nick A</dc:creator>
+  <dc:creator>López-Quintero, Carlos A</dc:creator>
+  <dc:creator>Louhaichi, Mounir</dc:creator>
+  <dc:creator>Lövei, Gabor L</dc:creator>
+  <dc:creator>Lucas-Borja, Manuel Esteban</dc:creator>
+  <dc:creator>Luja, Victor H</dc:creator>
+  <dc:creator>Maeto, Kaoru</dc:creator>
+  <dc:creator>Magura, Tibor</dc:creator>
+  <dc:creator>Mallari, Neil Aldrin</dc:creator>
+  <dc:creator>Marin-Spiotta, Erika</dc:creator>
+  <dc:creator>Marshall, E J P</dc:creator>
+  <dc:creator>Martínez, Eliana</dc:creator>
+  <dc:creator>Mayfield, Margaret M</dc:creator>
+  <dc:creator>Mikusinski, Grzegorz</dc:creator>
+  <dc:creator>Milder, Jeffrey C</dc:creator>
+  <dc:creator>Miller, James R</dc:creator>
+  <dc:creator>Morales, Carolina L</dc:creator>
+  <dc:creator>Muchane, Mary N</dc:creator>
+  <dc:creator>Muchane, Muchai</dc:creator>
+  <dc:creator>Naidoo, Robin</dc:creator>
+  <dc:creator>Nakamura, Akihiro</dc:creator>
+  <dc:creator>Naoe, Shoji</dc:creator>
+  <dc:creator>Nates-Parra, Guiomar</dc:creator>
+  <dc:creator>Gutierrez, Dario A Navarrete</dc:creator>
+  <dc:creator>Neuschulz, Eike L</dc:creator>
+  <dc:creator>Noreika, Norbertas</dc:creator>
+  <dc:creator>Norfolk, Olivia</dc:creator>
+  <dc:creator>Noriega, Jorge Ari</dc:creator>
+  <dc:creator>Nöske, Nicole M</dc:creator>
+  <dc:creator>O'Dea, Niall</dc:creator>
+  <dc:creator>Oduro, William</dc:creator>
+  <dc:creator>Ofori-Boateng, Caleb</dc:creator>
+  <dc:creator>O Oke, Chris</dc:creator>
+  <dc:creator>Osgathorpe, Lynne M</dc:creator>
+  <dc:creator>Paritsis, Juan</dc:creator>
+  <dc:creator>Parra-H, Alejandro</dc:creator>
+  <dc:creator>Pelegrin, Nicolás</dc:creator>
+  <dc:creator>Peres, Carlos A</dc:creator>
+  <dc:creator>Persson, Anna S</dc:creator>
+  <dc:creator>Petanidou, Theodora</dc:creator>
+  <dc:creator>Phalan, Ben</dc:creator>
+  <dc:creator>Philips, T Keith</dc:creator>
+  <dc:creator>Poveda, Katja</dc:creator>
+  <dc:creator>Power, Eileen F</dc:creator>
+  <dc:creator>Presley, Steven J</dc:creator>
+  <dc:creator>Proença, Vânia</dc:creator>
+  <dc:creator>Quaranta, Marino</dc:creator>
+  <dc:creator>Quintero, Carolina</dc:creator>
+  <dc:creator>Redpath-Downing, Nicola A</dc:creator>
+  <dc:creator>Reid, J Leighton</dc:creator>
+  <dc:creator>Reis, Yana T</dc:creator>
+  <dc:creator>Ribeiro, Danilo B</dc:creator>
+  <dc:creator>Richardson, Barbara A</dc:creator>
+  <dc:creator>Richardson, Michael J</dc:creator>
+  <dc:creator>Robles, Carolina A</dc:creator>
+  <dc:creator>Römbke, Jörg</dc:creator>
+  <dc:creator>Romero-Duque, Luz Piedad</dc:creator>
+  <dc:creator>Rosselli, Loreta</dc:creator>
+  <dc:creator>Rossiter, Stephen J</dc:creator>
+  <dc:creator>Roulston, T'ai H</dc:creator>
+  <dc:creator>Rousseau, Laurent</dc:creator>
+  <dc:creator>Sadler, Jonathan P</dc:creator>
+  <dc:creator>Sáfián, Szabolcs</dc:creator>
+  <dc:creator>Saldaña-Vázquez, Romeo A</dc:creator>
+  <dc:creator>Samnegård, Ulrika</dc:creator>
+  <dc:creator>Schüepp, Christof</dc:creator>
+  <dc:creator>Schweiger, Oliver</dc:creator>
+  <dc:creator>Sedlock, Jodi L</dc:creator>
+  <dc:creator>Shahabuddin, Ghazala</dc:creator>
+  <dc:creator>Sheil, Douglas</dc:creator>
+  <dc:creator>Silva, Fernando A B</dc:creator>
+  <dc:creator>Slade, Eleanor M</dc:creator>
+  <dc:creator>Smith-Pardo, Allan H</dc:creator>
+  <dc:creator>Sodhi, Navjot S</dc:creator>
+  <dc:creator>Somarriba, Eduardo J</dc:creator>
+  <dc:creator>Sosa, Ramón A</dc:creator>
+  <dc:creator>Stout, Jane C</dc:creator>
+  <dc:creator>Struebig, Matthew J</dc:creator>
+  <dc:creator>Sung, Yik-Hei</dc:creator>
+  <dc:creator>Threlfall, Caragh G</dc:creator>
+  <dc:creator>Tonietto, Rebecca</dc:creator>
+  <dc:creator>Tóthmérész, Béla</dc:creator>
+  <dc:creator>Tscharntke, Teja</dc:creator>
+  <dc:creator>Turner, Edgar C</dc:creator>
+  <dc:creator>Tylianakis, Jason M</dc:creator>
+  <dc:creator>Vanbergen, Adam J</dc:creator>
+  <dc:creator>Vassilev, Kiril</dc:creator>
+  <dc:creator>Verboven, Hans A F</dc:creator>
+  <dc:creator>Vergara, Carlos H</dc:creator>
+  <dc:creator>Vergara, Pablo M</dc:creator>
+  <dc:creator>Verhulst, Jort</dc:creator>
+  <dc:creator>Walker, Tony R</dc:creator>
+  <dc:creator>Wang, Yanping</dc:creator>
+  <dc:creator>Watling, James I</dc:creator>
+  <dc:creator>Wells, Konstans</dc:creator>
+  <dc:creator>Williams, Christopher D</dc:creator>
+  <dc:creator>Willig, Michael R</dc:creator>
+  <dc:creator>Woinarski, John C Z</dc:creator>
+  <dc:creator>Wolf, Jan H D</dc:creator>
+  <dc:creator>Woodcock, Ben A</dc:creator>
+  <dc:creator>Yu, Douglas W</dc:creator>
+  <dc:creator>Zaitsev, Andrey S</dc:creator>
+  <dc:creator>Collen, Ben</dc:creator>
+  <dc:creator>Ewers, Rob M</dc:creator>
+  <dc:creator>Mace, Georgina M</dc:creator>
+  <dc:creator>Purves, Drew W</dc:creator>
+  <dc:creator>Scharlemann, Jörn P W</dc:creator>
+  <dc:creator>Purvis, Andy</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>biodiversity data</dc:subject>
+  <dc:subject>data sharing</dc:subject>
+  <dc:subject>database</dc:subject>
+  <dc:subject>biodiversity database</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

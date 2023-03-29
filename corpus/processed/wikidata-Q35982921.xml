@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35982921</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35982921</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4824483</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0152671</dc:identifier>
+  <dc:title>Transporting Ocean Viromes: Invasion of the Aquatic Biosphere</dc:title>
+  <dc:creator>Kim, Yiseul</dc:creator>
+  <dc:creator>Aw, Tiong Gim</dc:creator>
+  <dc:creator>Rose, Joan B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-04-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Studies of marine viromes (viral metagenomes) have revealed that DNA viruses are highly diverse and exhibit biogeographic patterns. However, little is known about the diversity of RNA viruses, which are mostly composed of eukaryotic viruses, and their biogeographic patterns in the oceans. A growth in global commerce and maritime traffic may accelerate spread of diverse and non-cosmopolitan DNA viruses and potentially RNA viruses from one part of the world to another. Here, we demonstrated through metagenomic analyses that failure to comply with mid-ocean ballast water exchange regulation could result in movement of viromes including both DNA viruses and RNA viruses (including potential viral pathogens) unique to geographic and environmental niches. Furthermore, our results showed that virus richness (known and unknown viruses) in ballast water is associated with distance between ballast water exchange location and its nearest shoreline as well as length of water storage time in ballast tanks (voyage duration). However, richness of only known viruses is governed by local environmental conditions and different viral groups have different responses to environmental variation. Overall, these results identified ballast water as a factor contributing to ocean virome transport and potentially increased exposure of the aquatic bioshpere to viral invasion.</dc:description>
+</oai_dc:dc>

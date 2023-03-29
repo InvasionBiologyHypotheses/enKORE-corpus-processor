@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35097647</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35097647</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925224</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0088948</dc:identifier>
+  <dc:title>Evaluating the interacting influences of pollination, seed predation, invasive species and isolation on reproductive success in a threatened alpine plant</dc:title>
+  <dc:creator>Krushelnycky, Paul D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-02-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>seed predation</dc:subject>
+  <dc:subject>reproductive success</dc:subject>
+  <dc:subject>pollination</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Reproduction in rare plants may be influenced and limited by a complex combination of factors. External threats such as invasive species and landscape characteristics such as isolation may impinge on both pollination and seed predation dynamics, which in turn can strongly affect reproduction. I assessed how patterns in floral visitation, seed predation, invasive ant presence, and plant isolation influenced one another and ultimately affected viable seed production in Haleakal silverswords (Argyroxiphium sandwicense subsp. macrocephalum) of Hawai'i. Floral visitation was dominated by endemic Hylaeus bees, and patterns of visitation were influenced by floral display size and number of plants clustered together, but not by floral herbivory or nearest flowering neighbor distance. There was also some indication that Argentine ant presence impacted floral visitation, but contradictory evidence and limitations of the study design make this result uncertain. Degree of seed predation was associated only with plant isolation, with the two main herbivores partitioning resources such that one preferentially attacked isolated plants while the other attacked clumped plants; total seed predation was greater in more isolated plants. Net viable seed production was highly variable among individuals (0-55% seed set), and was affected mainly by nearest neighbor distance, apparently owing to low cross-pollination among plants separated by even short distances (&gt;10-20 m). This isolation effect dominated net seed set, with no apparent influence from floral visitation rates, percent seed predation, or invasive ant presence. The measured steep decline in seed set with isolation distance may not be typical of the entire silversword range, and may indicate that pollinators in addition to Hylaeus bees could be important for greater gene flow. Management aimed at maintaining or maximizing silversword reproduction should focus on the spatial context of field populations and outplanting efforts, as well as on conserving the widest possible range of pollinator taxa.</dc:description>
+</oai_dc:dc>

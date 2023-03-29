@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39007424</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q39007424</dc:identifier>
+  <dc:identifier>doi:10.1038/ONC.2014.49</dc:identifier>
+  <dc:title>KAP regulates ROCK2 and Cdk2 in an RNA-activated glioblastoma invasion pathway</dc:title>
+  <dc:creator>Li, H</dc:creator>
+  <dc:creator>Jiang, X</dc:creator>
+  <dc:creator>Yu, Y</dc:creator>
+  <dc:creator>Huang, W</dc:creator>
+  <dc:creator>Xing, H</dc:creator>
+  <dc:creator>Agar, N Y</dc:creator>
+  <dc:creator>Yang, H W</dc:creator>
+  <dc:creator>Yang, B</dc:creator>
+  <dc:creator>Carroll, R S</dc:creator>
+  <dc:creator>Johnson, D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>glioblastoma</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>
