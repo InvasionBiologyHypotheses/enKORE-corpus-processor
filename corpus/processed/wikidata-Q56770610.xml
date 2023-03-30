@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56770610</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56770610</dc:identifier>
   <dc:identifier>doi:10.1007/S10750-009-9786-9</dc:identifier>
   <dc:title>Testing the enemy release hypothesis: trematode parasites in the non-indigenous Manila clam Ruditapes philippinarum</dc:title>
@@ -14,7 +15,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-05-03</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>

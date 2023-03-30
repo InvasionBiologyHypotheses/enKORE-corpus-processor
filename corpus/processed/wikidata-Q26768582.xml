@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q26768582</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q26768582</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4743931</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PNTD.0004432</dc:identifier>
   <dc:title>Rabies in the Baltic States: Decoding a Process of Control and Elimination</dc:title>
   <dc:creator>Robardet, Emmanuelle</dc:creator>
   <dc:creator>Picard-Meyer, Evelyne</dc:creator>
-  <dc:creator>Dobroštana, Marianna</dc:creator>
+  <dc:creator>Dobrotana, Marianna</dc:creator>
   <dc:creator>Jaceviciene, Ingrida</dc:creator>
   <dc:creator>Mähar, Katrin</dc:creator>
-  <dc:creator>Muižniece, Zita</dc:creator>
+  <dc:creator>Muiniece, Zita</dc:creator>
   <dc:creator>Pridotkas, Gediminas</dc:creator>
   <dc:creator>Masiulis, Marius</dc:creator>
   <dc:creator>Niin, Enel</dc:creator>
-  <dc:creator>Olševskis, Edvīns</dc:creator>
+  <dc:creator>Olevskis, Edvns</dc:creator>
   <dc:creator>Cliquet, Florence</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-02</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>rabies</dc:subject>
   <dc:subject>virus</dc:subject>
   <dc:subject>RNA virus infectious disease</dc:subject>

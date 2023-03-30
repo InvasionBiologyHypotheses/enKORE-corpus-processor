@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101303929</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101303929</dc:identifier>
   <dc:identifier>https://checklist.pensoft.net/article/31662/download/pdf/</dc:identifier>
   <dc:identifier>doi:10.15560/15.1.225</dc:identifier>
@@ -15,5 +16,5 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;In 2018 we captured specimens of &lt;jats:italic&gt;Oreachromis niloticus&lt;/jats:italic&gt; (Linnaeus, 1758) from Danau Kastoba, a crater lake on Bawean (Indonesia), a small, isolated island in the Java Sea. Additional individuals were later photographed. These records are among first of this species from an isolated island, in the Java Sea. A description of meristic and morphometric features of a specimen are provided.&lt;/jats:p&gt;</dc:description>
+  <dc:description>In 2018 we captured specimens of Oreachromis niloticus (Linnaeus, 1758) from Danau Kastoba, a crater lake on Bawean (Indonesia), a small, isolated island in the Java Sea. Additional individuals were later photographed. These records are among first of this species from an isolated island, in the Java Sea. A description of meristic and morphometric features of a specimen are provided.</dc:description>
 </oai_dc:dc>

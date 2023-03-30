@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111144914</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111144914</dc:identifier>
   <dc:identifier>doi:10.3398/064.077.0411</dc:identifier>
   <dc:title>Evaluating the Impact of an Exotic Plant Invasion on Rodent Community Richness and Abundance</dc:title>
@@ -9,8 +10,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-02-21</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.bioone.org/page/resources/researchers/rights_and_permissions</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Western North American Naturalist</dc:publisher>

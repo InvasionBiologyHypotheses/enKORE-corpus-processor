@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97562785</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q97562785</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7423285</dc:identifier>
   <dc:identifier>doi:10.1098/RSTB.2019.0547</dc:identifier>
@@ -10,12 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-07-13</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/-/media/journals/author/Licence-to-Publish-20062019-final.pdf</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Species introductions promote secondary contacts between taxa with long histories of allopatric divergence. Anthropogenic contact zones thus offer valuable contrasts to speciation studies in natural systems where past spatial isolations may have been brief or intermittent. Investigations of anthropogenic hybridization are rare for marine animals, which have high fecundity and high dispersal ability, characteristics that contrast to most terrestrial animals. Genomic studies indicate that gene flow can still occur after millions of years of divergence, as illustrated by invasive mussels and tunicates. In this context, we highlight three issues: (i) the effects of high propagule pressure and demographic asymmetries on introgression directionality, (ii) the role of hybridization in preventing introduced species spread, and (iii) the importance of postzygotic barriers in maintaining reproductive isolation. Anthropogenic contact zones offer evolutionary biologists unprecedented large scale hybridization experiments. In addition to breaking the highly effective reproductive isolating barrier of spatial segregation, they allow researchers to explore unusual demographic contexts with strong asymmetries. The outcomes are diverse, from introgression swamping to strong barriers to gene flow, and lead to local containment or widespread invasion. These outcomes should not be neglected in management policies of marine invasive species.&lt;/jats:p&gt;
-          &lt;jats:p&gt;This article is part of the theme issue ‘Towards the completion of speciation: the evolution of reproductive isolation beyond the first barriers’.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

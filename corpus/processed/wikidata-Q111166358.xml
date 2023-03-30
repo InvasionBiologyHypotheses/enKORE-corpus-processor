@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111166358</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111166358</dc:identifier>
   <dc:identifier>doi:10.1051/KMAE/2019033</dc:identifier>
   <dc:title>New records of the invasive red swamp crayfish Procambarus clarkii (Girard, 1852) (Decapoda: Cambaridae) from Poland</dc:title>
-  <dc:creator>Maciaszek, Rafał</dc:creator>
+  <dc:creator>Maciaszek, Rafa</dc:creator>
   <dc:creator>Bonk, Maciej</dc:creator>
-  <dc:creator>Strużyński, Witold</dc:creator>
+  <dc:creator>Struyski, Witold</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2019-10-11</dc:date>
   <dc:language>en</dc:language>
@@ -15,5 +16,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Cambaridae</dc:subject>
   <dc:publisher>EDP Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;This contribution presents new observations of the red swamp crayfish,&lt;jats:italic&gt;Procambarus clarkii&lt;/jats:italic&gt;in Poland. The species was detected in Żerań Canal and Krasiński Garden in Warsaw (central Poland) where 5 and 2 individuals were collected respectively as well as in Dąbie Pond in Krakow (southern Poland) with total of 4 crayfish observed. These new sites are located approximately 500 km eastward (Warsaw) and 240–260 km northward (Krakow) from the nearest European sites where this species has been previously recognised (near Berlin, Germany, Egerszalók and Budapest, Hungary), thus are the furthest north-east records of the species in European open waters. It is likely that the examined stock originates from single introductions, however, presence of the juveniles caught in Warsaw suggests that the population found there may be breeding. The findings are discussed with available literature describing possible ways&lt;jats:italic&gt;P. clarkii&lt;/jats:italic&gt;may use to colonize new habitats as well as the impact it has on the invaded ecosystems in general and native crayfish in particular.&lt;/jats:p&gt;</dc:description>
+  <dc:description>This contribution presents new observations of the red swamp crayfish,Procambarus clarkiiin Poland. The species was detected in era Canal and Krasiski Garden in Warsaw (central Poland) where 5 and 2 individuals were collected respectively as well as in Dbie Pond in Krakow (southern Poland) with total of 4 crayfish observed. These new sites are located approximately 500km eastward (Warsaw) and 240260km northward (Krakow) from the nearest European sites where this species has been previously recognised (near Berlin, Germany, Egerszalók and Budapest, Hungary), thus are the furthest north-east records of the species in European open waters. It is likely that the examined stock originates from single introductions, however, presence of the juveniles caught in Warsaw suggests that the population found there may be breeding. The findings are discussed with available literature describing possible waysP. clarkiimay use to colonize new habitats as well as the impact it has on the invaded ecosystems in general and native crayfish in particular.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91761346</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91761346</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ENTO-011118-111812</dc:identifier>
   <dc:title>Invasion Success and Management Strategies for Social Vespula Wasps</dc:title>
@@ -9,9 +10,10 @@
   <dc:date>2018-09-26</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Three species of Vespula have become invasive in Australia, Hawai‘i, New Zealand, and North and South America and continue to spread. These social wasp species can achieve high nest densities, and their behavioral plasticity has led to substantial impacts on recipient communities. Ecologically, they affect all trophic levels, restructuring communities and altering resource flows. Economically, their main negative effect is associated with pollination and the apicultural industry. Climate change is likely to exacerbate their impacts in many regions. Introduced Vespula spp. likely experience some degree of enemy release from predators or parasites, although they are exposed to a wide range of microbial pathogens in both their native and introduced range. Toxic baits have been significantly improved over the last decade, enabling effective landscape-level control. Although investigated extensively, no effective biological control agents have yet been found. Emerging technologies such as gene drives are under consideration. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37254211</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37254211</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2707288</dc:identifier>
   <dc:identifier>doi:10.1093/AOB/MCN214</dc:identifier>
@@ -11,11 +12,11 @@
   <dc:date>2008-11-10</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive weed</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background and aims&lt;/h4&gt;While invasive species may escape from natural enemies in the new range, the establishment of novel biotic interactions with species native to the invaded range can determine their success. Biological control of plant populations can be achieved by manipulation of a species' enemies in the invaded range. Interactions were therefore investigated between a native parasitic plant and an invasive legume in Mediterranean-type woodlands of South Australia.&lt;h4&gt;Methods&lt;/h4&gt;The effects of the native stem parasite, Cassytha pubescens, on the introduced host, Cytisus scoparius, and a co-occurring native host, Leptospermum myrsinoides, were compared. The hypothesis that the parasitic plant would have a greater impact on the introduced host than the native host was tested. In a field study, photosynthesis, growth and survival of hosts and parasite were examined.&lt;h4&gt;Key results&lt;/h4&gt;As predicted, Cassytha had greater impacts on the introduced host than the native host. Dead Cytisus were associated with dense Cassytha infections but mortality of Leptospermum was not correlated with parasite infection. Cassytha infection reduced the photosynthetic rates of both hosts. Infected Cytisus showed slower recovery of photosystem II efficiency, lower transpiration rates and reduced photosynthetic biomass in comparison with uninfected plants. Parasite photosynthetic rates and growth rates were higher when growing on the introduced host Cytisus, than on Leptospermum.&lt;h4&gt;Conclusions&lt;/h4&gt;Infection by a native parasitic plant had strong negative effects on the physiology and above-ground biomass allocation of an introduced species and was correlated with increased plant mortality. The greater impact of the parasite on the introduced host may be due to either the greater resources that this host provides or increased resistance to infection by the native host. This disparity of effects between introduced host and native host indicates the potential for Cassytha to be exploited as a control tool.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46063986</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46063986</dc:identifier>
   <dc:identifier>doi:10.1890/1051-0761(2006)016[1338:HIPIAI]2.0.CO;2</dc:identifier>
   <dc:title>Human impacts, plant invasion, and imperiled plant species in California.</dc:title>
@@ -12,13 +13,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2006-08-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>California</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Invasive species are one of the fastest growing conservation problems. These species homogenize the world's flora and fauna, threaten rare and endemic species, and impose large economic costs. Here, we examine the distribution of 834 of the more than 1000 exotic plant taxa that have become established in California, USA. Total species richness increases with net primary productivity; however, the exotic flora is richest in low-lying coastal sites that harbor large numbers of imperiled species, while native diversity is highest in areas with high mean elevation. Weedy and invasive exotics are more tightly linked to the distribution of imperiled species than the overall pool of exotic species. Structural equation modeling suggests that while human activities, such as urbanization and agriculture, facilitate the initial invasion by exotic plants, exotics spread ahead of the front of human development into areas with high numbers of threatened native plants. The range sizes of exotic taxa are an order of magnitude smaller than for comparable native taxa. The current small range size of exotic species implies that California has a significant "invasion debt" that will be paid as exotic plants expand their range and spread throughout the state.</dc:description>
 </oai_dc:dc>

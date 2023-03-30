@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104486870</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q104486870</dc:identifier>
   <dc:identifier>doi:10.3897/BDJ.8.E59644</dc:identifier>
-  <dc:title>First record of an agriolimacid slug in Southeast Asia – Deroceras laeve (O. F. Müller, 1774) (Gastropoda: Pulmonata) recently introduced to the Socialist Republic of Vietnam</dc:title>
+  <dc:title>First record of an agriolimacid slug in Southeast Asia  Deroceras laeve (O. F. Müller, 1774) (Gastropoda: Pulmonata) recently introduced to the Socialist Republic of Vietnam</dc:title>
   <dc:creator>Dedov, Ivailo</dc:creator>
   <dc:creator>Schneppat, Ulrich E</dc:creator>
   <dc:creator>Reise, Heike</dc:creator>
@@ -13,5 +14,5 @@
   <dc:subject>Vietnam</dc:subject>
   <dc:subject>Deroceras laeve</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Several individuals of the terrestrial slug &lt;jats:italic&gt;Deroceras laeve&lt;/jats:italic&gt; were collected in 2018 in the Hoàng Liên Son mountain range of northern Vietnam. The three specimens which were investigated anatomically were aphallic or hemiphallic. A partial COI sequence verified the species identity. This is the first discovery of &lt;jats:italic&gt;D. laeve&lt;/jats:italic&gt; and also of the slug family Agriolimacidae on the Indochinese Peninsula. The collecting site is situated near a cable-car station and below a tourist complex on Fansipan mountain, both of which had just been built by a Swiss-Austrian company between 2013 and 2016. This and the fact that the species had not been found elsewhere in the surrounding area, although searched for thoroughly, indicate that &lt;jats:italic&gt;D. laeve&lt;/jats:italic&gt; is most probably a recent introduction, potentially with building material from Austria or Switzerland.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Several individuals of the terrestrial slug Deroceras laeve were collected in 2018 in the Hoàng Liên Son mountain range of northern Vietnam. The three specimens which were investigated anatomically were aphallic or hemiphallic. A partial COI sequence verified the species identity. This is the first discovery of D. laeve and also of the slug family Agriolimacidae on the Indochinese Peninsula. The collecting site is situated near a cable-car station and below a tourist complex on Fansipan mountain, both of which had just been built by a Swiss-Austrian company between 2013 and 2016. This and the fact that the species had not been found elsewhere in the surrounding area, although searched for thoroughly, indicate that D. laeve is most probably a recent introduction, potentially with building material from Austria or Switzerland.</dc:description>
 </oai_dc:dc>

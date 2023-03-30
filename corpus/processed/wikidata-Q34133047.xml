@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34133047</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34133047</dc:identifier>
   <dc:identifier>doi:10.1186/PREACCEPT-1383814430122740</dc:identifier>
   <dc:title>Deciphering why Salmonella Gallinarum is less invasive in vitro than Salmonella Enteritidis</dc:title>
   <dc:creator>Rossignol, Aurore</dc:creator>
   <dc:creator>Roche, Sylvie M</dc:creator>
   <dc:creator>Virlogeux-Payant, Isabelle</dc:creator>
-  <dc:creator>Wiedemann, Agnès</dc:creator>
+  <dc:creator>Wiedemann, Agns</dc:creator>
   <dc:creator>Grépinet, Olivier</dc:creator>
   <dc:creator>Fredlund, Jennifer</dc:creator>
   <dc:creator>Trotereau, Jérôme</dc:creator>
-  <dc:creator>Marchès, Olivier</dc:creator>
+  <dc:creator>Marchs, Olivier</dc:creator>
   <dc:creator>Quéré, Pascale</dc:creator>
   <dc:creator>Enninga, Jost</dc:creator>
   <dc:creator>Velge, Philippe</dc:creator>
@@ -20,5 +21,4 @@
   <dc:subject>Salmonella enteritidis</dc:subject>
   <dc:subject>Salmonella gallinarum</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Salmonella Gallinarum and Salmonella Enteritidis are genetically closely related however associated with different pathologies. Several studies have suggested that S. Gallinarum is less invasive in vitro than S. Enteritidis. In this study we confirm that the S. Gallinarum strains tested were much less invasive than the S. Enteritidis strains tested in cells of avian or human origin. In addition, the S. Gallinarum T3SS-1-dependent ability to invade host cells was delayed by two to three hours compared to S. Enteritidis, indicating that T3SS-1-dependent entry is less efficient in S. Gallinarum than S. Enteritidis. This was neither due to a decreased transcription of T3SS-1 related genes when bacteria come into contact with cells, as transcription of hilA, invF and sipA was similar to that observed for S. Enteritidis, nor to a lack of functionality of the S. Gallinarum T3SS-1 apparatus as this apparatus was able to secrete and translocate effector proteins into host cells. In contrast, genome comparison of four S. Gallinarum and two S. Enteritidis strains revealed that all S. Gallinarum genomes displayed the same point mutations in each of the main T3SS-1 effector genes sipA, sopE, sopE2, sopD and sopA.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90179553</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q90179553</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ENTO-011019-024947</dc:identifier>
   <dc:title>Invasion Biology, Ecology, and Management of Western Flower Thrips</dc:title>
@@ -13,8 +14,8 @@
   <dc:date>2019-09-19</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Western flower thrips, Frankliniella occidentalis, first arose as an important invasive pest of many crops during the 1970s–1980s. The tremendous growth in international agricultural trade that developed then fostered the invasiveness of western flower thrips. We examine current knowledge regarding the biology of western flower thrips, with an emphasis on characteristics that contribute to its invasiveness and pest status. Efforts to control this pest and the tospoviruses that it vectors with intensive insecticide applications have been unsuccessful and have created significant problems because of the development of resistance to numerous insecticides and associated outbreaks of secondary pests. We synthesize information on effective integrated management approaches for western flower thrips that have developed through research on its biology, behavior, and ecology. We further highlight emerging topics regarding the species status of western flower thrips, as well as its genetics, biology, and ecology that facilitate its use as a model study organism and will guide development of appropriate management practices.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

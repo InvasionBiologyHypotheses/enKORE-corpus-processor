@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56771472</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56771472</dc:identifier>
   <dc:identifier>doi:10.1177/0309133309341607</dc:identifier>
   <dc:title>Impacts of alien plant invasions on species richness in Mediterranean-type ecosystems: a meta-analysis</dc:title>
@@ -10,13 +11,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://journals.sagepub.com/page/policies/text-and-data-mining-license</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>meta-analysis</dc:subject>
   <dc:subject>species richness</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>SAGE Publications</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Besides a general consensus regarding the negative impact of invasive alien species in the literature, only recently has the decline of native species attributable to biological invasions begun to be quantified in many parts of the world. The cause-effect relationship between the establishment and proliferation of alien species and the extinction of native species is, however, seldom demonstrated. We conducted a meta-analysis of studies in Mediterranean-type ecosystems (MTEs) to examine: (1) whether invasion of alien plant species indeed causes a reduction in the number of native plant species at different spatial and temporal scales; (2) which growth forms, habitat types and areas are most affected by invasions; and (3) which taxa are most responsible for native species richness declines. Our results confirm a significant decline in native species richness attributable to alien invasions. Studies conducted at small scales or sampled over long periods reveal stronger impacts of alien invasion than those at large spatial scales and over short periods. Alien species from regions with similar climates have much stronger impacts, with the native species richness in South Africa and Australia declining significantly more post-invasion than for European sites. Australian Acacia species in South Africa accounted for the most significant declines in native species richness. Among the different growth forms of alien plants, annual herbs, trees and creepers had the greatest impact, whereas graminoids generally caused insignificant changes to the native community. Native species richness of shrublands, old fields and dune vegetation showed significant declines, in contrast to insignificant declines for forest habitats. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

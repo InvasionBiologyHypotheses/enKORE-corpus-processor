@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56458568</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56458568</dc:identifier>
   <dc:identifier>doi:10.3897/ZSE.90.8796</dc:identifier>
   <dc:title>The anuran fauna of a Volunteer Nature Reserve: the Tanoé-Ehy Swamp Forests, south-eastern Ivory Coast, West Africa</dc:title>
   <dc:creator>Kpan, Tokouaho Flora</dc:creator>
-  <dc:creator>Adeba, Patrick Joël</dc:creator>
+  <dc:creator>Adeba, Patrick Jol</dc:creator>
   <dc:creator>Kouamé, N'Goran Germain</dc:creator>
   <dc:creator>Koné, Inza</dc:creator>
   <dc:creator>Kouassi, Kouassi Philippe</dc:creator>

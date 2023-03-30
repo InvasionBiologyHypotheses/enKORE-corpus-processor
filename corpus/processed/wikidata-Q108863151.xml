@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q108863151</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q108863151</dc:identifier>
   <dc:identifier>doi:10.22146/JTBB.65313</dc:identifier>
   <dc:title>Newly Recorded Alien Species of Ficus L. (Moraceae) in Java, Indonesia</dc:title>
@@ -17,5 +18,5 @@
   <dc:subject>introduced species</dc:subject>
   <dc:subject>Moraceae</dc:subject>
   <dc:publisher>Universitas Gadjah Mada</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Ficus is the largest genus in the Moraceae family, with the syconium inflorescence as its characteristic. This genus has a wide distribution worldwide, and about 367 species were found in the Malesia region. There are 74 species have been recorded on Java, and seven species are known as introduced plants. Based on our recent observations in West Java, Central Java, Yogyakarta, and East Java, three newly recorded Ficus species were found, namely F. auriculata Lour., F. maclellandii King, and F. natalensis subsp. leprieurii (Miq.) C.C. Berg. The species were introduced to Java as an ornamental plant. Descriptions, photographs, and a brief discussion of the three newly recorded species are presented in this manuscript.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Ficus is the largest genus in the Moraceae family, with the syconium inflorescence as its characteristic. This genus has a wide distribution worldwide, and about 367 species were found in the Malesia region. There are 74 species have been recorded on Java, and seven species are known as introduced plants. Based on our recent observations in West Java, Central Java, Yogyakarta, and East Java, three newly recorded Ficus species were found, namely F. auriculata Lour., F. maclellandii King, and F. natalensis subsp. leprieurii (Miq.) C.C. Berg. The species were introduced to Java as an ornamental plant. Descriptions, photographs, and a brief discussion of the three newly recorded species are presented in this manuscript.</dc:description>
 </oai_dc:dc>

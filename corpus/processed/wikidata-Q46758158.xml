@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46758158</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46758158</dc:identifier>
   <dc:identifier>doi:10.1086/497126</dc:identifier>
   <dc:title>Strategy of following voriconazole versus amphotericin B therapy with other licensed antifungal therapy for primary treatment of invasive aspergillosis: impact of other therapies on outcome.</dc:title>
@@ -21,11 +22,11 @@
   <dc:date>2005-10-13</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aspergillosis</dc:subject>
   <dc:subject>invasive aspergillosis</dc:subject>
   <dc:subject>amphotericin B</dc:subject>
   <dc:subject>voriconazole</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;In a previous randomized trial of voriconazole versus amphotericin B deoxycholate for primary therapy of invasive aspergillosis, voriconazole demonstrated superior efficacy and better survival. In that trial, treatment with voriconazole or amphotericin B deoxycholate could be followed with other licensed antifungal therapies (OLAT). Here, we report the impact of OLAT on the outcome of patients with invasive aspergillosis.&lt;h4&gt;Methods&lt;/h4&gt;Data on dose, duration, and the reason for switching to the first OLAT were analyzed, and outcome at week 12 was assessed.&lt;h4&gt;Results&lt;/h4&gt;Fewer patients in the voriconazole group (52 [36%] of 144) switched to OLAT, compared with patients in the amphotericin B deoxycholate group (107 [80%] of 133). Lipid formulations of amphotericin B were the most common OLAT (38% of patients). Switches were made because of intolerance or insufficient response in 70% for patients in the amphotericin B deoxycholate group, compared with 24% of patients in the voriconazole group. Favorable responses to OLAT in the amphotericin B deoxycholate group occurred in only 19% of patients with initial insufficient response and 38% of patients with intolerance. Salvage therapy with a lipid formulation of amphotericin B after initial treatment with amphotericin B deoxycholate was successful for only 30% of patients (14 of 47). Treatment success among patients randomized to receive amphotericin B, including those whose treatment was switched to OLAT, was 32%, compared with 55% among patients who received voriconazole alone (P&lt;.001).&lt;h4&gt;Conclusions&lt;/h4&gt;This study highlights the limited efficacy of salvage antifungal therapy, including therapy with lipid formulations of amphotericin B, and demonstrates the importance of effective initial therapy in invasive aspergillosis.</dc:description>
 </oai_dc:dc>

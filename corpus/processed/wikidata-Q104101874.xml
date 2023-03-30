@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104101874</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q104101874</dc:identifier>
   <dc:identifier>doi:10.3897/BDJ.8.E57783</dc:identifier>
   <dc:title>Updated distribution of the invasive Megachile sculpturalis (Hymenoptera: Megachilidae) in Italy and its first record on a Mediterranean island</dc:title>
@@ -19,5 +20,5 @@
   <dc:subject>Hymenoptera</dc:subject>
   <dc:subject>Megachilidae</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;&lt;jats:italic&gt;Megachile sculpturalis&lt;/jats:italic&gt; (Smith, 1853) (Hymenoptera: Megachilidae) is an invasive solitary bee that is rapidly spreading all over Europe. The present study aims to update the distribution of this species in Italy. The research led to the collection of 177 records, obtained through bibliographic research and data-mining from websites, blogs and social networks. We here present the first record of &lt;jats:italic&gt;M. sculpturalis&lt;/jats:italic&gt; on a Mediterranean island and discuss its possible effect on the native ecosystem. Given the particular discovery of &lt;jats:italic&gt;M. sculpturalis&lt;/jats:italic&gt; on Elba Island (Tuscany), we suggest possible monitoring, containment and possible eradication measures of the species.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Megachile sculpturalis (Smith, 1853) (Hymenoptera: Megachilidae) is an invasive solitary bee that is rapidly spreading all over Europe. The present study aims to update the distribution of this species in Italy. The research led to the collection of 177 records, obtained through bibliographic research and data-mining from websites, blogs and social networks. We here present the first record of M. sculpturalis on a Mediterranean island and discuss its possible effect on the native ecosystem. Given the particular discovery of M. sculpturalis on Elba Island (Tuscany), we suggest possible monitoring, containment and possible eradication measures of the species.</dc:description>
 </oai_dc:dc>

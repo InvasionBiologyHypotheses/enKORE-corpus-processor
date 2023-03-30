@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58740438</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q58740438</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6140674</dc:identifier>
   <dc:identifier>doi:10.7717/PEERJ.5558</dc:identifier>
@@ -17,20 +18,20 @@
   <dc:subject>native congener</dc:subject>
   <dc:subject>coastal invasion</dc:subject>
   <dc:publisher>PeerJ</dc:publisher>
-  <dc:description>&lt;jats:sec&gt;
-               &lt;jats:title&gt;Background&lt;/jats:title&gt;
-               &lt;jats:p&gt;Parasites can play various roles in the invasion of non-native species, but these are still understudied in marine ecosystems. This also applies to invasions from the Red Sea to the Mediterranean Sea via the Suez Canal, the so-called Lessepsian migration. In this study, we investigated the role of parasites in the invasion of the Lessepsian migrant &lt;jats:italic&gt;Sphyraena chrysotaenia&lt;/jats:italic&gt; in the Tunisian Mediterranean Sea.&lt;/jats:p&gt;
-            &lt;/jats:sec&gt;
-            &lt;jats:sec&gt;
-               &lt;jats:title&gt;Methods&lt;/jats:title&gt;
-               &lt;jats:p&gt;We compared metazoan parasite richness, prevalence and intensity of &lt;jats:italic&gt;S. chrysotaenia&lt;/jats:italic&gt; (Perciformes: Sphyraenidae) with infections in its native congener &lt;jats:italic&gt;Sphyraena sphyraena&lt;/jats:italic&gt; by sampling these fish species at seven locations along the Tunisian coast. Additionally, we reviewed the literature to identify native and invasive parasite species recorded in these two hosts.&lt;/jats:p&gt;
-            &lt;/jats:sec&gt;
-            &lt;jats:sec&gt;
-               &lt;jats:title&gt;Results&lt;/jats:title&gt;
-               &lt;jats:p&gt;Our results suggest the loss of at least two parasite species of the invasive fish. At the same time, the Lessepsian migrant has co-introduced three parasite species during the initial migration to the Mediterranean Sea, that are assumed to originate from the Red Sea of which only one parasite species has been reported during the spread to Tunisian waters. In addition, we found that the invasive fish has acquired six parasite species that are native in the Mediterranean Sea. However, parasite richness, prevalence and intensity were overall much lower in the invasive compared to the native fish host in the Mediterranean Sea.&lt;/jats:p&gt;
-            &lt;/jats:sec&gt;
-            &lt;jats:sec&gt;
-               &lt;jats:title&gt;Discussion&lt;/jats:title&gt;
-               &lt;jats:p&gt;These results suggest that the Lessepsian migrant may affect native fish hosts by potentially altering the dynamics of native and invasive parasite-host interactions via parasite release, parasite co-introduction and parasite acquisition. They further suggest that the lower infection levels in the invasive fish may result in a competitive advantage over native fish hosts (enemy release hypothesis). This study demonstrates that cross-species comparisons of parasite infection levels are a valuable tool to identify the different roles of parasites in the course of Lessepsian migrations.&lt;/jats:p&gt;
-            &lt;/jats:sec&gt;</dc:description>
+  <dc:description>
+               Background
+               Parasites can play various roles in the invasion of non-native species, but these are still understudied in marine ecosystems. This also applies to invasions from the Red Sea to the Mediterranean Sea via the Suez Canal, the so-called Lessepsian migration. In this study, we investigated the role of parasites in the invasion of the Lessepsian migrant Sphyraena chrysotaenia in the Tunisian Mediterranean Sea.
+            
+            
+               Methods
+               We compared metazoan parasite richness, prevalence and intensity of S.chrysotaenia (Perciformes: Sphyraenidae) with infections in its native congener Sphyraenasphyraena by sampling these fish species at seven locations along the Tunisian coast. Additionally, we reviewed the literature to identify native and invasive parasite species recorded in these two hosts.
+            
+            
+               Results
+               Our results suggest the loss of at least two parasite species of the invasive fish. At the same time, the Lessepsian migrant has co-introduced three parasite species during the initial migration to the Mediterranean Sea, that are assumed to originate from the Red Sea of which only one parasite species has been reported during the spread to Tunisian waters. In addition, we found that the invasive fish has acquired six parasite species that are native in the Mediterranean Sea. However, parasite richness, prevalence and intensity were overall much lower in the invasive compared to the native fish host in the Mediterranean Sea.
+            
+            
+               Discussion
+               These results suggest that the Lessepsian migrant may affect native fish hosts by potentially altering the dynamics of native and invasive parasite-host interactions via parasite release, parasite co-introduction and parasite acquisition. They further suggest that the lower infection levels in the invasive fish may result in a competitive advantage over native fish hosts (enemy release hypothesis). This study demonstrates that cross-species comparisons of parasite infection levels are a valuable tool to identify the different roles of parasites in the course of Lessepsian migrations.
+            </dc:description>
 </oai_dc:dc>

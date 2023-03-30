@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35093358</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35093358</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949369</dc:identifier>
   <dc:identifier>doi:10.1098/RSBL.2013.0946</dc:identifier>
@@ -12,25 +13,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-02-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            Predicting ecological impacts of invasive species and identifying potentially damaging future invaders are research priorities. Since damage by invaders is characterized by their depletion of resources, comparisons of the ‘functional response’ (FR; resource uptake rate as a function of resource density) of invaders and natives might predict invader impact. We tested this by comparing FRs of the ecologically damaging ‘world's worst’ invasive fish, the largemouth bass (
-            &lt;jats:italic&gt;Micropterus salmoides&lt;/jats:italic&gt;
-            ), with a native equivalent, the Cape kurper (
-            &lt;jats:italic&gt;Sandelia capensis&lt;/jats:italic&gt;
-            ), and an emerging invader, the sharptooth catfish (
-            &lt;jats:italic&gt;Clarias gariepinus&lt;/jats:italic&gt;
-            ), with the native river goby (
-            &lt;jats:italic&gt;Glossogobius callidus&lt;/jats:italic&gt;
-            ), in South Africa, a global invasion hotspot
-            &lt;jats:italic&gt;.&lt;/jats:italic&gt;
-            Using tadpoles (
-            &lt;jats:italic&gt;Hyperolius marmoratus&lt;/jats:italic&gt;
-            ) as prey, we found that the invaders consumed significantly more than natives. Attack rates at low prey densities within invader/native comparisons reflected similarities in predatory strategies; however, both invasive species displayed significantly higher Type II FRs than the native comparators. This was driven by significantly lower prey handling times by invaders, resulting in significantly higher maximum feeding rates. The higher FRs of these invaders are thus congruent with, and can predict, their impacts on native communities. Comparative FRs may be a rapid and reliable method for predicting ecological impacts of emerging and future invasive species.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

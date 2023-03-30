@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35579919</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35579919</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4423395</dc:identifier>
   <dc:identifier>doi:10.1186/S40201-015-0191-1</dc:identifier>
@@ -17,18 +18,18 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-          &lt;jats:sec&gt;
-            &lt;jats:title&gt;Background&lt;/jats:title&gt;
-            &lt;jats:p&gt;
-              &lt;jats:italic&gt;Ceriporia lacerata&lt;/jats:italic&gt;, a strain of white-rot fungus isolated from the litter of an invasive plant (&lt;jats:italic&gt;Solidago canadensis&lt;/jats:italic&gt;) in China, was little known about its properties and utilization. In this work, the copper(II) biosorption characteristics of formaldehyde inactivated &lt;jats:italic&gt;C. lacerata&lt;/jats:italic&gt; biomass were examined as a function of initial pH, initial copper(II) concentration and contact time, and the adsorptive equilibrium and kinetics were simulated, too.&lt;/jats:p&gt;
-          &lt;/jats:sec&gt;
-          &lt;jats:sec&gt;
-            &lt;jats:title&gt;Results&lt;/jats:title&gt;
-            &lt;jats:p&gt;The optimum pH was found to be 6.0 at experimental conditions of initial copper(II) concentration 100 mg/L, biomass dose 2 g/L, contact time 12 h, shaking rate 150 r/min and temperature 25°C. Biosorption equilibrium cost about 1 hour at experimental conditions of pH 6.0, initial copper(II) concentration 100 mg/L, &lt;jats:italic&gt;C. lacerata&lt;/jats:italic&gt; dose 2 g/L, shaking rate 150 r/min and temperature 25°C. At optimum pH 6.0, highest copper(II) biosorption amounts were 6.79 and 7.76 mg/g for initial copper(II) concentration of 100 and 200 mg/L, respectively (with other experimental parameters of &lt;jats:italic&gt;C. lacerata&lt;/jats:italic&gt; dose 2 g/L, shaking rate 150 r/min and temperature 25°C). The pseudo second-order adsorptive model gave the best adjustment for copper(II) biosorption kinetics. The equilibrium data fitted very well to both Langmuir and Freundlich adsorptive isotherm models.&lt;/jats:p&gt;
-          &lt;/jats:sec&gt;
-          &lt;jats:sec&gt;
-            &lt;jats:title&gt;Conclusions&lt;/jats:title&gt;
-            &lt;jats:p&gt;Without further acid or alkali treatment for improving adsorption properties, formaldehyde inactivated &lt;jats:italic&gt;C. lacerata&lt;/jats:italic&gt; biomass possesses good biosorption characteristics on copper(II) removal from aqueous solutions.&lt;/jats:p&gt;
-          &lt;/jats:sec&gt;</dc:description>
+  <dc:description>Abstract
+          
+            Background
+            
+              Ceriporia lacerata, a strain of white-rot fungus isolated from the litter of an invasive plant (Solidago canadensis) in China, was little known about its properties and utilization. In this work, the copper(II) biosorption characteristics of formaldehyde inactivated C. lacerata biomass were examined as a function of initial pH, initial copper(II) concentration and contact time, and the adsorptive equilibrium and kinetics were simulated, too.
+          
+          
+            Results
+            The optimum pH was found to be 6.0 at experimental conditions of initial copper(II) concentration 100mg/L, biomass dose 2g/L, contact time 12h, shaking rate 150r/min and temperature 25C. Biosorption equilibrium cost about 1hour at experimental conditions of pH6.0, initial copper(II) concentration 100mg/L, C. lacerata dose 2g/L, shaking rate 150r/min and temperature 25C. At optimum pH6.0, highest copper(II) biosorption amounts were 6.79 and 7.76mg/g for initial copper(II) concentration of 100 and 200mg/L, respectively (with other experimental parameters of C. lacerata dose 2g/L, shaking rate 150r/min and temperature 25C). The pseudo second-order adsorptive model gave the best adjustment for copper(II) biosorption kinetics. The equilibrium data fitted very well to both Langmuir and Freundlich adsorptive isotherm models.
+          
+          
+            Conclusions
+            Without further acid or alkali treatment for improving adsorption properties, formaldehyde inactivated C. lacerata biomass possesses good biosorption characteristics on copper(II) removal from aqueous solutions.
+          </dc:description>
 </oai_dc:dc>

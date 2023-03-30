@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56460542</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56460542</dc:identifier>
   <dc:identifier>doi:10.1016/J.APGEOG.2013.07.004</dc:identifier>
   <dc:title>The impact of tree cover loss on land surface temperature: A case study of central Massachusetts using Landsat Thematic Mapper thermal data</dc:title>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Thematic Mapper</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>

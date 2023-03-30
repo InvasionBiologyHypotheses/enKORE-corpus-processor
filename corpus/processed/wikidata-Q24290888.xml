@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q24290888</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q24290888</dc:identifier>
   <dc:identifier>doi:10.2807/ESE.15.45.19710-EN</dc:identifier>
   <dc:title>Introduction and control of three invasive mosquito species in the Netherlands, July-October 2010</dc:title>
@@ -23,6 +24,6 @@
   <dc:subject>Kingdom of the Netherlands</dc:subject>
   <dc:subject>invasive mosquito species</dc:subject>
   <dc:publisher>European Centre for Disease Control and Prevention (ECDC)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;In July 2010, during routine mosquito surveillance inspections at companies that import used tires, three invasive species were found at five locations in the Netherlands: the yellow fever mosquito (Aedes aegypti), the Asian tiger mosquito (Ae. albopictus), and the American rock-pool mosquito (Ae. atropalpus). This is the first time that Ae. aegypti is reported from the Netherlands. Mosquito control was initiated one week after the first invasive mosquito was found, using adulticides and larvicides. The available data suggest that the implemented control measures have been effective for this season.
-&lt;/jats:p&gt;</dc:description>
+  <dc:description>In July 2010, during routine mosquito surveillance inspections at companies that import used tires, three invasive species were found at five locations in the Netherlands: the yellow fever mosquito (Aedes aegypti), the Asian tiger mosquito (Ae. albopictus), and the American rock-pool mosquito (Ae. atropalpus). This is the first time that Ae. aegypti is reported from the Netherlands. Mosquito control was initiated one week after the first invasive mosquito was found, using adulticides and larvicides. The available data suggest that the implemented control measures have been effective for this season.
+</dc:description>
 </oai_dc:dc>

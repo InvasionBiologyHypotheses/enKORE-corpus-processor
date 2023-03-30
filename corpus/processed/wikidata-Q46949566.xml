@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46949566</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46949566</dc:identifier>
   <dc:identifier>doi:10.1890/13-0527.1</dc:identifier>
   <dc:title>How many founders for a biological invasion? Predicting introduction outcomes from propagule pressure.</dc:title>
@@ -8,7 +9,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-11-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>propagule pressure hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q110620464</dc:subject>
   <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
@@ -16,5 +16,4 @@
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>propagule pressure</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Ecological theory on biological invasions attempts to characterize the predictors of invasion success and the relative importance of the different drivers of population establishment. An outstanding question is how propagule pressure determines the probability of population establishment, where propagule pressure is the number of individuals of a species introduced into a specific location (propagule size) and their frequency of introduction (propagule number). Here, we used large-scale replicated mesocosm ponds over three reproductive seasons to identify how propagule size and number predict the probability of establishment of one of world's most invasive fish, Pseudorasbora parva, as well as its effect on the somatic growth of individuals during establishment. We demonstrated that, although a threshold of 11 introduced pairs of fish (a pair is 1 male, 1 female) was required for establishment probability to exceed 95%, establishment also occurred at low propagule size (1-5 pairs). Although single introduction events were as effective as multiple events at enabling establishment, the propagule sizes used in the multiple introductions were above the detected threshold for establishment. After three reproductive seasons, population abundance was also a function of propagule size, with rapid increases in abundance only apparent when propagule size exceeded 25 pairs. This was initially assisted by adapted biological traits, including rapid individual somatic growth that helped to overcome demographic bottlenecks.</dc:description>
 </oai_dc:dc>

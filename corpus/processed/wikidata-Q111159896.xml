@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111159896</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111159896</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-019-02106-6</dc:identifier>
   <dc:title>Correction to: Incorporating climate change into invasive species management: insights from managers</dc:title>
@@ -16,10 +17,11 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The article Incorporating climate change into invasive species management: insights from managers, written by Evelyn M. Beaury&lt;/jats:p&gt;</dc:description>
+  <dc:description>The article Incorporating climate change into invasive species management: insights from managers, written by Evelyn M. Beaury</dc:description>
 </oai_dc:dc>

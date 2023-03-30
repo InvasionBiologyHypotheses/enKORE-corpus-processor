@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q43737113</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q43737113</dc:identifier>
   <dc:identifier>doi:10.1079/BER2002151</dc:identifier>
   <dc:title>Insect pests of eucalypts in California: implications of managing invasive species</dc:title>
@@ -9,13 +10,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2002-04-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>California</dc:subject>
   <dc:subject>insect</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;For the first 150 years following their introduction, eucalypts planted in the California landscape were free of both insect pests and diseases. In the last 15 years, numerous herbivorous insect species have been introduced accidentally into the State and have caused significant damage to the trees. Several of these species, e.g. &lt;jats:italic&gt;Phoracantha semipunctata&lt;/jats:italic&gt; (Fabricius), &lt;jats:italic&gt;Phoracantha recurva&lt;/jats:italic&gt; Newman (Coleoptera: Cerambycidae) and &lt;jats:italic&gt;Gonipterus scutellatus&lt;/jats:italic&gt; Gyllenhal (Coleoptera: Curculionidae), have also been introduced into other parts of the world where eucalypts are grown, whereas others, e.g. &lt;jats:italic&gt;Glycaspsis brimblecombei&lt;/jats:italic&gt; Moore (Hemiptera: Spondyliaspidae) and &lt;jats:italic&gt;Eucalyptolyma maideni&lt;/jats:italic&gt; Froggatt (Hemiptera: Spondyliaspidae), are currently restricted to California and Australia. Research programmes have provided management solutions to individual pest problems, but as more pest species are introduced, these solutions must be integrated across broad geographic, horticultural, and economic scales, in a systems approach.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

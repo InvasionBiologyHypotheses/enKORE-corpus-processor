@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64285386</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q64285386</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535581</dc:identifier>
   <dc:identifier>doi:10.1016/J.HELIYON.2019.E01772</dc:identifier>
@@ -10,11 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-05-22</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The spread and persistence of weedy plants in rangelands highlight the need for refinement of existing management techniques and development of novel strategies to address invasions. Strip-seeding - the strategic seeding of a portion of an invaded area to reduce costs and enhance success - is an underutilized management approach that holds promise for reducing weed dominance in grassland habitats. A strip-seeding experiment was established in 2011 in a California grassland where portions (between 0-100%) of invaded plots were seeded with native grasses. In 2016, we assessed the height, above-ground biomass and flower production of two late-season invasive plants: field bindweed and prickly lettuce. We found significant reductions in plant height and flower production (for both target invasives), and biomass (for field bindweed) in many of the seeded strips compared to the unseeded strips. Smaller seed applications demonstrated similar or better utility for weed control compared to greater seed applications, suggesting that this approach can be effective while reducing labor and materials cost of typical restoration management approaches. We did not find evidence that seeded strips provided invasion resistance to unseeded strips. This is possibly due to the lag in native species dispersal and establishment into contiguous unseeded strips, and suggests that strip-seeding might not provide invasion resistance to unseeded strips on timescales that are relevant to managers. However, this work does suggest that strip-seeding native species that overlap in phenology with target invasives can reduce late-season weed dominance on rangelands.</dc:description>
 </oai_dc:dc>

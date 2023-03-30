@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110757727</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110757727</dc:identifier>
   <dc:identifier>doi:10.3354/MEPS13251</dc:identifier>
   <dc:title>High predatory efficiency and abundance drive expected ecological impacts of a marine invasive fish</dc:title>
@@ -11,10 +12,10 @@
   <dc:date>2020-03-05</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive fish</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Inter-Research Science Center</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The ecological impacts of invasive species are highly variable and mediated by many factors, including both habitat and population abundance. Lionfish &lt;jats:italic&gt;Pterois volitans&lt;/jats:italic&gt; are an invasive marine species which have high reported detrimental effects on prey populations, but whose effects relative to native predators are currently unknown for the recently colonized eastern Gulf of Mexico. We used functional response (FR) methodology to assess the ecological impact of lionfish relative to 2 functionally similar native species (red grouper &lt;jats:italic&gt;Epinephelus morio&lt;/jats:italic&gt; and graysby grouper &lt;jats:italic&gt;Cephalopholis cruentata&lt;/jats:italic&gt;) foraging in a heterogeneous environment. We then combined the &lt;jats:italic&gt;per capita&lt;/jats:italic&gt; impact of each species with their field abundance to obtain a Relative Impact Potential (RIP). RIP assesses the broader ecological impact of invasive relative to native predators, the magnitude of which predicts community-level negative effects of invasive species. Lionfish FR and overall consumption rate was intermediate to that of red grouper (higher) and graysby grouper (lower). However, lionfish had the highest capture efficiency of all species, which was invariant of habitat. Much higher field abundance of lionfish resulted in high RIPs relative to both grouper species, demonstrating that the ecological impact of lionfish in this region will be driven mainly by high abundance and high predator efficiency rather than &lt;jats:italic&gt;per capita&lt;/jats:italic&gt; effect. Our comparative study is the first empirical assessment of lionfish &lt;jats:italic&gt;per capita&lt;/jats:italic&gt; impact and RIP in this region and is one of few such studies to quantify the FR of a marine predator.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

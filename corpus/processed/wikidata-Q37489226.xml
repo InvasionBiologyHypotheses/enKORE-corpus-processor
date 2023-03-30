@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37489226</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37489226</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC514755</dc:identifier>
   <dc:identifier>doi:10.1128/AAC.48.9.3491-3497.2004</dc:identifier>
@@ -14,36 +15,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2004-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://journals.asm.org/non-commercial-tdm-license</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Streptococcus pneumoniae</dc:subject>
   <dc:subject>vaccine</dc:subject>
   <dc:subject>pneumococcal vaccine</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>American Society for Microbiology</dc:publisher>
-  <dc:description>&lt;jats:title&gt;ABSTRACT&lt;/jats:title&gt;
-          &lt;jats:p&gt;
-            The emergence of fluoroquinolone resistance in sterile-site isolates of
-            &lt;jats:italic&gt;Streptococcus pneumoniae&lt;/jats:italic&gt;
-            is documented in this study characterizing all invasive levofloxacin-resistant (MIC, ≥8 mg/liter)
-            &lt;jats:italic&gt;S. pneumoniae&lt;/jats:italic&gt;
-            isolates (
-            &lt;jats:italic&gt;n&lt;/jats:italic&gt;
-            = 50) obtained from the Centers for Disease Control and Prevention Active Bacterial Core Surveillance from 1998 to 2002. Resistance among all isolates increased from 0.1% in 1998 to 0.6% in 2001 (
-            &lt;jats:italic&gt;P&lt;/jats:italic&gt;
-            = 0.008) but decreased to 0.4% in 2002, while resistance among vaccine serotypes continued to increase from 0.3% in 1998 to 1.0% in 2002, suggesting that fluoroquinolones continue to exert selective pressure on these vaccine serotypes. Only 22% of resistant isolates were not covered by the conjugate vaccine serogroups. Multilocus sequence typing revealed that 58% of resistant strains were related to five international clones identified by the Pneumococcal Molecular Epidemiology Network, with the Spain
-            &lt;jats:sup&gt;23F&lt;/jats:sup&gt;
-            -1 clone being most frequent (16% of all isolates). Thirty-six percent of the isolates were coresistant to penicillin, 44% were coresistant to macrolides, and 28% were multiresistant to penicillin, macrolides, and fluoroquinolones. Fifty percent of the isolates were resistant to any three drug classes. Ninety-four percent of the isolates had multiple mutations in the quinolone resistance-determining regions of the
-            &lt;jats:italic&gt;gyrA&lt;/jats:italic&gt;
-            ,
-            &lt;jats:italic&gt;gyrB&lt;/jats:italic&gt;
-            ,
-            &lt;jats:italic&gt;parC&lt;/jats:italic&gt;
-            , and
-            &lt;jats:italic&gt;parE&lt;/jats:italic&gt;
-            genes. In 16% of the isolates, there was evidence of an active efflux mechanism. An unusual isolate was found that showed only a single
-            &lt;jats:italic&gt;parE&lt;/jats:italic&gt;
-            mutation and for which the ciprofloxacin MIC was lower (2 mg/liter) than that of levofloxacin (8 mg/liter). Our results suggest that invasive pneumococcal isolates resistant to levofloxacin in the United States show considerable evidence of multiple resistance and of clonal spread.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

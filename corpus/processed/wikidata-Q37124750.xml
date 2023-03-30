@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37124750</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37124750</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754519</dc:identifier>
   <dc:identifier>doi:10.1128/CVI.00135-13</dc:identifier>
@@ -18,19 +19,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-06-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://journals.asm.org/non-commercial-tdm-license</dc:rights>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>American Society for Microbiology</dc:publisher>
-  <dc:description>&lt;jats:title&gt;ABSTRACT&lt;/jats:title&gt;
-          &lt;jats:p&gt;
-            &lt;jats:named-content content-type="genus-species"&gt;Plasmodium falciparum&lt;/jats:named-content&gt;
-            utilizes multiple ligand-receptor interactions for invasion. The invasion ligand EBA-175 is being developed as a major blood-stage vaccine candidate. EBA-175 mediates parasite invasion of host erythrocytes in a sialic acid-dependent manner through its binding to the erythrocyte receptor glycophorin A. In this study, we addressed the ability of naturally acquired human antibodies against the EBA-175 RII erythrocyte-binding domain to inhibit parasite invasion of
-            &lt;jats:italic&gt;ex vivo&lt;/jats:italic&gt;
-            isolates, in relationship to the sialic acid dependence of these parasites. We have determined the presence of antibodies to the EBA-175 RII domain by enzyme-linked immunosorbent assay (ELISA) in individuals from areas of Senegal where malaria is endemic with high and low transmission. Using affinity-purified human antibodies to the EBA-175 RII domain from pooled patient plasma, we have measured the invasion pathway as well as the invasion inhibition of clinical isolates from Senegalese patients in
-            &lt;jats:italic&gt;ex vivo&lt;/jats:italic&gt;
-            assays. Our results suggest that naturally acquired anti-EBA-175 RII antibodies significantly inhibit invasion of Senegalese parasites and that these responses can be significantly enhanced through limiting other ligand-receptor interactions. However, the extent of this functional inhibition by EBA-175 antibodies is not associated with the sialic acid dependence of the parasite strain, suggesting that erythrocyte invasion pathway usage by parasite strains is not driven by antibodies targeting the EBA-175/glycophorin A interaction. This work has implications for vaccine design based on the RII domain of EBA-175 in the context of alternative invasion pathways.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

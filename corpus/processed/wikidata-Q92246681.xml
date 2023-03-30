@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92246681</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92246681</dc:identifier>
   <dc:identifier>doi:10.1016/J.JENVMAN.2019.02.112</dc:identifier>
   <dc:title>Scenarios for the management of invasive Acacia species in a protected area: Implications of clearing efficacy</dc:title>
@@ -10,9 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-03-07</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>In many protected areas in South Africa, invasive Australian Acacia species pose on-going management challenges, perpetuating high long-term management costs. Due to limited availability of resources, conservation actions need to be prioritised within and across Protected Areas (PA). We draw on comprehensive datasets spanning over 20 years from the Table Mountain National Park to model long-term outcomes of clearing Acacia species at different levels of management clearing efficacy. We test a 50 year outlook based on current and 38 incremental levels of management efficacy, ranging from 5 to 100%, to assess under which scenarios a management goal of reducing Acacia density to below 1 plant per hectare for the 22,671 ha protected area is achieved. With the current clearing resources and maximum clearing efficacy (100% control), it would take between 32 and 42 years to attain the management goal. The modelling revealed two main drivers of Acacia persistence. Firstly, germination of seeds added to the seedbank from standing plants made a significantly larger contribution to future clearing requirements than fire stimulated seed germination or the existing (pre-management) seedbank. Secondly the relationship between the number of hectares and management units that could be treated and the efficacy of the treatment was non-linear. When clearing efficacy was decreased from 100% to the current project minimum target of 80% efficacy, the goal was not achieved in all areas, but the area that reached a density of &lt;1 plant per hectare was significantly reduced to 53% of the PA for the simulated 50 years. Results emphasize the need to differentiate between increasing financial resources and increasing efficacy. While increasing financial resources allows for increased effort, this is of little value for Acacia management in the absence of an increase in clearing efficacy, as low quality implementation perpetuates the need for large budgets over time. Conversely, improving efficacy allows for decreased budget requirements over time, allowing fund re-direction to additional areas of alien species management such as the early detection and rapid control of newly introduced species.</dc:description>
 </oai_dc:dc>

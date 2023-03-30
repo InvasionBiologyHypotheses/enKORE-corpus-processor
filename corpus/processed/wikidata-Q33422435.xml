@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33422435</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33422435</dc:identifier>
   <dc:identifier>doi:10.1890/08-0144.1</dc:identifier>
   <dc:title>Management applicability of the intermediate disturbance hypothesis across Mongolian rangeland ecosystems</dc:title>
@@ -12,15 +13,14 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-03-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>Intermediate Disturbance Hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q9003976</dc:subject>
   <dc:subject>hypothesis:Intermediate Disturbance Hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q9003976</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Mongolia</dc:subject>
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The current growing body of evidence for diversity-disturbance relationships suggests that the peaked pattern predicted by the intermediate disturbance hypothesis (IDH) may not be the rule. Even if ecologists could quantify the diversity-disturbance relationship consistent with the IDH, the applicability of the IDH to land management has rarely been addressed. We examined two hypotheses related to the generality and management applicability of the IDH to Mongolian rangeland ecosystems: that the diversity-disturbance relationship varies as a function of landscape condition and that some intermediate scales of grazing can play an important role in terms of sustainable rangeland management through a grazing gradient approach. We quantified the landscape condition of each ecological site using an ordination technique and determined two types of landscape conditions: relatively benign and harsh environmental conditions. At the ecological sites characterized by relatively benign environmental conditions, diversity-disturbance relationships were generally consistent with the IDH, and maximum diversity was observed at some intermediate distance from the source of the grazing gradient. In contrast, the IDH was not supported at most (but not all) sites characterized by relatively harsh environmental conditions. The intermediate levels of grazing were generally located below the ecological threshold representing the points or zones at which disturbance should be limited to prevent drastic changes in ecological conditions, suggesting that there is little "conundrum" with regard to intermediate disturbance in the studied systems in terms of land management. We suggest that the landscape condition is one of the primary factors that cause inconsistencies in diversity-disturbance relationships. The ecological threshold can extend its utility in rangeland management because it also has the compatibility with the maintenance of species diversity. This study thus suggests that some intermediate scales of grazing and ecological thresholds are mutually supportive tools for sustainable management of Mongolian rangelands.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35626473</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35626473</dc:identifier>
   <dc:identifier>doi:10.1111/MEC.13227</dc:identifier>
   <dc:title>Why close relatives make bad neighbours: phylogenetic conservatism in niche preferences and dispersal disproves Darwin's naturalization hypothesis in the thistle tribe</dc:title>
@@ -8,7 +9,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-06-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>Darwin's naturalization hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
   <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
@@ -16,5 +16,4 @@
   <dc:subject>naturalization</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The number of exotic plant species that have been introduced into the United States far exceeds that of other groups of organisms, and many of these have become invasive. As in many regions of the globe, invasive members of the thistle tribe, Cardueae, are highly problematic in the California Floristic Province, an established biodiversity hotspot. While Darwin's naturalization hypothesis posits that plant invaders closely related to native species would be at a disadvantage, evidence has been found that introduced thistles more closely related to native species are more likely to become invasive. To elucidate the mechanisms behind this pattern, we modelled the ecological niches of thistle species present in the province and compared niche similarity between taxa and their evolutionary relatedness, using fossil-calibrated molecular phylogenies of the tribe. The predicted niches of invasive species were found to have higher degrees of overlap with native species than noninvasive introduced species do, and pairwise niche distance was significantly correlated with phylogenetic distance, suggesting phylogenetic niche conservatism. Invasive thistles also displayed superior dispersal capabilities compared to noninvasive introduced species, and these capabilities exhibited a phylogenetic signal. By analysing the modelled ecological niches and dispersal capabilities of over a hundred thistle species, we demonstrate that exapted preferences to the invaded environment may explain why close exotic relatives may make bad neighbours in the thistle tribe.</dc:description>
 </oai_dc:dc>

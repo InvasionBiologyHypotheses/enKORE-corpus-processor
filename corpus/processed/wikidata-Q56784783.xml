@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56784783</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56784783</dc:identifier>
   <dc:identifier>doi:10.1071/WR04042</dc:identifier>
   <dc:title>Wildlife management in Australasia: perceptions of objectives and priorities</dc:title>
@@ -10,11 +11,8 @@
   <dc:date>2005</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>wildlife management</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-The aim of this study was to examine the values and attitudes held by Australasian wildlife managers as they relate to wildlife management issues, and to gain some insight into possible future directions and priorities for Australasian wildlife management. During December 2002 – February 2003, 138 questionnaires were completed by members of the Australasian Wildlife Management Society (AWMS) and registrants of the 2002 AWMS annual conference. Threatened species management, threatened communities/habitats, and management of introduced species were the issues rated as needing the highest priority for the Australasian Wildlife Management Society. Issues such as animal rights, genetically modified organisms and timber harvesting on public lands were the lowest-rating issues. Respondents expressed a strong belief in managing and controlling wildlife to achieve wildlife management objectives, a strong belief that wildlife should be protected and that wildlife managers should minimise the pain and suffering of individual animals, and a belief that resources should be directed towards conserving wildlife populations rather than protecting individual animals from non-threatened populations. While respondents held a strong belief that it is important to consult the community when developing wildlife management policies and programs, there was little support for a comanagerial approach where the community has a significant role to play in decision-making processes.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

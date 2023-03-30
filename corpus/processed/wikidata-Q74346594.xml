@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q74346594</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q74346594</dc:identifier>
   <dc:identifier>doi:10.1016/S0195-6701(98)90170-0</dc:identifier>
   <dc:title>Invasive aspergillosis in severely neutropenic patients over 18 years: impact of intranasal amphotericin B and HEPA filtration</dc:title>
@@ -16,11 +17,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>1998-01-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive aspergillosis</dc:subject>
   <dc:subject>amphotericin B</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The impact of intranasal amphotericin B and high-efficiency particulate air (HEPA) filtration on the incidence of invasive aspergillosis was reviewed in patients from 1977 to 1994 undergoing intensive chemotherapy. Overall, the incidence of proven invasive aspergillosis was reduced from 24.4% (1977-1984) to 7.1% (1985-1991) (P &lt; 0.001) following the introduction of intranasal prophylaxis, but when probable cases of aspergillosis were included and lymphoma cases excluded, there was no change in incidence. Following the introduction of HEPA filtration, patient exposure to aspergillus spores as measured by air sampling was markedly reduced and there were no new cases of invasive aspergillosis. HEPA filtration proved effective in reducing invasive aspergillosis and has allowed increasingly aggressive treatment regimens to be introduced.</dc:description>
 </oai_dc:dc>

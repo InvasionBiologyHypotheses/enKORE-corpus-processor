@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57060923</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q57060923</dc:identifier>
   <dc:identifier>doi:10.1068/D17712</dc:identifier>
   <dc:title>Eradicating Bodies in Invasive Plant Management</dc:title>
@@ -8,11 +9,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://journals.sagepub.com/page/policies/text-and-data-mining-license</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>SAGE Publications</dc:publisher>
-  <dc:description>&lt;jats:p&gt; It is increasingly acknowledged that invasive plant management, although a significant global issue, is a matter of coexistence rather than control. Nevertheless an adversarial rhetoric dominated by discourses of war and winning persists. This paper focuses on the bodies of plants, the animals with which they become entangled, and the humans who are charged with eradicating them. Plants help to rethink bodily difference beyond the human, extending feminist theories that have contributed to increased recognition of nonhuman difference. Bodies are a barely acknowledged scale of invasive plant management, which is usually conceptualised in landscape terms. Our empirical focus is the eradication of three species in northwestern Australia: Mimosa ( Mimosa pigra), Gamba Grass ( Andropogon gayanus), and Neem ( Azadirachta indica). By paying attention to plant difference and illuminating the experience of invasive plant managers, we show how eradication manages the intersecting timespaces of different bodies in order to stop plants becoming collectives. We identify contradictions in the regulation and application of borders, which are less permeable for some animals than for all humans. We also draw attention to the questions of risk—for humans and others—in the process of killing plants. For embodied geographies, a plant perspective opens up new ways of thinking about bodily boundaries: in particular the individual/collective divide. The implication for invasive plant management is that, even at the eradication end of the spectrum, effective management is an uncertain process that involves living in association with invasive plants rather than living separately from them. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

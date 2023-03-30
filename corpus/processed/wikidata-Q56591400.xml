@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56591400</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56591400</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-11-00030.1</dc:identifier>
   <dc:title>Biophysical Correlates with the Distribution of the Invasive Annual Red Brome (Bromus rubens) on a Mojave Desert Landscape</dc:title>
@@ -10,13 +11,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-03</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Bromus rubens</dc:subject>
   <dc:subject>Mojave Desert</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Because of its ability to transform ecosystems by increasing the prevalence of fire, the invasive annual red brome is a priority exotic species for management in arid lands of the southwestern United States. By sampling red brome presence and 97 environmental (climatic, topographic, and soil) and native vegetation (e.g., perennial species richness) variables on 126 sites, we assessed biophysical correlates with red brome distribution on a 755,000-ha (1.9 million ac) Mojave Desert landscape. Brome occupied 55 of 126 (44%) 0.09-ha plots. The simplest models (i.e., those containing the fewest or most easily obtained variables) in multivariate (classification trees and nonparametric multiplicative regression) and univariate (χ&lt;jats:sup&gt;2&lt;/jats:sup&gt;) models often portrayed red brome distribution as well, or nearly as well, as more complicated models containing more variables harder to obtain. The models varied, however, in their abilities for describing brome presence compared with absence. For example, a simple classification tree using only elevation, soil great group, parent material, and vegetation type improved estimates of brome presence for 55% of sites, absences for 87%, and overall for 73% of sites compared with a naïve model containing the observed frequency of brome in the data. Conversely, a more complicated model, including soil boron and sulfur, performed better for presences (96%) than for absences (73%; 83% overall). Results also showed variable support for two general postulates in invasive species science. Red brome distribution was not correlated with soil N, which is inconsistent with the supposition that nutrient-rich soils are more prone to invasion. Brome was correlated with native perennial species richness to support the postulate that exotic species abundance is correlated with species-rich habitats, but the correlation was weak (&lt;jats:italic&gt;r&lt;/jats:italic&gt;= 0.38) and similar in strength to correlations with many other environmental variables. On this relatively low-elevation landscape, the areas currently most invaded by red brome include the higher elevations (&gt; 777 m [2,549 ft]), limestone–sandstone soils, and burrobush and mixed perennial communities. Areas least inhabited by brome are the lowest elevations (&lt; 491 m), gypsum soils, and creosotebush and saltbush communities.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

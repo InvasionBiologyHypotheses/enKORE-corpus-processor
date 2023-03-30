@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34014633</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34014633</dc:identifier>
   <dc:identifier>doi:10.1007/S00267-011-9746-9</dc:identifier>
   <dc:title>The impacts of modern warfare on freshwater ecosystems</dc:title>
@@ -7,12 +8,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2011-09-09</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>fresh water</dc:subject>
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>There is increasing recognition and concern regarding the impacts of modern industrial warfare on the environment. Freshwater ecosystems are perhaps the most vulnerable to warfare-related impacts, which is of concern given that they provide so many essential environmental resources and services to society. Despite this, there has been little work to establish and quantify the types of impacts (both negative and positive) that warfare may have on such systems. This paper firstly highlights why rivers and lakes may be susceptible to warfare-related impacts, before synthesizing the available literature to explore the following main themes: intensification of wartime resource acquisition, use of water as an offensive or defensive weapon, direct and indirect effects of explosive ordnance, increased pollution, introduction of invasive alien species, and positive ecological impacts. This is then followed by a discussion of the implications of such impacts in relation to future warfare, including a consideration of the efficacy of existing legal instruments to protect the environment during conflict, and the trend for war to become more localized and 'informal', and therefore less regulated. Finally, the paper identifies key research foci for understanding and mitigating the effects of warfare on freshwater ecosystems.</dc:description>
 </oai_dc:dc>

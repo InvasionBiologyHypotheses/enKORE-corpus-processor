@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31126212</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31126212</dc:identifier>
   <dc:identifier>doi:10.1002/BIES.201600044</dc:identifier>
   <dc:title>Managing shifting species: Ancient DNA reveals conservation conundrums in a dynamic world</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-02</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>ancient DNA</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The spread of exotic species represents a major driver of biological change across the planet. While dispersal and colonization are natural biological processes, we suggest that the failure to recognize increasing rates of human-facilitated self-introductions may represent a threat to native lineages. Notably, recent biogeographic analyses have revealed numerous cases of biological range shifts in response to anthropogenic impacts and climate change. In particular, ancient DNA analyses have revealed several cases in which lineages traditionally thought to be long-established "natives" are in fact recent colonizers. Such range expansion events have apparently occurred in response to human-mediated native biodiversity declines and ecosystem change, particularly in recently colonized, isolated ecosystems such as New Zealand. While such events can potentially boost local biodiversity, the spread of exotic lineages may also hasten the decline of indigenous species, so it is essential that conservation managers recognize these rapid biotic shifts.​.</dc:description>
 </oai_dc:dc>

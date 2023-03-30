@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q100404484</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q100404484</dc:identifier>
   <dc:identifier>doi:10.1111/GCB.15333</dc:identifier>
   <dc:title>Projecting the continental accumulation of alien species through to 2050</dc:title>
   <dc:creator>Seebens, Hanno</dc:creator>
   <dc:creator>Bacher, Sven</dc:creator>
-  <dc:creator>Blackburn, Tim M</dc:creator>
+  <dc:creator>Blackburn, Tim M.</dc:creator>
   <dc:creator>Capinha, César</dc:creator>
   <dc:creator>Dawson, Wayne</dc:creator>
   <dc:creator>Dullinger, Stefan</dc:creator>
@@ -18,7 +19,7 @@
   <dc:creator>Liebhold, Andrew M</dc:creator>
   <dc:creator>Pattison, Zarah</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Winter, Marten</dc:creator>
   <dc:creator>Essl, Franz</dc:creator>
   <dc:type>journal article</dc:type>
@@ -29,5 +30,5 @@
   <dc:subject>prediction</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Biological invasions have steadily increased over recent centuries. However, we still lack a clear expectation about future trends in alien species numbers. In particular, we do not know whether alien species will continue to accumulate in regional floras and faunas, or whether the pace of accumulation will decrease due to the depletion of native source pools. Here, we apply a new model to simulate future numbers of alien species based on estimated sizes of source pools and dynamics of historical invasions, assuming a continuation of processes in the future as observed in the past (a business-as-usual scenario). We first validated performance of different model versions by conducting a back-casting approach, therefore fitting the model to alien species numbers until 1950 and validating predictions on trends from 1950 to 2005. In a second step, we selected the best performing model that provided the most robust predictions to project trajectories of alien species numbers until 2050. Altogether, this resulted in 3,790 stochastic simulation runs for 38 taxon-continent combinations. We provide the first quantitative projections of future trajectories of alien species numbers for seven major taxonomic groups in eight continents, accounting for variation in sampling intensity and uncertainty in projections. Overall, established alien species numbers per continent were predicted to increase from 2005 to 2050 by 36%. Particularly, strong increases were projected for Europe in absolute (+2,543 ± 237 alien species) and relative terms, followed by Temperate Asia (+1,597 ± 197), Northern America (1,484 ± 74) and Southern America (1,391 ± 258). Among individual taxonomic groups, especially strong increases were projected for invertebrates globally. Declining (but still positive) rates were projected only for Australasia. Our projections provide a first baseline for the assessment of future developments of biological invasions, which will help to inform policies to contain the spread of alien species.</dc:description>
+  <dc:description>Biological invasions have steadily increased over recent centuries. However, we still lack a clear expectation about future trends in alien species numbers. In particular, we do not know whether alien species will continue to accumulate in regional floras and faunas, or whether the pace of accumulation will decrease due to the depletion of native source pools. Here, we apply a new model to simulate future numbers of alien species based on estimated sizes of source pools and dynamics of historical invasions, assuming a continuation of processes in the future as observed in the past (a business-as-usual scenario). We first validated performance of different model versions by conducting a back-casting approach, therefore fitting the model to alien species numbers until 1950 and validating predictions on trends from 1950 to 2005. In a second step, we selected the best performing model that provided the most robust predictions to project trajectories of alien species numbers until 2050. Altogether, this resulted in 3,790 stochastic simulation runs for 38 taxon-continent combinations. We provide the first quantitative projections of future trajectories of alien species numbers for seven major taxonomic groups in eight continents, accounting for variation in sampling intensity and uncertainty in projections. Overall, established alien species numbers per continent were predicted to increase from 2005 to 2050 by 36%. Particularly, strong increases were projected for Europe in absolute (+2,543±237 alien species) and relative terms, followed by Temperate Asia (+1,597±197), Northern America (1,484±74) and Southern America (1,391±258). Among individual taxonomic groups, especially strong increases were projected for invertebrates globally. Declining (but still positive) rates were projected only for Australasia. Our projections provide a first baseline for the assessment of future developments of biological invasions, which will help to inform policies to contain the spread of alien species.</dc:description>
 </oai_dc:dc>

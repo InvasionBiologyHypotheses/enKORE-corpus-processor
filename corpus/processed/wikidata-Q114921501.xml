@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114921501</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114921501</dc:identifier>
   <dc:identifier>doi:10.2298/GSF1205061G</dc:identifier>
   <dc:title>Influence of nitrogen form on growth of invasive species Acer negundo L. and Ailanthus altissima (Mill.) swingle</dc:title>
@@ -14,8 +15,9 @@
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Ailanthus altissima</dc:subject>
+  <dc:subject>Acer negundo</dc:subject>
   <dc:publisher>National Library of Serbia</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Relative amounts of nutrients, especially nitrogen, the most abundant
+  <dc:description>Relative amounts of nutrients, especially nitrogen, the most abundant
    macro-element, and also the distribution of ammonium ions in relation to
    nitrate ions, in the soils of different ecosystems, are determined by many
    factors. The most important are: temperature, pH of substrate, accumulation
@@ -38,5 +40,5 @@
    species is more resistant to the lack of both forms of nitrogen. The fact
    that both species produced significantly more biomass when nitrogen was
    present in both forms may be important in controlling the spread of alien
-   species, or in their potential use in phytoremediation.&lt;/jats:p&gt;</dc:description>
+   species, or in their potential use in phytoremediation.</dc:description>
 </oai_dc:dc>

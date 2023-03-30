@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38776850</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38776850</dc:identifier>
   <dc:identifier>doi:10.1016/J.BREAST.2017.05.001</dc:identifier>
   <dc:title>Impact of 2013 ASCO/CAP guidelines on HER2 determination of invasive breast cancer: A single institution experience using frontline dual-color FISH.</dc:title>
@@ -22,10 +23,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-05-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The new ASCO/CAP guidelines published in 2013 (AC2013) significantly modified the scoring criteria for HER2-FISH, introducing the most controversial change to the HER2-equivocal category. We retrospectively evaluated the impact of AC2013 in a cohort of consecutive invasive breast cancers (IBCs) analyzed with frontline dual-color FISH.2788 consecutive IBCs were reclassified based on the AC2013 guidelines. Clinico-pathological features of equivocal IBCs were compared with HER2-negative and HER2-positive IBCs. FISH HER2-equivocal cases underwent reflex tests: HER2-IHC, RARA-FISH, and SMS-FISH. Overall and disease-free survivals were evaluated in AC2007 HER2-positive patients treated with trastuzumab and in patients that became eligible for target-therapy according to AC2013.Two-hundred HER2-negative cases (7.2%) were classified differently, following AC2013: 0.3% (8/2788) became HER2-positive and 6.9% (192/2788) HER2-equivocal. AC2013, compared with AC2007, significantly increased initial HER2-equivocal cases (6.9%vs1.6%, p &lt; 0.001). AC2013 equivocal-IBCs affected older patients and showed pathological features between HER2-negative and HER2-positive IBCs. After reflex tests, 102 of the 190 equivocal cases (53.7%) were reclassified as HER2-positive, 51 (26.8%) as negative and 37 (19.5%) as equivocal. IHC tested negative in 44.7% of cases, whereas SMS-FISH showed the highest percentage of positive results (45.8%). Clinical outcomes showed no statistically significant differences.Overall, 80.5% of FISH-equivocal cases were solved with at least one reflex test and 3.6% of patients became AC2013 HER2-positive, therefore eligible for target-therapy, but showed clinical outcomes similar to HER2-positive patients treated with trastuzumab. Our data belittle the clinical impact of AC2013 HER2-equivocal reclassification; further prospective randomized clinical studies are necessary to support these findings.</dc:description>
 </oai_dc:dc>

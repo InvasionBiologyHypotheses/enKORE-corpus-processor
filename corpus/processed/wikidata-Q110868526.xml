@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110868526</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110868526</dc:identifier>
   <dc:identifier>doi:10.3390/D12040127</dc:identifier>
   <dc:title>Ecology and Environmental Impact of Myriophyllum heterophyllum, an Aggressive Invader in European Waterways</dc:title>
   <dc:creator>Gross, Elisabeth M.</dc:creator>
-  <dc:creator>Groffier, Hélène</dc:creator>
+  <dc:creator>Groffier, Hélne</dc:creator>
   <dc:creator>Pestelard, Cécile</dc:creator>
   <dc:creator>Hussner, Andreas</dc:creator>
   <dc:type>journal article</dc:type>
@@ -12,9 +13,10 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Myriophyllum heterophyllum</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The submerged evergreen aquatic plant Myriophyllum heterophyllum is among the worst invasive species in Europe, causing severe problems especially in navigation channels but also lentic systems. This review aims to provide a comprehensive overview and update on the current distribution and risks associated with this species in Europe and elsewhere. We provide an evaluation of current identification keys since misidentification can underestimate the extent of its spread. In addition, hybridization with other milfoil species has been reported in North America but seems unlikely in Europe. We further describe in detail the ecology, specifically resource requirements and biotic interactions with other plants, herbivores and pathogens as well as the spread potential of the species. Good knowledge of the autecology and synecology of this species should allow some conclusions about environmental factors possibly related to its invasive growth and is mandatory for the preparation of species-specific management measures. Finally, we outline the status of regulations coming into effect in member states of the European Union (EU) and provide an overview of applied and potential management practices.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The submerged evergreen aquatic plant Myriophyllum heterophyllum is among the worst invasive species in Europe, causing severe problems especially in navigation channels but also lentic systems. This review aims to provide a comprehensive overview and update on the current distribution and risks associated with this species in Europe and elsewhere. We provide an evaluation of current identification keys since misidentification can underestimate the extent of its spread. In addition, hybridization with other milfoil species has been reported in North America but seems unlikely in Europe. We further describe in detail the ecology, specifically resource requirements and biotic interactions with other plants, herbivores and pathogens as well as the spread potential of the species. Good knowledge of the autecology and synecology of this species should allow some conclusions about environmental factors possibly related to its invasive growth and is mandatory for the preparation of species-specific management measures. Finally, we outline the status of regulations coming into effect in member states of the European Union (EU) and provide an overview of applied and potential management practices.</dc:description>
 </oai_dc:dc>

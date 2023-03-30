@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21191474</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q21191474</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800783</dc:identifier>
   <dc:identifier>doi:10.3897/ZOOKEYS.337.5811</dc:identifier>
-  <dc:title>On the occurrence of the fireworm Eurythoe complanata complex (Annelida, Amphinomidae) in the Mediterranean Sea with an updated revision of the alien Mediterranean amphinomids</dc:title>
+  <dc:title>On the occurrence of the fireworm Eurythoecomplanata complex (Annelida, Amphinomidae) in the Mediterranean Sea with an updated revision of the alien Mediterranean amphinomids</dc:title>
   <dc:creator>Arias, Andrés</dc:creator>
   <dc:creator>Barroso, Rômulo</dc:creator>
   <dc:creator>Anadón, Nuria</dc:creator>

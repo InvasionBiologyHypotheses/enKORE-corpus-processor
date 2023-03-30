@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56781781</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56781781</dc:identifier>
   <dc:identifier>doi:10.1071/ZO06011</dc:identifier>
   <dc:title>Behavioural responses of Australian freshwater crayfish (Cherax cainii and Cherax albidus) to exotic fish odour</dc:title>
@@ -16,8 +17,4 @@
   <dc:subject>Cherax albidus</dc:subject>
   <dc:subject>Cherax cainii</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-Exotic finfish and crayfish have been translocated into Western Australia for more than 100 years. Deliberate stocking and subsequent escape from man-made impoundments have resulted in widespread distribution of non-native yabbies (Cherax albidus) and the exotic redfin perch (Perca fluviatilis) in the State’s south-west. Both species are considered invasive and are known to compete with indigenous species for resources. The nature and degree of impact on native marron (Cherax cainii) is unclear and the subject of current debate. Other researchers have hypothesised that invasive species modify their behaviour in the presence of predators in a more rapid and advantageous manner than native species. This greater behavioural plasticity can result in displacement of indigenous species and successful colonisation of invaders. The aim of this study was to investigate behavioural responses of an indigenous crayfish (C. cainii) and an invasive crayfish (C. albidus) to odours from a native predator (Tandanus bostocki) and an exotic predatory fish (P. fluviatilis) present in Western Australia. Crayfish behaviour was observed in individual glass tanks following the addition of odours from native (T. bostocki) or exotic (P. fluviatilis) finfish predators. Marron exhibited minor behavioural modifications when presented with odours from native or exotic finfish. In contrast, the invasive yabby showed greater detection of odours, displaying significant changes in behaviour (P &lt; 0.05). Yabbies also appeared to distinguish between food odour (commercial crayfish feed) and predator odour; however, neither marron nor yabbies displayed behaviour indicating that they could distinguish between a native or exotic fish predator. Results support the hypothesis that invasive crayfish species have a greater capacity for behavioural plasticity than non-invasive crayfish.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

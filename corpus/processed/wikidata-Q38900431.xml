@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38900431</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38900431</dc:identifier>
   <dc:identifier>doi:10.1007/S004420050806</dc:identifier>
   <dc:title>Introduced bivalves in freshwater ecosystems: the impact of Corbicula on organic matter dynamics in a sandy stream</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>1999-05-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>fresh water</dc:subject>
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Previous research on Corbicula fluminea (a well-established, non-native bivalve) has clearly shown that this single species impacts ecosystem processes such as nutrient and dissolved organic carbon cycling in the water column of streams. Surprisingly, little was known about how Corbicula might influence similar processes in streambed sediments. Here, we used both laboratory and field experiments to determine how filter- and pedal-feeding by Corbicula impact organic matter dynamics in the sandy streambed (Goose Creek, Virginia). Corbicula consumed significant quantities of organic material in the streambed when conditions favored pedal-feeding but increased buried organic matter stores when filter-feeding promoted deposition of organic matter (by production of feces and pseudofeces). Corbicula contributed significantly to total benthic community respiration (and thus carbon dioxide production), and used pedal-feeding on benthic organic material to grow at a faster rate than that possible by filter-feeding alone. Corbicula should be an important coupler between benthic and pelagic processes because this bivalve uses organic matter from both the water column and the stream sediments. Given the widespread occurrence of this species, we speculate that the introduction of Corbicula may have had major implications for organic matter dynamics in this and many other streams in the United States.</dc:description>
 </oai_dc:dc>

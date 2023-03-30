@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56772830</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56772830</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-08-108.1</dc:identifier>
   <dc:title>Amur Honeysuckle (Lonicera maackii) Management Method Impacts Restoration of Understory Plants in the Presence of White-Tailed Deer (Odocoileus virginiana)</dc:title>
@@ -9,13 +10,13 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Lonicera maackii</dc:subject>
   <dc:subject>understory</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Management methods for invasive species vary in their restoration success in the presence or absence of herbivores. We investigated the performance of understory plants after management of the invasive shrub Amur honeysuckle using two herbicide-based methods (cut/paint and basal application) in fenced and unfenced plots. The cut/paint method resulted in the removal of above-ground stems, while the basal application method resulted in the dead stems remaining in place. Light level in the cut/paint treatment was higher than in the basal application treatment, which was higher than in the control (no management) treatment. Across fencing treatments, fruit production, height, and subsequent recruitment of transplanted jewelweed were greater in the cut/paint treatment. Across management treatments, jewelweed plants were taller in the fenced treatment. Native species richness was generally higher in the cut/paint and basal application treatments than in the control treatment. There were more jewelweed recruits, more jewelweed fruits, and greater native species richness in the cut/paint treatment than in the basal application treatment in fenced plots, but these measures were similar in both management treatments in unfenced plots. Thus standing dead stems of Amur honeysuckle offered protection from damage in the presence of herbivores, offsetting the advantage of the cut/paint method seen in the fenced plots. There was a trend for more leaves of transplanted wild ginger in the basal application treatment. There were more invasive garlic mustard and more Amur honeysuckle seedlings in the cut/paint treatment than in the control treatment. Our results illustrate the complexities involved in selecting appropriate restoration management techniques given herbivore pressure, differential species response, and presence of multiple invasive species. In our study, we demonstrated that the basal application honeysuckle management method (and therefore perhaps similar methods that leave the dead stems standing) led to increased understory plant restoration success when compared to the cut/paint method.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

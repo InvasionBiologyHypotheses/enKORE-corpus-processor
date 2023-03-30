@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56441183</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56441183</dc:identifier>
   <dc:identifier>doi:10.3897/NATURECONSERVATION.10.4407</dc:identifier>
   <dc:title>Status and management of non-native plant invasion in three of the largest national parks in the United States</dc:title>
@@ -14,6 +15,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>

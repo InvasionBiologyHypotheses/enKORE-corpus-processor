@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57049341</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q57049341</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-16-00015.1</dc:identifier>
   <dc:title>Photosynthetic Performance of Invasive Vincetoxicum Species (Apocynaceae)</dc:title>
@@ -9,12 +10,11 @@
   <dc:creator>Milbrath, Lindsey R.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-09</dc:date>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>photosynthesis</dc:subject>
   <dc:subject>Apocynaceae</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Knowledge of photosynthetic capacity is crucial for fully understanding a species’ invasive potential and for the development of appropriate control strategies. Although growth and reproductive data are available for the invasive swallowwort vines &lt;jats:italic&gt;Vincetoxicum nigrum&lt;/jats:italic&gt; and &lt;jats:italic&gt;V. rossicum&lt;/jats:italic&gt;, photosynthetic data are wanting. These herbaceous, perennial congeners were introduced from separate European ranges during the late 19th century and became invasive during the following century in the northeastern United States and southeastern Canada. &lt;jats:italic&gt;Vincetoxicum nigrum&lt;/jats:italic&gt; has been observed growing mainly in high light environments, whereas &lt;jats:italic&gt;V. rossicum&lt;/jats:italic&gt; occurs across a wide range of light environments, suggesting niche divergence and that different management strategies might be needed for the two species. In this work, we investigated whether the differing habitat associations of these species is reflected in their photosynthetic capacities and leaf morphology. Photosynthetic parameters and specific leaf mass were determined across a range of light environments represented by four field habitats (common garden, forest edge, old field, and forest understory) and two greenhouse environments (high and low light). In the high-light common garden habitat, &lt;jats:italic&gt;V. nigrum&lt;/jats:italic&gt; achieved 37% higher maximum photosynthetic rates than &lt;jats:italic&gt;V. rossicum&lt;/jats:italic&gt;, but photosynthetic performance of the two species was the same in the forest edge habitat. Additionally, species’ performance was virtually identical in high light, low light, and transitions between high and low light regimes in the greenhouse. Specific leaf mass of &lt;jats:italic&gt;V. nigrum&lt;/jats:italic&gt; was 17% higher in the common garden and 19% higher in the greenhouse compared with &lt;jats:italic&gt;V. rossicum.&lt;/jats:italic&gt; Both invasive &lt;jats:italic&gt;Vincetoxicum&lt;/jats:italic&gt; spp. appear capable of growing within a broad range of light environments and their management should be similar regardless of light environment. Other explanations are required to explain the scarcity of &lt;jats:italic&gt;V. nigrum&lt;/jats:italic&gt; in low light natural areas.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

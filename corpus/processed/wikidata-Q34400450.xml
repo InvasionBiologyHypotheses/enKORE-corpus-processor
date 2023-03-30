@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34400450</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34400450</dc:identifier>
   <dc:identifier>doi:10.1111/J.1749-4877.2012.00304.X</dc:identifier>
   <dc:title>Ecological correlates of invasion impact for Burmese pythons in Florida</dc:title>
@@ -10,12 +11,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Florida</dc:subject>
   <dc:subject>Myanmar</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>An invasive population of Burmese pythons (Python molurus bivittatus) is established across several thousand square kilometers of southern Florida and appears to have caused precipitous population declines among several species of native mammals. Why has this giant snake had such great success as an invasive species when many established reptiles have failed to spread? We scored the Burmese python for each of 15 literature-based attributes relative to predefined comparison groups from a diverse range of taxa and provide a review of the natural history and ecology of Burmese pythons relevant to each attribute. We focused on attributes linked to spread and magnitude of impacts rather than establishment success. Our results suggest that attributes related to body size and generalism appeared to be particularly applicable to the Burmese python's success in Florida. The attributes with the highest scores were: high reproductive potential, low vulnerability to predation, large adult body size, large offspring size and high dietary breadth. However, attributes of ectotherms in general and pythons in particular (including predatory mode, energetic efficiency and social interactions) might have also contributed to invasion success. Although establishment risk assessments are an important initial step in prevention of new establishments, evaluating species in terms of their potential for spreading widely and negatively impacting ecosystems might become part of the means by which resource managers prioritize control efforts in environments with large numbers of introduced species.</dc:description>
 </oai_dc:dc>

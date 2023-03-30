@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51870462</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51870462</dc:identifier>
   <dc:identifier>doi:10.1016/J.MBS.2008.08.002</dc:identifier>
   <dc:title>Modelling the impact of an invasive insect via reaction-diffusion.</dc:title>
@@ -9,10 +10,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2008-11-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive insect</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>An exotic, specialist seed chalcid, Megastigmus schimitscheki, has been introduced along with its cedar host seeds from Turkey to southeastern France during the early 1990s. It is now expanding in plantations of Atlas Cedar (Cedrus atlantica). We propose a model to predict the expansion and impact of this insect. This model couples a time-discrete equation for the ovo-larval stage with a two-dimensional reaction-diffusion equation for the adult stage, through a formula linking the solution of the reaction-diffusion equation to a seed attack rate. Two main diffusion operators, of Fokker-Planck and Fickian types, are tested. We show that taking account of the dependence of the insect mobility with respect to spatial heterogeneity, and choosing the appropriate diffusion operator, are critical factors for obtaining good predictions.</dc:description>
 </oai_dc:dc>

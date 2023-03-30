@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35028354</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35028354</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838552</dc:identifier>
   <dc:identifier>doi:10.1093/AOB/MCT227</dc:identifier>
@@ -23,5 +24,4 @@
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background and aims&lt;/h4&gt;Riparian systems are prone to invasion by alien plant species. The spread of invasive riparian plants may be facilitated by hydrochory, the transport of seeds by water, but while ecological studies have highlighted the possible role of upstream source populations in the establishment and persistence of stands of invasive riparian plant species, population genetic studies have as yet not fully addressed the potential role of hydrochoric dispersal in such systems.&lt;h4&gt;Methods&lt;/h4&gt;A population genetics approach based on a replicated bifurcate sampling design is used to test hypotheses consistent with patterns of unidirectional, linear gene flow expected under hydrochoric dispersal of the invasive riparian plant Impatiens glandulifera in two contrasting river systems.&lt;h4&gt;Key results&lt;/h4&gt;A significant increase in levels of genetic diversity downstream was observed, consistent with the accumulation of propagules from upstream source populations, and strong evidence was found for organization of this diversity between different tributaries, reflecting the dendritic organization of the river systems studied.&lt;h4&gt;Conclusions&lt;/h4&gt;These findings indicate that hydrochory, rather than anthropogenic dispersal, is primarily responsible for the spread of I. glandulifera in these river systems, and this is relevant to potential approaches to the control of invasive riparian plant species.</dc:description>
 </oai_dc:dc>

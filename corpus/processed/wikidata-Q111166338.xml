@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111166338</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111166338</dc:identifier>
   <dc:identifier>doi:10.1051/KMAE/2018024</dc:identifier>
   <dc:title>Resistance to dehydration and positive hygrotaxis in the invasive red swamp crayfish Procambarus clarkii</dc:title>
@@ -17,7 +18,7 @@
   <dc:subject>Procambarus clarkii</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>EDP Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The red swamp crayfish &lt;jats:italic&gt;Procambarus clarkii&lt;/jats:italic&gt; is the most cosmopolitan invasive freshwater crayfish species in the world. High tolerance to a wide range of environmental conditions, among which its great ability to survive drought conditions, and the economic importance are the main factors of its spreading success.&lt;/jats:p&gt;
-&lt;jats:p&gt;The present study tests for the first time the survival of this species to different relative humidity (RH) conditions (plastic boxes with humidity controlling salt solutions at 30%, 50%, 70%, 100% RH) and its ability to orient in humidity gradients (dual-choice chambers 50–78% RH, 60–75% RH). &lt;jats:italic&gt;P. clarkii&lt;/jats:italic&gt; shows a great ability to survive out of water, positively related to the RH conditions, surviving more than two days at very low humidity (30% RH) and more than one month at 100% RH. In addition the crayfish showed a positive hygrotaxis spending most of their time in the area of the choice chambers with a higher RH.&lt;/jats:p&gt;
-&lt;jats:p&gt;The results of the present investigation are particularly relevant considering that one of the major challenges to predict and control biological invasion lies in understanding which biological and ecological features might favor the colonization of alien invasive species in new areas.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The red swamp crayfish Procambarus clarkii is the most cosmopolitan invasive freshwater crayfish species in the world. High tolerance to a wide range of environmental conditions, among which its great ability to survive drought conditions, and the economic importance are the main factors of its spreading success.
+The present study tests for the first time the survival of this species to different relative humidity (RH) conditions (plastic boxes with humidity controlling salt solutions at 30%, 50%, 70%, 100% RH) and its ability to orient in humidity gradients (dual-choice chambers 5078% RH, 6075% RH). P. clarkii shows a great ability to survive out of water, positively related to the RH conditions, surviving more than two days at very low humidity (30% RH) and more than one month at 100% RH. In addition the crayfish showed a positive hygrotaxis spending most of their time in the area of the choice chambers with a higher RH.
+The results of the present investigation are particularly relevant considering that one of the major challenges to predict and control biological invasion lies in understanding which biological and ecological features might favor the colonization of alien invasive species in new areas.</dc:description>
 </oai_dc:dc>

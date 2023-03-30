@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56384215</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56384215</dc:identifier>
   <dc:identifier>doi:10.4039/TCE.2015.71</dc:identifier>
   <dc:title>Chemical control in forest pest management</dc:title>
@@ -7,9 +8,8 @@
   <dc:creator>MacQuarrie, Chris J.K.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-01-25</dc:date>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Chemical insecticides have been an important tool in the management of forest insect pests in Canadian forests. Aerial application of insecticides began in the 1920s and expanded greatly after World War II with the widespread adoption of DDT primarily for the suppression of spruce budworm,&lt;jats:italic&gt;Choristoneura fumiferana&lt;/jats:italic&gt;Clemens (Lepidoptera: Tortricidae), and other defoliating insects. Significant progress was made in the development of new chemical insecticides and formulations including fenitrothion and tebufenozide, as well as technology for the application of insecticides against various insect pests. However, widespread opposition to the use of chemical insecticides in forest management has led to significant reductions in the number of insecticides registered for use in Canadian forests. Developments in the past 20 years have focussed on new insecticides, formulations, and technologies that seek to limit the impacts on non-target organisms and subsequent ecosystem effects. These developments have resulted in significant improvements in the management of traditional management targets, such as the spruce budworm (&lt;jats:italic&gt;Choristoneura fumiferana&lt;/jats:italic&gt;(Clemens); Lepidoptera: Tortricidae) but also the management of invasive species, especially wood-boring beetles (Coleoptera: Buprestidae, Cerambycidae).&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

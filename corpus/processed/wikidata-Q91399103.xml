@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91399103</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91399103</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2019.133739</dc:identifier>
   <dc:title>Understanding invasion success of Pseudorasbora parva in the Qinghai-Tibetan Plateau: Insights from life-history and environmental filters</dc:title>
@@ -14,11 +15,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-08-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>Pseudorasbora parva</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Understanding mechanisms of fish invasion success is crucial to controlling existing invasions and preventing potential future spread. Despite considerable advances in explaining successful fish invasions, little is known about how non-native fish successfully invade alpine freshwater ecosystems. Here, we explore the role of fish life history and environmental factors in contributing to invasion success of Pseudorasbora parva on the Qinghai-Tibet Plateau. We compared life history trait differences between native populations in lowland China with introduced populations in lowland Europe and the high elevation Qinghai-Tibet Plateau. Linear mixed-effects models were used to analyse life-history trait variation across elevation gradients. A random forest model was developed to identify the key environmental filters influencing P. parva invasion success. Life history characteristics differed substantially between native and introduced populations. Compared with native Chinese populations, introduced populations in lowland Europe had smaller body size, higher fecundity, smaller oocytes and earlier maturation. Introduced populations in the Qinghai-Tibet Plateau had smaller body size, lower fecundity, smaller oocytes and later maturation compared with native populations. 1-Year-Length and fecundity in all age classes of females significantly increased with increasing elevation. 2-Year-Length and 3-Year-Length of male significantly increased while maximal longevity and length at first maturity were significantly decreased with the elevation gradient. Habitat type, annual mean temperature, elevation, annual precipitation and precipitation seasonality, were the 5 most important predictors for the occurrence of the P. parva. Our study indicates that invasive P. parva adopt different life history strategies on the plateau compared with invasive populations at low elevations, highlighting that more studies are required for a better understanding of biological invasion under extreme conditions. Considering the ongoing hydrologic alteration and climate change, our study also highlighted that P. parva may expand their distribution range in the future on the Qinghai-Tibet Plateau.</dc:description>
 </oai_dc:dc>

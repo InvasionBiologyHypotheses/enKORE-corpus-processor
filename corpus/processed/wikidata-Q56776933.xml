@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56776933</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56776933</dc:identifier>
   <dc:identifier>doi:10.1139/X07-052</dc:identifier>
   <dc:title>Ground-layer response to group selection with legacy-tree retention in a managed northern hardwood forest</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2007-10</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>group selection</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt; We examined the effects of group selection with legacy-tree retention on ground-layer or understory diversity and composition in an uneven-aged northern hardwood forest in the Upper Peninsula of Michigan. We sampled 20 reference plots in the surrounding forest matrix and 49 openings with radii of 0.5 (n = 16), 0.75 (n = 17), and 1.0 (n = 16) times mean canopy tree height (22 m). Resultant opening areas were 321 ± 16 (mean ± SEs), 697 ± 21, and 1256 ± 39 m&lt;jats:sup&gt;2&lt;/jats:sup&gt;, respectively. Each opening contained a centrally located legacy tree. Two years after harvesting, ground-layer diversity was significantly higher in openings than on reference plots (p &lt; 0.05) because of an influx of early seral, wetland, and weedy exotic species. The importance of aggressive ruderals (i.e., Carex ormostachya Wieg. and Rubus idaeus subsp. strigosus (Michx.) Focke) increased significantly (p &lt; 0.001) with increasing opening area. Although the importance and cover of several late-seral species were lower in openings compared with the forest matrix, few species found in the matrix were wholly absent from the openings. These results suggest that ground-layer plant communities in managed northern hardwood forests may display a high degree of resilience to intermediate-intensity disturbances. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51177537</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51177537</dc:identifier>
   <dc:identifier>doi:10.1017/S0031182010001344</dc:identifier>
   <dc:title>Parasites of the shore crab Carcinus maenas (L.): implications for reproductive potential and invasion success.</dc:title>
@@ -12,11 +13,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-09-30</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>Carcinus maenas</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;SUMMARY&lt;/jats:title&gt;&lt;jats:p&gt;The European shore crab, &lt;jats:italic&gt;Carcinus maenas&lt;/jats:italic&gt;, is one of the most successful marine invasive species. Its success has been in part attributed to the loss of parasites, rekindling an interest in host-parasite interactions and impacts on host fitness in this crab. In the present study, we investigated &lt;jats:italic&gt;C. maenas&lt;/jats:italic&gt; populations from Europe, South Africa and Australia for parasites, and assessed their impact on the fitness of male crabs. For the shore crab, testes weight along with success in mating competition is traded off against other life-history traits. We therefore used this parameter as an indicator both for reproductive fitness and a possible resource trade-off in response to parasite infestation. In the native range, crabs infested with &lt;jats:italic&gt;Sacculina carcini&lt;/jats:italic&gt; showed significantly lower testes weight than uninfected crabs. However, helminth parasites did not generally cause reduced testes weights. Crab populations from South Africa and Australia were either parasitized at very low prevalences, or were completely parasite free. However, no population level effect of this parasite release was reflected in testes weight. These findings do not support a severe fitness impact of helminth parasites on &lt;jats:italic&gt;C. maenas&lt;/jats:italic&gt;, which questions the role of parasites on its population dynamics, both in the native area and for invasive success.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

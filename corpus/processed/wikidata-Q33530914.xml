@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33530914</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33530914</dc:identifier>
   <dc:identifier>doi:10.1111/J.1523-1739.2009.01437.X</dc:identifier>
   <dc:title>From adaptive management to adjustive management: a pragmatic account of biodiversity values</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-02-11</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The conservation of biodiversity poses an exceptionally difficult problem in that it needs to be effective in a context of double uncertainty: scientific (i.e., how to conserve biodiversity) and normative (i.e., which biodiversity to conserve and why). Although adaptive management offers a promising approach to overcome scientific uncertainty, normative uncertainty is seldom tackled by conservation science. We expanded on the approach proposed by adaptive-management theorists by devising an integrative and iterative approach to conservation that encompasses both types of uncertainty. Inspired by environmental pragmatism, we suggest that moral values at stake in biodiversity conservation are plastic and that a plurality of individual normative positions can coexist and evolve. Moral values should thus be explored through an experimental process as additional parameters to be incorporated in the traditional adaptive-management approach. As such, moral values should also be monitored by environmental ethicists working side by side with scientists and managers on conservation projects. Acknowledging the diversity of moral values and integrating them in a process of collective deliberation will help overcome the normative uncertainty. We used Dewey's distinction between adaptation and adjustment to offer a new paradigm built around what we call adjustive management, which reflects both the uncertainty and the likely evolution of the moral values humans attribute to biodiversity. We illustrate how this paradigm relates to practical conservation decisions by exploring the case of the Sacred Ibis (Threskiornis aethiopicus), an alien species in France that is the target of an eradication plan undertaken with little regard for moral issues. We propose that a more satisfying result of efforts to control Sacred Ibis could have been reached by rerouting the traditional feedback loop of adaptive management to include a normative inquiry. This adjustive management approach now needs to be tested in real-case conservation programs.</dc:description>
 </oai_dc:dc>

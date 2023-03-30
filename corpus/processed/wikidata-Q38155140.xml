@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38155140</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38155140</dc:identifier>
   <dc:identifier>doi:10.1002/PS.3670</dc:identifier>
   <dc:title>From integrated pest management to integrated pest eradication: technologies and future needs</dc:title>
@@ -13,9 +14,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-02-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;With growing globalization and trade, insect incursions are increasing worldwide. A proportion of incursions involve pests of major economic crops (e.g.Mediterranean fruit fly), conservation value (e.g. tramp ants) or health significance(e.g.mosquitoes), and maybe the targets of eradication programmes. Historically, such responses have included the use of broad spectrum insecticides. However, with increasing public awareness of the negative aspects of pesticides, new environmentally friendly and effective techniques are needed. Here, we review and evaluate a range of selective to broad-spectrum tactical options for suppression which either have, or show potential for, integration within arthropod eradication programmes.&lt;h4&gt;Results&lt;/h4&gt;Most of the available technologies have their roots in pest management, but higher efficacy is required. Further refinement may be needed for use in eradication. Integration of several tactics is usually needed, as compatible tools can be used simultaneously to target different parts of the pest life cycle. However, not all technologies are fully compatible; for example, the simultaneous use of mass trapping and the sterile insect technique (SIT) may be suboptimal, although sequential application may still be effective.&lt;h4&gt;Conclusions&lt;/h4&gt;Broad-spectrum insecticides are generally incompatible with some biologically based technologies such as the SIT, but may be used to reduce the population so that density-dependent tactics can be used. Several novel technologies with fewer nontarget impacts have been proposed in recent years, and need to be properly evaluated for their applicability to insecteradication. Overall, there are still major gaps in surveillance and selective eradication technologies for most insects.</dc:description>
 </oai_dc:dc>

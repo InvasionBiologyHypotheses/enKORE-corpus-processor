@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31137523</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31137523</dc:identifier>
   <dc:identifier>doi:10.1002/EAP.1383</dc:identifier>
   <dc:title>Inferring invasive species abundance using removal data from management actions</dc:title>
@@ -13,12 +14,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-19</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Evaluation of the progress of management programs for invasive species is crucial for demonstrating impacts to stakeholders and strategic planning of resource allocation. Estimates of abundance before and after management activities can serve as a useful metric of population management programs. However, many methods of estimating population size are too labor intensive and costly to implement, posing restrictive levels of burden on operational programs. Removal models are a reliable method for estimating abundance before and after management using data from the removal activities exclusively, thus requiring no work in addition to management. We developed a Bayesian hierarchical model to estimate abundance from removal data accounting for varying levels of effort, and used simulations to assess the conditions under which reliable population estimates are obtained. We applied this model to estimate site-specific abundance of an invasive species, feral swine (Sus scrofa), using removal data from aerial gunning in 59 site/time-frame combinations (480-19,600 acres) throughout Oklahoma and Texas, USA. Simulations showed that abundance estimates were generally accurate when effective removal rates (removal rate accounting for total effort) were above 0.40. However, when abundances were small (&lt;50) the effective removal rate needed to accurately estimates abundances was considerably higher (0.70). Based on our post-validation method, 78% of our site/time frame estimates were accurate. To use this modeling framework it is important to have multiple removals (more than three) within a time frame during which demographic changes are minimized (i.e., a closed population; ≤3 months for feral swine). Our results show that the probability of accurately estimating abundance from this model improves with increased sampling effort (8+ flight hours across the 3-month window is best) and increased removal rate. Based on the inverse relationship between inaccurate abundances and inaccurate removal rates, we suggest auxiliary information that could be collected and included in the model as covariates (e.g., habitat effects, differences between pilots) to improve accuracy of removal rates and hence abundance estimates.</dc:description>
 </oai_dc:dc>

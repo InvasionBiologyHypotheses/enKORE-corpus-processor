@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46302227</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46302227</dc:identifier>
   <dc:identifier>doi:10.1111/COBI.13031</dc:identifier>
   <dc:title>The need for spatially explicit quantification of benefits in invasive-species management</dc:title>
-  <dc:creator>Januchowski‐Hartley, Stephanie R.</dc:creator>
+  <dc:creator>JanuchowskiHartley, Stephanie R.</dc:creator>
   <dc:creator>Adams, Vanessa M.</dc:creator>
   <dc:creator>Hermoso, Virgilio</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2017-10-30</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Worldwide, invasive species are a leading driver of environmental change across terrestrial, marine, and freshwater environments and cost billions of dollars annually in ecological damages and economic losses. Resources limit invasive-species control, and planning processes are needed to identify cost-effective solutions. Thus, studies are increasingly considering spatially variable natural and socioeconomic assets (e.g., species persistence, recreational fishing) when planning the allocation of actions for invasive-species management. There is a need to improve understanding of how such assets are considered in invasive-species management. We reviewed over 1600 studies focused on management of invasive species, including flora and fauna. Eighty-four of these studies were included in our final analysis because they focused on the prioritization of actions for invasive species management. Forty-five percent (n = 38) of these studies were based on spatial optimization methods, and 35% (n = 13) accounted for spatially variable assets. Across all 84 optimization studies considered, 27% (n = 23) explicitly accounted for spatially variable assets. Based on our findings, we further explored the potential costs and benefits to invasive species management when spatially variable assets are explicitly considered or not. To include spatially variable assets in decision-making processes that guide invasive-species management there is a need to quantify environmental responses to invasive species and to enhance understanding of potential impacts of invasive species on different natural or socioeconomic assets. We suggest these gaps could be filled by systematic reviews, quantifying invasive species impacts on native species at different periods, and broadening sources and enhancing sharing of knowledge.</dc:description>
 </oai_dc:dc>

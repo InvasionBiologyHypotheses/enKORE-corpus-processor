@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58419499</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q58419499</dc:identifier>
   <dc:identifier>http://eprints.whiterose.ac.uk/128203</dc:identifier>
   <dc:identifier>doi:10.3354/DAO03216</dc:identifier>
@@ -16,9 +17,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-05-07</dc:date>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Carcinus maenas</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Inter-Research Science Center</dc:publisher>
-  <dc:description>The green crab Carcinus maenas is an invader on the Atlantic coast of Canada and the USA. In these locations, crab populations have facilitated the development of a legal fishery in which C. maenas is caught and sold, mainly for use as bait to capture economically important crustaceans such as American lobster Homarus americanus. The paucity of knowledge on the symbionts of invasive C. maenas in Canada and their potential for transfer to lobsters poses a potential risk of unintended transmission. We carried out a histological survey for symbionts of C. maenas from their native range in Northern Europe (in the UK and Faroe Islands), and invasive range in Atlantic Canada. In total, 19 separate symbiotic associations were identified from C. maenas collected from 27 sites. These included metazoan parasites (nematodes, Profilicollis botulus, Sacculina carcini, Microphallidae, ectoparasitic crustaceans), microbial eukaryotes (ciliates, Hematodinium sp., Haplosporidium littoralis, Ameson pulvis, Parahepatospora carcini, gregarines, amoebae), bacteria (Rickettsia-like organism, milky disease), and viral pathogens (parvo-like virus, herpes-like virus, iridovirus, Carcinus maenas bacilliform virus and a haemocyte-infecting rod-shaped virus). Hematodinium sp. were not observed in the Canadian population; however, parasites such as Trematoda and Acanthocephala were present in all countries despite their complex, multi-species lifecycles. Some pathogens may pose a risk of transmission to other decapods and native fauna via the use of this host in the bait industry, such as the discovery of a virus resembling the previously described white spot syndrome virus (WSSV), B-virus and 'rod-shaped virus' (RV-CM) and amoebae, which have previously been found to cause disease in aquaculture (e.g. Salmo salar) and fisheries species (e.g. H. americanus).</dc:description>
 </oai_dc:dc>

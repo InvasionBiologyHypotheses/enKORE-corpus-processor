@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56654718</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56654718</dc:identifier>
   <dc:identifier>doi:10.1002/ECY.2384</dc:identifier>
   <dc:title>Chronic impacts of invasive herbivores on a foundational forest species: a whole-tree perspective</dc:title>
@@ -14,12 +15,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-06-29</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#am</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>herbivory</dc:subject>
   <dc:subject>herbivore</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Forests make up a large portion of terrestrial plant biomass, and the long-lived woody plants that dominate them possess an array of traits that deter consumption by forest pests. Although often extremely effective against native consumers, invasive species that avoid or overcome these defenses can wreak havoc on trees and surrounding ecosystems. This is especially true when multiple invasive species co-occur, since interactions between invasive herbivores may yield non-additive effects on the host. While the threat posed by invasive forest pests is well known, long-term field experiments are necessary to explore these consumer-host interactions at appropriate spatial and temporal scales. Moreover, it is important to measure multiple variables to get a "whole-plant" picture of their combined impact. We report the results of a 4-yr field experiment addressing the individual and combined impacts of two invasive herbivores, the hemlock woolly adelgid (Adelges tsugae) and elongate hemlock scale (Fiorinia externa), on native eastern hemlock (Tsuga canadensis) in southern New England. In 2011, we planted 200 hemlock saplings into a temperate forest understory and experimentally manipulated the presence/absence of both herbivore species; in 2015, we harvested the 88 remaining saplings and assessed plant physiology, growth, and resource allocation. Adelgids strongly affected hemlock growth: infested saplings had lower above/belowground biomass ratios, more needle loss, and produced fewer new needles than control saplings. Hemlock scale did not alter plant biomass allocation or growth, and its co-occurrence did not alter the impact of adelgid. While both adelgid and scale impacted the concentrations of primary metabolites, adelgid effects were more pronounced. Adelgid feeding simultaneously increased free amino acids local to feeding sites and a ~30% reduction in starch. The cumulative impact of adelgid-induced needle loss, manipulation of nitrogen pools, and the loss of stored resources likely accelerates host decline through disruption of homeostatic source-sink dynamics occurring at the whole-plant level. Our research stresses the importance of considering long-term impacts to predict how plants will cope with contemporary pressures experienced in disturbed forests.</dc:description>
 </oai_dc:dc>

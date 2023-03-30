@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q47728883</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q47728883</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2017.12.316</dc:identifier>
   <dc:title>Functional diversity measures revealed impacts of non-native species and habitat degradation on species-poor freshwater fish assemblages</dc:title>
@@ -11,12 +12,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-01-04</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>fresh water</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Trait-based ecology has been developed for decades to infer ecosystem responses to stressors based on the functional structure of communities, yet its value in species-poor systems is largely unknown. Here, we used an extensive dataset in a Spanish region highly prone to non-native fish invasions (15 catchments, N=389 sites) to assess for the first time how species-poor communities respond to large-scale environmental gradients using a taxonomic and functional trait-based approach in riverine fish. We examined total species richness and three functional trait-based indices available when many sites have ≤3 species (specialization, FSpe; originality, FOri and entropy, FEnt). We assessed the responses of these taxonomic and functional indices along gradients of altitude, water pollution, physical habitat degradation and non-native fish biomass. Whilst species richness was relatively sensitive to spatial effects, functional diversity indices were responsive across natural and anthropogenic gradients. All four diversity measures declined with altitude but this decline was modulated by physical habitat degradation (richness, FSpe and FEnt) and the non-native:total fish biomass ratio (FSpe and FOri) in ways that varied between indices. Furthermore, FSpe and FOri were significantly correlated with Total Nitrogen. Non-native fish were a major component of the taxonomic and functional structure of fish communities, raising concerns about potential misdiagnosis between invaded and environmentally-degraded river reaches. Such misdiagnosis was evident in a regional fish index widely used in official monitoring programs. We recommend the application of FSpe and FOri to extensive datasets from monitoring programs in order to generate valuable cross-system information about the impacts of non-native species and habitat degradation, even in species-poor systems. Scoring non-native species apart from habitat degradation in the indices used to determine ecosystem health is essential to develop better management strategies.</dc:description>
 </oai_dc:dc>

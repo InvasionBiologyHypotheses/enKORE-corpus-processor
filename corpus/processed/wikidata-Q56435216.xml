@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56435216</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56435216</dc:identifier>
   <dc:identifier>doi:10.1080/14634988.2015.1032163</dc:identifier>
   <dc:title>Environmental conditions, freshwater fishes and fishery management in the Ukraine</dc:title>
@@ -8,10 +9,10 @@
   <dc:date>2015-04-03</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>fresh water</dc:subject>
   <dc:subject>Ukraine</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Michigan State University Press</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Ukraine, with a total area of almost 604,000 km2, has 73,000 rivers and streams and about 20,000 lakes and estuaries. These aquatic resources belong to the Baltic Sea and the Black Sea (including the Sea of Azov) basins, and are inhabited by at least 137 fish species. Over the last 40–50 years, the freshwater fish fauna of Ukraine waters has changed considerably. Intensive fishing based on non-biological principles in the absence of aquaculture assistance caused significant degradation of fish populations: in particular, the replacement of long-life cycle species by short-life cycle species and “biological pollution” as a result of intentional and unintentional introductions. Twenty new exotic species were introduced and some of them became established. At the same time, a number of long-life cycle and migratory fishes, which were the most important for commercial fisheries, became extirpated. However, the growing number of nature reserves of different levels and categories gives some reasons to hope for stabilization of fish diversity in general and its possible improvements in the future. The freshwater fishery needs further modernization based on advanced principles that could guarantee a sustainable use of freshwater fish resources.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

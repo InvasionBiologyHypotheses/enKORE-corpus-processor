@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60469190</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q60469190</dc:identifier>
   <dc:identifier>doi:10.15560/14.2.379</dc:identifier>
   <dc:title>Non-native reef fishes in the Southwest Atlantic Ocean: a recent record of Heniochus acuminatus (Linnaeus, 1758) (Perciformes, Chaetodontidae) and biological aspects of Chromis limbata (Valenciennes, 1833) (Perciformes, Pomacentridae)</dc:title>
@@ -16,5 +17,5 @@
   <dc:subject>Chromis limbata</dc:subject>
   <dc:subject>Pomacentridae</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;In the present paper, we document a recent record of the Bannerfish, &lt;jats:italic&gt;Heniochus acuminatus&lt;/jats:italic&gt;, an Indo-Pacific species, in the southwest Atlantic Ocean and comment on biological aspects of the Azores Chromis, &lt;jats:italic&gt;Chromis limbata&lt;/jats:italic&gt;, an invasive reef fish in the western Atlantic Ocean. We suggest that investigations of invasive species along the Brazilian coast can use data provided by citizen science, strengthening the non-native reef fish control strategies.&lt;/jats:p&gt;</dc:description>
+  <dc:description>In the present paper, we document a recent record of the Bannerfish, Heniochus acuminatus, an Indo-Pacific species, in the southwest Atlantic Ocean and comment on biological aspects of the Azores Chromis, Chromis limbata, an invasive reef fish in the western Atlantic Ocean. We suggest that investigations of invasive species along the Brazilian coast can use data provided by citizen science, strengthening the non-native reef fish control strategies.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56880679</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56880679</dc:identifier>
   <dc:identifier>doi:10.1111/OIK.04530</dc:identifier>
   <dc:title>The differential impact of a native and a non-native ragwort species (Senecioneae) on the first and second trophic level of the rhizosphere food web</dc:title>
@@ -10,13 +11,13 @@
   <dc:creator>Elsen, Sven J. J.</dc:creator>
   <dc:creator>Mooijman, Paul J. W.</dc:creator>
   <dc:creator>Quist, Casper W.</dc:creator>
-  <dc:creator>Vervoort, Mariëtte T. W.</dc:creator>
+  <dc:creator>Vervoort, Maritte T. W.</dc:creator>
   <dc:creator>Helder, Johannes</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2017-06-27</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>rhizosphere</dc:subject>
   <dc:subject>food web</dc:subject>
   <dc:subject>invasion impact</dc:subject>

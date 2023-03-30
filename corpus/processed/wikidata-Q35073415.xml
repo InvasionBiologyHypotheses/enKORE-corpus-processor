@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35073415</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35073415</dc:identifier>
   <dc:identifier>doi:10.1890/12-1910.1</dc:identifier>
   <dc:title>Dissecting impact of plant invaders: do invaders behave differently in the new range?</dc:title>
@@ -10,9 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-10-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Knowledge from basic plant ecology suggests that impact of one plant species on another is driven by either competition for the same limiting resources, or by unique plant traits. These processes might be context specific, explaining a differential impact of exotic plant invaders in the native vs. introduced range. With the help of a conceptual framework, we aimed at identifying the relationship between invader biomass and impact in the invasive Centaurea stoebe by conducting pairwise competition experiments with 15 European (old) and 15 North American (new) neighboring species. Old neighbors grew larger and could use available soil moisture more efficiently for growth than new neighbors. Interestingly, biomass of C. stoebe explained a substantial amount of the variation in biomass of the coevolved neighbors, but not of the new "naive" neighbors. Thus, impact in the home range appears to be driven by competition for the same limiting resources, but by other factors in the introduced range, possibly by exploitation of resources that are not used by the new neighbors or by interference competition. This distinction has important consequences for the management of invasive species, as in our study ecosystem recovery is less likely after simple biomass reduction.</dc:description>
 </oai_dc:dc>

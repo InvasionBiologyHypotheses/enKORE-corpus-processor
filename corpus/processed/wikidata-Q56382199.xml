@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56382199</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56382199</dc:identifier>
   <dc:identifier>doi:10.1007/S11160-016-9436-Z</dc:identifier>
   <dc:title>A review of growth and life-history traits of native and non-native European populations of black bullhead Ameiurus melas</dc:title>
@@ -7,8 +8,8 @@
   <dc:creator>Tarkan, Ali Serhan</dc:creator>
   <dc:creator>Masson, Gérard</dc:creator>
   <dc:creator>Godard, Michael J.</dc:creator>
-  <dc:creator>Koščo, Ján</dc:creator>
-  <dc:creator>Kováč, Vladimír</dc:creator>
+  <dc:creator>Koo, Ján</dc:creator>
+  <dc:creator>Ková, Vladimír</dc:creator>
   <dc:creator>Novomeská, Andrea</dc:creator>
   <dc:creator>Miranda, Rafael</dc:creator>
   <dc:creator>Cucherousset, Julien</dc:creator>

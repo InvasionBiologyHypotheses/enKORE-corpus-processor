@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90243331</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q90243331</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6501943</dc:identifier>
   <dc:identifier>doi:10.1098/RSPB.2019.0036</dc:identifier>
@@ -13,16 +14,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-04-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>population dynamics</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>complex network</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            The number of released individuals, which is a component of propagule pressure, is considered to be a major driver for the establishment success of non-native species. However, propagule pressure is often assumed to result from single or few release events, which does not necessarily apply to the frequent releases of invertebrates or other taxa through global transport. For instance, the high intensity of global shipping may result in frequent releases of large numbers of individuals, and the complexity of shipping dynamics impedes predictions of invasion dynamics. Here, we present a mathematical model for the spread of planktonic organisms by global shipping, using the history of movements by 33 566 ships among 1477 ports to simulate population dynamics for the comb jelly
-            &lt;jats:italic&gt;Mnemiopsis leidyi&lt;/jats:italic&gt;
-            as a case study. The degree of propagule pressure at one site resulted from the coincident arrival of individuals from other sites with native or non-native populations. Key to sequential spread in European waters was a readily available source of propagules and a suitable recipient environment. These propagules were derived from previously introduced ‘bridgehead’ populations supplemented with those from native sources. Invasion success is therefore determined by the complex interaction of global shipping and local population dynamics. The general findings probably hold true for the spread of species in other complex systems, such as insects or plant seeds exchanged via commercial trade or transport.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

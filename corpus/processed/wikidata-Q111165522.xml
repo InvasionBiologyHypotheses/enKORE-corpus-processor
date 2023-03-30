@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111165522</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111165522</dc:identifier>
   <dc:identifier>doi:10.1017/INP.2017.39</dc:identifier>
   <dc:title>Not All Roads Lead to Rome: A Meta-analysis of Invasive Plant Impact Methodology</dc:title>
@@ -7,10 +8,9 @@
   <dc:creator>Barney, Jacob N.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2017-12-28</dc:date>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The negative effects of invasive plant species on native ecosystems, which can be large and long-lasting, are the primary justifications for their research and management. Tremendous effort is focused on quantifying the ecological impacts of invasive plants, though two different methods are primarily used: observational (compare invaded and uninvaded) and removals (compare invaded and invader removal). However, it is unknown whether these methods, which differ in their assumptions and execution, yield similar results, which could affect our ability to draw broad conclusions within and across studies. Therefore, we performed a meta-analysis on 174 studies that described 547 impacts of 72 invasive plants to test the effect of study method, invader cover, and removal period on the direction and magnitude of impact. Overall, by only considering impact magnitude and not direction, both observational and removal methods yielded similar results—invasive plants are changing most aspects of the ecosystem—and the variation among species and study systems was dramatically reduced compared with traditional, directionally focused studies. This is contrary to a similar analysis that did not control for directionality of impacts, which found overall differences in impact depended on methodology. However, even when the effects of study ecosystem, invader life-form, and impact type were accounted for, significant differences occurred between removal and observational studies. Particularly vulnerable systems appear to be those that would be more greatly disturbed by the removal of the target species, such as tree species or invasive plants in riparian areas. Additionally, impact magnitude increased with invader cover and removal time. We confirm that invasive plants impact the systems they invade in a nonuniform manner; however, we suggest some study conditions may be more sensitive to study methodology. Careful consideration should be given as to which methodology is used in the context of the study system.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

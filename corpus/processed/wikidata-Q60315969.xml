@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60315969</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q60315969</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-003-1250-3</dc:identifier>
   <dc:title>Are impacts of an exotic predator on a stream food web influenced by disturbance history?</dc:title>
@@ -8,11 +9,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2003-05-28</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>food web</dc:subject>
   <dc:subject>non-native predator</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Predatory species have been introduced to habitats spanning a wide range of environmental conditions. To better understand the consequences of predation in natural communities we need to examine how variations in abiotic factors modify the influence of predation. The effects of introduced predators may vary amongst habitats if natural disturbance affects the abundance and taxonomic composition of consumers and their resources, or the predator alters recolonisation after disturbance. We tested whether a bed-moving disturbance altered subsequent interactions involving native and introduced predatory fish, invertebrate grazers and algae in experimental channels within a New Zealand stream. Disturbance reduced the abundance of invertebrates by 84%, and induced mortality of Conoesucidae caddisflies. However, the relative abundance of taxa changed little immediately following the disturbance. Invertebrate communities recovered following disturbance in fishless channels and those with native galaxiids (Galaxias vulgaris), and were almost indistinguishable from undisturbed fishless controls after 2 weeks. Invertebrate abundance declined and algal abundance increased in channels with exotic brown trout (Salmo trutta) and their effect was strongest in previously disturbed channels. However, predators and disturbance only had interactive effects on grazer emigration rates. Trout affected grazers through direct consumption (e.g. Conoesucidae caddisflies), and induced higher emigration rates of grazers from channels via drift (e.g. the mayfly Deleatidium). The effects of predatory trout and galaxiids combined differed in disturbed and stable channels. The observed combined effects of predatory trout and galaxiids on invertebrate grazers were lower than expected in stable channels partly due to low emigration rates of Conoesucidae, whereas emigration of grazers was higher than expected in the disturbed channels. The biomass of algae was higher than expected in disturbed channels with both predators. Collectively, our results indicate that predator substitutability and the non-lethal effects of introduced predators varied depending on disturbance history, but their effects on the biomass of grazers and algae did not.</dc:description>
 </oai_dc:dc>

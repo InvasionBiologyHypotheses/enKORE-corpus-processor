@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33240461</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33240461</dc:identifier>
   <dc:identifier>doi:10.1111/J.1469-8137.2006.01715.X</dc:identifier>
   <dc:title>Soil biota and invasive plants</dc:title>
@@ -7,7 +8,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2006-01-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>Enhanced Mutualism Hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q114241720</dc:subject>
   <dc:subject>hypothesis:Enhanced Mutualism Hypothesis</dc:subject>
@@ -17,5 +17,4 @@
   <dc:subject>soil biota</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Interactions between plants and soil biota resist invasion by some nonnative plants and facilitate others. In this review, we organize research and ideas about the role of soil biota as drivers of invasion by nonnative plants and how soil biota may fit into hypotheses proposed for invasive success. For example, some invasive species benefit from being introduced into regions of the world where they encounter fewer soil-borne enemies than in their native ranges. Other invasives encounter novel but strong soil mutualists which enhance their invasive success. Leaving below-ground natural enemies behind or encountering strong mutualists can enhance invasions, but indigenous enemies in soils or the absence of key soil mutualists can help native communities resist invasions. Furthermore, inhibitory and beneficial effects of soil biota on plants can accelerate or decelerate over time depending on the net effect of accumulating pathogenic and mutualistic soil organisms. These 'feedback' relationships may alter plant-soil biota interactions in ways that may facilitate invasion and inhibit re-establishment by native species. Although soil biota affect nonnative plant invasions in many different ways, research on the topic is broadening our understanding of why invasive plants can be so astoundingly successful and expanding our perspectives on the drivers of natural community organization.</dc:description>
 </oai_dc:dc>

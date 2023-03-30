@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114947113</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114947113</dc:identifier>
   <dc:identifier>doi:10.1017/S0376892900036298</dc:identifier>
   <dc:title>Successful Control of the Floating Weed &lt;i&gt;Salvinia molesta&lt;/i&gt; in Papua New Guinea: A Useful Biological Invasion Neutralizes a Disastrous One</dc:title>
@@ -7,13 +8,13 @@
   <dc:creator>Room, Peter M.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>1986-07-02</dc:date>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>Salvinia molesta</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;&lt;jats:italic&gt;Salvinia molesta&lt;/jats:italic&gt;, an aquatic weed native of Brazil, entered the floodplain of the Sepik River in Papua New Guinea in the early 1970s. It caused great distress to the local people by increasing exponentially to form thick mats covering many lakes and channels. A beetle from Brazil, &lt;jats:italic&gt;Cyrtobagous salviniae&lt;/jats:italic&gt;, was established in one lagoon in 1982 and over the next 2 years 900,000 adults were redistributed manually among another 130 lagoons and lakes. Rates of beetle population increase (r) were close to 0.042 adult per adult per day in most lagoons. Local dispersal occurred when population densities reached 15 adults per kg of the Salvinia, damaging between 70% and 90% of Salvinia buds. Feeding by adults and larvae of the beetle caused entire mats of Salvinia to turn brown, die, and sink, but no deleterious changes in water quality were observed.&lt;/jats:p&gt;&lt;jats:p&gt;The time taken for beetles to spread throughout a lagoon and for the weed to be controlled was generally 12–18 months, depending on the area of the Salvinia mat, its thickness, and its mobility when blown by the wind. Herbicide was used to aid establishment of the beetle at one site by thinning a thick mat which had been colonized by sudd vegetation. An equilibrium appeared to be reached with the Salvinia present at &lt; 1% of its former populationdensity.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

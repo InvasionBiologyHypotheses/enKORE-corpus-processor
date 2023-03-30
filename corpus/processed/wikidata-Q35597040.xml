@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35597040</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35597040</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640118</dc:identifier>
   <dc:identifier>doi:10.1093/AOB/MCV032</dc:identifier>
@@ -12,11 +13,11 @@
   <dc:date>2015-04-07</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>shrub</dc:subject>
   <dc:subject>climate impact research</dc:subject>
   <dc:subject>phenology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background and aims&lt;/h4&gt;Climate change is advancing the leaf-out times of many plant species and mostly extending the growing season in temperate ecosystems. Laboratory experiments using twig cuttings from woody plant species present an affordable, easily replicated approach to investigate the relative importance of factors such as winter chilling, photoperiod, spring warming and frost tolerance on the leafing-out times of plant communities. This Viewpoint article demonstrates how the results of these experiments deepen our understanding beyond what is possible via analyses of remote sensing and field observation data, and can be used to improve climate change forecasts of shifts in phenology, ecosystem processes and ecological interactions.&lt;h4&gt;Scope&lt;/h4&gt;The twig method involves cutting dormant twigs from trees, shrubs and vines on a single date or at intervals over the course of the winter and early spring, placing them in containers of water in controlled environments, and regularly recording leaf-out, flowering or other phenomena. Prior to or following leaf-out or flowering, twigs may be assigned to treatment groups for experiments involving temperature, photoperiod, frost, humidity and more. Recent studies using these methods have shown that winter chilling requirements and spring warming strongly affect leaf-out and flowering times of temperate trees and shrubs, whereas photoperiod requirements are less important than previously thought for most species. Invasive plant species have weaker winter chilling requirements than native species in temperate ecosystems, and species that leaf-out early in the season have greater frost tolerance than later leafing species.&lt;h4&gt;Conclusions&lt;/h4&gt;This methodology could be extended to investigate additional drivers of leaf-out phenology, leaf senescence in the autumn, and other phenomena, and could be a useful tool for education and outreach. Additional ecosystems, such as boreal, southern hemisphere and sub-tropical forests, could also be investigated using dormant twigs to determine the drivers of leaf-out times and how these ecosystems will be affected by climate change.</dc:description>
 </oai_dc:dc>

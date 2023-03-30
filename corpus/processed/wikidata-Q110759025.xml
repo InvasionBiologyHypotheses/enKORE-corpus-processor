@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110759025</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110759025</dc:identifier>
   <dc:identifier>doi:10.1007/S10452-019-09695-3</dc:identifier>
   <dc:title>Stable isotopes and stomach content analyses indicate omnivorous habits and opportunistic feeding behavior of an invasive fish</dc:title>
@@ -12,7 +13,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-05-10</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>

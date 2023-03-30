@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56427255</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56427255</dc:identifier>
   <dc:identifier>doi:10.1088/1748-9326/10/9/094016</dc:identifier>
   <dc:title>Changes in environmental impacts of major crops in the US</dc:title>
@@ -8,8 +9,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://iopscience.iop.org/info/page/text-and-data-mining</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>environmental effects</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>IOP Publishing</dc:publisher>

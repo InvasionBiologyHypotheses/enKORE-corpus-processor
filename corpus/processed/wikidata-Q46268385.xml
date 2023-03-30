@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46268385</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46268385</dc:identifier>
   <dc:identifier>doi:10.1111/GCB.13971</dc:identifier>
   <dc:title>Elevated carbon dioxide and warming impact silicon and phenolic-based defences differently in native and exotic grasses.</dc:title>
@@ -10,9 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-11-03</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#am</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Global climate change may increase invasions of exotic plant species by directly promoting the success of invasive/exotic species or by reducing the competitive abilities of native species. Changes in plant chemistry, leading to altered susceptibility to stress, could mediate these effects. Grasses are hyper-accumulators of silicon, which play a crucial function in the alleviation of diverse biotic and abiotic stresses. It is unknown how predicted increases in atmospheric carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt; ) and air temperature affect silicon accumulation in grasses, especially in relation to primary and secondary metabolites. We tested how elevated CO&lt;sub&gt;2&lt;/sub&gt; (eCO&lt;sub&gt;2&lt;/sub&gt; ) (+240 ppm) and temperature (eT) (+4°C) affected chemical composition (silicon, phenolics, carbon and nitrogen) and plant growth in eight grass species, either native or exotic to Australia. eCO&lt;sub&gt;2&lt;/sub&gt; increased phenolic concentrations by 11%, but caused silicon accumulation to decline by 12%. Moreover, declines in silicon occurred mainly in native species (-19%), but remained largely unchanged in exotic species. Conversely, eT increased silicon accumulation in native species (+19%) but decreased silicon accumulation in exotic species (-10%). Silicon and phenolic concentrations were negatively correlated with each other, potentially reflecting a defensive trade-off. Moreover, both defences were negatively correlated with plant mass, compatible with a growth-defence trade-off. Grasses responded in a species-specific manner, suggesting that the relative susceptibility of different species may differ under future climates compared to current species rankings of resource quality. For example, the native Microlaena stipoides was less well defended under eCO&lt;sub&gt;2&lt;/sub&gt; in terms of both phenolics and silicon, and thus could suffer greater vulnerability to herbivores. To our knowledge, this is the first demonstration of the impacts of eCO&lt;sub&gt;2&lt;/sub&gt; and eT on silicon accumulation in grasses. We speculate that the greater plasticity in silicon uptake shown by Australian native grasses may be partly a consequence of evolving in a low nutrient and seasonally arid environment.</dc:description>
 </oai_dc:dc>

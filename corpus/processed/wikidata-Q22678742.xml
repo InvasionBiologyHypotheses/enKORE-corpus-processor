@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q22678742</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q22678742</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677374</dc:identifier>
   <dc:identifier>doi:10.3897/ZOOKEYS.277.4362</dc:identifier>
-  <dc:title>Alien molluscan species established along the Italian shores: an update, with discussions on some Mediterranean "alien species" categories</dc:title>
+  <dc:title>Alien molluscan species established along the Italian shores: an update, with discussions on someMediterranean "alien species" categories</dc:title>
   <dc:creator>Crocetta, Fabio</dc:creator>
   <dc:creator>Macali, Armando</dc:creator>
   <dc:creator>Furfaro, Giulia</dc:creator>

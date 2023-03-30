@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58371787</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q58371787</dc:identifier>
   <dc:identifier>doi:10.3897/RIO.4.E31412</dc:identifier>
   <dc:title>Increasing understanding of alien species through citizen science (Alien-CSI)</dc:title>
@@ -16,13 +17,13 @@
   <dc:creator>Brundu, Giuseppe</dc:creator>
   <dc:creator>López, Bernat</dc:creator>
   <dc:creator>Cleary, Michelle</dc:creator>
-  <dc:creator>Cogălniceanu, Dan</dc:creator>
+  <dc:creator>Coglniceanu, Dan</dc:creator>
   <dc:creator>Groot, Maarten</dc:creator>
   <dc:creator>Groot, Maarten</dc:creator>
   <dc:creator>De Sousa, Tiago</dc:creator>
   <dc:creator>Deidun, Alan</dc:creator>
   <dc:creator>Essl, Franz</dc:creator>
-  <dc:creator>Pečnikar, Živa Fišer</dc:creator>
+  <dc:creator>Penikar, iva Fier</dc:creator>
   <dc:creator>Gazda, Anna</dc:creator>
   <dc:creator>Gazda, Anna</dc:creator>
   <dc:creator>Gervasini, Eugenio</dc:creator>
@@ -42,9 +43,9 @@
   <dc:creator>Martinou, Angeliki</dc:creator>
   <dc:creator>Matosevic, Dinka</dc:creator>
   <dc:creator>Mifsud, Clare</dc:creator>
-  <dc:creator>Motiejūnaitė, Jurga</dc:creator>
+  <dc:creator>Motiejnait, Jurga</dc:creator>
   <dc:creator>Ojaveer, Henn</dc:creator>
-  <dc:creator>Pasalic, Nataša</dc:creator>
+  <dc:creator>Pasalic, Nataa</dc:creator>
   <dc:creator>Pekárik, Ladislav</dc:creator>
   <dc:creator>Per, Esra</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
@@ -81,5 +82,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;There is no sign of saturation in accumulation of alien species (AS) introductions worldwide, additionally the rate of spread for some species has also been shown to be increasing. However, the challenges of gathering information on AS are recognized. Recent developments in citizen science (CS) provide an opportunity to improve data flow and knowledge on AS while ensuring effective and high quality societal engagement with the issue of IAS (Invasive Alien Species). Advances in technology, particularly on-line recording and smartphone apps, along with the development of social media, have revolutionized CS and increased connectivity while new and innovative analysis techniques are emerging to ensure appropriate management, visualization, interpretation and use and sharing of the data. In early July 2018 we launched a European CO-operation in Science and Technology (COST) Action to address multidisciplinary research questions in relation to developing and implementing CS, advancing scientific understanding of AS dynamics while informing decision-making specifically implementation of technical requirements of relevant legislation such as the EU Regulation 1143/2014 on IAS. It will also support the EU biodiversity goals and embedding science within society. The Action will explore and document approaches to establishing a European-wide CS AS network. It will embrace relevant innovations for data gathering and reporting to support the implementation of monitoring and surveillance measures, while ensuring benefits for society and citizens, through an AS CS European network. The Action will, therefore, increase levels of participation and quality of engagement with current CS initiatives, ensuring and evaluating educational value, and improve the value outcomes for potential users including citizens, scientists, alien species managers, policy-makers, local authorities, industry and other stakeholders.&lt;/jats:p&gt;</dc:description>
+  <dc:description>There is no sign of saturation in accumulation of alien species (AS) introductions worldwide, additionally the rate of spread for some species has also been shown to be increasing. However, the challenges of gathering information on AS are recognized. Recent developments in citizen science (CS) provide an opportunity to improve data flow and knowledge on AS while ensuring effective and high quality societal engagement with the issue of IAS (Invasive Alien Species). Advances in technology, particularly on-line recording and smartphone apps, along with the development of social media, have revolutionized CS and increased connectivity while new and innovative analysis techniques are emerging to ensure appropriate management, visualization, interpretation and use and sharing of the data. In early July 2018 we launched a European CO-operation in Science and Technology (COST) Action to address multidisciplinary research questions in relation to developing and implementing CS, advancing scientific understanding of AS dynamics while informing decision-making specifically implementation of technical requirements of relevant legislation such as the EU Regulation 1143/2014 on IAS. It will also support the EU biodiversity goals and embedding science within society. The Action will explore and document approaches to establishing a European-wide CS AS network. It will embrace relevant innovations for data gathering and reporting to support the implementation of monitoring and surveillance measures, while ensuring benefits for society and citizens, through an AS CS European network. The Action will, therefore, increase levels of participation and quality of engagement with current CS initiatives, ensuring and evaluating educational value, and improve the value outcomes for potential users including citizens, scientists, alien species managers, policy-makers, local authorities, industry and other stakeholders.</dc:description>
 </oai_dc:dc>

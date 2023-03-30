@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56377026</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56377026</dc:identifier>
   <dc:identifier>doi:10.1007/S00227-016-3017-5</dc:identifier>
   <dc:title>Spatially explicit risk assessment for coastal invaders under different management scenarios</dc:title>
@@ -10,8 +11,8 @@
   <dc:creator>Bravo, María E.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-11-02</dc:date>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>coastal invasion</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>

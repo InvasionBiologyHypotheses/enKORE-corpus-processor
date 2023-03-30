@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35556047</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35556047</dc:identifier>
   <dc:identifier>doi:10.1111/MEC.13103</dc:identifier>
   <dc:title>Genetic structure, admixture and invasion success in a Holarctic defoliator, the gypsy moth (Lymantria dispar, Lepidoptera: Erebidae).</dc:title>
@@ -14,8 +15,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-03-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>defoliation</dc:subject>
   <dc:subject>Lymantria dispar</dc:subject>
   <dc:subject>Lepidoptera</dc:subject>
@@ -25,5 +26,4 @@
   <dc:subject>invasion genetics</dc:subject>
   <dc:subject>Erebidae</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Characterizing the current population structure of potentially invasive species provides a critical context for identifying source populations and for understanding why invasions are successful. Non-native populations inevitably lose genetic diversity during initial colonization events, but subsequent admixture among independently introduced lineages may increase both genetic variation and adaptive potential. Here we characterize the population structure of the gypsy moth (Lymantria dispar Linnaeus), one of the world's most destructive forest pests. Native to Eurasia and recently introduced to North America, the current distribution of gypsy moth includes forests throughout the temperate region of the northern hemisphere. Analyses of microsatellite loci and mitochondrial DNA sequences for 1738 individuals identified four genetic clusters within L. dispar. Three of these clusters correspond to the three named subspecies; North American populations represent a distinct fourth cluster, presumably a consequence of the population bottleneck and allele frequency change that accompanied introduction. We find no evidence that admixture has been an important catalyst of the successful invasion and range expansion in North America. However, we do find evidence of ongoing hybridization between subspecies and increased genetic variation in gypsy moth populations from Eastern Asia, populations that now pose a threat of further human-mediated introductions. Finally, we show that current patterns of variation can be explained in terms of climate and habitat changes during the Pleistocene, a time when temperate forests expanded and contracted. Deeply diverged matrilines in Europe imply that gypsy moths have been there for a long time and are not recent arrivals from Asia.</dc:description>
 </oai_dc:dc>

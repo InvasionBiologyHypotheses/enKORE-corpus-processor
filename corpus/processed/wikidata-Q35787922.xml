@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35787922</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35787922</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0138796</dc:identifier>
   <dc:title>The Temporal and Spatial Invasion Genetics of the Western Corn Rootworm (Coleoptera: Chrysomelidae) in Southern Europe</dc:title>
@@ -12,6 +13,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>Coleoptera</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
   <dc:subject>invasive species</dc:subject>

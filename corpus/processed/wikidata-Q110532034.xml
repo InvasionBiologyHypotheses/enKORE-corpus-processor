@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110532034</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110532034</dc:identifier>
   <dc:identifier>doi:10.1093/AUK/UKZ050</dc:identifier>
   <dc:title>Lower breeding success in a new range: No evidence for the enemy release hypothesis in South American Barn Swallows</dc:title>
@@ -11,12 +12,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-10-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:p&gt;It is widely assumed that colonizing species thrive because they lack natural enemies in their new range, increasing their survival and reproductive success. Barn Swallows (Hirundo rustica) started to breed in South America around 1980 and since then have dramatically increased their population size and geographic range, in stark contrast to the decline of the source population in North America. The reasons behind the growth of the South American population are unknown. However, because this species had never bred in this area in recorded times, the lack of natural predators, parasites, or pathogens could lead to higher breeding success, as predicted by the enemy release hypothesis. Here, we test whether breeding success is higher in the newly colonized range than in the native range to test the enemy release hypothesis. We studied the breeding biology of South American Barn Swallows quantifying 7 breeding parameters: clutch size, overall breeding success, offspring mortality by predation and ectoparasites, number of fledglings per breeding attempt, number of breeding attempts per breeding season, and total number of fledglings produced per pair per breeding season. Additionally, we compared these parameters with published information from North American populations using meta-analyses. We found that, while clutch size did not differ between North and South American populations, the southern population overall had lower breeding success, with higher mortality from predation and ectoparasites. An egg laid in South America was 2.6 times more likely to fail than one laid in North America, which resulted on average in 1.1 fewer fledglings per pair per breeding season for the South American breeding population. These results, demonstrating lower breeding success in a newly colonized range, do not support the enemy release hypothesis, and indicate that the growth of the South American Barn Swallow population is most likely caused by other demographic factors.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

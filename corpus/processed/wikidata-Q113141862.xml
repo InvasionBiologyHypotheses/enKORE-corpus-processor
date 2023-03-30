@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113141862</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q113141862</dc:identifier>
   <dc:identifier>doi:10.7818/ECOS.2159</dc:identifier>
   <dc:title>Vespa velutina: traits and impacts of a successful invasive alien species</dc:title>
@@ -11,9 +12,9 @@
   <dc:date>2021-08-22</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Vespa velutina</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Asociacion Espanola de Ecologia Terrestre (AEET)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;La invasión de Vespa velutina Lepeletier, 1836 experimenta un avance en la expansión a nuevas áreas y es, a día de hoy, una especie exótica invasora que genera alarma social y preocupación por sus impactos ecológicos, económicos y sociales. El objetivo de este trabajo es explorar los caracteres biológicos de la especie para entender la raíz de su éxito invasor y los impactos que genera. Estos se relacionan con aspectos tales como un complejo sistema social, un versátil comportamiento generalista o una alta tasa reproductiva sumada a la capacidad de establecer colonias a partir de una sola reina fecundada. Los impactos de este himenóptero sobre los ecosistemas y la apicultura se relacionan con su comportamiento como predador de insectos polinizadores, en particular de abejas de la miel. El incremento de la población durante el verano y su preferencia por las áreas urbanas y semiurbanas implican encuentros frecuentes con las personas, que a menudo sufren picaduras. Sus defensas involucran la comunicación química que desencadena ataques colectivos y la inyección de un veneno rico en toxinas que impacta la salud humana.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

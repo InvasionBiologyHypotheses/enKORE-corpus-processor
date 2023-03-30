@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37408072</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37408072</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5104802</dc:identifier>
   <dc:identifier>doi:10.1007/S00436-016-5245-5</dc:identifier>
   <dc:title>Cryptosporidium spp. and Enterocytozoon bieneusi in introduced raccoons (Procyon lotor)-first evidence from Poland and Germany</dc:title>
-  <dc:creator>Leśniańska, Kinga</dc:creator>
+  <dc:creator>Leniaska, Kinga</dc:creator>
   <dc:creator>Perec-Matysiak, Agnieszka</dc:creator>
   <dc:creator>Hildebrand, Joanna</dc:creator>
-  <dc:creator>Buńkowska-Gawlik, Katarzyna</dc:creator>
+  <dc:creator>Bukowska-Gawlik, Katarzyna</dc:creator>
   <dc:creator>Piróg, Agnieszka</dc:creator>
-  <dc:creator>Popiołek, Marcin</dc:creator>
+  <dc:creator>Popioek, Marcin</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-14</dc:date>
   <dc:language>en</dc:language>
@@ -19,5 +20,5 @@
   <dc:subject>Enterocytozoon bieneusi</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>The raccoon (Procyon lotor) carnivore native to North America is a fast spreading, invasive species in the Europe now. At the moment, the highest population occupies areas near the German-Polish border. The data on the occurrence of Cryptosporidium spp. and microsporidia in raccoons is limited to North America's territory and is totally lacking in the case of their introduction to Europe. Therefore, the objective of this study was to investigate the occurrence of microparasites, i.e., Cryptosporidium spp. and microsporidia in the introduced raccoons obtained from localities in Poland and Germany. A PCR-based approach that permitted genetic characterization via sequence analysis was applied to raccoon fecal samples (n = 49), collected during 2012-2014. All fecal samples were simultaneously tested with the use of genetic markers, and DNA of microsporidia and Cryptosporidium spp. was detected among the examined raccoons. The results of our research confirmed the presence of Cryptosporidium skunk genotype and Enterocytozoon bieneusi NCF2 genotype. The results suggest a possible role of raccoons in the contamination of the environment, including urban areas, with pathogens of zoonotic significance as well as their role in the transmission and introduction of new genotypes of microparasites in the areas where P. lotor has not been observed yet. To our knowledge, there has been no literature data on the above genotypes detected previously in humans or animals from the examined study sites so far.</dc:description>
+  <dc:description>The raccoon (Procyon lotor) carnivore native to North America is a fast spreading, invasive species in the Europe now. At the moment, the highest population occupies areas near the German-Polish border. The data on the occurrence of Cryptosporidium spp. and microsporidia in raccoons is limited to North America's territory and is totally lacking in the case of their introduction to Europe. Therefore, the objective of this study was to investigate the occurrence of microparasites, i.e., Cryptosporidium spp. and microsporidia in the introduced raccoons obtained from localities in Poland and Germany. A PCR-based approach that permitted genetic characterization via sequence analysis was applied to raccoon fecal samples (n=49), collected during 2012-2014. All fecal samples were simultaneously tested with the use of genetic markers, and DNA of microsporidia and Cryptosporidium spp. was detected among the examined raccoons. The results of our research confirmed the presence of Cryptosporidium skunk genotype and Enterocytozoon bieneusi NCF2 genotype. The results suggest a possible role of raccoons in the contamination of the environment, including urban areas, with pathogens of zoonotic significance as well as their role in the transmission and introduction of new genotypes of microparasites in the areas where P. lotor has not been observed yet. To our knowledge, there has been no literature data on the above genotypes detected previously in humans or animals from the examined study sites so far.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56752085</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56752085</dc:identifier>
   <dc:identifier>doi:10.1111/2041-210X.12844</dc:identifier>
   <dc:title>Socio-economic impact classification of alien taxa (SEICAT)</dc:title>
@@ -16,7 +17,7 @@
   <dc:creator>Martinou, Angeliki F.</dc:creator>
   <dc:creator>Nentwig, Wolfgang</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Rabitsch, Wolfgang</dc:creator>
   <dc:creator>Richardson, David M.</dc:creator>
   <dc:creator>Roy, Helen E.</dc:creator>
@@ -28,8 +29,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-07-31</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>socioeconomics</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>

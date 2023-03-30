@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111946979</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111946979</dc:identifier>
   <dc:identifier>doi:10.1071/AM20025</dc:identifier>
   <dc:title>A framework of integrated research for managing introduced predators in the Pilbara bioregion, Western Australia</dc:title>
@@ -11,10 +12,8 @@
   <dc:date>2021</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>non-native predator</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-The effective control of wild dogs, feral cats and foxes is of primary interest to land managers, both for biodiversity conservation and for the protection of livestock. Control programs primarily target single species within the context of biodiversity conservation or livestock practices, but their effectiveness in depressing predator densities is unclear because monitoring is limited or not conducted. Here, we review and discuss the outcomes of a workshop to identify research priorities for managing predation on native fauna by introduced predators in the Pilbara bioregion in Western Australia. We suggest that the control of introduced predators will be most effective if it is implemented at a landscape-scale comprising integrated predator management that considers interspecific (predator) interactions combined with standardised monitoring to measure the effectiveness and benefits of control. Four research themes were identified: (1) collation and collection of baseline data, (2) effective monitoring of introduced predators, (3) understanding functional (ecological) roles of introduced predators within the different ecosystem contexts, and (4) identifying novel complementary approaches to protect threatened species. These themes collectively include research areas that invest in foundational, ecological and alternative biological parameters in research to close knowledge gaps related to the functional roles of introduced predators in the landscape. Addressing these research themes will assist land managers to achieve outcomes that address the needs of both biodiversity conservation and pastoral production. This framework is timely given the ongoing investment in offset funding being mobilised in the region.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

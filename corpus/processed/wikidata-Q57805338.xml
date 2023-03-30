@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57805338</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q57805338</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6211765</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PNTD.0006555</dc:identifier>
@@ -15,10 +16,10 @@
   <dc:creator>Andriamanantena, Zo</dc:creator>
   <dc:creator>Kumar, Anuj</dc:creator>
   <dc:creator>Guillotte-Blisnick, Micheline</dc:creator>
-  <dc:creator>Huon, Christèle</dc:creator>
+  <dc:creator>Huon, Christle</dc:creator>
   <dc:creator>Serre, David</dc:creator>
   <dc:creator>Chitnis, Chetan E</dc:creator>
-  <dc:creator>Vigan-Womas, Inès</dc:creator>
+  <dc:creator>Vigan-Womas, Ins</dc:creator>
   <dc:creator>Ménard, Didier</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-10-22</dc:date>

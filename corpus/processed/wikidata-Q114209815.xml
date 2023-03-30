@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114209815</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114209815</dc:identifier>
   <dc:identifier>doi:10.1007/S10841-022-00405-3</dc:identifier>
   <dc:title>Impacts of the invasive hornet Vespa velutina on native wasp species: a first effort to understand population-level effects in an invaded area of Europe</dc:title>
@@ -14,14 +15,15 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Vespa velutina</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:sec&gt;
-                &lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-                &lt;jats:p&gt;Invasive alien species could generate a multitude of impacts towards native species. The introduction and spread of &lt;jats:italic&gt;Vespa velutina&lt;/jats:italic&gt; in Europe is raising concern for the conservation of insect’s biodiversity, including wasps due to predation, competition or a combination of these two mechanisms. Nevertheless, most evidence for negative effects on other wasps are based on laboratory experiments, direct observations, and on considerations about the biology and ecology of Vespidae. No field study in Europe explored how the abundance of &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; could affect the population of native Vespidae, as expected in case of competition and predation. We analysed how the abundance of &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; influenced that of &lt;jats:italic&gt;Vespa crabro&lt;/jats:italic&gt;, 4 years after the arrival and establishment of &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; in our study area, in Italy. Moreover, we compared the abundances of three native Vespidae (&lt;jats:italic&gt;V. crabro&lt;/jats:italic&gt;, &lt;jats:italic&gt;Vespula vulgaris&lt;/jats:italic&gt;, &lt;jats:italic&gt;Vespula germanica&lt;/jats:italic&gt;), between our study area and an adjacent uninvaded area with similar environmental conditions. Bayesian Generalized Linear Models revealed that the abundance of &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; and &lt;jats:italic&gt;V. crabro&lt;/jats:italic&gt; was positively associated, where &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; was scarce. Covariation disappeared only at those trapping sites where &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; was extremely abundant. Moreover, abundances of native wasps were similar between the invaded and the uninvaded areas.&lt;/jats:p&gt;
-              &lt;/jats:sec&gt;&lt;jats:sec&gt;
-                &lt;jats:title&gt;Implications for insect conservation&lt;/jats:title&gt;
-                &lt;jats:p&gt;The wide-scale monitoring activity performed to investigate the effects of &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; on native wasps has not detected any negative effects in relation to the presence of the invasive species. More effort is however requested for understanding if &lt;jats:italic&gt;V. velutina&lt;/jats:italic&gt; could really affect native Vespidae at the population-level.&lt;/jats:p&gt;
-              &lt;/jats:sec&gt;</dc:description>
+  <dc:description>
+                Abstract
+                Invasive alien species could generate a multitude of impacts towards native species. The introduction and spread of Vespa velutina in Europe is raising concern for the conservation of insect’s biodiversity, including wasps due to predation, competition or a combination of these two mechanisms. Nevertheless, most evidence for negative effects on other wasps are based on laboratory experiments, direct observations, and on considerations about the biology and ecology of Vespidae. No field study in Europe explored how the abundance of V. velutina could affect the population of native Vespidae, as expected in case of competition and predation. We analysed how the abundance of V. velutina influenced that of Vespa crabro, 4 years after the arrival and establishment of V. velutina in our study area, in Italy. Moreover, we compared the abundances of three native Vespidae (V. crabro, Vespula vulgaris, Vespula germanica), between our study area and an adjacent uninvaded area with similar environmental conditions. Bayesian Generalized Linear Models revealed that the abundance of V. velutina and V. crabro was positively associated, where V. velutina was scarce. Covariation disappeared only at those trapping sites where V. velutina was extremely abundant. Moreover, abundances of native wasps were similar between the invaded and the uninvaded areas.
+              
+                Implications for insect conservation
+                The wide-scale monitoring activity performed to investigate the effects of V. velutina on native wasps has not detected any negative effects in relation to the presence of the invasive species. More effort is however requested for understanding if V. velutina could really affect native Vespidae at the population-level.
+              </dc:description>
 </oai_dc:dc>

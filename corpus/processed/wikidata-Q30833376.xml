@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30833376</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30833376</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC97215</dc:identifier>
   <dc:identifier>doi:10.1128/IAI.68.2.861-870.2000</dc:identifier>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2000-02-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://journals.asm.org/non-commercial-tdm-license</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Pseudomonas aeruginosa</dc:subject>
   <dc:subject>Salmonella enterica</dc:subject>
   <dc:subject>transmembrane protein</dc:subject>
@@ -21,20 +22,4 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>American Society for Microbiology</dc:publisher>
-  <dc:description>&lt;jats:title&gt;ABSTRACT&lt;/jats:title&gt;
-          &lt;jats:p&gt;
-            The cystic fibrosis transmembrane conductance regulator (CFTR) is a chloride ion channel that also serves as a receptor for entry of
-            &lt;jats:italic&gt;Pseudomonas aeruginosa&lt;/jats:italic&gt;
-            and
-            &lt;jats:italic&gt;Salmonella enterica&lt;/jats:italic&gt;
-            serovar Typhi into epithelial cells. To evaluate heterogeneity in CFTR protein expression in cultured cells and the effect of heterogeneity on internalization of different
-            &lt;jats:italic&gt;P. aeruginosa&lt;/jats:italic&gt;
-            and serovar Typhi strains, we used two-color flow cytometry and confocal laser microscopy to study bacterial uptake by Madin-Darby canine kidney (MDCK) type I epithelial cells stably expressing a green fluorescent protein (GFP)-CFTR fusion construct (MDCK–GFP-CFTR cells). We found a strong correlation between cell size and GFP-CFTR protein expression, with 60 to 70% of cells expressing low levels of GFP-CFTR protein, 20 to 30% expressing intermediate levels, and &lt;10% expressing high levels. The cells were sorted into low-, intermediate-, or high-level producers of CFTR protein; in vitro growth of each sorted population yielded the same distribution of CFTR protein expression as that in the original population. Cells expressing either low or high levels of CFTR protein internalized bacteria poorly; maximal bacterial uptake occurred in the cells expressing intermediate levels of CFTR protein. Treatment of MDCK cells with sodium butyrate markedly enhanced the production of CFTR protein without increasing cell size; butyrate treatment also increased the proportion of cells with internalized bacteria. However, there were fewer bacteria per butyrate-treated cell and, for
-            &lt;jats:italic&gt;P. aeruginosa&lt;/jats:italic&gt;
-            , there was an overall decrease in the total level of bacterial uptake. The most highly ingested bacterial strains were internalized by fewer total MDCK–GFP-CFTR cells, indicating preferential bacterial uptake by a minority of epithelial cells within a given culture. Confocal fluorescence microscopy showed that
-            &lt;jats:italic&gt;P. aeruginosa&lt;/jats:italic&gt;
-            and serovar Typhi induced cytoplasmic accumulation of CFTR protein close to the plasma membrane where the bacteria were adherent. These results show that within a population of MDCK–GFP-CFTR cells, there are cells with markedly different abilities to ingest bacteria via CFTR, the majority of the
-            &lt;jats:italic&gt;P. aeruginosa&lt;/jats:italic&gt;
-            and serovar Typhi cells are ingested by the one-fourth to one-third of the cells that exhibit an intermediate size and level of CFTR protein expression, and overexpression of the CFTR receptor does not increase total bacterial uptake but rather allows more epithelial cells to ingest fewer total bacteria.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

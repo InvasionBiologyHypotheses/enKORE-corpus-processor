@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92709103</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92709103</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.1907424116</dc:identifier>
   <dc:title>Plants obey (and disobey) the island rule</dc:title>
@@ -12,5 +13,5 @@
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>Foster's rule</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The island rule predicts that small animals evolve to become larger on islands, while large animals evolve to become smaller. It has been studied for over half a century, and its validity is fiercely debated. Here, we provide a perspective on the debate by conducting a test of the island rule in plants. Results from an extensive dataset on islands in the southwest Pacific illustrate that plant stature and leaf area obey the island rule, but seed size does not. Our results indicate that the island rule may be more pervasive than previously thought and that support for its predictions varies among functional traits.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The island rule predicts that small animals evolve to become larger on islands, while large animals evolve to become smaller. It has been studied for over half a century, and its validity is fiercely debated. Here, we provide a perspective on the debate by conducting a test of the island rule in plants. Results from an extensive dataset on islands in the southwest Pacific illustrate that plant stature and leaf area obey the island rule, but seed size does not. Our results indicate that the island rule may be more pervasive than previously thought and that support for its predictions varies among functional traits.</dc:description>
 </oai_dc:dc>

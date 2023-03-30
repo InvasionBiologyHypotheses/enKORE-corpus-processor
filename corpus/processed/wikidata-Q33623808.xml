@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33623808</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33623808</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024021</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0097811</dc:identifier>
@@ -24,5 +25,4 @@
   <dc:subject>atherosclerosis</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
-  <dc:description>Atherosclerotic vascular disease is a leading cause of myocardial infarction and cerebrovascular accident, and independent associations with periodontal disease (PD) are reported. PD is caused by polymicrobial infections and aggressive immune responses. Genomic DNA of Porphyromonas gingivalis, the best-studied bacterial pathogen associated with severe PD, is detected within atherosclerotic plaque. We examined causal relationships between chronic P. gingivalis oral infection, PD, and atherosclerosis in hyperlipidemic ApoEnull mice. ApoEnull mice (n = 24) were orally infected with P. gingivalis for 12 and 24 weeks. PD was assessed by standard clinical measurements while the aorta was examined for atherosclerotic lesions and inflammatory markers by array. Systemic inflammatory markers serum amyloid A, nitric oxide, and oxidized low-density lipoprotein were analyzed. P. gingivalis infection elicited specific antibodies and alveolar bone loss. Fluorescent in situ hybridization detected viable P. gingivalis within oral epithelium and aorta, and genomic DNA was detected within systemic organs. Aortic plaque area was significantly increased in P. gingivalis-infected mice at 24 weeks (P&lt;0.01). Aortic RNA and protein arrays indicated a strong Th2 response. Chronic oral infection with P. gingivalis results in a specific immune response, significant increases in oral bone resorption, aortic inflammation, viable bacteria in oral epithelium and aorta, and plaque development.</dc:description>
 </oai_dc:dc>

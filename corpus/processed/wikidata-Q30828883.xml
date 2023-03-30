@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30828883</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30828883</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5111658</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.1606898113</dc:identifier>
@@ -17,6 +18,7 @@
   <dc:date>2016-10-25</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>ecosystem</dc:subject>
@@ -24,6 +26,4 @@
   <dc:subject>invasive grass</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Significance&lt;/jats:title&gt;
-          &lt;jats:p&gt;The Great Basin of western North America is larger than 75% of countries worldwide and is comprised mostly of a “sagebrush sea” threatened by a novel disturbance cycle of wildfire and annual grass invasion. The greater sage-grouse is a sagebrush-obligate species whose populations generally track declines in sagebrush, and is highly influential in shaping state and national land-use policy. Using three decades of sage-grouse population count, wildfire, and climate data within a modeling framework that allowed for variable postfire recovery of sagebrush, we provide quantitative evidence that links long-term declines of sage-grouse to chronic effects of wildfire. Projected declines may be slowed or halted by targeting fire suppression in remaining areas of intact sagebrush with high densities of breeding sage-grouse.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

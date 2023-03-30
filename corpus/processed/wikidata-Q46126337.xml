@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46126337</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46126337</dc:identifier>
   <dc:identifier>doi:10.1111/J.1439-0507.2008.01672.X</dc:identifier>
   <dc:title>Efficacy of combined surgery and antifungal therapies for the management of invasive zygomycoses in patients with haematological malignancies</dc:title>
@@ -17,10 +18,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-02-03</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>zygomycosis</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>We report two cases of invasive zygomycoses occurring in severely immunocompromised patients with haematological malignancies that were successfully treated with liposomal amphotericin B and surgical debridement, followed by oral administration of posaconazole. These cases demonstrated that an early instituted, aggressive and combined therapeutic approach results in a recovery from invasive fungal infection, without any relapse of infection, thanks to secondary prophylaxis using posaconazole.</dc:description>
 </oai_dc:dc>

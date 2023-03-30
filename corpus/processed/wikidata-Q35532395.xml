@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35532395</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35532395</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4407890</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0123634</dc:identifier>
   <dc:title>Getting the right traits: reproductive and dispersal characteristics predict the invasiveness of herbaceous plant species</dc:title>
   <dc:creator>Moravcová, Lenka</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
-  <dc:creator>Jarošík, Vojtěch</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
+  <dc:creator>Jaroík, Vojtch</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2015-04-23</dc:date>

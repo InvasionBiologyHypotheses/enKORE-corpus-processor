@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59164153</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q59164153</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-016-1119-0</dc:identifier>
   <dc:title>Rapid range expansion of an invasive predatory snail, Oxychilus alliarius (Miller 1822), and its impact on endemic Hawaiian land snails</dc:title>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-04-18</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>range expansion</dc:subject>
   <dc:subject>Oxychilus alliarius</dc:subject>
   <dc:subject>invasive species</dc:subject>

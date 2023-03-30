@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30577689</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30577689</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4014307</dc:identifier>
   <dc:identifier>doi:10.1093/BEHECO/ARU025</dc:identifier>
@@ -7,13 +8,13 @@
   <dc:creator>Peck, Hannah L</dc:creator>
   <dc:creator>Pringle, Henrietta E</dc:creator>
   <dc:creator>Marshall, Harry H</dc:creator>
-  <dc:creator>Owens, Ian</dc:creator>
+  <dc:creator>Owens, Ian P.F.</dc:creator>
   <dc:creator>Lord, Alexa M</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2014-03-07</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>Resource competition is one potential behavioral mechanism by which invasive species can impact native species, but detecting this competition can be difficult due to the interactions that variable environmental conditions can have on species behavior. This is particularly the case in urban habitats where the disturbed environment can alter natural behavior from that in undisturbed habitats. The rose-ringed parakeet (&lt;i&gt;Psittacula krameri&lt;/i&gt;), is an increasingly common invasive species, predominantly associated with large urban centers. Using an experimental approach, we tested the behavioral responses of native garden birds in response to the presence of a rose-ringed parakeet versus the presence of a similarly sized and dominant native bird, the great spotted woodpecker (&lt;i&gt;Dendrocopos major&lt;/i&gt;). Parakeet presence significantly reduced feeding rates and increased vigilance among native birds compared with our control treatments. Of visits made by native birds in the presence of a parakeet, feeding was more likely to occur in sites within the parakeet range compared with sites outside, suggesting some habituation of native birds has occurred following prior exposure to parakeets but overall foraging behavior is still disrupted. The results of our study suggest that nonnative species can have complex and subtle impacts on native fauna and show that a nonnative competitor can impact native species simply through their presence near resources.</dc:description>
 </oai_dc:dc>

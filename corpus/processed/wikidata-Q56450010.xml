@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56450010</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56450010</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-13-00099.1</dc:identifier>
   <dc:title>Mechanisms Underlying Nonindigenous Plant Impacts: A Review of Recent Experimental Research</dc:title>
@@ -9,9 +10,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-09</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Nonindigenous plant species (NIS) can affect individuals, communities, and ecosystems through numerous direct and indirect mechanisms. To synthesize the current understanding of how NIS cause impacts, we reviewed experimental research from the past decade. We found alteration of the microenvironment, such as incident light and air and soil temperature, was much more often a mechanism underlying NIS impacts than competition for soil water and nutrients. NIS litter frequently caused the alteration of microenvironments, and litter effects were often of greater consequence than the effects of live NIS plants. Results supported altered soil microbial communities and mycorrhizal associations as mechanisms underlying NIS impacts on native plant growth, community structure, and nutrient cycling. Impacts often could not be attributed to a single mechanism, highlighting the need for multi-factor studies that identify and distinguish between multiple, concurrently operating mechanisms. Overall, our synthesis indicates that effective management will require attention to legacy effects of NIS, that removing live NIS may not ameliorate impacts, and that removal of dead NIS biomass may be necessary for native species' survival. Furthermore, rehabilitating soil microbial and mycorrhizal communities may be crucial for successful post-NIS management revegetation.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

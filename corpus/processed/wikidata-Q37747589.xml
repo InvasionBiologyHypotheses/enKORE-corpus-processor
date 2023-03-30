@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37747589</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37747589</dc:identifier>
   <dc:identifier>doi:10.1111/J.1461-0248.2010.01440.X</dc:identifier>
   <dc:title>Controlling established invaders: integrating economics and spread dynamics to determine optimal management</dc:title>
@@ -8,9 +9,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-04-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>We review studies that address economically optimal control of established invasive species. We describe three important components for determining optimal invasion management: invasion dynamics, costs of control efforts and a monetary measure of invasion damages. We find that a management objective that explicitly considers both costs and damages is most appropriate for determining economically optimal strategies, but also leads to large challenges due to uncertainty in components of the management problem. To address uncertainty, some studies have included stochasticity in their models; others have quantified the value of information or focused on decision-making with limited information. Our synthesis shows how invasion characteristics, such as costs, damages, pattern of spread and invasion and landscape size, affect optimal control strategies and goals in systematic ways. We find that even for simple questions, such as whether control should be applied at the centre of an invasion or to satellite patches, the answer depends on the details of a particular invasion. Future work should seek to better quantify key components of this problem, determine best management in the face of limited information, improve understanding of spatial aspects of invasion control and design approaches to improve the feasibility of achieving regional control goals.</dc:description>
 </oai_dc:dc>

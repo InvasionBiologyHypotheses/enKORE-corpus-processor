@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110862044</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110862044</dc:identifier>
   <dc:identifier>doi:10.4039/ENT96116-1</dc:identifier>
   <dc:title>Postglacial Invasion Routes of Canadian Arctic Butterflies</dc:title>
   <dc:creator>Freeman, T. N.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>1964-02</dc:date>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Several thousand specimens of arctic butterflies were accumulated in the Canadian Northern Insect Survey. When the distributions of the various species were recorded and plotted on a map, some evidence appeared that these insects entered Canada in postglacial times from the northwest, and from the south. There is also some evidence that a few may have come from the north. The most common invasion was from the northwest, and it appears that some, such as &lt;jats:italic&gt;Erebia youngi&lt;/jats:italic&gt; Holl., probably entered Canada rather recently, as it is only known to occur in the Yukon. &lt;jats:italic&gt;Boloria pales&lt;/jats:italic&gt; D. &amp; S. occurs from the Yukon to within about 150 miles west of Hudson's Bay. &lt;jats:italic&gt;Colias boothii&lt;/jats:italic&gt; Curt. occurs as far east as Southampton Island, and &lt;jats:italic&gt;Erebia rossii&lt;/jats:italic&gt; Curt. is distributed to Baffin Island. Others such as &lt;jats:italic&gt;Boloria polaris&lt;/jats:italic&gt; Bdv. have spread to northern Quebec and Labrador. Thus it appears that there are successive stages of distributional spread from the northwest.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

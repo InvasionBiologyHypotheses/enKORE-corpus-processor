@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34588978</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34588978</dc:identifier>
   <dc:identifier>doi:10.1016/J.APPET.2013.01.022</dc:identifier>
   <dc:title>Human consumption as an invasive species management strategy. A preliminary assessment of the marketing potential of invasive Asian carp in the US.</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-02-13</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Over the past 20 years, Asian carp have invaded rivers and lakes in the Midwest and southern United States, with large negative impacts, such as encroachment on the habitat of native fish and mass die-off. They also respond to boat motors by jumping out of the water, which can cause harm to boaters and fishermen. Policymakers in the Great Lakes region between the US and Canada are worried about possible expansion of the Asian carp to their region and its effects on their fishing industry. A potential solution to the problem is to harvest Asian carp for human consumption. This study analyzes the results of the first national survey on the attitudes of US fish consumers towards Asian carp. We find that this is a potentially promising strategy. Most respondents would be willing to try a free sample of Asian carp and would be willing to pay for it. Because of the negative connotation attached to carp in general, this figure is encouraging. Creating demand for Asian carp could be a market based, cost-effective solution for a problem (invasive species) that is typically dealt with through command and control policies, if it is coupled with appropriate policies and safeguards to ensure the fish is eventually eradicated and not cultivated for profit after removal from US rivers and lakes.</dc:description>
 </oai_dc:dc>

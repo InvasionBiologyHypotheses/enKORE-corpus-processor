@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34420758</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34420758</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212965</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0110328</dc:identifier>
   <dc:title>Diversity and distribution of freshwater amphipod species in Switzerland (Crustacea: Amphipoda).</dc:title>
   <dc:creator>Altermatt, Florian</dc:creator>
   <dc:creator>Alther, Roman</dc:creator>
-  <dc:creator>Fišer, Cene</dc:creator>
+  <dc:creator>Fier, Cene</dc:creator>
   <dc:creator>Jokela, Jukka</dc:creator>
   <dc:creator>Konec, Marjeta</dc:creator>
   <dc:creator>Küry, Daniel</dc:creator>

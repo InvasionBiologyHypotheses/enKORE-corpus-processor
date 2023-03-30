@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46847981</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46847981</dc:identifier>
   <dc:identifier>doi:10.1890/13-1309.1</dc:identifier>
   <dc:title>Unrecognized impact of a biocontrol agent on the spread rate of an invasive thistle.</dc:title>
@@ -12,10 +13,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-07-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biocontrol agent</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Herbivores may significantly reduce plant populations by reducing seed set; however, we know little of their impact on seed movement. We show for the first time that the receptacle-feeding weevil Rhinocyllus conicus not only reduces seed production by the invasive thistle Carduus nutans but also inhibits release and subsequent wind dispersal of seeds. These effects generate large, though different, impacts on spatial spread and local abundance in two populations with differing demography, located in the United States and New Zealand. Furthermore, the mechanism is context dependent, with the largest effects through increased terminal velocity in the United States but through reduced seed production in New Zealand. Our results show that the benefit of biocontrol programs may have been underestimated; screenings of potential biocontrol agents should examine effects on pest dispersal and spread, as well as on abundance.</dc:description>
 </oai_dc:dc>

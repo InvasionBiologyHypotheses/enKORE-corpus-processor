@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36367060</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36367060</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5423667</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0177481</dc:identifier>
   <dc:title>Rapid expansion of the invasive oyster Crassostrea gigas at its northern distribution limit in Europe: Naturally dispersed or introduced?</dc:title>
-  <dc:creator>d'Auriac, Marc B Anglès</dc:creator>
+  <dc:creator>d'Auriac, Marc B Angls</dc:creator>
   <dc:creator>Rinde, Eli</dc:creator>
   <dc:creator>Norling, Pia</dc:creator>
-  <dc:creator>Lapègue, Sylvie</dc:creator>
+  <dc:creator>Lapgue, Sylvie</dc:creator>
   <dc:creator>Staalstrøm, André</dc:creator>
   <dc:creator>Hjermann, Dag Ø</dc:creator>
   <dc:creator>Thaulow, Jens</dc:creator>

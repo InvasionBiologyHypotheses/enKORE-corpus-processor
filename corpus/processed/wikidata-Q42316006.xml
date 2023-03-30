@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q42316006</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q42316006</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5353634</dc:identifier>
   <dc:identifier>doi:10.1038/SREP44787</dc:identifier>
@@ -18,6 +19,7 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Australia</dc:subject>
@@ -25,5 +27,5 @@
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Scientific Reports 7: Article number: 42792; published online: 17 February 2017; updated: 16 March 2017 In the original version of this Article, the legend of Figure 4 was incorrect: “Figure 4: There are two spelling problem in this image. Please use the revised image uploaded with this proof”. Now reads:&lt;/jats:p&gt;</dc:description>
+  <dc:description>Scientific Reports 7: Article number: 42792; published online: 17 February 2017; updated: 16 March 2017 In the original version of this Article, the legend of Figure 4 was incorrect: Figure 4: There are two spelling problem in this image. Please use the revised image uploaded with this proof. Now reads:</dc:description>
 </oai_dc:dc>

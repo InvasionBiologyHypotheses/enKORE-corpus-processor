@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34113494</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34113494</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936154</dc:identifier>
   <dc:identifier>doi:10.1098/RSBL.2010.0171</dc:identifier>
@@ -15,19 +16,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-04-14</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            Invasive species can have profound impacts on communities and it is increasingly recognized that such effects may be mediated by parasitism. The ‘enemy release’ hypothesis posits that invaders may be successful and have high impacts owing to escape from parasitism. Alternatively, we hypothesize that parasites may increase host feeding rates and hence parasitized invaders may have increased community impacts. Here, we investigate the influence of parasitism on the predatory impact of the invasive freshwater amphipod
-            &lt;jats:italic&gt;Gammarus pulex&lt;/jats:italic&gt;
-            . Up to 70 per cent of individuals are infected with the acanthocephalan parasite
-            &lt;jats:italic&gt;Echinorhynchus truttae&lt;/jats:italic&gt;
-            , but parasitized individuals were no different in body condition to those unparasitized. Parasitized individuals consumed significantly more prey (
-            &lt;jats:italic&gt;Asellus aquaticus&lt;/jats:italic&gt;
-            ; Isopoda) than did unparasitized individuals. Both parasitized and unparasitized individuals displayed Type-II functional responses (FRs), with the FR for parasitized individuals rising more steeply, with a higher asymptote, compared with unparasitized individuals. While the parasite reduced the fitness of individual females, we predict a minor effect on population recruitment because of low parasite prevalence in the peak reproductive period. The parasite thus has a large
-            &lt;jats:italic&gt;per capita&lt;/jats:italic&gt;
-            effect on predatory rate but a low population fitness effect, and thus may enhance rather than reduce the impact of this invader.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36170447</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36170447</dc:identifier>
   <dc:identifier>doi:10.1139/GEN-2016-0022</dc:identifier>
   <dc:title>DNA-based identification of invasive alien species in relation to Canadian federal policy and law, and the basis of rapid-response management</dc:title>
@@ -9,12 +10,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-07-19</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Managing invasive alien species in Canada requires reliable taxonomic identification as the basis of rapid-response management. This can be challenging, especially when organisms are small and lack morphological diagnostic features. DNA-based techniques, such as DNA barcoding, offer a reliable, rapid, and inexpensive toolkit for taxonomic identification of individual or bulk samples, forensic remains, and even environmental DNA. Well suited for this requirement, they could be more broadly deployed and incorporated into the operating policy and practices of Canadian federal departments and should be authorized under these agencies’ articles of law. These include Fisheries and Oceans Canada, Canadian Food Inspection Agency, Transport Canada, Environment Canada, Parks Canada, and Health Canada. These efforts should be harmonized with the appropriate provisions of provincial jurisdictions, for example, the Ontario Invasive Species Act. This approach necessitates that a network of accredited, certified laboratories exists, and that updated DNA reference libraries are readily accessible. Harmonizing this approach is vital among Canadian federal agencies, and between the federal and provincial levels of government. Canadian policy and law must also be harmonized with that of the USA when detecting, and responding to, invasive species in contiguous lands and waters. Creating capacity in legislation for use of DNA-based identifications brings the authority to fund, train, deploy, and certify staff, and to refine further developments in this molecular technology.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

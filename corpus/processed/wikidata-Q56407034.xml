@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56407034</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56407034</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-15-00037.1</dc:identifier>
   <dc:title>Integrated Strategies for Management of Perennial Weeds</dc:title>
@@ -7,9 +8,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Multiple weed control strategies employed in combination can often aid the successful management of perennial weed species. This review article provides examples of integrated control programs that could aid in the management of several invasive perennial weed species that are problematic in the Pacific Northwest and elsewhere in North America. The development of an integrated management control program for wild chervil, a relatively recent invader to the Pacific Northwest of the United States and adjacent Canada, provides an example for this process. Through use of mechanical (mowing and tillage), cultural (establishment of competitive vegetation), and chemical (specific herbicides) strategies, control of this short-lived perennial species was greatly improved as compared to foliar herbicide applications alone. Such integrated strategies have been shown to enhance control of many perennial weed species, while potentially reducing the amount of herbicide applied, lessening the possibility of injury to adjacent desirable vegetation and increasing the stability of the ecological community at the site.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

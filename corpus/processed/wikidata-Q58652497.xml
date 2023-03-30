@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58652497</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q58652497</dc:identifier>
   <dc:identifier>doi:10.1155/2010/795735</dc:identifier>
   <dc:title>Genetic Structure of the Invasive Tree Ailanthus altissima in Eastern United States Cities</dc:title>
@@ -20,5 +21,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
-  <dc:description>&lt;jats:p&gt;&lt;jats:italic&gt;Ailanthus altissima&lt;/jats:italic&gt;is an invasive tree from Asia. It now occurs in most US states, and although primarily an urban weed, it has become a problem in forested areas especially in the eastern states. Little is known about its genetic structure. We explore its naturalized gene pool from 28 populations, mostly of the eastern US where infestations are especially severe. Five microsatellite markers were used to examine presumed neutral genetic variation. Results show a gene pool that is moderately diverse and sexually active and has significant but small genetic differences among populations and little correspondence between geographic and genetic distance. These findings are consistent with a model of multiple introductions followed by high rates of gene exchange between cities and regions. We propose movement along road and railway systems as the chief mode of range expansion.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Ailanthus altissimais an invasive tree from Asia. It now occurs in most US states, and although primarily an urban weed, it has become a problem in forested areas especially in the eastern states. Little is known about its genetic structure. We explore its naturalized gene pool from 28 populations, mostly of the eastern US where infestations are especially severe. Five microsatellite markers were used to examine presumed neutral genetic variation. Results show a gene pool that is moderately diverse and sexually active and has significant but small genetic differences among populations and little correspondence between geographic and genetic distance. These findings are consistent with a model of multiple introductions followed by high rates of gene exchange between cities and regions. We propose movement along road and railway systems as the chief mode of range expansion.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56937242</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56937242</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.15.3575</dc:identifier>
   <dc:title>An inventory of invasive alien species in China</dc:title>
@@ -22,7 +23,7 @@
   <dc:creator>Wu, YU</dc:creator>
   <dc:creator>Zheng, Zhou</dc:creator>
   <dc:creator>Chen, Lian</dc:creator>
-  <dc:creator>Jarošik, Vojtěch</dc:creator>
+  <dc:creator>Jaroik, Vojtch</dc:creator>
   <dc:creator>Pysek, Petr</dc:creator>
   <dc:creator>Pysek, Petr</dc:creator>
   <dc:type>journal article</dc:type>

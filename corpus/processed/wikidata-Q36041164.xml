@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36041164</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36041164</dc:identifier>
   <dc:identifier>doi:10.1016/J.MARPOLBUL.2016.05.061</dc:identifier>
   <dc:title>Toxicity of an herbicide and adjuvant to saltmarsh invertebrates in the management of invasive grass; Comparative laboratory and field tests</dc:title>
@@ -12,11 +13,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-06-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>salt marsh</dc:subject>
   <dc:subject>invasive grass</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Coastal weeds are often treated with herbicides without knowledge of non-target impacts, and toxicity data from standardized test species can have limited applicability. We evaluated toxicity to invertebrates from Fusilade Forte® and the adjuvant Hasten® in the control of invasive salt marsh grass, Spartina anglica. For 3 of 4 local invertebrates, Fusilade Forte® was moderately toxic (96h LC50 5.4-144mgL(-1)), whereas Hasten® was less toxic (14.2-450mgL(-1)). For most species, the mixture was more toxic than the herbicide alone, with 96h LC50 reduced 23-45%. However, a field experiment applying typical concentrations (1000×the lowest 96h LC50) showed low concentrations of herbicide residues and no detrimental impacts on invertebrates over 6months. The results reveal the importance of testing locally relevant species for potential toxicity, and of comparison tests with field exposures to determine the realised toxicity in nature.</dc:description>
 </oai_dc:dc>

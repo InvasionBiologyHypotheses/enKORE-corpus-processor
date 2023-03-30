@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59116575</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q59116575</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-017-1608-9</dc:identifier>
   <dc:title>Predators and parasitoids of the harlequin ladybird, Harmonia axyridis, in its native range and invaded areas</dc:title>
   <dc:creator>Ceryngier, Piotr</dc:creator>
-  <dc:creator>Nedvěd, Oldřich</dc:creator>
+  <dc:creator>Nedvd, Oldich</dc:creator>
   <dc:creator>Grez, Audrey A.</dc:creator>
   <dc:creator>Riddick, Eric W.</dc:creator>
   <dc:creator>Roy, Helen E.</dc:creator>

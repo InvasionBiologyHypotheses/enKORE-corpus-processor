@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110809318</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110809318</dc:identifier>
   <dc:identifier>doi:10.1603/AN10151</dc:identifier>
   <dc:title>Feeding Preference for and Impact on an Invasive Weed (Crepis tectorum) by a Native, Generalist Insect Herbivore, Melanoplus borealis (Orthoptera: Acrididae)</dc:title>
@@ -8,8 +9,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2011-11-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive weed</dc:subject>
   <dc:subject>Melanoplus borealis</dc:subject>
   <dc:subject>invasive species</dc:subject>
@@ -19,6 +20,4 @@
   <dc:subject>Acrididae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:p&gt;Crepis tectorum L., narrow leaf hawksbeard, first was collected in Alaska in 1974 and by 2004 was a common weed in agricultural fields. Introduction and establishment of a new plant species in a region represents a potential new resource for herbivores, as well as a new competitor for plant species already present. Objectives of this study were to determine the preference for C. tectorum, relative to other common plant species, by Melanoplus borealis (Fieber), a generalist herbivore grasshopper common in Alaska, and to determine the potential impact of grasshoppers on this weed. In choice tests, M. borealis preferred C. tectorum over two native forbs, and a grass species, but dandelion, Taraxacum officinale G. H. Weber ex Wiggers, was preferred over C. tectorum. In field cages, in each of 3 yr, grasshoppers reduced biomass of mature plants, flowers, and seedlings of C. tectorum, but not other forbs. We conclude that this weed is a readily accepted new food resource for generalist-feeding grasshoppers, and although grasshoppers could potentially limit seed production of C. tectorum, generally grasshopper densities are not high enough to have significant impact on the weed populations.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

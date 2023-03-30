@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56654706</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56654706</dc:identifier>
   <dc:identifier>doi:10.1007/S00267-018-1088-4</dc:identifier>
   <dc:title>Managing Urban Plant Invasions: a Multi-Criteria Prioritization Approach</dc:title>
@@ -13,12 +14,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-08-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>prioritization</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Alien plant invasions in urban areas can have considerable impact on biodiversity and ecosystem services (ES). Managing urban plant invasions is particularly challenging given the complex interactions between ecological, economic and social elements that exist in the urban milieu. Strategic landscape-scale insights are crucial for guiding management, as are tactical site-scale perspectives to plan and coordinate control efforts on the ground. Integrating these requirements to enhance management efficiency is a major challenge. Decision-support models have considerable potential for guiding and informing management strategies when problems are complex. This study uses multi-criteria decision tools to develop a prioritization framework for managing invasive alien plants (IAPs) in urban areas at landscape and local scales. We used the Analytic Hierarchy Process (AHP; a multi-criteria decision support model) to develop and rank criteria for prioritising IAP management in the City of Cape Town (CoCT), South Africa. Located within a global biodiversity hotspot, Cape Town has a long history of alien plant introductions and a complex socio-political make-up, creating a useful system to explore the challenges associated with managing urban plant invasions. To guide the prioritization of areas for IAP management across the CoCT, a stakeholder workshop was held to identify a goal and criteria for consideration, and to assess the relative importance given to each criterion in IAP management. Workshop attendees were drawn from multiple disciplines involved with different aspects of IAP research and management: government departments, scientists and researchers, and managers with a diverse set of skills and interests. We selected spatial datasets and applied our multi-criteria decision analysis in a Geographic Information System (GIS) to develop a landscape-scale prioritization map. To address issues relevant in an urban setting, we also modified an existing IAP management framework to develop a tactical (site-level) prioritization scheme for guiding on-the-ground control operations. High-priority sites for IAP management were identified at landscape- and local scales across the study area. Factors related to safety and security emerged as pivotal features for setting spatially-explicit priorities for management. The approach applied in this study can be useful for managers in all urban settings to guide the selection and prioritization of areas for IAP management.</dc:description>
 </oai_dc:dc>

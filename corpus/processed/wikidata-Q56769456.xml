@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56769456</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56769456</dc:identifier>
   <dc:identifier>doi:10.3354/MEPS08673</dc:identifier>
   <dc:title>Thresholds and multiple community states in marine fouling communities: integrating natural history with management strategies</dc:title>
@@ -12,6 +13,7 @@
   <dc:date>2010-08-26</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Inter-Research Science Center</dc:publisher>
 </oai_dc:dc>

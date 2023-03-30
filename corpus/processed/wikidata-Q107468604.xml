@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107468604</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q107468604</dc:identifier>
   <dc:identifier>doi:10.3897/NATURECONSERVATION.30.27627</dc:identifier>
-  <dc:title>Assessing the potential distribution of invasive alien species Amorpha fruticosa (Mill.) in the Mureş Floodplain Natural Park (Romania) using GIS and logistic regression</dc:title>
+  <dc:title>Assessing the potential distribution of invasive alien species Amorpha fruticosa (Mill.) in the Mure Floodplain Natural Park (Romania) using GIS and logistic regression</dc:title>
   <dc:creator>Kucsicsa, Gheorghe</dc:creator>
   <dc:creator>Grigorescu, Ines</dc:creator>
-  <dc:creator>Dumitraşcu, Monica</dc:creator>
+  <dc:creator>Dumitracu, Monica</dc:creator>
   <dc:creator>Doroftei, Mihai</dc:creator>
-  <dc:creator>Năstase, Mihaela</dc:creator>
+  <dc:creator>Nstase, Mihaela</dc:creator>
   <dc:creator>Herlo, Gabriel</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-10-24</dc:date>
@@ -17,5 +18,5 @@
   <dc:subject>introduced species</dc:subject>
   <dc:subject>Amorpha fruticosa</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The assessment of invasive terrestrial plant species in the Romanian protected areas is an important research direction, especially since the adventive species have become biological hazards with significant impacts on biodiversity. Due to limited resources being available for the control of the invasive plants, the modelling of the spatial potential distribution is particularly useful in order to find the best measures to eliminate them or prevent their introduction and spread, as well as including them in the management plans of protected areas. Thus, the present paper aims to assess one of the most disturbing invasive terrestrial plant species in Europe – &lt;jats:italic&gt;A.fruticosa&lt;/jats:italic&gt; in one of the most important natural protected area in Romania, i.e. Mureş Floodplain Natural Park (V IUCN category and RAMSAR –Wetlands of International Importance). The current study is a geographical approach seeking to explain the spatial relationships between this invasive species and several explanatory factors (soil type, depth to water, vegetation cover, forest fragmentation and distance to near waters, roads and settlements) and to assess its potential distribution by integrating GIS and logistic regression into spatial simulation. The resultant probability map can be used by the park’s administration in implementing the Management Plan in terms of identifying the areas with the highest occurrence potential of &lt;jats:italic&gt;A.fruticosa&lt;/jats:italic&gt; according to the primary habitats and ecosystems and setting up actions for its eradication/limitation.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The assessment of invasive terrestrial plant species in the Romanian protected areas is an important research direction, especially since the adventive species have become biological hazards with significant impacts on biodiversity. Due to limited resources being available for the control of the invasive plants, the modelling of the spatial potential distribution is particularly useful in order to find the best measures to eliminate them or prevent their introduction and spread, as well as including them in the management plans of protected areas. Thus, the present paper aims to assess one of the most disturbing invasive terrestrial plant species in Europe  A.fruticosa in one of the most important natural protected area in Romania, i.e. Mure Floodplain Natural Park (V IUCN category and RAMSAR Wetlands of International Importance). The current study is a geographical approach seeking to explain the spatial relationships between this invasive species and several explanatory factors (soil type, depth to water, vegetation cover, forest fragmentation and distance to near waters, roads and settlements) and to assess its potential distribution by integrating GIS and logistic regression into spatial simulation. The resultant probability map can be used by the park’s administration in implementing the Management Plan in terms of identifying the areas with the highest occurrence potential of A.fruticosa according to the primary habitats and ecosystems and setting up actions for its eradication/limitation.</dc:description>
 </oai_dc:dc>

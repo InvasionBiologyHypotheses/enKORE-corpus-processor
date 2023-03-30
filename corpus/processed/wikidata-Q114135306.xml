@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114135306</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114135306</dc:identifier>
   <dc:identifier>doi:10.1186/S43170-022-00077-8</dc:identifier>
   <dc:title>Policy coherence for national climate change adaptation and invasive species management in four countries</dc:title>
@@ -9,10 +10,11 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>adaptation to global warming</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;This study explores the opportunities for interlinkages across national planning processes for invasive species management (ISM), national climate change adaptation plans (NAPs), national biodiversity management plans (NBSAPs), and other related policies. Focusing on four countries—Pakistan, Zambia, Kenya, and Ghana—the paper aims to identify policy recommendations for more integrated approaches and to achieve greater efficiency in resource allocation and spending. It finds that there is currently very little integration between these policy areas, and little overlap in implementation systems. It identifies sub-national planning and governance systems as an optimal area for increased harmonization of policy and practice to facilitate locally-led climate adaptation and area-specific responses to ISM issues.&lt;/jats:p&gt;</dc:description>
+  <dc:description>AbstractThis study explores the opportunities for interlinkages across national planning processes for invasive species management (ISM), national climate change adaptation plans (NAPs), national biodiversity management plans (NBSAPs), and other related policies. Focusing on four countriesPakistan, Zambia, Kenya, and Ghanathe paper aims to identify policy recommendations for more integrated approaches and to achieve greater efficiency in resource allocation and spending. It finds that there is currently very little integration between these policy areas, and little overlap in implementation systems. It identifies sub-national planning and governance systems as an optimal area for increased harmonization of policy and practice to facilitate locally-led climate adaptation and area-specific responses to ISM issues.</dc:description>
 </oai_dc:dc>

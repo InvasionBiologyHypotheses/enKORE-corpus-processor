@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35002072</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35002072</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ENTO-112408-085427</dc:identifier>
   <dc:title>Managing invasive populations of Asian longhorned beetle and citrus longhorned beetle: a worldwide perspective</dc:title>
@@ -11,10 +12,10 @@
   <dc:date>2010-01-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Citrus</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt; The Asian longhorned beetle (ALB), Anoplophora glabripennis (Motschulsky), and citrus longhorned beetle (CLB), Anoplophora chinensis (Forster) (Coleoptera: Cerambycidae), are polyphagous xylophages native to Asia and are capable of killing healthy trees. ALB outbreaks began in China in the 1980s, following major reforestation programs that used ALB-susceptible tree species. No regional CLB outbreaks have been reported in Asia. ALB was first intercepted in international trade in 1992, mostly in wood packaging material; CLB was first intercepted in 1980, mostly in live plants. ALB is now established in North America, and both species are established in Europe. After each infestation was discovered, quarantines and eradication programs were initiated to protect high-risk tree genera such as Acer, Aesculus, Betula, Populus, Salix, and Ulmus. We discuss taxonomy, diagnostics, native range, bionomics, damage, host plants, pest status in their native range, invasion history and management, recent research, and international efforts to prevent new introductions. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

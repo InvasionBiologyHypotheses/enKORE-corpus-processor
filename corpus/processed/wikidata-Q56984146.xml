@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56984146</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56984146</dc:identifier>
   <dc:identifier>doi:10.1139/Z91-063</dc:identifier>
   <dc:title>Demography and ecological impacts of the invading mollusc Dreissena polymorpha</dc:title>
@@ -10,13 +11,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>1991-02</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>demography</dc:subject>
   <dc:subject>zebra mussel</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt; The bivalve mollusc Dreissena polymorpha colonized Lake St. Clair in 1986 as a result of ballast water discharge. The present study shows that since initiating reproduction in 1988, its population density at all of the sites originally colonized has increased more than a 1000-fold. The species has, as well, expanded its range in Lake St. Clair dramatically. The density and range increase is not yet complete, as populations at most sites remain dominated by juveniles. Densities in excess of 5000 individuals/m&lt;jats:sup&gt;2&lt;/jats:sup&gt; seem likely to be achieved at most sites in Lake St. Clair within 5 years. It appears likely that D. polymorpha will have a significant impact on composition of the benthos. Shells of individual unionids carry in excess of 10 000 D. polymorpha, and lipid reserves of such unionids are only half those of unaffected individuals. Aside from direct interactions with benthic organisms, the filtering activity of D. polymorpha populations may be sufficient to result in a significant impact on the turbidity of water exiting Lake St. Clair. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

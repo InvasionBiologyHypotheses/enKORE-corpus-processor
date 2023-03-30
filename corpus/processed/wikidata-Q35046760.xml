@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35046760</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35046760</dc:identifier>
   <dc:identifier>doi:10.1021/ES403870Z</dc:identifier>
   <dc:title>Including the introduction of exotic species in life cycle impact assessment: the case of inland shipping</dc:title>
@@ -12,7 +13,7 @@
   <dc:date>2013-11-22</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>American Chemical Society (ACS)</dc:publisher>
-  <dc:description>While the ecological impact of anthropogenically introduced exotic species is considered a major threat for biodiversity and ecosystems functioning, it is generally not accounted for in the environmental life cycle assessment (LCA) of products. In this article, we propose a framework that includes exotic species introduction in an LCA context. We derived characterization factors for exotic fish species introduction related to the transport of goods across the Rhine-Main-Danube canal. These characterization factors are expressed as the potentially disappeared fraction (PDF) of native freshwater fish species in the rivers Rhine and Danube integrated over space and time per amount of goods transported (PDF·m(3)·yr·kg(-1)). Furthermore, we quantified the relative importance of exotic fish species introduction compared to other anthropogenic stressors in the freshwater environment (i.e., eutrophication, ecotoxicity, greenhouse gases, and water consumption) for transport of goods through the Rhine-Main-Danube waterway. We found that the introduction of exotic fish species contributed to 70-85% of the total freshwater ecosystem impact, depending on the distance that goods were transported. Our analysis showed that it is relevant and feasible to include the introduction of exotic species in an LCA framework. The proposed framework can be further extended by including the impacts of other exotic species groups, types of water bodies and pathways for introduction.</dc:description>
 </oai_dc:dc>

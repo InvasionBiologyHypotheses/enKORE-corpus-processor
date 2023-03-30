@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q94572174</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q94572174</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2020.139077</dc:identifier>
   <dc:title>Impacts of soil properties and functional diversity on the performance of invasive plant species Solidago canadensis L. on post-agricultural wastelands</dc:title>
   <dc:creator>Czortek, Patryk</dc:creator>
-  <dc:creator>Królak, Elżbieta</dc:creator>
+  <dc:creator>Królak, Elbieta</dc:creator>
   <dc:creator>Borkowska, Lidia</dc:creator>
   <dc:creator>Bielecka, Aleksandra</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2020-04-28</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Solidago canadensis</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Amongst the numerous consequences of the rapid development of agriculture and urbanization, biological invasions are highlighted as having the biggest impact on the functioning of ecosystems. One of the alien plant species, considered in Europe and Asia to be highly invasive, is Solidago canadensis L.; and its impact on the functioning of ecosystems has been studied in numerous respects. However, knowledge about how the physico-chemical parameters of soils and biotic interactions between species shape the performance of S. canadensis in a transformed landscape is still insufficient. The aim of this study was to assess how complex soil abiotic conditions and the functional diversity of co-occurring vegetation shape the performance of S. canadensis on the wastelands abandoned by agriculture. Apart from detailed investigations of soil properties and S. canadensis biomass, to achieve our study aims, we used parameters of functional diversity, which allowed us to identify the main ecological processes determining the community assembly processes. Under higher contents of loamy fractions in soil, but lower functional richness in surroundings, S. canadensis achieved larger cover. Alongside increasing functional richness and dispersion in co-occurring vegetation, this species has demonstrated sturdy attributes when competing for water and nutrients, expressed by a higher production of rhizomes and roots. Under elevated zinc and lead levels, as well as higher functional evenness in the surroundings, the flower biomass decreased, while the biomass of stems increased. Thus, S. canadensis exhibits a highly adaptive capacity to grow in soils contaminated by heavy metals, due to the buffer properties and life strategies allowing the use of resources absorbed in loamy soils. Environmental factors seem to be more responsible for the shaping of the performance and for the colonization success of S. canadensis than biotic interactions with plants occurring in the surroundings.</dc:description>
 </oai_dc:dc>

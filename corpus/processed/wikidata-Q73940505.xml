@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q73940505</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q73940505</dc:identifier>
   <dc:identifier>doi:10.1017/S0031182099005958</dc:identifier>
   <dc:title>Richness patterns in the parasite communities of exotic poeciliid fishes</dc:title>
@@ -7,23 +8,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2000-06-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Three species of poeciliids (&lt;jats:italic&gt;Gambusia holbrooki&lt;/jats:italic&gt;, &lt;jats:italic&gt;Xiphophorus helleri&lt;/jats:italic&gt; and &lt;jats:italic&gt;X. maculatus&lt;/jats:italic&gt;) and 15 species of ecologically similar 
-native freshwater fishes (mainly eleotrids, ambassids, melanotaeniids and retropinnids) were examined for parasite richness 
-to investigate parasite flux, qualitative differences, quantitative differences and the structuring factors in parasite communities 
-in the 2 fish types in Queensland, Australia. Theory suggests that poeciliids would harbour depauperate parasite 
-communities. Results supported this hypothesis; poeciliids harboured more species-poor parasite infracommunities and 
-regional faunas than natives (&lt;jats:italic&gt;P&lt;/jats:italic&gt; &lt; 0·0001), despite greater sampling effort for the former. Cluster analysis of 
-presence/absence data for poeciliids and the 6 most-sampled native fishes revealed that parasite communities of the 2 fish groups 
-are qualitatively distinct; the proportion of parasite species with complex life-cycles was lower in poeciliids than in native 
-species, and Myxosporea, Microspora, Coccidia and parasitic Crustacea were all absent from poeciliids. Limited exchange 
-of parasite species has occurred between natives and poeciliids. Logistic ordinal regression analysis revealed that fish 
-origin (exotic or native), environmental disturbance and host sex were all significant determinants of parasite community 
-richness (&lt;jats:italic&gt;P&lt;/jats:italic&gt; &lt; 0·05). Theoretical modelling suggests that poeciliids are at a competitive advantage over native fishes because 
-of their lack of parasites.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

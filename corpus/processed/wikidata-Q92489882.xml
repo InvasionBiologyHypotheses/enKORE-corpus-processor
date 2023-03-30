@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92489882</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92489882</dc:identifier>
   <dc:identifier>doi:10.1016/J.CMI.2019.05.019</dc:identifier>
   <dc:title>ESCMID-ECMM guideline: diagnosis and management of invasive aspergillosis in neonates and children</dc:title>
@@ -12,10 +13,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-05-31</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive aspergillosis</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>&lt;h4&gt;Scope&lt;/h4&gt;Presenting symptoms, distributions and patterns of diseases and vulnerability to invasive aspergillosis (IA) are similar between children and adults. However, differences exist in the epidemiology and underlying conditions, the usefulness of newer diagnostic tools, the pharmacology of antifungal agents and in the evidence from interventional phase 3 clinical trials. Therefore, the European Society for Clinical Microbiology and Infectious Diseases (ESCMID) and the European Confederation of Medical Mycology (ECMM) have developed a paediatric-specific guideline for the diagnosis and management of IA in neonates and children.&lt;h4&gt;Methods&lt;/h4&gt;Review and discussion of the scientific literature and grading of the available quality of evidence was performed by the paediatric subgroup of the ESCMID-ECMM-European Respiratory Society (ERS) Aspergillus disease guideline working group, which was assigned the mandate for the development of neonatal- and paediatric-specific recommendations.&lt;h4&gt;Questions&lt;/h4&gt;Questions addressed by the guideline included the epidemiology of IA in neonates and children; which paediatric patients may benefit from antifungal prophylaxis; how to diagnose IA in neonates and children; which antifungal agents are available for use in neonates and children; which antifungal agents are suitable for prophylaxis and treatment of IA in neonates and children; what is the role of therapeutic drug monitoring of azole antifungals; and which management strategies are suitable to be used in paediatric patients. This guideline provides recommendations for the diagnosis, prevention and treatment of IA in the paediatric population, including neonates. The aim of this guideline is to facilitate optimal management of neonates and children at risk for or diagnosed with IA.</dc:description>
 </oai_dc:dc>

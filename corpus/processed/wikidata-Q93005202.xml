@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q93005202</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q93005202</dc:identifier>
   <dc:identifier>doi:10.1093/JAC/DKZ258</dc:identifier>
   <dc:title>Prevalence of voriconazole-resistant invasive aspergillosis and its impact on mortality in haematology patients</dc:title>
@@ -18,30 +19,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive aspergillosis</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:sec&gt;
-                  &lt;jats:title&gt;Background&lt;/jats:title&gt;
-                  &lt;jats:p&gt;Increasing resistance of Aspergillus fumigatus to triazoles in high-risk populations is a concern. Its impact on mortality is not well understood, but rates from 50% to 100% have been reported.&lt;/jats:p&gt;
-               &lt;/jats:sec&gt;
-               &lt;jats:sec&gt;
-                  &lt;jats:title&gt;Objectives&lt;/jats:title&gt;
-                  &lt;jats:p&gt;To determine the prevalence of voriconazole-resistant A. fumigatus invasive aspergillosis (IA) and its associated mortality in a large multicentre cohort of haematology patients with culture-positive IA.&lt;/jats:p&gt;
-               &lt;/jats:sec&gt;
-               &lt;jats:sec&gt;
-                  &lt;jats:title&gt;Methods&lt;/jats:title&gt;
-                  &lt;jats:p&gt;We performed a multicentre retrospective study, in which outcomes of culture-positive haematology patients with proven/probable IA were analysed. Patients were stratified based on the voriconazole susceptibility of their isolates (EUCAST broth microdilution test). Mycological and clinical data were compared, along with survival at 6 and 12 weeks.&lt;/jats:p&gt;
-               &lt;/jats:sec&gt;
-               &lt;jats:sec&gt;
-                  &lt;jats:title&gt;Results&lt;/jats:title&gt;
-                  &lt;jats:p&gt;We identified 129 A. fumigatus culture-positive proven or probable IA cases; 103 were voriconazole susceptible (79.8%) and 26 were voriconazole resistant (20.2%). All but one resistant case harboured environment-associated resistance mutations in the cyp51A gene: TR34/L98H (13 cases) and TR46/Y121F/T289A (12 cases). Triazole monotherapy was started in 75.0% (97/129) of patients. Mortality at 6 and 12 weeks was higher in voriconazole-resistant cases in all patients (42.3% versus 28.2%, P = 0.20; and 57.7% versus 36.9%, P = 0.064) and in non-ICU patients (36.4% versus 21.6%, P = 0.16; and 54.4% versus 30.7%; P = 0.035), compared with susceptible ones. ICU patient mortality at 6 and 12 weeks was very high regardless of triazole susceptibility (75.0% versus 66.7%, P = 0.99; and 75.0% versus 73.3%, P = 0.99).&lt;/jats:p&gt;
-               &lt;/jats:sec&gt;
-               &lt;jats:sec&gt;
-                  &lt;jats:title&gt;Conclusions&lt;/jats:title&gt;
-                  &lt;jats:p&gt;A very high prevalence of voriconazole resistance among culture-positive IA haematology patients was observed. The overall mortality at 12 weeks was significantly higher in non-ICU patients with voriconazole-resistant IA compared with voriconazole-susceptible IA.&lt;/jats:p&gt;
-               &lt;/jats:sec&gt;</dc:description>
 </oai_dc:dc>

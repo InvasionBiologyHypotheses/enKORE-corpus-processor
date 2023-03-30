@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59137064</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q59137064</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6224017</dc:identifier>
   <dc:identifier>doi:10.1007/S00436-018-6068-3</dc:identifier>
   <dc:title>Agents of swimmer's itch-dangerous minority in the Digenea invasion of Lymnaeidae in water bodies and the first report of Trichobilharzia regenti in Poland</dc:title>
   <dc:creator>Marszewska, Anna</dc:creator>
-  <dc:creator>Strzała, Tomasz</dc:creator>
+  <dc:creator>Strzaa, Tomasz</dc:creator>
   <dc:creator>Cichy, Anna</dc:creator>
-  <dc:creator>Dąbrowska, Grażyna B</dc:creator>
-  <dc:creator>Żbikowska, Elżbieta</dc:creator>
+  <dc:creator>Dbrowska, Grayna B</dc:creator>
+  <dc:creator>bikowska, Elbieta</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-12</dc:date>
   <dc:language>en</dc:language>

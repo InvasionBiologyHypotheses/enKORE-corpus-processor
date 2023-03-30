@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56440579</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56440579</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ECOLSYS-112414-054450</dc:identifier>
   <dc:title>Impacts from Invasive Reptiles and Amphibians</dc:title>
@@ -8,9 +9,9 @@
   <dc:date>2015-12-04</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive reptile</dc:subject>
   <dc:subject>invasive amphibian</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Alien herpetofauna have a broad diversity of ecological and evolutionary impacts, involving seven mechanisms. Ecological impacts usually result from trophic disruptions and may be direct or indirect and top-down or bottom-up; they may vary in scale from single species to communities. A single species may impose impacts involving most or all of these categories. Evolutionary impacts most often result from hybridization and introgression but may include diverse changes in native fauna induced by selection. Impact magnitudes observed to date largely range from moderate to major, but massive impacts (including species extinction) are known for a handful of invasive species. Research remains skewed toward a small sample of all invaders, and major research gaps remain in understanding community-level impacts, the risk posed by competition, determinants of predation impact, the relevance of genetic diversity to impacts, and how to predict impacts. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

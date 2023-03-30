@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91622929</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91622929</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525518</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.1818081116</dc:identifier>
@@ -18,10 +19,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-04-29</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.pnas.org/site/aboutpnas/licenses.xhtml</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;To predict the threat of biological invasions to native species, it is critical that we understand how increasing abundance of invasive alien species (IAS) affects native populations and communities. The form of this relationship across taxa and ecosystems is unknown, but is expected to depend strongly on the trophic position of the IAS relative to the native species. Using a global metaanalysis based on 1,258 empirical studies presented in 201 scientific publications, we assessed the shape, direction, and strength of native responses to increasing invader abundance. We also tested how native responses varied with relative trophic position and for responses at the population vs. community levels. As IAS abundance increased, native populations declined nonlinearly by 20%, on average, and community metrics declined linearly by 25%. When at higher trophic levels, invaders tended to cause a strong, nonlinear decline in native populations and communities, with the greatest impacts occurring at low invader abundance. In contrast, invaders at the same trophic level tended to cause a linear decline in native populations and communities, while invaders at lower trophic levels had no consistent impacts. At the community level, increasing invader abundance had significantly larger effects on species evenness and diversity than on species richness. Our results show that native responses to invasion depend critically on invasive species’ abundance and trophic position. Further, these general abundance–impact relationships reveal how IAS impacts are likely to develop during the invasion process and when to best manage them.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

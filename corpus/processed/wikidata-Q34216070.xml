@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34216070</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34216070</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169606</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0108296</dc:identifier>
   <dc:title>Invasiveness does not predict impact: response of native land snail communities to plant invasions in riparian habitats</dc:title>
-  <dc:creator>Horáčková, Jitka</dc:creator>
-  <dc:creator>Juřičková, Lucie</dc:creator>
-  <dc:creator>Šizling, Arnošt L</dc:creator>
-  <dc:creator>Jarošík, Vojtěch</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Horáková, Jitka</dc:creator>
+  <dc:creator>Juiková, Lucie</dc:creator>
+  <dc:creator>izling, Arnot L</dc:creator>
+  <dc:creator>Jaroík, Vojtch</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2014-09-19</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>habitat</dc:subject>
   <dc:subject>invasiveness</dc:subject>

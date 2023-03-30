@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35961011</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35961011</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3352477</dc:identifier>
   <dc:identifier>doi:10.1111/J.1752-4571.2009.00112.X</dc:identifier>
@@ -9,11 +10,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-03-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>adaptive evolution</dc:subject>
   <dc:subject>Allee effect</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The mechanisms that facilitate success of an invasive species include both ecological and evolutionary processes. Investigating the evolutionary dynamics of founder populations can enhance our understanding of patterns of invasiveness and provide insight into management strategies for controlling further establishment of introduced populations. Our aim is to analyze the evolutionary consequences of ecological processes (i.e., propagule pressure and threshold density effects) that impact successful colonization. We address our questions using a spatially-explicit modeling approach that incorporates dispersal, density dependent population growth, and selection. Our results show that adaptive evolution may occur in small or sparse populations, providing a means of mitigating or avoiding inverse density dependent effects (i.e., Allee effects). The rate at which this adaptation occurs is proportional to the amount of genetic variance and is a crucial component in assessing whether natural selection can rescue a population from extinction. We provide theoretical evidence for the importance of recognizing evolution in predicting and explaining successful biological invasions.</dc:description>
 </oai_dc:dc>

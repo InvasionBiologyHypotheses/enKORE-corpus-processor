@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56384443</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56384443</dc:identifier>
   <dc:identifier>doi:10.2166/WP.2016.105</dc:identifier>
   <dc:title>The marine environment and ballast water management law</dc:title>
@@ -8,9 +9,9 @@
   <dc:date>2016-03-15</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>water management</dc:subject>
   <dc:subject>sailing ballast</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>IWA Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;This article contains a study of international and national measures dealing with the potential threat of pollution and the introduction of alien species that may come from the discharge of improperly treated ballast water. Ballast water management policy, law and coastal biosecurity strategies are considered. There are challenges to achieving the ideals of ballast water laws, as correctly pointed out by President Denholm of the Baltic and International Maritime Council (BIMCO), such as the cost of achieving these measures in today's economic climate; however, this article emphasizes the long-term effects of ignoring proper ballast water management. This article encourages a sustained commitment to strategies aimed at dealing with pollution and the harm that may be caused by marine invasive species that often find their way around the world as a result of ballast water discharges. With the imminent implementation of international law on ballast water and a federal court of appeals in the United States ordering the Environmental Protection Agency (EPA) to rewrite a portion of its ballast water dumping rules, ballast water policy justly deserves unrelenting global attention.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

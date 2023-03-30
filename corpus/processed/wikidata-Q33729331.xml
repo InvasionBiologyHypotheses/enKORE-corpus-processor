@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33729331</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33729331</dc:identifier>
   <dc:identifier>doi:10.1126/SCIENCE.1194442</dc:identifier>
   <dc:title>The impact of conservation on the status of the world's vertebrates</dc:title>
@@ -181,26 +182,9 @@
   <dc:date>2010-10-26</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>nature conservation</dc:subject>
   <dc:subject>Vertebrata</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>American Association for the Advancement of Science (AAAS)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Assessing Biodiversity Declines&lt;/jats:title&gt;
-          &lt;jats:p&gt;
-            Understanding human impact on biodiversity depends on sound quantitative projection.
-            &lt;jats:bold&gt;
-              Pereira
-              &lt;jats:italic&gt;et al.&lt;/jats:italic&gt;
-            &lt;/jats:bold&gt;
-            (p.
-            &lt;jats:related-article xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" page="1496" related-article-type="in-this-issue" vol="330" xlink:href="10.1126/science.1196624"&gt;1496&lt;/jats:related-article&gt;
-            , published online 26 October) review quantitative scenarios that have been developed for four main areas of concern: species extinctions, species abundances and community structure, habitat loss and degradation, and shifts in the distribution of species and biomes. Declines in biodiversity are projected for the whole of the 21st century in all scenarios, but with a wide range of variation.
-            &lt;jats:bold&gt;
-              Hoffmann
-              &lt;jats:italic&gt;et al.&lt;/jats:italic&gt;
-            &lt;/jats:bold&gt;
-            (p.
-            &lt;jats:related-article xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" page="1503" related-article-type="in-this-issue" vol="330" xlink:href="10.1126/science.1194442"&gt;1503&lt;/jats:related-article&gt;
-            , published online 26 October) draw on the results of five decades' worth of data collection, managed by the International Union for Conservation of Nature Species Survival Commission. A comprehensive synthesis of the conservation status of the world's vertebrates, based on an analysis of 25,780 species (approximately half of total vertebrate diversity), is presented: Approximately 20% of all vertebrate species are at risk of extinction in the wild, and 11% of threatened birds and 17% of threatened mammals have moved closer to extinction over time. Despite these trends, overall declines would have been significantly worse in the absence of conservation actions.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

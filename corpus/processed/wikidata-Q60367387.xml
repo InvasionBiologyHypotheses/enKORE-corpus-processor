@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60367387</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q60367387</dc:identifier>
   <dc:identifier>doi:10.1093/CZOOLO/60.3.417</dc:identifier>
   <dc:title>Animal personality and the ecological impacts of freshwater non-native species</dc:title>
@@ -10,6 +11,7 @@
   <dc:date>2014-06-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>freshwater animal</dc:subject>
   <dc:subject>invasion biology</dc:subject>
@@ -17,6 +19,4 @@
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:p&gt;While the ecological impacts of invasive species have been demonstrated for many taxonomic groups, the potential effects of behavioural variation among non-native individuals (i.e. personality) on these impacts have been largely overlooked. This is despite the fact that recent studies have demonstrated that, by nature, the three first stages of biological invasions (i.e. transport, establishment and spread) can lead to personality-biased populations. Freshwater ecosystems provide a unique opportunity to investigate this issue, notably because the ecological impacts of non-native species have been extensively documented and because animal personality has been widely studied using freshwater model species. Here, we aim at developing some perspectives on the potential effects of animal personality on the ecological impacts of freshwater non-native species across levels of biological organizations. At the individual level, personality types have been demonstrated to affect the physiolo- gy, metabolism, life history traits and fitness of individuals. We used these effects to discuss how they could subsequently impact invaded populations and, in turn, recipient communities. We also discussed how these might translate into changes in the structure of food webs and the functioning of invaded ecosystems. Finally we discussed how these perspectives could interact with the management of invasive species.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

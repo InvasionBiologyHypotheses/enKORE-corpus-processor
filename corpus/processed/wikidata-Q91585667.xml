@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91585667</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91585667</dc:identifier>
   <dc:identifier>doi:10.1002/ECE3.5734</dc:identifier>
   <dc:title>Predicting the success of an invader: Niche shift versus niche conservatism</dc:title>
@@ -11,7 +12,7 @@
   <dc:creator>Akiner, Mustafa</dc:creator>
   <dc:creator>Alten, Bulent</dc:creator>
   <dc:creator>Aranda, Carles</dc:creator>
-  <dc:creator>Barre-Cardi, Hélène</dc:creator>
+  <dc:creator>Barre-Cardi, Hélne</dc:creator>
   <dc:creator>Bellini, Romeo</dc:creator>
   <dc:creator>Paulis, Mikel Bengoa</dc:creator>
   <dc:creator>Chen, Xiao-Guang</dc:creator>
@@ -22,12 +23,12 @@
   <dc:creator>Kalan, Katja</dc:creator>
   <dc:creator>Kasai, Shinji</dc:creator>
   <dc:creator>Montarsi, Fabrizio</dc:creator>
-  <dc:creator>Pajović, Igor</dc:creator>
+  <dc:creator>Pajovi, Igor</dc:creator>
   <dc:creator>Termine, Rosa</dc:creator>
-  <dc:creator>Turić, Nataša</dc:creator>
+  <dc:creator>Turi, Nataa</dc:creator>
   <dc:creator>Vazquez-Prokopec, Gonzalo M</dc:creator>
   <dc:creator>Velo, Enkelejda</dc:creator>
-  <dc:creator>Vignjević, Goran</dc:creator>
+  <dc:creator>Vignjevi, Goran</dc:creator>
   <dc:creator>Zhou, Xiaohong</dc:creator>
   <dc:creator>Despres, Laurence</dc:creator>
   <dc:type>journal article</dc:type>
@@ -35,9 +36,10 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>niche conservatism</dc:subject>
   <dc:subject>niche shift</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Invasive species can encounter environments different from their source populations, which may trigger rapid adaptive changes after introduction (niche shift hypothesis). To test this hypothesis, we investigated whether postintroduction evolution is correlated with contrasting environmental conditions between the European invasive and source ranges in the Asian tiger mosquito &lt;i&gt;Aedes albopictus&lt;/i&gt;. The comparison of environmental niches occupied in European and source population ranges revealed more than 96% overlap between invasive and source niches, supporting niche conservatism. However, we found evidence for postintroduction genetic evolution by reanalyzing a published ddRADseq genomic dataset from 90 European invasive populations using genotype-environment association (GEA) methods and generalized dissimilarity modeling (GDM). Three loci, among which a putative heat-shock protein, exhibited significant allelic turnover along the gradient of winter precipitation that could be associated with ongoing range expansion. Wing morphometric traits weakly correlated with environmental gradients within Europe, but wing size differed between invasive and source populations located in different climatic areas. Niche similarities between source and invasive ranges might have facilitated the establishment of populations. Nonetheless, we found evidence for environmental-induced adaptive changes after introduction. The ability to rapidly evolve observed in invasive populations (genetic shift) together with a large proportion of unfilled potential suitable areas (80%) pave the way to further spread of &lt;i&gt;Ae. albopictus&lt;/i&gt; in Europe.</dc:description>
+  <dc:description>Invasive species can encounter environments different from their source populations, which may trigger rapid adaptive changes after introduction (niche shift hypothesis). To test this hypothesis, we investigated whether postintroduction evolution is correlated with contrasting environmental conditions between the European invasive and source ranges in the Asian tiger mosquito Aedes albopictus. The comparison of environmental niches occupied in European and source population ranges revealed more than 96% overlap between invasive and source niches, supporting niche conservatism. However, we found evidence for postintroduction genetic evolution by reanalyzing a published ddRADseq genomic dataset from 90 European invasive populations using genotype-environment association (GEA) methods and generalized dissimilarity modeling (GDM). Three loci, among which a putative heat-shock protein, exhibited significant allelic turnover along the gradient of winter precipitation that could be associated with ongoing range expansion. Wing morphometric traits weakly correlated with environmental gradients within Europe, but wing size differed between invasive and source populations located in different climatic areas. Niche similarities between source and invasive ranges might have facilitated the establishment of populations. Nonetheless, we found evidence for environmental-induced adaptive changes after introduction. The ability to rapidly evolve observed in invasive populations (genetic shift) together with a large proportion of unfilled potential suitable areas (80%) pave the way to further spread of Ae.albopictus in Europe.</dc:description>
 </oai_dc:dc>

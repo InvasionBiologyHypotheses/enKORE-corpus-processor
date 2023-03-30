@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34365609</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34365609</dc:identifier>
   <dc:identifier>doi:10.1111/J.1523-1739.2012.01907.X</dc:identifier>
   <dc:title>Combining structured decision making and value-of-information analyses to identify robust management strategies</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-08-02</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>decision making</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Structured decision making and value-of-information analyses can be used to identify robust management strategies even when uncertainty about the response of the system to management is high. We used these methods in a case study of management of the non-native invasive species gray sallow willow (Salix cinerea) in alpine Australia. Establishment of this species is facilitated by wildfire. Managers are charged with developing a management strategy despite extensive uncertainty regarding the frequency of fires, the willow's demography, and the effectiveness of management actions. We worked with managers in Victoria to conduct a formal decision analysis. We used a dynamic model to identify the best management strategy for a range of budgets. We evaluated the robustness of the strategies to uncertainty with value-of-information analyses. Results of the value-of-information analysis indicated that reducing uncertainty would not change which management strategy was identified as the best unless budgets increased substantially. This outcome suggests there would be little value in implementing adaptive management for the problem we analyzed. The value-of-information analyses also highlighted that the main driver of gray sallow willow invasion (i.e., fire frequency) is not necessarily the same factor that is most important for decision making (i.e., willow seed dispersal distance). Value of-information analyses enables managers to better target monitoring and research efforts toward factors critical to making the decision and to assess the need for adaptive management.</dc:description>
 </oai_dc:dc>

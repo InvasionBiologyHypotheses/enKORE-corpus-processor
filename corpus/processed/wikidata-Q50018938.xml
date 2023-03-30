@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q50018938</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q50018938</dc:identifier>
   <dc:identifier>doi:10.1017/S003118201800015X</dc:identifier>
   <dc:title>The impact of parasites during range expansion of an invasive gecko</dc:title>
@@ -11,10 +12,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-02-14</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>range expansion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Host–parasite dynamics can play a fundamental role in both the establishment success of invasive species and their impact on native wildlife. The net impact of parasites depends on their capacity to switch effectively between native and invasive hosts. Here we explore host-switching, spatial patterns and simple fitness measures in a slow-expanding invasion: the invasion of Asian house geckos (&lt;jats:italic&gt;Hemidactylus frenatus&lt;/jats:italic&gt;) from urban areas into bushland in Northeast Australia. In bushland close to urban edges, &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt; co-occurs with, and at many sites now greatly out-numbers, native geckos. We measured prevalence and intensity of &lt;jats:italic&gt;Geckobia&lt;/jats:italic&gt; mites (introduced with &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt;), and &lt;jats:italic&gt;Waddycephalus&lt;/jats:italic&gt; (a native pentastome). We recorded a new invasive mite species, and several new host associations for native mites and geckos, but we found no evidence of mite transmission between native and invasive geckos. In contrast, native &lt;jats:italic&gt;Waddycephalus&lt;/jats:italic&gt; nymphs were commonly present in &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt;, demonstrating this parasite's capacity to utilize &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt; as a novel host. Prevalence of mites on &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt; decreased with distance from the urban edge, suggesting parasite release towards the invasion front; however, we found no evidence that mites affect &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt; body condition or lifespan. &lt;jats:italic&gt;Waddycephalus&lt;/jats:italic&gt; was present at low prevalence in bushland sites and, although its presence did not affect host body condition, our data suggest that it may reduce host survival. The high relative density of &lt;jats:italic&gt;H. frenatus&lt;/jats:italic&gt; at our sites, and their capacity to harbour &lt;jats:italic&gt;Waddycephalus&lt;/jats:italic&gt;, suggests that there may be impacts on native geckos and snakes through parasite spillback.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

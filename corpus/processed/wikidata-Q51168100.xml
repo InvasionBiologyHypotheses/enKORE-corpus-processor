@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51168100</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51168100</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2013.08.068</dc:identifier>
   <dc:title>Environmental risk assessment for plant pests: a procedure to evaluate their impacts on ecosystem services</dc:title>
@@ -15,11 +16,10 @@
   <dc:creator>Lenteren, Joop C</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2013-09-17</dc:date>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>ecosystem services</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The current methods to assess the environmental impacts of plant pests differ in their approaches and there is a lack of the standardized procedures necessary to provide accurate and consistent results, demonstrating the complexity of developing a commonly accepted scheme for this purpose. By including both the structural and functional components of the environment threatened by invasive alien species (IAS), in particular plant pests, we propose an environmental risk assessment scheme that addresses this complexity. Structural components are investigated by evaluating the impacts of the plant pest on genetic, species and landscape diversity. Functional components are evaluated by estimating how plant pests modify ecosystem services in order to determine the extent to which an IAS changes the functional traits that influence ecosystem services. A scenario study at a defined spatial and temporal resolution is then used to explore how an IAS, as an exogenous driving force, may trigger modifications in the target environment. The method presented here provides a standardized approach to generate comparable and reproducible results for environmental risk assessment as a component of Pest Risk Analysis. The method enables the assessment of overall environmental risk which integrates the impacts on different components of the environment and their probabilities of occurrence. The application of the proposed scheme is illustrated by evaluating the environmental impacts of the invasive citrus long-horn beetle, Anoplophora chinensis.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q89784346</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q89784346</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031664</dc:identifier>
   <dc:identifier>doi:10.1098/RSPB.2019.1411</dc:identifier>
@@ -9,9 +10,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-02-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;A striking pattern, seen in both fossil and extant taxa, is that tropical ectotherms are better at invading temperate habitats than vice versa. This is puzzling because tropical ectotherms, being thermal specialists, face a harsher abiotic environment&lt;jats:italic&gt;and&lt;/jats:italic&gt;competition from temperate residents that are thermal generalists. We develop a mathematical framework to address this puzzle. We find that (i) tropical ectotherms can invade temperate habitats if they have higher consumption rates and lower mortality during warmer summers, (ii) stronger seasonal fluctuations at higher latitudes create more temporal niches, allowing coexistence of tropical invaders and temperate residents, and (iii) temperate ectotherms’ failure to invade tropical habitats is due to greater mortality rather than lower competitive ability. Our framework yields predictions about population-level outcomes of invasion success based solely on species’ trait responses to temperature. It provides a potential ecological explanation for why the tropics constitute both a cradle and a museum of biodiversity.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

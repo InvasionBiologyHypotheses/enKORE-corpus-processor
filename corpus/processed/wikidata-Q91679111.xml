@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91679111</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91679111</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2019.06.511</dc:identifier>
   <dc:title>The impact of the invasive species Vespa velutina on honeybees: A new approach based on oxidative stress</dc:title>
@@ -12,11 +13,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-07-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Vespa velutina</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Honeybees have an essential role in ecosystems pollinating wild flowers and cultivated crops, representing an important cultural and economic benefit for humans. Honeybee populations are decreasing over the last decade, due to multifactorial causes. The aim of this field study was to investigate the effects of the presence of the invasive species Vespa velutina, a bee predator, in oxidative stress parameters of honeybee workers. To achieve this objective, positive or negative apiaries for the presence of the V. velutina were selected. Five honeybees from six hives of each apiary were sampled in spring, summer and autumn, analysing a total of 233 samples. Analysis of mRNA expression of oxidative stress-related genes, catalase enzymatic activity and lipid peroxidation were performed. An increase in sod2, tpx3, trxR1, gtpx1, gstS1, coxI, cytC and if2mt genes expression, as well as a raise in catalase activity and lipid peroxidation were observed in V. velutina positive samples. Thus, here we present a new methodology to analyze the impact of the predation pressure of the invasive species V. velutina on honeybees under field conditions. In conclusion, the results obtained in this study indicate the negative impact of the presence of the yellow-legged hornet on honeybees' health and the activation of their antioxidant system to protect them against this biotic stressor. Moreover, the redox status they present could increase the susceptibility of honeybees, essential insects that currently receive many inputs of different stresses, to another stressor.</dc:description>
 </oai_dc:dc>

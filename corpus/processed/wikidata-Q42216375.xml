@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q42216375</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q42216375</dc:identifier>
   <dc:identifier>doi:10.1016/J.JIAC.2014.03.010</dc:identifier>
   <dc:title>Impact of the pneumococcal conjugate vaccine on serotype distribution and susceptibility trends of pediatric non-invasive Streptococcus pneumoniae isolates in Tokai, Japan over a 5-year period.</dc:title>
@@ -15,12 +16,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-05-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Streptococcus pneumoniae</dc:subject>
   <dc:subject>pneumococcal conjugate vaccine</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Introduction of the 7-valent pneumococcal conjugate vaccine (PCV7) in February 2010 markedly reduced the burden of invasive pneumococcal disease (IPD) and changed serotype distribution in Japan. We investigated the serotype distribution and susceptibility trends of non-invasive Streptococcus pneumoniae isolates collected from pediatric patients. A total of 564 pneumococcal isolates were collected over a 5-year period between 2008 and 2012. The coverage of PCV7 significantly decreased throughout the study period, from 49.3% in period 1 (between June 2008 and April 2009) to 23.4% in period 4 (between October 2011 and March 2012). This change was mainly due to a large decrease in the frequency of 19F (from 20.6% to 9.9%) and 6B (from 10.3% to 2.7%) and an increase in serotype 3 (from 5.1% to 13.5%) and serogroup 15 (from 4.4% to 9.0%). According to serotype replacement, the susceptible ratios of S. pneumoniae to β-lactams increased slightly while macrolide resistance remained high. The high frequency of macrolide-resistant pneumococcal isolates may continue because of the high frequency of erm(B) in replace serotypes such as serotype 3 and serogroup 15. The continuous surveillance study is essential following the introduction of a second generation 13-valent pneumococcal conjugate vaccine (PCV13).</dc:description>
 </oai_dc:dc>

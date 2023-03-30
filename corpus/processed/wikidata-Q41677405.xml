@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q41677405</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q41677405</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604976</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0184677</dc:identifier>
   <dc:title>Simple yet effective: Historical proximity variables improve the species distribution models for invasive giant hogweed (Heracleum mantegazzianum s.l.) in Poland</dc:title>
-  <dc:creator>Mędrzycki, Piotr</dc:creator>
+  <dc:creator>Mdrzycki, Piotr</dc:creator>
   <dc:creator>Jarzyna, Ingeborga</dc:creator>
-  <dc:creator>Obidziński, Artur</dc:creator>
+  <dc:creator>Obidziski, Artur</dc:creator>
   <dc:creator>Tokarska-Guzik, Barbara</dc:creator>
   <dc:creator>Sotek, Zofia</dc:creator>
   <dc:creator>Pabjanek, Piotr</dc:creator>

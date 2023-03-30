@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114751233</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114751233</dc:identifier>
   <dc:identifier>doi:10.2533/CHIMIA.2022.476</dc:identifier>
-  <dc:title>Robinia pseudoacacia (Black Locust) – An Invasive Species with Unsuspected Potential in Grappa Ageing</dc:title>
+  <dc:title>Robinia pseudoacacia (Black Locust)  An Invasive Species with Unsuspected Potential in Grappa Ageing</dc:title>
   <dc:creator>Fuchsmann, Pascal</dc:creator>
   <dc:creator>Stern, Mireille Tena</dc:creator>
   <dc:creator>Petignat-Keller, Sonia</dc:creator>
@@ -16,5 +17,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>black locust</dc:subject>
   <dc:publisher>Swiss Chemical Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;No abstract.&lt;/jats:p&gt;</dc:description>
+  <dc:description>No abstract.</dc:description>
 </oai_dc:dc>

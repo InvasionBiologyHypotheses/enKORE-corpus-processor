@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107897024</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q107897024</dc:identifier>
   <dc:identifier>doi:10.1111/OIK.08034</dc:identifier>
-  <dc:title>A trait‐based approach across the native and invaded range to understand plant invasiveness and community impact</dc:title>
+  <dc:title>A traitbased approach across the native and invaded range to understand plant invasiveness and community impact</dc:title>
   <dc:creator>Helsen, Kenny</dc:creator>
   <dc:creator>Matsushima, Hajime</dc:creator>
   <dc:creator>Somers, Ben</dc:creator>
@@ -10,8 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2021-04-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasiveness</dc:subject>
   <dc:subject>invasive trait</dc:subject>
   <dc:subject>invasion impact</dc:subject>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110531326</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110531326</dc:identifier>
   <dc:identifier>doi:10.1079/PAVSNNR20127019</dc:identifier>
   <dc:title>Modelling enemy release during range expansion of Ilex aquifolium with a two-component GLMM</dc:title>
@@ -13,6 +14,4 @@
   <dc:subject>range expansion</dc:subject>
   <dc:subject>Ilex aquifolium</dc:subject>
   <dc:publisher>CABI Publishing</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-          &lt;jats:p&gt;In this worked example, we present a two-component generalized linear mixed model (GLMM) modelling a counting response with exceedingly many zeros. The emphasis will be on model construction and validation. To our knowledge only ADMB (if the likelihood functions are coded directly) and the GLIMMIX procedure in SAS allows for a flexible modelling of two-component GLMMs, so the statistical analysis will be done in SAS V9.2. However, the analysis did not proceed as smoothly as we hoped, and we comment on some of the problems we encountered. This forms Supplement C to Thiele J, Markussen B. Potential of GLMM in modelling invasive spread.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

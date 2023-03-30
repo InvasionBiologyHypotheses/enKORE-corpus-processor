@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38321747</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38321747</dc:identifier>
   <dc:identifier>doi:10.1126/SCIENCE.1115257</dc:identifier>
   <dc:title>Molecular mechanism for switching of P. falciparum invasion pathways into human erythrocytes</dc:title>
@@ -16,20 +17,10 @@
   <dc:date>2005-08-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>human erythrocyte</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>American Association for the Advancement of Science (AAAS)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            The malaria parasite,
-            &lt;jats:italic&gt;Plasmodium falciparum&lt;/jats:italic&gt;
-            , exploits multiple ligand-receptor interactions, called invasion pathways, to invade the host erythrocyte. Strains of
-            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
-            vary in their dependency on sialated red cell receptors for invasion. We show that switching from sialic acid–dependent to –independent invasion is reversible and depends on parasite ligand use. Expression of
-            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
-            reticulocyte–binding like homolog 4 (PfRh4) correlates with sialic acid–independent invasion, and PfRh4 is essential for switching invasion pathways. Differential activation of PfRh4 represents a previously unknown mechanism to switch invasion pathways and provides
-            &lt;jats:italic&gt;P. falciparum&lt;/jats:italic&gt;
-            with exquisite adaptability in the face of erythrocyte receptor polymorphisms and host immune responses.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

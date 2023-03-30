@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36078191</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36078191</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946187</dc:identifier>
   <dc:identifier>doi:10.1186/S12898-016-0088-6</dc:identifier>
@@ -12,9 +13,9 @@
   <dc:date>2016-07-14</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive fish</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Worldwide freshwater ecosystems are increasingly affected by invasive alien species. In particular, Ponto-Caspian gobiid fishes and amphipods are suspected to have pronounced effects on aquatic food webs. However, there is a lack of systematic studies mechanistically testing the potential synergistic effects of invasive species on native fauna. In this study we investigated the interrelations between the invasive amphipod Dikerogammarus villosus and the invasive fish species Neogobius melanostomus in their effects on the native amphipod Gammarus pulex. We hypothesized selective predation by the fish as a driver for displacement of native species resulting in potential extinction of G. pulex. The survival of G. pulex in the presence of N. melanostomus in relation to the presence of D. villosus and availability of shelter was analyzed in the context of behavioural differences between the amphipod species.&lt;h4&gt;Results&lt;/h4&gt;Gammarus pulex had a significantly higher susceptibility to predation by N. melanostomus compared to D. villosus in all experiments, suggesting preferential predation by this fish on native gammarids. Furthermore, the presence of D. villosus significantly increased the vulnerability of G. pulex to fish predation. Habitat structure was an important factor for swimming activity of amphipods and their mortality, resulting in a threefold decrease in amphipods consumed with shelter habitat structures provided. Behavioral differences in swimming activity were additionally responsible for higher predation rates on G. pulex. Intraguild predation could be neglected within short experimental durations.&lt;h4&gt;Conclusions&lt;/h4&gt;The results of this study provide evidence for synergistic effects of the two invasive Ponto-Caspian species on the native amphipod as an underlying process of species displacements during invasion processes. Prey behaviour and monotonous habitat structures additionally contribute to the decline of the native gammarid fauna in the upper Danube River and elsewhere.</dc:description>
 </oai_dc:dc>

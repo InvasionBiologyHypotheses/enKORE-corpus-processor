@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111169465</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111169465</dc:identifier>
   <dc:identifier>doi:10.1093/CONDOR/DUZ014</dc:identifier>
   <dc:title>Pervasive impacts of invasive brown treesnakes drive low fledgling survival in endangered Micronesian Starlings (Aplonis opaca) on Guam</dc:title>
@@ -10,12 +11,10 @@
   <dc:creator>Jones, Todd M</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2019-06-19</dc:date>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Micronesian Starling</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:p&gt;Invasive predators have caused widespread loss of biodiversity in island ecosystems, yet certain species are able to tolerate the presence of generalist invaders. For example, the invasive brown treesnake (BTS; Boiga irregularis) caused the extirpation of 10 of 12 native forest bird species on the island of Guam, but a remnant population of the Micronesian Starling (Aplonis opaca), or Såli, has managed to persist on a military installation in northern Guam. Understanding how Micronesian Starlings are coping with the presence of BTS can inform conservation efforts for island bird populations facing invasive predators and provide insight into strategies for expanding the starling population. We monitored the survival, movements, and habitat use of 43 radio-tagged starling fledglings during this vulnerable life-history stage. Invasive predators accounted for 75% of fledgling mortality (56% from BTS; 19% from feral cats) and contributed to one of the lowest post-fledging survival rates (38% through day 21 post-fledging) recorded for passerine birds. Predation by BTS persisted at elevated rates following natal dispersal, further reducing cumulative survival to 26% through 53 days post-fledging. Nest location was an important predictor of survival: fledglings from nest boxes closer to the forest edge were more likely to use forest habitat at younger ages and more likely to be depredated by BTS. Overall, our findings indicate that BTS continue to severely impact Guam’s starling population, even more so than invasive predators affect native birds in other island systems. We recommend deploying nest boxes farther from the forest to improve fledgling survival and implementing urban predator control to promote growth of the Micronesian Starling population on Guam and facilitate future reintroductions of other species.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

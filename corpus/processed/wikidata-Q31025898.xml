@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31025898</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31025898</dc:identifier>
   <dc:identifier>doi:10.1007/S10661-015-4934-3</dc:identifier>
   <dc:title>Paradigm of plant invasion: multifaceted review on sustainable management</dc:title>
@@ -7,12 +8,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-11-18</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>sustainable management</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>A cascade of reviews and growing body of literature exists on forest invasion ecology, its mechanism or causes; however, no review addressed the sustainable management of invasive plants of forest in totality. Henceforth, the present paper aims to provide a critical review on the management of invasive species particularly in the context of forest plants. Plant invasion in forest is now increasingly being recognized as a global problem, and various continents are adversely affected, although to a differential scale. Quest for the ecological mechanism lying behind the success of invasive species over native species of forest has drawn the attention of researches worldwide particularly in the context of diversity-stability relationship. Transport, colonization, establishment, and landscape spread may be different steps in success of invasive plants in forest, and each and every step is checked through several ecological attributes. Further, several ecological attribute and hypothesis (enemy release, novel weapon, empty niche, evolution of increased competitive ability, etc.) were proposed pertaining to success of invasive plant species in forest ecosystems. However, a single theory will not be able to account for invasion success among all environments as it may vary spatially and temporally. Therefore, in order to formulate a sustainable management plan for invasive plants of forest, it is necessary to develop a synoptic view of the dynamic processes involved in the invasion process. Moreover, invasive species of forest can act synergistically with other elements of global change, including land-use change, climate change, increased concentrations of atmospheric carbon dioxide, and nitrogen deposition. Henceforth, a unified framework for biological invasions that reconciles and integrates the key features of the most commonly used invasion frameworks into a single conceptual model that can be applied to all human-mediated invasions.</dc:description>
 </oai_dc:dc>

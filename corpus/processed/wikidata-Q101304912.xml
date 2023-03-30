@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101304912</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101304912</dc:identifier>
   <dc:identifier>https://checklist.pensoft.net/article/51607/download/pdf/</dc:identifier>
   <dc:identifier>doi:10.15560/16.5.1159</dc:identifier>
@@ -18,5 +19,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Poeciliidae</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;We provide the first record of &lt;jats:italic&gt;Xiphophorus maculatus&lt;/jats:italic&gt; (G&amp;uuml;nther, 1866) in a river basin in the northeastern Brazil. Specimens were collected in the Jaguaribe River basin, Jo&amp;atilde;o Pessoa, Para&amp;iacute;ba state, Brazil. Two hundred eighty-one specimens, corresponding to 143 males and 138 females of &lt;jats:italic&gt;X. maculatus&lt;/jats:italic&gt;, were collected at nine sites along the basin, from 2017 to 2019. Specimens total length ranged from 17.5 to 26.6 mm in males and from 11.7 to 32.7 mm in females. Introduction of non-native species greatly threatens the biological diversity worldwide. When introduced into a new habitat, &lt;jats:italic&gt;X. maculatus&lt;/jats:italic&gt; usually decreases microcrustacean, macroinvertebrate and native fish populations.&lt;/jats:p&gt;</dc:description>
+  <dc:description>We provide the first record of Xiphophorus maculatus (G&amp;uuml;nther, 1866) in a river basin in the northeastern Brazil. Specimens were collected in the Jaguaribe River basin, Jo&amp;atilde;o Pessoa, Para&amp;iacute;ba state, Brazil. Two hundred eighty-one specimens, corresponding to 143 males and 138 females of X. maculatus, were collected at nine sites along the basin, from 2017 to 2019. Specimens total length ranged from 17.5 to 26.6 mm in males and from 11.7 to 32.7 mm in females. Introduction of non-native species greatly threatens the biological diversity worldwide. When introduced into a new habitat, X. maculatus usually decreases microcrustacean, macroinvertebrate and native fish populations.</dc:description>
 </oai_dc:dc>

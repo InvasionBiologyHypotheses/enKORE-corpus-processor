@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110745140</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110745140</dc:identifier>
   <dc:identifier>doi:10.2166/WS.2007.113</dc:identifier>
   <dc:title>Impact of exotic invasive species in the cooling network of the Cartuja'93 technological park (Seville)</dc:title>
@@ -10,8 +11,8 @@
   <dc:date>2007-12-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>IWA Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;EMASESA has been monitoring the biological colonization in the Cartuja Island raw water network since 2001. Water from the Guadalquivir River dock, which circulates through this network, is meant for irrigation of the green areas and for the air conditioning of the buildings in the Cartuja 93 Science and Technology Park. The results of this study have highlighted that in the biological colonization of the distribution network three exotic invasive species are involved: the bivalves Mytilopsis leucophaeata and Corbicula fluminea, along with the hydrozoan Cordylophora caspia. The colonization is principally registered at the beginning of the network in the pumping station facilities. The C. caspia and M. leucophaeata have experienced the biggest growth, and the hydrozoan has had the biggest effect on the distribution network. The biological growth in the network has been tackled in two ways: (1) eliminating the existing colonization i.e. acting on the adult specimens while manually cleaning the larger diameter pipes and (2) preventing new outbreaks by using a non-oxidizing and fast hydrolysing biocide and using a TBT-free anti-fouling paint.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

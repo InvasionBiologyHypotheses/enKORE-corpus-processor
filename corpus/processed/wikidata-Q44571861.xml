@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q44571861</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q44571861</dc:identifier>
   <dc:identifier>doi:10.1111/ELE.12197</dc:identifier>
   <dc:title>What explains variation in the impacts of exotic plant invasions on the nitrogen cycle? A meta-analysis</dc:title>
@@ -11,12 +12,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-10-18</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>plant invasion</dc:subject>
   <dc:subject>meta-analysis</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Exotic plant invasions can notably alter the nitrogen (N) cycle of ecosystems. However, there is large variation in the magnitude and direction of their impact that remains unexplained. We present a structured meta-analysis of 100 papers, covering 113 invasive plant species with 345 cases of invasion across the globe and reporting impacts on N cycle-related metrics. We aim to explain heterogeneity of impacts by considering methodological aspects, properties of the invaded site and phylogenetic and functional characteristics of the invaders and the natives. Overall, plant invasions increased N pools and accelerated fluxes, even when excluding N-fixing invaders. The impact on N pools depended mainly on functional differences and was greater when the invasive plants and the natives differed in N-fixation ability, plant height and plant/leaf habit. Furthermore, the impact on N fluxes was related mainly to climate, being greater under warm and moist conditions. Our findings show that more functionally distant invaders occurring in mild climates are causing the strongest alterations to the N cycle.</dc:description>
 </oai_dc:dc>

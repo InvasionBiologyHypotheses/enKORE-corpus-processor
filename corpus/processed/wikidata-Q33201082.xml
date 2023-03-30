@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33201082</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33201082</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395920</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.0401456101</dc:identifier>
@@ -10,8 +11,8 @@
   <dc:date>2004-04-05</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Madagascar</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Ecological perturbations can either be necessary for maintaining tropical forest diversity or responsible for its decline, depending on the scale, nature, and frequency of the disturbance. Anthropogenic disturbances such as logging and subsistence agriculture may promote the establishment of nonnative, invasive plant species, potentially affecting forest structure and diversity even long after the perturbation has ceased. We investigated the impacts of logging 50 and 150 years ago on tropical forest vegetation in Madagascar, a “hotspot” of biodiversity. Logging was the overriding factor influencing establishment of nonnative plants. Sites once logged never recovered native species diversity because of the dominance and persistence of invasive species.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

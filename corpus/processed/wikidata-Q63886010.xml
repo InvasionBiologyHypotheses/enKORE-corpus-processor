@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q63886010</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q63886010</dc:identifier>
   <dc:identifier>doi:10.1115/1.4041361</dc:identifier>
   <dc:title>Investigating the Mixing Efficiencies of Liquid-to-Liquid Chemical Injection Manifolds for Aquatic Invasive Species Management</dc:title>
@@ -10,10 +11,10 @@
   <dc:date>2018-10-04</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>ASME International</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Aquatic invasive species (AIS) have spread throughout the United States via major rivers and tributaries. Locks and dams positioned along affected waterways, specifically lock chambers, are being evaluated as potential management sites to prevent further expansion into new areas. Recent research has shown that infusion of chemicals (e.g., carbon dioxide) into water can block or kill several invasive organisms and could be a viable option at navigational structures such as lock chambers because chemical infusion would not interfere with vessel passage or lock operation. Chemical treatments near lock structures will require large-scale fluid-mechanic systems and significant energy. Mixing must extend to all stagnation regions within a lock structure to prevent the passage of an invasive fish. This work describes the performance of both wall- and floor-based CO2-infused-water to water injection manifolds targeted for lock structures in terms of mixing time, mixing homogeneity, injection efficiency, and operational power requirements. Both systems have strengths and weaknesses so selection recommendations are given for applications such as open systems and closed systems.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

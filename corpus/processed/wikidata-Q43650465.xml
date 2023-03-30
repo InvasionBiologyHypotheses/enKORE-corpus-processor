@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q43650465</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q43650465</dc:identifier>
   <dc:identifier>doi:10.1017/S0031182007002545</dc:identifier>
   <dc:title>Experimental infections, using a fluorescent marker, of two elasmobranch species by unciliated larvae of Branchotenthes octohamatus (Monogenea: Hexabothriidae): invasion route, host specificity and post-larval development.</dc:title>
@@ -9,8 +10,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2007-03-23</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Branchotenthes octohamatus</dc:subject>
@@ -18,5 +19,4 @@
   <dc:subject>Host tropism</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;SUMMARY&lt;/jats:title&gt;&lt;jats:p&gt;The infection biology of &lt;jats:italic&gt;Branchotenthes octohamatus&lt;/jats:italic&gt; (Monogenea: Hexabothriidae) from the gills of the southern fiddler ray, &lt;jats:italic&gt;Trygonorrhina fasciata&lt;/jats:italic&gt; (Rhinobatidae), was studied using the fluorescent dye, 5(6)-carboxyfluorescein diacetate &lt;jats:italic&gt;N&lt;/jats:italic&gt;-succinimidyl ester (CFSE). This is the first use of this technique on a monogenean species with unciliated larvae and the first for any monogenean larva infecting an elasmobranch host. CFSE-labelled post-larvae were recovered from gills of &lt;jats:italic&gt;T. fasciata&lt;/jats:italic&gt; within 30 min of exposure to the host, providing strong evidence that larvae invade host gills directly and do not migrate after initial attachment elsewhere. The rapidity with which larvae settled suggests that the mode of infection may deliver larvae directly to the gills via the host's inhalant respiratory current. The specificity of &lt;jats:italic&gt;B. octohamatus&lt;/jats:italic&gt; was investigated by exposing a sympatric rhinobatid host species, the western shovelnose ray, &lt;jats:italic&gt;Aptychotrema vincentiana&lt;/jats:italic&gt;, to &lt;jats:italic&gt;B. octohamatus&lt;/jats:italic&gt; larvae newly emerged from eggs laid by adult parasites from gills of &lt;jats:italic&gt;T. fasciata&lt;/jats:italic&gt;. Experimental exposure of &lt;jats:italic&gt;A. vincentiana&lt;/jats:italic&gt; to freshly hatched &lt;jats:italic&gt;B. octohamatus&lt;/jats:italic&gt; larvae resulted in a persistent infection, indicating that &lt;jats:italic&gt;B. octohamatus&lt;/jats:italic&gt; may not be strictly host specific. Post-larval development charted on these experimentally infected &lt;jats:italic&gt;A. vincentiana&lt;/jats:italic&gt; specimens was slow. Parasites appeared to be sexually mature at 91 days at 21–25°C. &lt;jats:italic&gt;Branchotenthes octohamatus&lt;/jats:italic&gt; larvae bear only 4 pairs of hooklets on the haptor whereas all other hexabothriid larvae described so far have 5 hooklet pairs. Ontogenetic changes to the haptor revealed that it is probably hooklet pair III that is lost from &lt;jats:italic&gt;B. octohamatus&lt;/jats:italic&gt; prior to larval development.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

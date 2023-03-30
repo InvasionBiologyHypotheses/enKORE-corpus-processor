@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q24201731</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q24201731</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4856903</dc:identifier>
   <dc:identifier>doi:10.3897/PHYTOKEYS.62.7865</dc:identifier>
   <dc:title>Cardamine occulta, the correct species name for invasive Asian plants previously classified as C. flexuosa, and its occurrence in Europe</dc:title>
   <dc:creator>Marhold, Karol</dc:creator>
-  <dc:creator>Šlenker, Marek</dc:creator>
+  <dc:creator>lenker, Marek</dc:creator>
   <dc:creator>Kudoh, Hiroshi</dc:creator>
   <dc:creator>Zozomová-Lihová, Judita</dc:creator>
   <dc:type>journal article</dc:type>
@@ -13,6 +14,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Cardamine occulta</dc:subject>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33830393</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33830393</dc:identifier>
   <dc:identifier>doi:10.1016/J.ENVRES.2011.02.001</dc:identifier>
   <dc:title>From molecules to management: adopting DNA-based methods for monitoring biological invasions in aquatic environments</dc:title>
@@ -8,11 +9,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2011-02-25</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Recent technological advances have driven rapid development of DNA-based methods designed to facilitate detection and monitoring of invasive species in aquatic environments. These tools promise to improve on traditional monitoring approaches by enhancing detection sensitivity, reducing analytical turnaround times and monitoring costs, and increasing specificity of target identifications. However, despite the promise of DNA-based monitoring methods, the adoption of these tools in decision-making frameworks remains challenging. Here, rather than explore technical aspects of method development, we examine impediments to effective translation of those methods into management contexts. In addition to surveying current use of DNA-based tools for aquatic invasive species monitoring, we explore potential sources of uncertainty associated with molecular technologies and possibilities for limiting that uncertainty and effectively communicating its implications for decision-making. We pay particular attention to the recent adoption of DNA-based methods for detection of invasive Asian carp species in the United States Great Lakes region, as this example illustrates many of the challenges associated with applying molecular tools to achieve desired management outcomes. Our goal is to provide a useful assessment of the obstacles associated with integrating DNA-based methods into aquatic invasive species management, and to offer recommendations for future efforts aimed at overcoming those obstacles.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51185649</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51185649</dc:identifier>
   <dc:identifier>doi:10.1603/0046-225X(2007)36[569:IIAFVO]2.0.CO;2</dc:identifier>
   <dc:title>Initial impacts and field validation of host range for Boreioglycaspis melaleucae Moore (Hemiptera: Psyllidae), a biological control agent of the invasive tree Melaleuca quinquenervia (Cav.) Blake (Myrtales: Myrtaceae: Leptospermoideae).</dc:title>
@@ -14,6 +15,7 @@
   <dc:date>2007-06-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive tree</dc:subject>
   <dc:subject>Melaleuca quinquenervia</dc:subject>
   <dc:subject>invasive species</dc:subject>
@@ -21,5 +23,4 @@
   <dc:subject>Myrtaceae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>Invasion of south Florida wetlands by the Australian paperbark tree, Melaleuca quinquenervia (Cav.) S.T. Blake (melaleuca), has caused adverse economic and environmental impacts. The tree's biological attributes and favorable ambient biophysical conditions combine to complicate efforts to restore and maintain south Florida ecosystems. Management requires an integrated strategy that deploys multiple biological control agents to forestall reinvasion and to supplement other control methods, thereby lessening recruitment and regeneration after removal of existing trees. This biological control program began during 1997 when an Australian weevil, Oxyops vitiosa (Pascoe), was released. A second Australian insect, the melaleuca psyllid (Boreioglycaspis melaleucae Moore), first introduced during 2002, has also widely established. After inoculation of the psyllid in a field study, only 40% of seedlings survived herbivory treatments compared with 95% survival in controls. The resultant defoliation also reduced growth of the surviving seedlings. A weevil-induced decline at a site comprised mainly of coppicing stumps had slowed after a 70% reduction. Psyllids colonized the site, and 37% of the remaining coppices succumbed within 10 mo. The realized ecological host range of B. melaleucae was restricted to M. quinquenervia; 18 other nontarget plant species predicted to be suboptimal or nonhosts during laboratory host range testing were unaffected when interspersed with psyllid-infested melaleuca trees in a common garden study. Evaluations are ongoing, but B. melaleucae is clearly reducing seedling recruitment and stump regrowth without adversely impacting other plant species. Manifestation of impacts on mature trees will require more time, but initial indications suggest that the psyllid will be an effective supplement to the weevil.</dc:description>
 </oai_dc:dc>

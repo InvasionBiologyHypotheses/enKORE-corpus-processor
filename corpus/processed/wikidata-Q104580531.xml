@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104580531</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q104580531</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748722</dc:identifier>
   <dc:identifier>doi:10.1080/23802359.2020.1714506</dc:identifier>
@@ -15,5 +16,5 @@
   <dc:subject>Solanum rostratum</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Informa UK Limited</dc:publisher>
-  <dc:description>&lt;i&gt;Solanum rostratum&lt;/i&gt; is native to Neotropics and southwestern United States and considered as an invasive plant in Americas, Europe, Asia, Africa, and Australia. However, information on the chloroplast (cp) genome of this species is limited. In this study, we present the complete chloroplast genome sequence of &lt;i&gt;S. rostratum&lt;/i&gt; obtained by high-throughput nextgeneration sequencing technology. The whole cp genome was 155,559 bp long and comprised 130 genes, including 85 protein-coding genes, 37 tRNA genes, and eight rRNA genes. The &lt;i&gt;S. rostratum&lt;/i&gt; cp genome had a GC content of 37.76%. Based on the concatenated coding sequences of cp PCGs, phylogenetic analysis showed that Phylogenetic tree revealed that &lt;i&gt;S. rostratum&lt;/i&gt; and &lt;i&gt;S. elaeagnifolium&lt;/i&gt; are closely related to each other within the genus &lt;i&gt;Solanum.&lt;/i&gt;</dc:description>
+  <dc:description>Solanum rostratum is native to Neotropics and southwestern United States and considered as an invasive plant in Americas, Europe, Asia, Africa, and Australia. However, information on the chloroplast (cp) genome of this species is limited. In this study, we present the complete chloroplast genome sequence of S. rostratum obtained by high-throughput nextgeneration sequencing technology. The whole cp genome was 155,559bp long and comprised 130 genes, including 85 protein-coding genes, 37 tRNA genes, and eight rRNA genes. The S. rostratum cp genome had a GC content of 37.76%. Based on the concatenated coding sequences of cp PCGs, phylogenetic analysis showed that Phylogenetic tree revealed that S. rostratum and S. elaeagnifolium are closely related to each other within the genus Solanum.</dc:description>
 </oai_dc:dc>

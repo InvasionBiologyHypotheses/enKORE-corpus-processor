@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33343673</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33343673</dc:identifier>
   <dc:identifier>doi:10.1086/588303</dc:identifier>
   <dc:title>Effects of native species diversity and resource additions on invader impact</dc:title>
@@ -9,9 +10,9 @@
   <dc:date>2008-07-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>native species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>University of Chicago Press</dc:publisher>
-  <dc:description>Theory and empirical work have demonstrated that diverse communities can inhibit invasion. Yet, it is unclear how diversity influences invader impact, how impact varies among exotics, and what the relative importance of diversity is versus extrinsic factors that themselves can influence invasion. To address these issues, we established plant assemblages that varied in native species and functional richness and crossed this gradient in diversity with resource (water) addition. Identical assemblages were either uninvaded or invaded with one of three exotic forbs: spotted knapweed (Centaurea maculosa), dalmatian toadflax (Linaria dalmatica), or sulfur cinquefoil (Potentilla recta). To determine impacts, we measured the effects of exotics on native biomass and, for spotted knapweed, on soil moisture and nitrogen levels. Assemblages with high species richness were less invaded and less impacted than less diverse assemblages. Impact scaled with exotic biomass; spotted knapweed had the largest impact on native biomass compared with the other exotics. Although invasion depressed native biomass, the net result was to increase total community yield. Water addition increased invasibility (for knapweed only) but had no effect on invader impact. Together, these results suggest that diversity inhibits invasion and reduces impact more than resource additions facilitate invasion or impact.</dc:description>
 </oai_dc:dc>

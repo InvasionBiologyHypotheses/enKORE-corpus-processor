@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110630242</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110630242</dc:identifier>
   <dc:identifier>doi:10.1007/S13592-018-0580-4</dc:identifier>
   <dc:title>Differences in absconding between African and European honeybee subspecies facilitate invasion success of small hive beetles</dc:title>
@@ -14,6 +15,7 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasion facilitation</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>

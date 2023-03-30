@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35779063</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35779063</dc:identifier>
   <dc:identifier>doi:10.1093/AOBPLA/PLV043</dc:identifier>
   <dc:title>Impacts of invading alien plant species on water flows at stand and catchment scales</dc:title>
@@ -10,7 +11,7 @@
   <dc:date>2015-05-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>There have been many studies of the diverse impacts of invasions by alien plants but few have assessed impacts on water resources. We reviewed the information on the impacts of invasions on surface runoff and groundwater resources at stand to catchment scales and covering a full annual cycle. Most of the research is South African so the emphasis is on South Africa's major invaders with data from commercial forest plantations where relevant. Catchment studies worldwide have shown that changes in vegetation structure and the physiology of the dominant plant species result in changes in surface runoff and groundwater discharge, whether they involve native or alien plant species. Where there is little change in vegetation structure [e.g. leaf area (index), height, rooting depth and seasonality] the effects of invasions generally are small or undetectable. In South Africa, the most important woody invaders typically are taller and deeper rooted than the native species. The impacts of changes in evaporation (and thus runoff) in dryland settings are constrained by water availability to the plants and, thus, by rainfall. Where the dryland invaders are evergreen and the native vegetation (grass) is seasonal, the increases can reach 300-400 mm/year. Where the native vegetation is evergreen (shrublands) the increases are ∼200-300 mm/year. Where water availability is greater (riparian settings or shallow water tables), invading tree water-use can reach 1.5-2.0 times that of the same species in a dryland setting. So, riparian invasions have a much greater impact per unit area invaded than dryland invasions. The available data are scattered and incomplete, and there are many gaps and issues that must be addressed before a thorough understanding of the impacts at the site scale can be gained and used in extrapolating to watershed scales, and in converting changes in flows to water supply system yields.</dc:description>
 </oai_dc:dc>

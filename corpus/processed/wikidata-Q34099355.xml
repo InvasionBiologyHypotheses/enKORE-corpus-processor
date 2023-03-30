@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34099355</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34099355</dc:identifier>
   <dc:identifier>doi:10.1177/0963662510361416</dc:identifier>
   <dc:title>The local impact of global climate change: reporting on landscape transformation and threatened identity in the English regional newspaper press</dc:title>
@@ -10,11 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2011-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://journals.sagepub.com/page/policies/text-and-data-mining-license</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>newspaper</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>SAGE Publications</dc:publisher>
-  <dc:description>&lt;jats:p&gt; This paper contributes to extant understandings of media representations of climate change by examining the role of the English regional newspaper press in the transformation and dissemination of climate change discourse. Unlike previous accounts, this paper contends that such newspapers shape public understandings of climate change in ways that have yet to be adequately charted. With this in mind, this paper examines the ways in which global climate change is translated into a locally relevant phenomenon. That is, it focuses on its “domestication.” Although we acknowledge that there are a number of ways in which this process occurs, specific attention is drawn to stories that highlight the destruction of local landscape features, the transformation of important habitats, and the arrival of “alien” species. The broader significance of such stories is considered in relation to long-standing debates concerning the importance of landscape to notions of national and regional identity. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30315413</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30315413</dc:identifier>
   <dc:identifier>doi:10.1111/BRV.12263</dc:identifier>
   <dc:title>The Genetic Paradox of Invasions revisited: the potential role of inbreeding × environment interactions in invasion success</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-03-23</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasion genetics</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Invasive species that successfully establish, persist, and expand within an area of introduction, in spite of demographic bottlenecks that reduce their genetic diversity, represent a paradox. Bottlenecks should inhibit population growth and invasive expansion, as a decrease in genetic diversity should result in inbreeding depression, increased fixation of deleterious mutations by genetic drift (drift load), and reduced evolutionary potential to respond to novel selection pressures. Here, we focus on the problems of inbreeding depression and drift load in introduced populations as key components of the Genetic Paradox of Invasions (GPI). We briefly review published explanations for the GPI, which are based on various mechanisms (invasion history events, reproductive traits, genetic characteristics) that mediate the avoidance of inbreeding depression and drift load. We find that there is still a substantial lack of explanation and empirical evidence for explaining the GPI for strongly bottlenecked invasions, or for during critical invasion phases (e.g. initial colonization, leading edges of range expansion) where strong genetic depletion, inbreeding depression and drift load occurs. Accordingly, we suggest that discussion of the GPI should be revived to find additional mechanisms applicable to explaining invasion success for such species and invasion phases. Based on a synthesis of the literature on the population genetics of invaders and the ecology of invaded habitats, we propose that inbreeding × environment (I × E) interactions are one such mechanism that may have strong explanatory power to address the GPI. Specifically, we suggest that a temporary or permanent release from stress in invaded habitats may alleviate the negative effects of genetic depletion on fitness via I × E interactions, and present published empirical evidence supporting this hypothesis. We additionally discuss that I × E interactions can result in rapid evolutionary changes, and may even contribute to adaptation of invaders in the absence of high genetic variation. With a view to encouraging further empirical research, we propose an experimental approach to investigate the occurrence of I × E interactions in ongoing invasions. Revived research on the GPI should provide new fundamental insights into eco-evolutionary invasion biology, and more generally into the evolutionary consequences of the interactions between inbreeding and environment.</dc:description>
 </oai_dc:dc>

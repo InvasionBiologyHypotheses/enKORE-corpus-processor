@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111831992</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111831992</dc:identifier>
   <dc:identifier>doi:10.33140/EESRR.02.05.05</dc:identifier>
   <dc:title>Alien Invasive Species Impacts on Large Lake Ecosystems and Their Economic Value</dc:title>
@@ -7,20 +8,10 @@
   <dc:date>2020-01-20</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Opast Group LLC</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Globalization of trade and travel has made possible the spread of alien species across the planet. Invasive species are
-presently considered as one of the major threats to biodiversity in many locations throughout the world. Thousands of AIS
-have been transported globally by a number of anthropogenically-mediated vectors, including ship-mediated vectors (e.g.,
-ballast water, hull-fouling), recreational boating, live bait, aquarium trade, live food fish, and unauthorized introductions.
-Ballast water is one of the leading vectors for transporting and introducing species, both in Canada and around the world,
-and is responsible for the transport of at least one third of all documented marine invasions. Since invasive species have no
-regard for political boundaries, efforts to prevent invasions need to be interjurisdictional. Given, also that invasive species
-often travel as contaminants of trade transfers, for example, in the ballast tanks of ships, reducing the spread of invasive
-species via this pathway would either require constraints on where ships travel, or the installation onto all ships of expensive
-ballast treatment technology, thereby increasing the cost of shipped goods. As such cost benefit analysis involves trade-offs
-with other activities, complicating decisions about how impacts can best be managed.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

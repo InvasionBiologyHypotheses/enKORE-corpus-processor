@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33575199</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33575199</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395449</dc:identifier>
   <dc:identifier>doi:10.1002/ECE3.2877</dc:identifier>
@@ -8,20 +9,19 @@
   <dc:creator>Measey, G. John</dc:creator>
   <dc:creator>Vimercati, Giovanni</dc:creator>
   <dc:creator>De Villiers, Francois André</dc:creator>
-  <dc:creator>Mokhatla, Mohlamatsane M</dc:creator>
+  <dc:creator>Mokhatla, Mohlamatsane M.</dc:creator>
   <dc:creator>Davies, Sarah J</dc:creator>
   <dc:creator>Thorp, Corey J</dc:creator>
   <dc:creator>Rebelo, Alexander D</dc:creator>
-  <dc:creator>Blackburn, Tim M</dc:creator>
+  <dc:creator>Blackburn, Tim M.</dc:creator>
   <dc:creator>Kraus, Fred</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2017-03-19</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>environmental effects</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The magnitude of impacts some alien species cause to native environments makes them targets for regulation and management. However, which species to target is not always clear, and comparisons of a wide variety of impacts are necessary. Impact scoring systems can aid management prioritization of alien species. For such tools to be objective, they need to be robust to assessor bias. Here, we assess the newly proposed Environmental Impact Classification for Alien Taxa (EICAT) used for amphibians and test how outcomes differ between assessors. Two independent assessments were made by Kraus (Annual Review of Ecology Evolution and Systematics, 46, 2015, 75-97) and Kumschick et al. (Neobiota, 33, 2017, 53-66), including independent literature searches for impact records. Most of the differences between these two classifications can be attributed to different literature search strategies used with only one-third of the combined number of references shared between both studies. For the commonly assessed species, the classification of maximum impacts for most species is similar between assessors, but there are differences in the more detailed assessments. We clarify one specific issue resulting from different interpretations of EICAT, namely the practical interpretation and assigning of disease impacts in the absence of direct evidence of transmission from alien to native species. The differences between assessments outlined here cannot be attributed to features of the scheme. Reporting bias should be avoided by assessing all alien species rather than only the seemingly high-impacting ones, which also improves the utility of the data for management and prioritization for future research. Furthermore, assessments of the same taxon by various assessors and a structured review process for assessments, as proposed by Hawkins et al. (&lt;i&gt;Diversity and Distributions&lt;/i&gt;, 21, 2015, 1360), can ensure that biases can be avoided and all important literature is included.</dc:description>
 </oai_dc:dc>

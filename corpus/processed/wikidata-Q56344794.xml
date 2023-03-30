@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56344794</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56344794</dc:identifier>
   <dc:identifier>doi:10.4039/TCE.2016.39</dc:identifier>
   <dc:title>Laboratory rearing of the brown marmorated stink bug (Hemiptera: Pentatomidae) and the impact of single and combination of food substrates on development and survival</dc:title>
@@ -8,11 +9,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-26</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Hemiptera</dc:subject>
   <dc:subject>Pentatomidae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;The brown marmorated stink bug (BMSB),&lt;jats:italic&gt;Halyomorpha halys&lt;/jats:italic&gt;(Stål) (Hemiptera: Pentatomidae) is non-native species that has rapidly expanded its range in the United States of America and Canada. This study was aimed at increasing our knowledge of the biology of BMSB and developing a rearing method. A laboratory culture maintained on 15 different foods (pear, peach, Granny Smith apple, red delicious apple, squash, tomato, carrot, green bean, grape, corn, leaves of princess tree, leaves of butterfly-bush, dry seeds of sunflower, cowpea, and peanut) had on average 26.0±2.1 eggs per egg mass, and an incubation period averaging 6.94±1.2 days. Developmental duration from second instar to adult averaged 28.2±0.9 days similar to second instars reared to adult on single diet of green beans, corn, sunflower, cowpea, and peanut seeds. Survival from egg to adult was 85.4% and a growth index (GI) of 2.2±0.2 for the laboratory culture comparable to ⩾2.0 GI and 80–90% reported nymphal development on a diet of dry sunflower, cowpea, and peanut seeds. We reared six generations of BMSB before the study was terminated. Our results indicate the foods that are better for BMSB growth, development, and survival.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

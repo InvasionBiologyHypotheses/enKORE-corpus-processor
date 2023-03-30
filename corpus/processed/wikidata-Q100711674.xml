@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q100711674</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q100711674</dc:identifier>
   <dc:identifier>doi:10.1071/BT05070</dc:identifier>
   <dc:title>Impacts of tree invasion on floristic composition of subtropical grasslands on the Bunya Mountains, Australia</dc:title>
@@ -10,12 +11,9 @@
   <dc:date>2006</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>grassland</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-The effect of ongoing forest invasion on floristic composition of subtropical montane grasslands was considered by examining vascular plant species frequencies across 13 adjoining areas of grassland, invaded grassland (eucalypt forest &lt;50 years old) and eucalypt forest (&gt;50 years old) on the Bunya Mountains in subtropical eastern Australia. Tree invasion of grasslands over the last 50 years has had substantial facilitative or antagonistic net impacts on populations of many plant species. Increases in species frequency, indicating net facilitation, generally appear to occur earlier in forest development than do decreases in frequency, indicative of net antagonism. Although more than 20% of the flora showed substantial association with either grassland or forest, the dominant ground-stratum species in each habitat were quite similar and very few grassland species were not recorded in grassy forests. Forb species composition appears to change more rapidly after tree invasion than grass species composition. Relatively few forbs preferred forest to grassland, whereas shrubs, trees or lianes were substantially more frequent in forests. Replacement of grasslands by grassy forests would reduce landscape diversity and impact on other values in the Bunya Mountains. However, this study suggests that most, if not all, vascular plants that currently occur on the grasslands will persist in the area provided the grassy character of the eucalypt forests is maintained.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

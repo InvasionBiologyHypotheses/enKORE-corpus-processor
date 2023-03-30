@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110626119</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110626119</dc:identifier>
   <dc:identifier>doi:10.1051/KMAE/2019008</dc:identifier>
   <dc:title>Further dispersion of the invasive alien species Corbicula fluminea (O. F. Müller, 1774) in the Oder River</dc:title>
@@ -14,5 +15,5 @@
   <dc:subject>introduced species</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:publisher>EDP Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;&lt;jats:italic&gt;Corbicula fluminea&lt;/jats:italic&gt; is recognised as being one of the worst alien species in Europe and one of the world's most widespread non-indigenous species in freshwater ecosystems. In Poland, it was detected in a heated water channel of the Lower Oder Power Station near Szczecin for the first time in 2003. In the following years, it continued its spread in the Oder River and the Vistula River. Our study uncovered new findings of &lt;jats:italic&gt;C. fluminea&lt;/jats:italic&gt; in the Upper Oder River, which are its southernmost localities in the Oder River. Its record in the Gliwice Canal indicates that this may be a new dispersion route to the east for this species.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Corbicula fluminea is recognised as being one of the worst alien species in Europe and one of the world's most widespread non-indigenous species in freshwater ecosystems. In Poland, it was detected in a heated water channel of the Lower Oder Power Station near Szczecin for the first time in 2003. In the following years, it continued its spread in the Oder River and the Vistula River. Our study uncovered new findings of C. fluminea in the Upper Oder River, which are its southernmost localities in the Oder River. Its record in the Gliwice Canal indicates that this may be a new dispersion route to the east for this species.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56452361</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56452361</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-13-00067.1</dc:identifier>
   <dc:title>Efficacy of Several Herbicides on Yellow Archangel (Lamiastrum galeobdolon)</dc:title>
@@ -10,11 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Lamiastrum galeobdolon</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Yellow archangel is a twining perennial species that produces a dense evergreen canopy and may negatively affect forest floor vegetation. Because it is spreading rapidly in the Pacific Northwest (PNW), greenhouse and field trials were conducted on yellow archangel to determine its relative sensitivity to several herbicides. Products that slowed or prevented yellow archangel regrowth at 9 mo after treatment (MAT) in one or both iterations of the greenhouse trial were aminopyralid, diclobenil, glufosinate, imazapyr, isoxaben, metsulfuron, sulfometuron, triclopyr amine, and triclopyr ester + 2,4-D ester. In the field trial at 10 MAT, triclopyr and imazapyr were controlling 81 and 78% of treated yellow archangel, respectively, similar to aminopyralid, glyphosate, and metsulfuron (61 to 65%). Two applications of 20% acetic acid or 20% clove oil were controlling 53% at the same timing. At 13 MAT, only imazapyr and glyphosate were still providing good control of yellow archangel (81 and 80%, respectively), while all other products were controlling the weed at 53% or less. By 7 or 8 MAT after a second application, only imazapyr and glyphosate provided effective control of yellow archangel (86 to 94%).&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

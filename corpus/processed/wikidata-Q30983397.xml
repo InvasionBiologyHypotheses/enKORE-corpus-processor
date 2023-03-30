@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30983397</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30983397</dc:identifier>
   <dc:identifier>doi:10.1017/S1464793104006542</dc:identifier>
   <dc:title>Biological invasions in the Antarctic: extent, impacts and implications</dc:title>
@@ -13,10 +14,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2005-02-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Alien microbes, fungi, plants and animals occur on most of the sub-Antarctic islands and some parts of the Antarctic continent. These have arrived over approximately the last two centuries, coincident with human activity in the region. Introduction routes have varied, but are largely associated with movement of people and cargo in connection with industrial, national scientific program and tourist operations. The large majority of aliens are European in origin. They have both direct and indirect impacts on the functioning of species-poor Antarctic ecosystems, in particular including substantial loss of local biodiversity and changes to ecosystem processes. With rapid climate change occurring in some parts of Antarctica, elevated numbers of introductions and enhanced success of colonization by aliens are likely, with consequent increases in impacts on ecosystems. Mitigation measures that will substantially reduce the risk of introductions to Antarctica and the sub-Antarctic must focus on reducing propagule loads on humans, and their food, cargo, and transport vessels.</dc:description>
 </oai_dc:dc>

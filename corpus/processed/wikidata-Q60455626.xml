@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60455626</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q60455626</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2018.12.123</dc:identifier>
   <dc:title>Knowledge to decision in dynamic seas: Methods to incorporate non-indigenous species into cumulative impact assessments for maritime spatial planning</dc:title>
@@ -20,11 +21,10 @@
   <dc:creator>Ojaveer, Henn</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-12-11</dc:date>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>environmental chemistry</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Incorporating ecosystem changes from non-indigenous species (NIS) is an important task of maritime spatial planning. Maritime spatial planning requires a framework that emphasises ecological functioning in a state of dynamic change, including changes to ecosystem services from functions introduced by new NIS. Adaptable modelling toolsets should be developed that can readily incorporate knowledge of new NIS. In the Baltic Sea, recent NIS examples are the North American mud crab Rhithropanopeus harrisii and the Ponto-Caspian round goby Neogobius melanostomus. We performed environmental niche modelling that predicted N. melanostomus will spread across large areas of the Baltic Sea coast while R. harrisii will be limited to regions with high temperature and low salinity conditions. We then performed a meta-analysis on literature showing effects in the Baltic Sea from these NIS and calculated the standardised effect-sizes on relevant ecosystem services. Half the impacts identified for N. melanostomus were considered to increase ecosystem service outcomes, while all R. harrisii impacts caused apparent decreases. Effect coefficients were incorporated into an online impact assessment tool developed by the Estonian Marine Institute. Users with or without science training can use the portal to estimate areas impacted and changes to natural assets (km2) caused by these NIS and cumulative effects from other pressure-types. Impact estimates are based on best available knowledge from manipulative and correlative experiments and thus form a link between science and management. Dynamic modelling techniques informed from varied ecological and methodological perspectives will effectively advise spatial planners about rapid maritime changes and mitigation actions to reduce NIS impacts especially in the focus areas.</dc:description>
 </oai_dc:dc>

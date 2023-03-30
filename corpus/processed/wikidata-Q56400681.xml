@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56400681</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56400681</dc:identifier>
   <dc:identifier>doi:10.1515/MAMMALIA-2015-0006</dc:identifier>
   <dc:title>Knowledge, management and optimization: the use of live traps in control of non-native squirrels</dc:title>
@@ -12,8 +13,8 @@
   <dc:date>2016-01-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>knowledge management</dc:subject>
   <dc:publisher>Walter de Gruyter GmbH</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;This study identifies techniques to maximize trap efficiency and minimize trapping effort when using live traps to capture the invasive alien Pallas’s squirrel (&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56777846</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56777846</dc:identifier>
   <dc:identifier>doi:10.1017/S0376892907003815</dc:identifier>
   <dc:title>Ecological and socioeconomic impacts of invasive alien species in island ecosystems</dc:title>
@@ -23,13 +24,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2007-05-25</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>socioeconomics</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Minimizing the impact of invasive alien species (IAS) on islands and elsewhere requires researchers to provide cogent information on the environmental and socioeconomic consequences of IAS to the public and policy makers. Unfortunately, this information has not been readily available owing to a paucity of scientific research and the failure of the scientific community to make their findings readily available to decision makers. This review explores the vulnerability of islands to biological invasion, reports on environmental and socioeconomic impacts of IAS on islands and provides guidance and information on technical resources that can help minimize the effects of IAS in island ecosystems. This assessment is intended to provide a holistic perspective on island-IAS dynamics, enable biologists and social scientists to identify information gaps that warrant further research and serve as a primer for policy makers seeking to minimize the impact of IAS on island systems. Case studies have been selected to reflect the most scientifically-reliable information on the impacts of IAS on islands. Sufficient evidence has emerged to conclude that IAS are the most significant drivers of population declines and species extinctions in island ecosystems worldwide. Clearly, IAS can also have significant socioeconomic impacts directly (for example human health) and indirectly through their effects on ecosystem goods and services. These impacts are manifest at all ecological levels and affect the poorest, as well as richest, island nations. The measures needed to prevent and minimize the impacts of IAS on island ecosystems are generally known. However, many island nations and territories lack the scientific and technical information, infrastructure and human and financial resources necessary to adequately address the problems caused by IAS. Because every nation is an exporter and importer of goods and services, every nation is also a facilitator and victim of the invasion of alien species. Wealthy nations therefore need to help raise the capacity of island nations and territories to minimize the spread and impact of IAS.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

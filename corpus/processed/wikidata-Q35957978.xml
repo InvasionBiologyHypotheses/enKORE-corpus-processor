@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35957978</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35957978</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792460</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0151545</dc:identifier>
@@ -17,6 +18,7 @@
   <dc:subject>hypothesis:island susceptibility hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q115322263</dc:subject>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>native species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>

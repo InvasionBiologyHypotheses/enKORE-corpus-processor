@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q43469934</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q43469934</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-010-1736-8</dc:identifier>
   <dc:title>Intraspecific variation in allelochemistry determines an invasive species' impact on soil microbial communities.</dc:title>
@@ -7,11 +8,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-08-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Invasive species can benefit from altered species interactions in their new range, and by interfering with species interactions among native competitors. Since exotic invasions are generally studied at the species level, relatively little is known about intraspecific variation in the traits that determine an invader's effect on native species. Alliaria petiolata is a widespread and aggressive invader of forest understories that succeeds in part by interfering with mutualistic interactions between native plants and soil fungi. Here, I show that the impact of A. petiolata on soil microbial communities varied among individuals due to variation in their allelochemical concentrations. The differential impacts translated into varied effects on native tree growth, partly because A. petiolata's allelochemicals preferentially affected the most mutualistic fungal taxa. These results highlight the importance of considering the spatial and temporal variation in an invasive species' impacts for understanding and managing the invasion process.</dc:description>
 </oai_dc:dc>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91828818</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91828818</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625730</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0219700</dc:identifier>
   <dc:title>Detection of an invasive aquatic plant in natural water bodies using environmental DNA</dc:title>
-  <dc:creator>d'Auriac, Marc B Anglès</dc:creator>
+  <dc:creator>d'Auriac, Marc B Angls</dc:creator>
   <dc:creator>Strand, David A</dc:creator>
   <dc:creator>Mjelde, Marit</dc:creator>
   <dc:creator>O L Demars, Benoit</dc:creator>

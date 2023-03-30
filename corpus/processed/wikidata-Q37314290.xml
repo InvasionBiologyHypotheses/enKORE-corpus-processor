@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37314290</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37314290</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730356</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.0905446106</dc:identifier>
@@ -12,18 +13,10 @@
   <dc:date>2009-08-21</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            Invasive species can quickly transform biological communities due to their high abundance and strong impacts on native species, in part because they can be released from the ecological forces that limit native populations. However, little is known about the long-term dynamics of invasions; do invaders maintain their dominant status over long time spans, or do new ecological and evolutionary forces eventually develop to limit their populations?
-            &lt;jats:italic&gt;Alliaria petiolata&lt;/jats:italic&gt;
-            is a Eurasian species that aggressively invades North American forest understories, in part due to the production of toxic phytochemicals. Here we document a marked decline in its phytotoxin production and a consequent decline in their impact on three native species, across a 50+ year chronosequence of
-            &lt;jats:italic&gt;Alliaria petiolata&lt;/jats:italic&gt;
-            invasion. Genetic evidence suggests that these patterns result from natural selection for decreased phytotoxin production rather than founder effects during introduction and spread. These patterns are consistent with the finding of slowing
-            &lt;jats:italic&gt;A. petiolata&lt;/jats:italic&gt;
-            population growth and rebounding native species abundance across a separate chronosequence in Illinois, U.S. These results suggest that this invader is developing evolutionary limits in its introduced range and highlight the importance of understanding the long-term processes that shape species invasions and their impacts.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

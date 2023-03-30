@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39491980</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q39491980</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917338</dc:identifier>
   <dc:identifier>doi:10.1098/RSBL.2013.0939</dc:identifier>
-  <dc:title>No universal scale-dependent impacts of invasive species on native plant species richness.</dc:title>
+  <dc:title>No universal scale-dependent impacts of invasive species on native plant species richness</dc:title>
   <dc:creator>Stohlgren, Thomas J</dc:creator>
   <dc:creator>Rejmánek, Marcel</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2014-01-29</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>species richness</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            A growing number of studies seeking generalizations about the impact of plant invasions compare heavily invaded sites to uninvaded sites. But does this approach warrant any generalizations? Using two large datasets from forests, grasslands and desert ecosystems across the conterminous United States, we show that (i) a continuum of invasion impacts exists in many biomes and (ii) many possible species–area relationships may emerge reflecting a wide range of patterns of co-occurrence of native and alien plant species. Our results contradict a smaller recent study by Powell
-            &lt;jats:italic&gt;et al.&lt;/jats:italic&gt;
-            2013 (
-            &lt;jats:italic&gt;Science&lt;/jats:italic&gt;
-            &lt;jats:bold&gt;339&lt;/jats:bold&gt;
-            , 316–318. (
-            &lt;jats:ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.1226817"&gt;doi:10.1126/science.1226817&lt;/jats:ext-link&gt;
-            )), who compared heavily invaded and uninvaded sites in three biomes and concluded that plant communities invaded by non-native plant species generally have lower local richness (intercepts of log species richness–log area regression lines) but steeper species accumulation with increasing area (slopes of the regression lines) than do uninvaded communities. We conclude that the impacts of plant invasions on plant species richness are not universal.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

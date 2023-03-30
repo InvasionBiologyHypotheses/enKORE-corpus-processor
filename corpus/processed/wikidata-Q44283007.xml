@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q44283007</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q44283007</dc:identifier>
   <dc:identifier>doi:10.1890/08-2157.1</dc:identifier>
   <dc:title>Breaching the dispersal barrier to invasion: quantification and management.</dc:title>
@@ -8,9 +9,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-10-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Globalization has resulted in unprecedented movements of people, goods, and alien species across the planet. Although the impacts of biological invasions are widely appreciated, a bias exists in research effort to post-dispersal processes because of the difficulties of measuring propagule pressure. The Antarctic provides an ideal model system in which to investigate propagule movements because of the region's isolation and small number of entry routes. Here we investigated the logistics operations of the South African National Antarctic Programme (SANAP) and quantified the initial dispersal of alien species into the region. We found that over 1400 seeds from 99 taxa are transported into the Antarctic each field season in association with SANAP passenger luggage and cargo. The first ever assessment of propagule drop-off indicated that 30-50% of these propagules will enter the recipient environment. Many of the taxa include cosmopolitan weeds and known aliens in the Antarctic, indicating that logistics operations form part of a globally self-perpetuating cycle moving alien species between areas of human disturbance. In addition, propagules of some taxa native to the Antarctic region were also found, suggesting that human movements may be facilitating intra-regional homogenization. Several relatively simple changes in biosecurity policy that could significantly reduce the threat of introduction of nonnative species are suggested.</dc:description>
 </oai_dc:dc>

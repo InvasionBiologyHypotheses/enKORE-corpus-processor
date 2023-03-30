@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36657460</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36657460</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.0801269105</dc:identifier>
   <dc:title>Host and invader impact of transfer of the clc genomic island into Pseudomonas aeruginosa PAO1.</dc:title>
@@ -13,31 +14,9 @@
   <dc:date>2008-04-30</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Pseudomonas aeruginosa</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            Genomic islands, large potentially mobile regions of bacterial chromosomes, are a major contributor to bacteria evolution. Here, we investigated the fitness cost and phenotypic differences between the bacterium
-            &lt;jats:italic&gt;Pseudomonas aeruginosa&lt;/jats:italic&gt;
-            PAO1 and a derivative carrying one integrated copy of the
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            element, a 103-kb genomic island [and integrative and conjugative element (ICE)] originating in
-            &lt;jats:italic&gt;Pseudomonas&lt;/jats:italic&gt;
-            sp. strain B13 and a close relative of genomic islands found in clinical and environmental isolates of
-            &lt;jats:italic&gt;P. aeruginosa&lt;/jats:italic&gt;
-            . By using a combination of whole genome transcriptome profiling, phenotypic arrays, competition experiments, and biofilm formation studies, only few differences became apparent, such as reduced biofilm growth and fourfold stationary phase repression of genes involved in acetoin metabolism in PAO1 containing the
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            element. In contrast, PAO1 carrying the
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            element acquired the capacity to grow on 3-chlorobenzoate and 2-aminophenol as sole carbon and energy substrates. No fitness loss &gt;1% was detectable in competition experiments between PAO1 and PAO1 carrying the
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            element. The genes from the
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            element were not silent in PAO1, and excision was observed, although transfer of
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            from PAO1 to other recipient bacteria was reduced by two orders of magnitude. Our results indicate that newly acquired mobile DNA not necessarily invoke an important fitness cost on their host. Absence of immediate detriment to the host may have contributed to the wide distribution of genomic islands like
-            &lt;jats:italic&gt;clc&lt;/jats:italic&gt;
-            in bacterial genomes.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

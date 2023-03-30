@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34780672</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34780672</dc:identifier>
   <dc:identifier>doi:10.3390/MD12126254</dc:identifier>
   <dc:title>Multiple beneficial lipids including lecithin detected in the edible invasive mollusk Crepidula fornicata from the French Northeastern Atlantic coast</dc:title>
@@ -7,10 +8,10 @@
   <dc:creator>Buzin, Florence</dc:creator>
   <dc:creator>Couzinet-Mossion, Aurélie</dc:creator>
   <dc:creator>Decottignies, Priscilla</dc:creator>
-  <dc:creator>Viau, Michèle</dc:creator>
+  <dc:creator>Viau, Michle</dc:creator>
   <dc:creator>Rabesaotra, Vony</dc:creator>
   <dc:creator>Barnathan, Gilles</dc:creator>
-  <dc:creator>Wielgosz-Collin, Gaëtane</dc:creator>
+  <dc:creator>Wielgosz-Collin, Gatane</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2014-12-22</dc:date>
   <dc:language>en</dc:language>

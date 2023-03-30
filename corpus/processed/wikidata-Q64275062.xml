@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64275062</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q64275062</dc:identifier>
   <dc:identifier>doi:10.1093/JEE/TOY423</dc:identifier>
   <dc:title>Evaluation of Emamectin Benzoate and Propiconazole for Management of a New Invasive Shot Hole Borer (Euwallacea nr. fornicatus, Coleoptera: Curculionidae) and Symbiotic Fungi in California Sycamores</dc:title>
@@ -11,6 +12,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Tree injection</dc:subject>
   <dc:subject>Coleoptera</dc:subject>
   <dc:subject>Curculionidae</dc:subject>

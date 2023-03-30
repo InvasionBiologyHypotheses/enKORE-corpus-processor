@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q105625594</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q105625594</dc:identifier>
   <dc:identifier>http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_ynzwyj200606010</dc:identifier>
   <dc:identifier>doi:10.3969/J.ISSN.2095-0845.2006.06.010</dc:identifier>
-  <dc:title>中国西南纵向岭谷区外来入侵植物对生物多样性的影响</dc:title>
-  <dc:creator>陆树刚</dc:creator>
-  <dc:creator>徐成东</dc:creator>
-  <dc:creator>董晓东</dc:creator>
-  <dc:creator>段玉清</dc:creator>
-  <dc:creator>王奕</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2006</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>invasive plant</dc:subject>

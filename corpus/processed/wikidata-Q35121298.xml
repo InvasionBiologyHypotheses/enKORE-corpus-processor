@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35121298</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35121298</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2014.02.060</dc:identifier>
   <dc:title>Impact of selenium on mortality, bioaccumulation and feeding deterrence in the invasive Argentine ant, Linepithema humile (Hymenoptera: Formicidae).</dc:title>
@@ -11,8 +12,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-03-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Argentina</dc:subject>
   <dc:subject>Hymenoptera</dc:subject>
   <dc:subject>Linepithema humile</dc:subject>
@@ -21,5 +22,4 @@
   <dc:subject>Formicidae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Ants are known for the important roles they play in processes contributing to ecosystem functioning in many habitats. However, pollutants can impact the ecosystem services provided by ants. The Argentine ant, an invasive species in North America, was investigated for the potential impact selenium (Se) may have on ants residing within a contaminated habitat. Mortality tests were conducted using worker ants fed an artificial nectar source containing 1-of-4 environmentally common Se compounds (forms): seleno-l-methionine, methylselenocysteine, selenate or selenite. Accumulation of Se in ant bodies at the end of two weeks was quantified with the use of hydride generation atomic absorption spectroscopy. Lastly, we conducted choice tests using dyes to determine whether ants might avoid a carbohydrate diet containing Se by providing them a choice between sucrose with or without Se. Choice tests also tested the responses of ants to selenium when provided in different background sucrose concentrations. The results of this study indicated that form and quantity of Se, as well as time of exposure, impact mortality in Argentine ant workers. Methylselenocysteine and selenate were found to be the most toxic among the 4 chemical forms when presented in sucrose solutions, whereas seleno-l-methionine and selenite caused greater Se body burdens. Furthermore, choice tests showed that ants did not prefer control sucrose solution to sucrose treated with Se regardless of the background sucrose concentration. These findings serve as first look into the possible detrimental impacts these contaminants may pose for ants that frequent sugary nectar sources.</dc:description>
 </oai_dc:dc>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56742985</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56742985</dc:identifier>
   <dc:identifier>doi:10.2478/S11756-011-0089-Z</dc:identifier>
   <dc:title>Impact of natural enemies on Obolodiplosis robiniae invasion</dc:title>
   <dc:creator>Tóth, Peter</dc:creator>
-  <dc:creator>Váňová, Martina</dc:creator>
-  <dc:creator>Lukáš, Jozef</dc:creator>
+  <dc:creator>Váová, Martina</dc:creator>
+  <dc:creator>Luká, Jozef</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2011-01-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Obolodiplosis robiniae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>

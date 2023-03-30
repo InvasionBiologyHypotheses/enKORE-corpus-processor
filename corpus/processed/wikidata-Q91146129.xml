@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91146129</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91146129</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2019.134692</dc:identifier>
   <dc:title>How experimental physiology and ecological niche modelling can inform the management of marine bioinvasions?</dc:title>
@@ -9,18 +10,17 @@
   <dc:creator>Sissini, Marina Nasri</dc:creator>
   <dc:creator>Serrão, Ester A</dc:creator>
   <dc:creator>Rörig, Leonardo Rubi</dc:creator>
-  <dc:creator>Hall‐Spencer, Jason M.</dc:creator>
+  <dc:creator>HallSpencer, Jason M.</dc:creator>
   <dc:creator>Barufi, José Bonomi</dc:creator>
   <dc:creator>Horta, Paulo Antunes</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2019-10-18</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>ecological niche modeling</dc:subject>
   <dc:subject>ecological niche</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Marine bioinvasions are increasing worldwide by a number of factors related to the anthroposphere, such as higher ship traffic, climate change and biotic communities' alterations. Generating information about species with high invasive potential is necessary to inform management decisions aiming to prevent their arrival and spread. Grateloupia turuturu, one of the most harmful invasive macroalgae, is capable of damaging ecosystem functions and services, and causing biodiversity loss. Here we developed an ecological niche model using occurrence and environmental data to infer the potential global distribution of G. turuturu. In addition, ecophysiological experiments were performed with G. turuturu populations from different climatic regions to test predictions regarding invasion risk. Our model results show high suitability in temperate and warm temperate regions around the world, with special highlight to some areas where this species still doesn't occur. Thalli representing a potential temperate region origin, were held at 10, 13, 16, 20 and 24 °C, and measurements of optimal quantum field (Fv/Fm) demonstrated a decrease of photosynthetic yield in the higher temperature. Thalli from the population already established in warm temperate South Atlantic were held at 18, 24 and 30 °C with high and low nutrient conditions. This material exposed to the higher temperature demonstrated a drop in photosynthetic yield and significant reduction of growth rate. The congregation of modelling and physiological approach corroborate the invasive potential of G. turuturu and indicate higher invasion risk in temperate zones. Further discussions regarding management initiatives must be fostered to mitigate anthropogenic transport and eventually promote eradication initiatives in source areas, with special focus in the South America. We propose that this combined approach can be used to assess the potential distribution and establishment of other marine invasive species.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35912092</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35912092</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0147971</dc:identifier>
   <dc:title>The Many Dimensions of Diet Breadth: Phytochemical, Genetic, Behavioral, and Physiological Perspectives on the Interaction between a Native Herbivore and an Exotic Host</dc:title>
@@ -18,6 +19,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>herbivory</dc:subject>
   <dc:subject>phytochemistry</dc:subject>
   <dc:subject>herbivore</dc:subject>

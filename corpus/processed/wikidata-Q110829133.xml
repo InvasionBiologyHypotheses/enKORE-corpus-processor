@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110829133</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110829133</dc:identifier>
   <dc:identifier>doi:10.3390/SOILS2010005</dc:identifier>
   <dc:title>Species-Specific Impacts of Invasive Plant Success on Vertical Profiles of Soil Carbon Accumulation and Nutrient Retention in the Minjiang River Tidal Estuarine Wetlands of China</dc:title>
@@ -14,6 +15,7 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>estuary</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>

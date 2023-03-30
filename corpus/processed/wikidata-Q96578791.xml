@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q96578791</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q96578791</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7297777</dc:identifier>
   <dc:identifier>doi:10.1002/ECE3.6243</dc:identifier>
   <dc:title>Invasive zebra mussel (Dreissena polymorpha) threatens an exceptionally large population of the depressed river mussel (Pseudanodonta complanata) in a postglacial lake</dc:title>
-  <dc:creator>Ożgo, Małgorzata</dc:creator>
-  <dc:creator>Urbańska, Maria</dc:creator>
+  <dc:creator>Ogo, Magorzata</dc:creator>
+  <dc:creator>Urbaska, Maria</dc:creator>
   <dc:creator>Hoos, Philipp</dc:creator>
   <dc:creator>Imhof, Hannes K</dc:creator>
-  <dc:creator>Kirschenstein, Małgorzata</dc:creator>
+  <dc:creator>Kirschenstein, Magorzata</dc:creator>
   <dc:creator>Mayr, Julia</dc:creator>
   <dc:creator>Michl, Florian</dc:creator>
-  <dc:creator>Tobiasz, Rafał</dc:creator>
+  <dc:creator>Tobiasz, Rafa</dc:creator>
   <dc:creator>Wesendonk, Marie</dc:creator>
   <dc:creator>Zimmermann, Stefan</dc:creator>
   <dc:creator>Geist, Juergen</dc:creator>
@@ -24,5 +25,5 @@
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>Depressed river mussel</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Freshwater mussels are in decline worldwide, with the depressed river mussel &lt;i&gt;Pseudanodonta complanata&lt;/i&gt; being one of the rarest and most endangered species in Europe. Invasive mussels are suspected to be an important factor of decline, but there is little information on their interaction with native species.This study analyzed densities, depth distribution, and individual sizes and weights in one of the largest known populations of &lt;i&gt;P. complanata&lt;/i&gt; in Europe in relation to the co-occurring invasive zebra mussel &lt;i&gt;Dreissena polymorpha&lt;/i&gt; and other mussel species&lt;i&gt;,&lt;/i&gt; using a systematic transect analysis. &lt;i&gt;Pseudanodonta complanata&lt;/i&gt; was the dominant unionid species in Lake Siecino reaching densities of up to 26 ind/m&lt;sup&gt;2&lt;/sup&gt;, with half of the specimens found at a water depth of 2.0-4.0 m. Densities were highest on sandy substrates in areas of underwater currents. In contrast, 67% of native &lt;i&gt;Unio tumidus&lt;/i&gt; were found at depths &lt; 1 m, indicating different habitat preference.In the study area, 91% of &lt;i&gt;P. complanata&lt;/i&gt;, 92% of &lt;i&gt;U. tumidus&lt;/i&gt;, and all &lt;i&gt;Anodonta&lt;/i&gt; individuals were fouled by &lt;i&gt;D. polymorpha&lt;/i&gt;. The dreissenid:unionid mass ratio (mean ± &lt;i&gt;SD&lt;/i&gt;; maximum) was 0.43 ± 0.56; 4.22 and 0.86 ± 1.87; 8.76 in &lt;i&gt;P. complanata&lt;/i&gt; and &lt;i&gt;U. tumidus&lt;/i&gt;, respectively. &lt;i&gt;Pseudanodonta complanata&lt;/i&gt; fouled with &lt;i&gt;D. polymorpha&lt;/i&gt; were impaired in their anchoring capability and had shell deformations potentially affecting shell closing and filtration activity. Fouling intensity was negatively correlated with unionid density, potentially leading to accelerated population declines.The observed adverse effects of invasive zebra mussels on the depressed river mussel and the difficulties in eradicating established populations of invasive mussels suggest that &lt;i&gt;D. polymorpha&lt;/i&gt; should be considered a serious threat to &lt;i&gt;P. complanata&lt;/i&gt;. Therefore, the further spread of zebra mussels into habitats with native unionids needs to be avoided by all means.</dc:description>
+  <dc:description>Freshwater mussels are in decline worldwide, with the depressed river mussel Pseudanodonta complanata being one of the rarest and most endangered species in Europe. Invasive mussels are suspected to be an important factor of decline, but there is little information on their interaction with native species.This study analyzed densities, depth distribution, and individual sizes and weights in one of the largest known populations of P.complanata in Europe in relation to the co-occurring invasive zebra mussel Dreissena polymorpha and other mussel species, using a systematic transect analysis. Pseudanodonta complanata was the dominant unionid species in Lake Siecino reaching densities of up to 26ind/m2, with half of the specimens found at a water depth of 2.0-4.0m. Densities were highest on sandy substrates in areas of underwater currents. In contrast, 67% of native Unio tumidus were found at depthsP.complanata, 92% of U.tumidus, and all Anodonta individuals were fouled by D.polymorpha. The dreissenid:unionid mass ratio (mean±SD; maximum) was 0.43±0.56; 4.22 and 0.86±1.87; 8.76 in P.complanata and U.tumidus, respectively. Pseudanodonta complanata fouled with D.polymorpha were impaired in their anchoring capability and had shell deformations potentially affecting shell closing and filtration activity. Fouling intensity was negatively correlated with unionid density, potentially leading to accelerated population declines.The observed adverse effects of invasive zebra mussels on the depressed river mussel and the difficulties in eradicating established populations of invasive mussels suggest that D.polymorpha should be considered a serious threat to P.complanata. Therefore, the further spread of zebra mussels into habitats with native unionids needs to be avoided by all means.</dc:description>
 </oai_dc:dc>

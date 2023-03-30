@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q48108711</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q48108711</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-018-4081-Y</dc:identifier>
   <dc:title>Biogeographic differences in soil biota promote invasive grass response to nutrient addition relative to co-occurring species despite lack of belowground enemy release.</dc:title>
@@ -10,7 +11,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-02-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
@@ -22,5 +22,4 @@
   <dc:subject>soil biota</dc:subject>
   <dc:subject>invasive grass</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Multiple plant species invasions and increases in nutrient availability are pervasive drivers of global environmental change that often co-occur. Many plant invasion studies, however, focus on single-species or single-mechanism invasions, risking an oversimplification of a multifaceted process. Here, we test how biogeographic differences in soil biota, such as belowground enemy release, interact with increases in nutrient availability to influence invasive plant growth. We conducted a greenhouse experiment using three co-occurring invasive grasses and one native grass. We grew species in live and sterilized soil from the invader's native (United Kingdom) and introduced (New Zealand) ranges with a nutrient addition treatment. We found no evidence for belowground enemy release. However, species' responses to nutrients varied, and this depended on soil origin and sterilization. In live soil from the introduced range, the invasive species Lolium perenne L. responded more positively to nutrient addition than co-occurring invasive and native species. In contrast, in live soil from the native range and in sterilized soils, there were no differences in species' responses to nutrients. This suggests that the presence of soil biota from the introduced range allowed L. perenne to capture additional nutrients better than co-occurring species. Considering the globally widespread nature of anthropogenic nutrient additions to ecosystems, this effect could be contributing to a global homogenization of flora and the associated losses in native species diversity.</dc:description>
 </oai_dc:dc>

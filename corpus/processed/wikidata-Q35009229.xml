@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35009229</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35009229</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0076076</dc:identifier>
-  <dc:title>Matrix matters: differences of grand skink metapopulation parameters in native tussock grasslands and exotic pasture grasslands</dc:title>
+  <dc:title>Matrix matters:differences of grand skink metapopulation parameters in native tussock grasslands and exotic pasture grasslands</dc:title>
   <dc:creator>Gebauer, Konstanze</dc:creator>
   <dc:creator>Dickinson, Katharine J M</dc:creator>
   <dc:creator>Whigham, Peter A</dc:creator>

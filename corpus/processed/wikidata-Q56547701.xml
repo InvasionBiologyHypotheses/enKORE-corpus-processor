@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56547701</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56547701</dc:identifier>
   <dc:identifier>doi:10.3391/AI.2012.7.3.007</dc:identifier>
   <dc:title>Diel and seasonal variations in the population dynamics of Hemimysis anomala, a non-indigenous mysid: implications for surveillance and management</dc:title>
@@ -9,6 +10,7 @@
   <dc:date>2012</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Hemimysis anomala</dc:subject>
   <dc:subject>population dynamics</dc:subject>
   <dc:subject>invasion management</dc:subject>

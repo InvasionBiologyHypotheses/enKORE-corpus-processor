@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56764716</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56764716</dc:identifier>
   <dc:identifier>doi:10.3354/MEPS08999</dc:identifier>
   <dc:title>Estimating propagule pressure and viability of diatoms detected in ballast tank sediments of ships arriving at Canadian ports</dc:title>

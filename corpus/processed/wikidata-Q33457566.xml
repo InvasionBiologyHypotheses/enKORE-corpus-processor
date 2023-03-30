@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33457566</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33457566</dc:identifier>
   <dc:identifier>doi:10.1111/J.1469-185X.2009.00081.X</dc:identifier>
   <dc:title>Impacts of increased sediment loads on the ecology of lakes</dc:title>
@@ -8,11 +9,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-05-28</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>lake</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Increased sediment loading comprises one of the most important and pervasive anthropogenic impacts on aquatic ecosystems globally. In spite of this, little is known of the overall effects of increased sediment loads on lakes. By modifying both bottom-up and top-down ecological processes and restructuring energy flow pathways, increased sediment loads not only alter biotic assemblage structure and ecological functioning significantly, but frequently result in reduced biological diversity and productivity. Although lake food-webs can be subsidised to some extent by the adsorption of organic carbon to fine sediments, trophic structure and the composition of biotic assemblages remain likely to be modified considerably. The mineralogy and particle size of sediments and the availability of nutrients, by influencing both the scale and nature of impacts, are key determinants of the overall effects of increased sediment loads on lake ecosystems. Although interactions with other global anthropogenic pressures, such as invasion by exotic species and climate change, are likely to be significant, little remains known about the nature or likely strength of those interactions. Widespread increases in sediment loading to lakes have, therefore, profound implications for the conservation and management of global aquatic biological diversity.</dc:description>
 </oai_dc:dc>

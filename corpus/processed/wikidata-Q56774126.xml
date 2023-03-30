@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56774126</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56774126</dc:identifier>
   <dc:identifier>doi:10.1139/F08-099</dc:identifier>
   <dc:title>A management framework for preventing the secondary spread of aquatic invasive species</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2008-07</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Biological invasions continue to accelerate, and there is a need for closer integration between invasive species research and on-the-ground management. In many regions, aquatic invasive species have established isolated populations, but have not yet spread to many sites that provide suitable habitat. In the Laurentian Great Lakes region, several Great Lakes invaders such as zebra mussel ( Dreissena polymorpha ), rainbow smelt ( Osmerus mordax ), and spiny water flea ( Bythotrephes longimanus ) are currently undergoing secondary spread to the smaller inland lakes and streams. This paper describes recent advances in forecasting the secondary spread of aquatic invasive species and presents a framework for assessing vulnerability of inland waters based on explicit assessment of three distinct aspects of biological invasions: colonization, site suitability, and adverse impact. In many cases, only a fraction of lakes on the landscape are vulnerable to specific invasive species, highlighting the potential application of this type of research for improving invasive species management. Effective application to on-the-ground resource management will require that research aimed at assessing site vulnerability be translated into management tools. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

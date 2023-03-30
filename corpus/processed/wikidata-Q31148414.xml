@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31148414</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31148414</dc:identifier>
   <dc:identifier>doi:10.1016/J.MARPOLBUL.2013.10.011</dc:identifier>
   <dc:title>Promoting invasive species control and eradication in the sea: options for managing the tunicate invader Didemnum vexillum in Sitka, Alaska</dc:title>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-12-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>Didemnum vexillum</dc:subject>
   <dc:subject>Sitka</dc:subject>
@@ -22,5 +23,4 @@
   <dc:subject>invasive species eradication</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Bioinvasions are a significant force of change--and economic and ecological threat--in marine ecosystems. The threat now encroaches on Alaska, which has had relatively few invasions compared to other global regions, prompting need to develop new incursion response tools. We appraised five 'eco-friendly' immersion treatment options (dilute acetic acid, dilute bleach, freshwater, brine and hypoxia) at either minute- or hour-scale exposures to kill the invasive tunicate Didemnum vexillum. Data revealed 100% treatment efficacy after two minutes in acetic acid, ten minutes in bleach, four hours in freshwater and over four hours in brine solution. We also demonstrated the importance of monitoring D. vexillum recovery for at least three weeks, since seemingly destroyed colonies rebounded during this timeframe. Combined, these findings provide insights towards a bay-scale eradication and post-border management plan applicable to the recent D. vexillum incursion in Whiting Harbor, Alaska and other shallow, inshore invasion sites.</dc:description>
 </oai_dc:dc>

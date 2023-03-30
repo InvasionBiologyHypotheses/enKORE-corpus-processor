@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q45908947</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q45908947</dc:identifier>
   <dc:identifier>doi:10.4161/CC.9.22.13936</dc:identifier>
   <dc:title>Both lipid- and protein-phosphatase activities of PTEN contribute to the p53-PTEN anti-invasion pathway.</dc:title>
@@ -10,7 +11,7 @@
   <dc:date>2010-11-15</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Informa UK Limited</dc:publisher>
-  <dc:description>We have recently identified mutually antagonizing signaling pathways that regulate podosome formation and invasive phenotypes in Src-transformed vascular smooth muscle cells and fibroblasts. Cross-talks between the anti-invasion p53-PTEN, and the pro-invasion Src-Stat3 and Src-PI3K-Akt pathways serve as a check and balance that dictates the outcome of either an invasive or non-invasive phenotype. Using a retrovirus vector encoding PTEN phosphatase mutants that retain either protein- or lipid-phosphatase activity on a Src(Y527F)background, we report here that both lipid- and protein-phosphatase activities of PTEN contribute to the suppression of Src-induced podosome formation and associated invasive phenotypes in rat aortic smooth muscle cells. This data suggests that p53 up-regulation of PTEN inhibits cell invasion via a two-prong mechanism: inactivating podosome agonists by its protein-phosphatase activity on the one hand, and antagonising the PI3K-Akt pathway by its lipid-phosphatase activity on the other.</dc:description>
 </oai_dc:dc>

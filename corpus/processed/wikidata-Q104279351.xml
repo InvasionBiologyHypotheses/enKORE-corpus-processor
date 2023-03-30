@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104279351</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q104279351</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2020.144074</dc:identifier>
   <dc:title>Long-term impacts of nutrient control, climate change, and invasive clams on phytoplankton and cyanobacteria biomass in a large temperate river</dc:title>
@@ -13,8 +14,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-11-26</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>phytoplankton</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>invasive clam</dc:subject>
@@ -22,5 +23,4 @@
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Recent studies suggest that climate change, with warmer water temperatures and lower and longer low flows, may enhance harmful planktic cyanobacterial growth in lakes and large rivers. Concomitantly, controlling nutrient loadings has proven effective in reducing phytoplankton biomass especially in North America and Western Europe. In addition, the impact of invasive benthic filter-feeder species such as Corbicula on phytoplankton has largely been overlooked in large rivers, leading to even more uncertainty in predicting future trajectories in river water quality. To investigate how nutrient control, climate change and invasion of benthic filter-feeders may affect phytoplankton biomass and composition, we assembled a large database on the entire water course of the River Loire (France) over three decades (1991-2019). We focus on cyanobacteria to provide an in-depth analysis of the 30-year trend and insights on future possible trajectories. Since 1991, total phytoplankton and cyanobacteria biomasses have decreased 10-fold despite warmer water temperature (+0.23 °C·decade&lt;sup&gt;-1&lt;/sup&gt;) and lower summer flow (-0.25 L·s&lt;sup&gt;-1&lt;/sup&gt;·km&lt;sup&gt;-2&lt;/sup&gt;·decade&lt;sup&gt;-1&lt;/sup&gt;). In the long-term, the contribution of planktic cyanobacteria to total biomass was on average 2.8%. The main factors driving total phytoplankton and cyanobacteria biomasses were total phosphorus (4-fold decrease), the abundance of Corbicula clams (from absence before 1998 to 250-1250 individuals·m&lt;sup&gt;-2&lt;/sup&gt; after 2010), the duration of summer low flows and the intensity of summer heatwaves. The River Loire constitutes an example in Europe of how nutrient control can be an efficient mitigation strategy, counteracting already visible effects of climate change on the thermal regime and flow pattern of the river. This may hold true under future conditions, but further work is needed to account for the climate trajectory, land and water use scenarios, the risk of enhanced benthic biofilm and macrophyte proliferation, together with the spread of invasive filter-feeding bivalves.</dc:description>
 </oai_dc:dc>

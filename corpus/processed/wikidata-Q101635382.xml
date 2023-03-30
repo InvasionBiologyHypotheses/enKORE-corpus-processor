@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101635382</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101635382</dc:identifier>
   <dc:identifier>https://herpetozoa.pensoft.net/article/53625/download/pdf/</dc:identifier>
   <dc:identifier>doi:10.3897/HERPETOZOA.33.E53625</dc:identifier>
@@ -17,5 +18,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Squamata</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;In Chile, the presence of Mourning Gecko,&lt;jats:italic&gt;Lepidodactylus lugubris&lt;/jats:italic&gt;Duméril &amp;amp; Bibron, 1836 has been recognized for Easter Island (Rapa Nui) from late 19&lt;jats:sup&gt;th&lt;/jats:sup&gt;century. Here, we report the first observation of a juvenile specimen of&lt;jats:italic&gt;L. lugubris&lt;/jats:italic&gt;in an urban zone of Santiago, Región Metropolitana, mainland Chile, representing the southernmost non-insular record in America for this invasive species. Moreover, an updated distributional map of&lt;jats:italic&gt;L. lugubris&lt;/jats:italic&gt;for South America and the Antilles is provided.&lt;/jats:p&gt;</dc:description>
+  <dc:description>In Chile, the presence of Mourning Gecko,Lepidodactylus lugubrisDuméril &amp;amp; Bibron, 1836 has been recognized for Easter Island (Rapa Nui) from late 19thcentury. Here, we report the first observation of a juvenile specimen ofL. lugubrisin an urban zone of Santiago, Región Metropolitana, mainland Chile, representing the southernmost non-insular record in America for this invasive species. Moreover, an updated distributional map ofL. lugubrisfor South America and the Antilles is provided.</dc:description>
 </oai_dc:dc>

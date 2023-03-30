@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36106281</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36106281</dc:identifier>
   <dc:identifier>doi:10.1038/NCOMMS12488</dc:identifier>
   <dc:title>Past and estimated future impact of invasive alien mammals on insular threatened vertebrate populations</dc:title>
@@ -16,8 +17,9 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Invasive mammals on islands pose severe, ongoing threats to global biodiversity. However, the severity of threats from different mammals, and the role of interacting biotic and abiotic factors in driving extinctions, remain poorly understood at a global scale. Here we model global extirpation patterns for island populations of threatened and extinct vertebrates. Extirpations are driven by interacting factors including invasive rats, cats, pigs, mustelids and mongooses, native species taxonomic class and volancy, island size, precipitation and human presence. We show that controlling or eradicating the relevant invasive mammals could prevent 41–75% of predicted future extirpations. The magnitude of benefits varies across species and environments; for example, managing invasive mammals on small, dry islands could halve the extirpation risk for highly threatened birds and mammals, while doing so on large, wet islands may have little benefit. Our results provide quantitative estimates of conservation benefits and, when combined with costs in a return-on-investment framework, can guide efficient conservation strategies.&lt;/jats:p&gt;</dc:description>
+  <dc:description>AbstractInvasive mammals on islands pose severe, ongoing threats to global biodiversity. However, the severity of threats from different mammals, and the role of interacting biotic and abiotic factors in driving extinctions, remain poorly understood at a global scale. Here we model global extirpation patterns for island populations of threatened and extinct vertebrates. Extirpations are driven by interacting factors including invasive rats, cats, pigs, mustelids and mongooses, native species taxonomic class and volancy, island size, precipitation and human presence. We show that controlling or eradicating the relevant invasive mammals could prevent 4175% of predicted future extirpations. The magnitude of benefits varies across species and environments; for example, managing invasive mammals on small, dry islands could halve the extirpation risk for highly threatened birds and mammals, while doing so on large, wet islands may have little benefit. Our results provide quantitative estimates of conservation benefits and, when combined with costs in a return-on-investment framework, can guide efficient conservation strategies.</dc:description>
 </oai_dc:dc>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110758423</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110758423</dc:identifier>
   <dc:identifier>doi:10.1111/1365-2664.13981</dc:identifier>
-  <dc:title>Predicting the outcomes of management strategies for controlling invasive river fishes using individual‐based models</dc:title>
+  <dc:title>Predicting the outcomes of management strategies for controlling invasive river fishes using individualbased models</dc:title>
   <dc:creator>Almela, Victoria Dominguez</dc:creator>
   <dc:creator>Palmer, Stephen C. F.</dc:creator>
   <dc:creator>Andreou, Demetra</dc:creator>
@@ -14,6 +15,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>

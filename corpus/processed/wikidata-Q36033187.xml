@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36033187</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36033187</dc:identifier>
   <dc:identifier>doi:10.1016/J.MARPOLBUL.2016.05.042</dc:identifier>
   <dc:title>The status and management of the lionfish, Pterois sp. in Trinidad and Tobago</dc:title>
@@ -7,10 +8,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-05-26</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>Trinidad and Tobago</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Trinidad and Tobago was the last Caribbean island to be invaded by the lionfish and since its invasion in 2012 they have spread to most coral reef and hard bottom environments. Standard reef fish surveys were used to assess lionfish population densities and size distributions from 2013-2015. Total lengths ranged between 6.2-40.4cm and 2.2-950g in weight. The length-weight relationship was described by W=0.0002L(2.5654). Fish densities were highest in the northeast Tobago at 326lionfish/ha and the lowest in the southwest Tobago at 10.5lionfish/ha. In order to curtail the spread of this invasive species, a culling programme was initiated at selected reefs to regularly remove lionfish at monthly intervals. On the selected reefs 26-30% reduction in mean lionfish biomass and 25-27% reduction in abundance was noted compared to control sites (p&lt;0.05).</dc:description>
 </oai_dc:dc>

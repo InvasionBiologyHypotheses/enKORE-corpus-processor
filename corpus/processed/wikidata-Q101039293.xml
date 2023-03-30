@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101039293</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101039293</dc:identifier>
   <dc:identifier>doi:10.3897/ZOOKEYS.974.55528</dc:identifier>
   <dc:title>A new species of Cheiloneurus Westwood (Hymenoptera, Encyrtidae) as a hyperparasitoid of the invasive cotton mealybug, Phenacoccus solenopsis Tinsley, in China</dc:title>
@@ -17,5 +18,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Encyrtidae</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;A new species, &lt;jats:italic&gt;Cheiloneurus nankingensis&lt;/jats:italic&gt;&lt;jats:bold&gt;sp. nov.&lt;/jats:bold&gt;, from Eastern China is described. It is similar to &lt;jats:italic&gt;C. arabiacus&lt;/jats:italic&gt; Hayat but distinct from it in a number of morphological characters. It is a hyperparasitoid with the encyrtid wasp &lt;jats:italic&gt;Aenasius arizonensis&lt;/jats:italic&gt; Girault, 1915 as the primary host and the cotton mealybug &lt;jats:italic&gt;Phenacoccus solenopsis&lt;/jats:italic&gt; Tinsley, 1898 (Hemiptera: Pseudococcidae) as the secondary host. A key to all seven species of &lt;jats:italic&gt;Cheiloneurus&lt;/jats:italic&gt; known from China is presented.&lt;/jats:p&gt;</dc:description>
+  <dc:description>A new species, Cheiloneurus nankingensissp. nov., from Eastern China is described. It is similar to C. arabiacus Hayat but distinct from it in a number of morphological characters. It is a hyperparasitoid with the encyrtid wasp Aenasius arizonensis Girault, 1915 as the primary host and the cotton mealybug Phenacoccus solenopsis Tinsley, 1898 (Hemiptera: Pseudococcidae) as the secondary host. A key to all seven species of Cheiloneurus known from China is presented.</dc:description>
 </oai_dc:dc>

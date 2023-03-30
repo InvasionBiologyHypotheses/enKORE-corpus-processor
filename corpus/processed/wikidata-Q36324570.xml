@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36324570</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36324570</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4661838</dc:identifier>
   <dc:identifier>doi:10.3390/IJMS161125979</dc:identifier>
@@ -19,6 +20,7 @@
   <dc:subject>hypothesis:novel weapons hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q109996900</dc:subject>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>Australia</dc:subject>
   <dc:subject>pyrrolizidine alkaloid</dc:subject>
   <dc:subject>Echium plantagineum</dc:subject>

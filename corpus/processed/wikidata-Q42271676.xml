@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q42271676</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q42271676</dc:identifier>
   <dc:identifier>doi:10.5852/EJT.2016.224</dc:identifier>
   <dc:title>A new species of Lynceus Müller, 1776 from New Caledonia (Crustacea: Branchiopoda: Laevicaudata) from dolines, with remarks on zoogeography</dc:title>
@@ -14,5 +15,5 @@
   <dc:subject>New Caledonia</dc:subject>
   <dc:subject>zoogeography</dc:subject>
   <dc:publisher>Museum National D'Histoire Naturelle</dc:publisher>
-  <dc:description>&lt;jats:p&gt;A new species of laevicaudatan branchiopods, Lynceus insularis sp. nov., is described. It is reported from five sinkholes (dolines) in the southern part of New Caledonia. Lynceus insularis sp. nov. is closest to Lynceus species from Australia, but can be separated from these on the basis of clasper morphology and the form of the lamina abdominalis. Lynceus insularis sp. nov. is the first record of a remote insular endemic laevicaudatan. The habitats of the species may be threatened due to hydrological changes, reduction of water supply, acidification of fresh water, invasive species, and/or mining activities in the vicinity.&lt;/jats:p&gt;</dc:description>
+  <dc:description>A new species of laevicaudatan branchiopods, Lynceus insularis sp. nov., is described. It is reported from five sinkholes (dolines) in the southern part of New Caledonia. Lynceus insularis sp. nov. is closest to Lynceus species from Australia, but can be separated from these on the basis of clasper morphology and the form of the lamina abdominalis. Lynceus insularis sp. nov. is the first record of a remote insular endemic laevicaudatan. The habitats of the species may be threatened due to hydrological changes, reduction of water supply, acidification of fresh water, invasive species, and/or mining activities in the vicinity.</dc:description>
 </oai_dc:dc>

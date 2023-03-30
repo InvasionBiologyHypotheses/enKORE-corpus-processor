@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33380349</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33380349</dc:identifier>
   <dc:identifier>doi:10.1890/08-0395.1</dc:identifier>
   <dc:title>Invasive prey impacts the abundance and distribution of native predators</dc:title>
@@ -9,13 +10,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2008-10-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>predation</dc:subject>
-  <dc:subject>predator–prey system</dc:subject>
+  <dc:subject>predatorprey system</dc:subject>
   <dc:subject>invasive prey</dc:subject>
   <dc:subject>native predator</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>While an extensive literature exists on the negative effects of invasive species, little is known about their facilitative effects on native species, particularly the role of invasives as trophic subsidies to native predators. The invasive gypsy moth (Lymantria dispar) undergoes periodic outbreaks during which it represents a super-abundant food source for predators capable of consuming it, particularly native cuckoos (Coccyzus erythropthalmus and C. americanus). We examined how gypsy moth outbreaks affect the abundance and distribution of cuckoos using the North American Breeding Bird Survey and 29 years of U.S. Forest Service gypsy moth defoliation records. Abundances of both Black-billed and Yellow-billed Cuckoos were significantly above average during outbreaks, but populations were average or below average in preceding and subsequent years, suggesting that cuckoos are immigrating to defoliations during outbreak years. Spatial analyses showed that cuckoo abundances approximately 40-150 km outside of defoliation areas were significantly below average, and these under-occupied breeding areas extended in all four compass directions around outbreaks. This result supports the idea that cuckoos locate gypsy moth outbreaks during a post-migratory nomadic phase. By shifting the annual distribution of cuckoos, gypsy moths may be shifting the trophic impact of cuckoos across large distances, which could affect native insect herbivores and plants.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q47175258</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q47175258</dc:identifier>
   <dc:identifier>doi:10.1111/J.1365-2656.2009.01590.X</dc:identifier>
   <dc:title>Invasion success depends on invader body size in a size-structured mixed predation-competition community.</dc:title>
@@ -10,10 +11,9 @@
   <dc:creator>Reichstein, Birte</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2009-07-22</dc:date>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>1. The size of an individual is an important determinant of its trophic position and the type of interactions it engages in with other heterospecific and conspecific individuals. Consequently an individual's ecological role in a community changes with its body size over ontogeny, leading to that trophic interactions between individuals are a size-dependent and ontogenetically variable mixture of competition and predation. 2. Because differently sized individuals thus experience different biotic environments, invasion success may be determined by the body size of the invaders. Invasion outcome may also depend on the productivity of the system as productivity influences the biotic environment. 3. In a laboratory experiment with two poeciliid fishes the body size of the invading individuals and the daily amount of food supplied were manipulated. 4. Large invaders established persistent populations and drove the resident population to extinction in 10 out of 12 cases, while small invaders failed in 10 out of 12 trials. Stable coexistence was virtually absent. Invasion outcome was independent of productivity. 5. Further analyses suggest that small invaders experienced a competitive recruitment bottleneck imposed on them by the resident population. In contrast, large invaders preyed on the juveniles of the resident population. This predation allowed the large invaders to establish successfully by decreasing the resident population densities and thus breaking the bottleneck. 6. The results strongly suggest that the size distribution of invaders affects their ability to invade, an implication so far neglected in life-history omnivory systems. The findings are further in agreement with predictions of life-history omnivory theory, that size-structured interactions demote coexistence along a productivity gradient.</dc:description>
 </oai_dc:dc>

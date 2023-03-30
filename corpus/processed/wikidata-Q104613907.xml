@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104613907</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q104613907</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7792949</dc:identifier>
   <dc:identifier>doi:10.3390/IJMS22010033</dc:identifier>
@@ -8,7 +9,7 @@
   <dc:creator>Oprea, Eliza</dc:creator>
   <dc:creator>Geana, Elisabeta-Irina</dc:creator>
   <dc:creator>Tutunaru, Oana</dc:creator>
-  <dc:creator>Pîrcălăbioru, Grațiela Grădișteanu</dc:creator>
+  <dc:creator>Pîrclbioru, Graiela Grditeanu</dc:creator>
   <dc:creator>Zgura, Irina</dc:creator>
   <dc:creator>Chifiriuc, Mariana Carmen</dc:creator>
   <dc:type>journal article</dc:type>
@@ -19,5 +20,5 @@
   <dc:subject>Gleditsia triacanthos</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Gleditsia triacanthos is an aggressive invasive species in Eastern Europe, producing a significant number of pods that could represent an inexhaustible resource of raw material for various applications. The aim of this study was to extract cellulose from the Gleditsia triacanthos pods, characterize it by spectrophotometric and UHPLC–DAD-ESI/MS analysis, and use it to fabricate a wound dressing that is multi-functionalized with phenolic compounds extracted from the leaves of the same species. The obtained cellulose microfibers (CM) were functionalized, lyophilized, and characterized by ATR-FTIR and SEM. The water absorption and retention capacity as well as the controlled release of phenolic compounds with antioxidant properties evaluated in temporal dynamics were also determined. The antimicrobial activity against reference and clinical multi-drug-resistant Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, Acinetobacter baumannii, Enterobacter cloacae, Candida albicans, and Candida parapsilosis strains occurred immediately after the contact with the tested materials and was maintained for 24 h for all tested microbial strains. In conclusion, the multi-functionalized cellulose microfibers (MFCM) obtained from the reproductive organs of an invasive species can represent a promising alternative for the development of functional wound dressings with antioxidant and antimicrobial activity, as well as being a scalable example for designing cost-effective, circular bio-economy approaches to combat the accelerated spread of invasive species.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Gleditsia triacanthos is an aggressive invasive species in Eastern Europe, producing a significant number of pods that could represent an inexhaustible resource of raw material for various applications. The aim of this study was to extract cellulose from the Gleditsia triacanthos pods, characterize it by spectrophotometric and UHPLCDAD-ESI/MS analysis, and use it to fabricate a wound dressing that is multi-functionalized with phenolic compounds extracted from the leaves of the same species. The obtained cellulose microfibers (CM) were functionalized, lyophilized, and characterized by ATR-FTIR and SEM. The water absorption and retention capacity as well as the controlled release of phenolic compounds with antioxidant properties evaluated in temporal dynamics were also determined. The antimicrobial activity against reference and clinical multi-drug-resistant Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, Acinetobacter baumannii, Enterobacter cloacae, Candida albicans, and Candida parapsilosis strains occurred immediately after the contact with the tested materials and was maintained for 24 h for all tested microbial strains. In conclusion, the multi-functionalized cellulose microfibers (MFCM) obtained from the reproductive organs of an invasive species can represent a promising alternative for the development of functional wound dressings with antioxidant and antimicrobial activity, as well as being a scalable example for designing cost-effective, circular bio-economy approaches to combat the accelerated spread of invasive species.</dc:description>
 </oai_dc:dc>

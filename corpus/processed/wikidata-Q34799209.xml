@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34799209</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34799209</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-013-2718-4</dc:identifier>
   <dc:title>Reduced seed predation after invasion supports enemy release in a broad biogeographical survey</dc:title>
@@ -12,7 +13,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-07-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
@@ -21,5 +21,4 @@
   <dc:subject>biogeography</dc:subject>
   <dc:subject>seed predation</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>The Enemy Release (ER) hypothesis predicts an increase in the plant invasive capacity after being released from their associated herbivores or pathogens in their area of origin. Despite the large number of studies on biological invasions addressing this hypothesis, tests evaluating changes in herbivory on native and introduced populations and their effects on plant reproductive potential at a biogeographical level are relatively rare. Here, we tested the ER hypothesis on the South African species Senecio pterophorus (Asteraceae), which is native to the Eastern Cape, has expanded into the Western Cape, and was introduced into Australia (&gt;70-100 years ago) and Europe (&gt;30 years ago). Insect seed predation was evaluated to determine whether plants in the introduced areas were released from herbivores compared to plants from the native range. In South Africa, 25 % of the seedheads of sampled plants were damaged. Plants from the introduced populations suffered lower seed predation compared to those from the native populations, as expected under the ER hypothesis, and this release was more pronounced in the region with the most recent introduction (Europe 0.2 % vs. Australia 15 %). The insect communities feeding on S. pterophorus in Australia and Europe differed from those found in South Africa, suggesting that the plants were released from their associated fauna after invasion and later established new associations with local herbivore communities in the novel habitats. Our study is the first to provide strong evidence of enemy release in a biogeographical survey across the entire known distribution of a species.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56365299</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56365299</dc:identifier>
   <dc:identifier>doi:10.1071/MF15332</dc:identifier>
   <dc:title>Taking advantage of adaptations when managing threatened species within variable environments: the case of the dwarf galaxias, Galaxiella pusilla (Teleostei, Galaxiidae)</dc:title>
@@ -11,11 +12,8 @@
   <dc:date>2016</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>Galaxiidae</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-Native fish are threatened globally by invasive species, and management actions largely focus on detecting and eradicating invaders before they become established. However, once established, invaders might also be controlled by taking advantage of adaptations of threatened species to local conditions. This strategy was explored in dwarf galaxias (Galaxiella pusilla) a freshwater-dependent species of national conservation significance in Australia, threatened by invasive eastern gambusia (Gambusia holbrooki). Most habitats occupied by G. pusilla experience a seasonally variable and unpredictable hydrologic regime, where water levels substantially contract during dry periods and expand during wet periods. It was hypothesised that they are likely to have developed adaptations to surviving in these habitats by persisting without surface water. In contrast to G. holbrooki, we found that G. pusilla could withstand longer periods without surface water, including air breathing and higher respiration rates in air, than could G. holbrooki. We showed, within a single G. pusilla population, large inter-annual variability in fish densities linked to natural wetting and drying regimes. These findings indicate that periodic drying provides a way of protecting G. pusilla in water bodies where G. holbrooki has invaded, representing a strategy that takes advantage of local adaptation and metapopulation structure of G. pusilla.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110862200</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110862200</dc:identifier>
   <dc:identifier>doi:10.14710/JITAA.38.1.65-71</dc:identifier>
   <dc:title>INTEGRATION OF MECHANICAL AND CULTURAL CONTROL TREATMENTS TO MANAGE INVASIVE SHRUB Chromolaena odorata AND OTHER WEEDS UNDER DROUGHT CONDITIONS IN PASTURE AREA</dc:title>
@@ -11,6 +12,7 @@
   <dc:date>2013-03-15</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive shrub</dc:subject>
   <dc:subject>Chromolaena odorata</dc:subject>
   <dc:subject>invasive species</dc:subject>

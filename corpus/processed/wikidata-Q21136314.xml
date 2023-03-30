@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21136314</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q21136314</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0011614</dc:identifier>
   <dc:title>A new (old), invasive ant in the hardwood forests of eastern North America and its potentially widespread impacts</dc:title>
@@ -11,6 +12,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive ant</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>

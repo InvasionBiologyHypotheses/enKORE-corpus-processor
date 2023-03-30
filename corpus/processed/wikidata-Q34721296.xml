@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34721296</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34721296</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0063880</dc:identifier>
   <dc:title>Successive invasion-mediated interspecific hybridizations and population structure in the endangered cichlid Oreochromis mossambicus</dc:title>
   <dc:creator>Firmat, Cyril</dc:creator>
   <dc:creator>Alibert, Paul</dc:creator>
-  <dc:creator>Losseau, Michèle</dc:creator>
+  <dc:creator>Losseau, Michle</dc:creator>
   <dc:creator>Baroiller, Jean-François</dc:creator>
   <dc:creator>Schliewen, Ulrich K</dc:creator>
   <dc:type>journal article</dc:type>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33770648</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33770648</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-010-1859-Y</dc:identifier>
   <dc:title>Early impacts of biological control on canopy cover and water use of the invasive saltcedar tree (Tamarix spp.) in western Nevada, USA.</dc:title>
@@ -11,11 +12,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-12-14</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>canopy</dc:subject>
   <dc:subject>canopy cover</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>The success of biological control programs is rarely assessed beyond population level impacts on the target organism. The question of whether a biological control agent can either partially or completely restore ecosystem services independent of population level control is therefore still open to discussion. Using observational and experimental approaches, we investigated the ability of the saltcedar leaf beetle [Diorhabda carinulata (Brullé) (Coleoptera: Chrysomelidae)] to reduce the water use of saltcedar trees (Tamarix ramosissima Ledeb.) in two sites (Humboldt and Walker Rivers) in Nevada, USA. At these sites D. carinulata defoliated the majority of trees within 25 and 9 km, respectively, of the release location within 3 years. At the Humboldt site, D. carinulata reduced the canopy cover of trees adjacent to the release location by &gt;90%. At a location 4 km away during the first year of defoliation, D. carinulata reduced peak (August) stem water use by 50-70% and stand transpiration (July to late September) by 75% (P = 0.052). There was, however, no reduction in stem water use and stand transpiration during the second year of defoliation due to reduced beetle abundances at that location. At the Walker site, we measured stand evapotranspiration (ET) in the center of a large saltcedar stand and found that ET was highest immediately prior to D. carinulata arrival, dropped dramatically with defoliation, and remained low through the subsequent 2 years of the study. In contrast, near the perimeter of the stand, D. carinulata did not reduce sap flow, partly because of low rates of defoliation but also because of increased water use per unit leaf area in response to defoliation. Taken together, our results provide evidence that in the early stages of population expansion D. carinulata can lead to substantial declines in saltcedar water use. The extent of these declines varies spatially and temporally and is dependent on saltcedar compensatory responses along with D. carinulata population dynamics and patterns of dispersal.</dc:description>
 </oai_dc:dc>

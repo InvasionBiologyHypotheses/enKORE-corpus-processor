@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37271367</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37271367</dc:identifier>
   <dc:identifier>doi:10.1136/BMJOPEN-2016-011826</dc:identifier>
   <dc:title>Study protocol for a randomised controlled trial of invasive versus conservative management of primary spontaneous pneumothorax</dc:title>
@@ -22,9 +23,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-13</dc:date>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>pneumothorax</dc:subject>
   <dc:subject>study protocol</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>BMJ</dc:publisher>
-  <dc:description>&lt;h4&gt;Introduction&lt;/h4&gt;Current management of primary spontaneous pneumothorax (PSP) is variable, with little evidence from randomised controlled trials to guide treatment. Guidelines emphasise intervention in many patients, which involves chest drain insertion, hospital admission and occasionally surgery. However, there is evidence that conservative management may be effective and safe, and it may also reduce the risk of recurrence. Significant questions remain regarding the optimal initial approach to the management of PSP.&lt;h4&gt;Methods and analysis&lt;/h4&gt;This multicentre, prospective, randomised, open label, parallel group, non-inferiority study will randomise 342 participants with a first large PSP to conservative or interventional management. To maintain allocation concealment, randomisation will be performed in real time by computer and stratified by study site. Conservative management will involve a period of observation prior to discharge, with intervention for worsening symptoms or physiological instability. Interventional treatment will involve insertion of a small bore drain. If drainage continues after 1 hour, the patient will be admitted. If drainage stops, the drain will be clamped for 4 hours. The patient will be discharged if the lung remains inflated. Otherwise, the patient will be admitted. The primary end point is the proportion of participants with complete lung re-expansion by 8 weeks. Secondary end points are as follows: days in hospital, persistent air leak, predefined complications and adverse events, time to resolution of symptoms, and pneumothorax recurrence during a follow-up period of at least 1 year. The study has 95% power to detect an absolute non-inferiority margin of 9%, assuming 99% successful expansion at 8 weeks in the invasive treatment arm. The primary analysis will be by intention to treat.&lt;h4&gt;Ethics and dissemination&lt;/h4&gt;Local ethics approval has been obtained for all sites. Study findings will be disseminated by publication in a high-impact international journal and presentation at major international Emergency Medicine and Respiratory meetings.&lt;h4&gt;Trial registration number&lt;/h4&gt;ACTRN12611000184976; Pre-results.</dc:description>
 </oai_dc:dc>

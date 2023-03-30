@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38178895</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38178895</dc:identifier>
   <dc:identifier>doi:10.1002/PS.3708</dc:identifier>
   <dc:title>Biology, ecology and management of the invasive parthenium weed (Parthenium hysterophorus L.).</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-01-24</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Parthenium hysterophorus</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Parthenium weed (Parthenium hysterophorus L.) is one of the most aggressive invasive weeds, threatening natural ecosystems and agroecosystems in over 30 countries worldwide. Parthenium weed causes losses of crops and pastures, degrading the biodiversity of natural plant communities, causing human and animal health hazards and resulting in serious economic losses to people and their interests in many countries around the globe. Several of its biological and ecological attributes contribute towards its invasiveness. Various management approaches (namely cultural, mechanical, chemical and biological control) have been used to minimise losses caused by this weed, but most of these approaches are ineffective and uneconomical and/or have limitations. Although chemical control using herbicides and biological control utilising exotic insects and pathogens have been found to contribute to the management of the weed, the weed nevertheless remains a significant problem. An integrated management approach is proposed here for the effective management of parthenium weed on a sustainable basis.</dc:description>
 </oai_dc:dc>

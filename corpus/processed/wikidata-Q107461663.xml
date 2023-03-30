@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107461663</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q107461663</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.61.58380</dc:identifier>
   <dc:title>Global guidelines for the sustainable use of non-native trees to prevent tree invasions and mitigate their negative impacts</dc:title>
   <dc:creator>Brundu, Giuseppe</dc:creator>
   <dc:creator>Pauchard, Aníbal</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
   <dc:creator>Bindewald, Anja M.</dc:creator>
   <dc:creator>Brunori, Antonio</dc:creator>
@@ -44,11 +45,12 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aquatic science</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Sustainably managed non-native trees deliver economic and societal benefits with limited risk of spread to adjoining areas. However, some plantations have launched invasions that cause substantial damage to biodiversity and ecosystem services, while others pose substantial threats of causing such impacts. The challenge is to maximise the benefits of non-native trees, while minimising negative impacts and preserving future benefits and options.&lt;/jats:p&gt;
-          &lt;jats:p&gt;A workshop was held in 2019 to develop global guidelines for the sustainable use of non-native trees, using the Council of Europe – Bern Convention Code of Conduct on Invasive Alien Trees as a starting point.&lt;/jats:p&gt;
-          &lt;jats:p&gt;The global guidelines consist of eight recommendations: 1) Use native trees, or non-invasive non-native trees, in preference to invasive non-native trees; 2) Be aware of and comply with international, national, and regional regulations concerning non-native trees; 3) Be aware of the risk of invasion and consider global change trends; 4) Design and adopt tailored practices for plantation site selection and silvicultural management; 5) Promote and implement early detection and rapid response programmes; 6) Design and adopt tailored practices for invasive non-native tree control, habitat restoration, and for dealing with highly modified ecosystems; 7) Engage with stakeholders on the risks posed by invasive non-native trees, the impacts caused, and the options for management; and 8) Develop and support global networks, collaborative research, and information sharing on native and non-native trees.&lt;/jats:p&gt;
-          &lt;jats:p&gt;The global guidelines are a first step towards building global consensus on the precautions that should be taken when introducing and planting non-native trees. They are voluntary and are intended to complement statutory requirements under international and national legislation. The application of the global guidelines and the achievement of their goals will help to conserve forest biodiversity, ensure sustainable forestry, and contribute to the achievement of several Sustainable Development Goals of the United Nations linked with forest biodiversity.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Sustainably managed non-native trees deliver economic and societal benefits with limited risk of spread to adjoining areas. However, some plantations have launched invasions that cause substantial damage to biodiversity and ecosystem services, while others pose substantial threats of causing such impacts. The challenge is to maximise the benefits of non-native trees, while minimising negative impacts and preserving future benefits and options.
+          A workshop was held in 2019 to develop global guidelines for the sustainable use of non-native trees, using the Council of Europe  Bern Convention Code of Conduct on Invasive Alien Trees as a starting point.
+          The global guidelines consist of eight recommendations: 1) Use native trees, or non-invasive non-native trees, in preference to invasive non-native trees; 2) Be aware of and comply with international, national, and regional regulations concerning non-native trees; 3) Be aware of the risk of invasion and consider global change trends; 4) Design and adopt tailored practices for plantation site selection and silvicultural management; 5) Promote and implement early detection and rapid response programmes; 6) Design and adopt tailored practices for invasive non-native tree control, habitat restoration, and for dealing with highly modified ecosystems; 7) Engage with stakeholders on the risks posed by invasive non-native trees, the impacts caused, and the options for management; and 8) Develop and support global networks, collaborative research, and information sharing on native and non-native trees.
+          The global guidelines are a first step towards building global consensus on the precautions that should be taken when introducing and planting non-native trees. They are voluntary and are intended to complement statutory requirements under international and national legislation. The application of the global guidelines and the achievement of their goals will help to conserve forest biodiversity, ensure sustainable forestry, and contribute to the achievement of several Sustainable Development Goals of the United Nations linked with forest biodiversity.</dc:description>
 </oai_dc:dc>

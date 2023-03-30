@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111994496</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111994496</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.71.69422</dc:identifier>
-  <dc:title>﻿Blacklists do not necessarily make people curious about invasive alien species. A case study with Bayesian structural time series and Wikipedia searches about invasive mammals in Italy</dc:title>
+  <dc:title>Blacklists do not necessarily make people curious about invasive alien species. A case study with Bayesian structural time series and Wikipedia searches about invasive mammals in Italy</dc:title>
   <dc:creator>Cerri, Jacopo</dc:creator>
   <dc:creator>Carnevali, Lucilla</dc:creator>
   <dc:creator>Monaco, Andrea</dc:creator>
@@ -15,7 +16,7 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive mammal</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Blacklists of invasive alien species (IAS) are a popular tool for managing and preventing biological invasions. Moreover, blacklists also have the potential to make the general public more curious about biological invasions, usually by benefiting from media coverage and providing accessible examples of IAS.&lt;/jats:p&gt;
-          &lt;jats:p&gt;We have tested if the implementation of the first List of IAS of Union concern by the European Union increased visits to Wikipedia pages on invasive alien mammals in Italy. We adopted causal impact analysis to quantify changes in the overall volume of visits to pages about invasive alien mammals that appeared on the list, by using pages about native mammals as a control. Following the publication of the first Union list, there was no increase in the amount of visits to Wikipedia pages on invasive mammals, regardless of their inclusion in the Union list. Rather, visits to Wikipedia were irregular in time, coinciding with media coverage of single, charismatic species.&lt;/jats:p&gt;
-          &lt;jats:p&gt;Our results indicate that important policymaking initiatives do not necessarily increase curiosity about biological invasions, even when they are covered by generalist media and are relatively easy to understand. We would therefore emphasise that policymaking initiatives should be coupled with adequate communication campaigns and should adopt communication guidelines for generalist media.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Blacklists of invasive alien species (IAS) are a popular tool for managing and preventing biological invasions. Moreover, blacklists also have the potential to make the general public more curious about biological invasions, usually by benefiting from media coverage and providing accessible examples of IAS.
+          We have tested if the implementation of the first List of IAS of Union concern by the European Union increased visits to Wikipedia pages on invasive alien mammals in Italy. We adopted causal impact analysis to quantify changes in the overall volume of visits to pages about invasive alien mammals that appeared on the list, by using pages about native mammals as a control. Following the publication of the first Union list, there was no increase in the amount of visits to Wikipedia pages on invasive mammals, regardless of their inclusion in the Union list. Rather, visits to Wikipedia were irregular in time, coinciding with media coverage of single, charismatic species.
+          Our results indicate that important policymaking initiatives do not necessarily increase curiosity about biological invasions, even when they are covered by generalist media and are relatively easy to understand. We would therefore emphasise that policymaking initiatives should be coupled with adequate communication campaigns and should adopt communication guidelines for generalist media.</dc:description>
 </oai_dc:dc>

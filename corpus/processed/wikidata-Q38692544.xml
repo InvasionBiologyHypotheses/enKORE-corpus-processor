@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38692544</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38692544</dc:identifier>
   <dc:identifier>doi:10.1016/J.JIAC.2017.03.014</dc:identifier>
   <dc:title>Impact of the pneumococcal conjugate vaccine on serotype distribution of adult non-invasive Streptococcus pneumoniae isolates in Tokai region, Japan, 2008-2016.</dc:title>
@@ -15,12 +16,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-04-17</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Streptococcus pneumoniae</dc:subject>
   <dc:subject>pneumococcal conjugate vaccine</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The introduction of the 7-valent pneumococcal conjugate vaccine (PCV7) in February 2010 markedly reduced the burden of invasive pneumococcal disease and changed serotype distribution in Japan. In November 2013, PCV7 was replaced by the 13-valent pneumococcal conjugate vaccine (PCV13). We investigated the serotype distribution and susceptibility trends of non-invasive Streptococcus pneumoniae isolates collected from adult patients. A total of 504 pneumococcal isolates were collected during 4 periods between 2008 and 2016 (Period 1; between June 2008 and April 2009, Period 2; between September 2010 and March 2011, Period 3; between October 2011 and March 2012, Period 4; between August 2015 and January 2016). The coverage of PCV7 and PCV13 significantly decreased from 38.6% and 60.5% in Period 1 to 6.6% and 31.1% in Period 4. This change was mainly due to a large decrease in the frequency of serotype 19F, 6B, and 14. Serotype 3 was the most frequently isolated, and gradually increased. Additionally, non-PCV13 serotypes 11A, 33F, and 35B significantly increased. Most of the PCV7 serotypes 19F, 23F, 6B, and 14 had mutations of penicillin-binding protein genes and macrolide resistance genes, and these serotypes showed low susceptibilities to cefdinir and clarithromycin. On the other hand, a significant change in susceptibility to various antimicrobial agents was not observed throughout the study period, except for decreased susceptibility to carbapenems. Continuous surveillance studies of pneumococcal serotype changes and drug susceptibility are necessary in future.</dc:description>
 </oai_dc:dc>

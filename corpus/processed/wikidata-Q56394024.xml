@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56394024</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56394024</dc:identifier>
   <dc:identifier>doi:10.1007/S10750-016-2733-7</dc:identifier>
   <dc:title>Consumption of the invasive New Zealand mud snail (Potamopyrgus antipodarum) by benthivorous predators in temperate lakes: a case study from Lithuania</dc:title>
   <dc:creator>Rakauskas, Vytautas</dc:creator>
   <dc:creator>Butkus, Rokas</dc:creator>
-  <dc:creator>Merkytė, Evelina</dc:creator>
+  <dc:creator>Merkyt, Evelina</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-03-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>biotic resistance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
   <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30838124</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30838124</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4108406</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0103279</dc:identifier>
@@ -22,6 +23,7 @@
   <dc:subject>Hemiptera</dc:subject>
   <dc:subject>Aleyrodidae</dc:subject>
   <dc:subject>Aleyrodidae</dc:subject>
+  <dc:subject>thermal tolerance</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
   <dc:description>With advancing global climate change, the analysis of thermal tolerance and evolutionary potential is important in explaining the ecological adaptation and changes in the distribution of invasive species. To reveal the variation of heat resistance and evolutionary potential in the invasive Mediterranean cryptic species of Bemisia tabaci, we selected two Chinese populations-one from Harbin, N China, and one from Turpan, S China-that experience substantial heat and cold stress and conducted knockdown tests under static high- and low-temperature conditions. ANOVAs indicated significant effects of populations and sex on heat knockdown time and chill coma recovery time. The narrow-sense heritability (h2) estimates of heat tolerance based on a parental half-sibling breeding design ranged from 0.47 ± 0.03 to 0.51 ± 0.06, and the estimates of cold tolerance varied from 0.33 ± 0.07 to 0.36 ± 0.06. Additive genetic variances were significantly different from zero for both heat and cold tolerance. These results suggest that invasive B. tabaci Mediterranean cryptic species possesses a strong ability to respond to thermal selection and develops rapid resistance to climate change.</dc:description>
 </oai_dc:dc>

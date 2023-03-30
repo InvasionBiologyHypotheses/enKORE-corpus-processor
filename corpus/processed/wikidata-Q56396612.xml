@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56396612</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56396612</dc:identifier>
   <dc:identifier>doi:10.1007/S13592-016-0426-X</dc:identifier>
   <dc:title>Quo vadis Aethina tumida? Biology and control of small hive beetles</dc:title>
@@ -15,7 +16,9 @@
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Small hive beetle</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>invasion management</dc:subject>

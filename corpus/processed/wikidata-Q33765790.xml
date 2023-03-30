@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33765790</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33765790</dc:identifier>
   <dc:identifier>doi:10.1890/09-1314.1</dc:identifier>
   <dc:title>Impact of an invasive oak gall wasp on a native butterfly: a test of plant-mediated competition</dc:title>
@@ -8,10 +9,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-11-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Phytophagous insects commonly interact through shared host plants. These interactions, however, do not occur in accordance with traditional paradigms of competition, and competition in phytophagous insects is still being defined. It remains unclear, for example, if particular guilds of insects are superior competitors or important players in structuring insect communities. Gall-forming insects are likely candidates for such superior competitors because of their ability to manipulate host plants, but their role as competitors is understudied. We investigate the effect of invasive populations of an oak gall wasp, Neuroterus saltatorius, on a native specialist butterfly, Erynnis propertius, as mediated by their shared host plant, Quercus garryana. This gall wasp occurs at high densities in its introduced range, where we stocked enclosures with caterpillars on trees that varied in gall wasp density. Biomass production of butterflies was lower in enclosures on high-density than on low-density trees because overwintering caterpillars were smaller, and fewer of them eclosed into adults the following spring. To see if the gall wasp induced changes in foliar quality, we measured host plant quality before and after gall induction on 30 trees each at two sites. We found a positive relationship between gall wasp density and the percentage change in foliar C:N, a negative relationship between gall wasp density and the percentage change in foliar water at one site, and no relationship between the percentage change in protein-binding capacity (i.e., phenolics) and gall-wasp density. Additionally, there was a negative relationship between foliar quality and butterfly performance. Our results provide evidence for a plant-mediated impact of an invasive oak gall wasp on a native butterfly and suggest that gall wasps could act as superior competitors, especially when they occur at high densities.</dc:description>
 </oai_dc:dc>

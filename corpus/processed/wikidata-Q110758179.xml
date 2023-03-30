@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110758179</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110758179</dc:identifier>
   <dc:identifier>doi:10.1139/CJFAS-2020-0028</dc:identifier>
   <dc:title>Remarkable response of native fishes to invasive trout suppression varies with trout density, temperature, and annual hydrology</dc:title>
@@ -11,12 +12,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-09</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Recovery of imperiled fishes can be achieved through suppression of invasives, but outcomes may vary with environmental conditions. We studied the response of imperiled desert fishes to an invasive brown (Salmo trutta) and rainbow trout (Oncorhynchus mykiss) suppression program in a Colorado River tributary, with natural flow and longitudinal variation in thermal characteristics. We investigated trends in fish populations related to suppression and tested hypotheses about the impacts of salmonid densities, hydrologic variation, and spatial–thermal gradients on the distribution and abundance of native fish species using zero-inflated generalized linear mixed effects models. Between 2012 and 2018, salmonids declined 89%, and native fishes increased dramatically (∼480%) once trout suppression surpassed ∼60%. Temperature and trout density were consistently retained in the top models predicting the abundance and distribution of native fishes. The greatest increases occurred in warmer reaches and in years with spring flooding. Surprisingly, given the evolution of native fishes in disturbance-prone systems, intense, monsoon-driven flooding limited native fish recruitment. Applied concertedly, invasive species suppression and efforts to mimic natural flow and thermal regimes may allow rapid and widespread native fish recovery. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

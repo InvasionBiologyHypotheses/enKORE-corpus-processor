@@ -49,9 +49,13 @@ import { abstractSources, logging, settings } from "./config.js"; // ##### Note:
 import { createRequire } from "https://deno.land/std/node/module.ts";
 const require = createRequire(import.meta.url);
 const path = require("path");
+
+import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.ts';
+
 // #########################################
 // ##### Import required modules (END) #####
 // #########################################
+
 
 // ######################################################
 // ##### Information for console debugging purposes #####
@@ -164,7 +168,6 @@ async function processArgs(args) {
   // ##### To empty files of WikidataItems not in SPARQL (END) #####
   // ###############################################################
 
-
   return { parsedArgs, items };
 }
 // ###################################################
@@ -181,7 +184,7 @@ async function fetchURLEntries(url) {
 
   if (!url) {
 
-    dl.error("Log(fetchURLEntries): No url to fetch! Exiting...");
+    dl.error("Log(fetchURLEntries): No url to fetch! Exiting...");  // ##### Note: ERROR-FETCH
     Deno.exit(1);
     return;
 
@@ -225,7 +228,7 @@ async function fetchFileEntries(file) {
 
   if (!file) return;
 
-  const entries = await readJSON(file).catch((error) => {
+  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH
 
     dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
     Deno.exit(1);
@@ -331,6 +334,137 @@ async function checkWikidataItem(items) {
 // ####################################################################
 
 
+// ################################
+// ##### Validade XML (START) #####
+// ################################
+// ##### Note: (OPTION-1) XMLvalidation_All() can be applied when all XML files are created near the end of main().
+// ##### Note: (OPTION-2) XMLvalidaiton_Each(filename) can be applied inside processItem(), and it can use the return from generateXML().
+// ##### Note: To check validation online: https://validator.w3.org/ 
+
+async function XMLvalidation_All() {
+  // ##### Note: Using Node.js module: available are fs.readFile, fs.readFileSync
+  
+  const fs = require('fs');
+  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  const files_list = files;
+  let total_files = files_list.length;
+
+  // ##### Note: loop over elements already saved in directory (/corpus/processed)
+  for (let i = 0; i < files_list.length; i++) {
+
+    const files_list_i = String(files_list[i]);
+    // dl.debug(files_list_i); // ##### Note: item already saved in directory (processed)
+    // dl.debug("============");
+
+    const filename = `./corpus/processed/${files_list_i}`;
+    dl.debug("============");
+    dl.debug(filename);
+
+    // ##### Note: Temporary txt file to store  XML string content
+    const filename_temp = './corpus/processed/TEMP.txt';
+    const fs = require('fs'); 
+    fs.copyFile(filename, filename_temp, (err) => {
+
+      if (err) throw err;
+      // dl.debug('Temporary file copied');
+
+    });
+
+    // ##### Note: Reading the string content from XML_converted_to_TXT
+    const fs_p = require('fs').promises;
+    const content = await fs_p.readFile(filename);
+    const content_string = String(content);
+    // dl.debug("= = = = = =");
+    // dl.debug(content_string);
+
+    // ##### Note: Delete temporary file because XML-string is stored in variable (content_string)
+    fs.unlink(filename_temp, (err) => {
+      if (err) {
+          // throw err;
+          // dl.debug("Delete file failed.");
+      }
+      // dl.debug("Delete file successfully.");
+    });
+
+    // ##### Note: String containing XML information is now created.
+    // ##### Note: We are now assessing its validation
+    // ##### Note: Variable (content_string)
+    // ##### https://learn.microsoft.com/en-us/dotnet/standard/data/xml/xml-schema-xsd-validation-with-xmlschemaset (For C#)
+    
+
+    // #########################################
+    // ##### Note: OPTION-1: XML validator #####
+    // #########################################
+    // ##### Note: You must have jsdom for DOM checking (see error message).
+    // ##### https://stackoverflow.com/questions/6334119/check-for-xml-errors-using-javascript
+
+    // ##### Note: Once it runs fine, just place in function!
+    try {
+
+      const jsdom = require("jsdom");
+      dl.debug('PASSED: Module (jsdom) is available.');
+
+    } catch(err) {
+    
+      dl.debug('FAILED: You must install module (jsdom), which is currently missing.');
+      dl.debug('For Ubuntu (check your distribution), run the following lines.');
+      dl.debug('Line: $ sudo apt install npm');
+      dl.debug('Line: $ npm install jsdom');
+      dl.debug('Line: $ npm install xmlhttprequest');
+
+    }
+    // #########################################
+    // #########################################
+
+
+    // #########################################
+    // ##### Note: OPTION-2: XML validator #####
+    // #########################################
+    // ##### Note: You must have fast-xml-parse.
+    // ##### https://www.npmjs.com/package/fast-xml-parser 
+
+    // ##### Note: Once it runs fine, just place in function!
+    try {
+
+      const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
+      const parser = new XMLParser();
+      let jObj = parser.parse(XMLdata);
+      const builder = new XMLBuilder();
+      const xmlContent = builder.build(jObj);
+      dl.debug('PASSED: Module (fast-xml-parser) is available.');
+
+    } catch(err) {
+    
+      dl.debug('FAILED: You must install module (fast-xml-parser), which is currently missing.');
+      dl.debug('For Ubuntu (check your distribution), run the following lines.');
+      dl.debug('Line: $ sudo apt install npm');
+      dl.debug('Line: $ npm install fast-xml-parser');
+
+    }
+    // #########################################
+    // #########################################
+
+    try {
+
+      // BRING FUNCTION FOR VALIDATION HERE!
+      dl.debug('PASSED: XML content has passed validation');
+
+    } catch(err) {
+
+      dl.debug('FAILED: XML content has failed validation');
+
+    }
+    
+  }
+
+  return "yes"
+
+}
+// ################################
+// ##### Validade XML (END) #####
+// ################################
+
+
 // #########################################################
 // ##### Function to request URL with Abstract (START) #####
 // #########################################################
@@ -358,7 +492,7 @@ async function getAbstract(src, service) {
       const out = get(data, service.path);
       return out;
 
-    } else if (res.status == "404") {
+    } else if (res.status == "404") {  // ##### Note: ERROR-NOT-FOUND
 
       return null;
 
@@ -366,7 +500,7 @@ async function getAbstract(src, service) {
 
   } catch (error) {
 
-    dl.error(`Log(getAbstract): Abstract fetch error: ${error} - ${url}`);
+    dl.error(`Log(getAbstract): Abstract fetch error: ${error} - ${url}`);  // ##### Note: ERROR-FETCH
 
   } finally {
 
@@ -433,7 +567,7 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
       const data = await response.json();
       return data?.message;
 
-    } else if (response.status == "404") {
+    } else if (response.status == "404") { // ##### Note: ERROR-NOT-FOUND
 
       return null;
 
@@ -442,12 +576,12 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
       getCrossrefItem(
         DOI,
         retries - 1,
-        response.status == "429" ? 5000 : delay,
+        response.status == "429" ? 5000 : delay, // ##### Note: ERROR-RATE
       );
 
     } else {
 
-      dl.error(`Log(getCrossrefItem): CrossRef Fetch Failed: ${DOI}`);
+      dl.error(`Log(getCrossrefItem): CrossRef Fetch Failed: ${DOI}`);  // ##### Note: ERROR-FETCH
       dl.error(response?.headers);
 
       throw response.status;
@@ -456,7 +590,7 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
   } catch (error) {
 
-    dl.error(`Log(getCrossrefItem): Fetch Failed: ${error}`);
+    dl.error(`Log(getCrossrefItem): Fetch Failed: ${error}`);   // ##### Note: ERROR-FETCH
 
   } finally {
 
@@ -535,6 +669,8 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   });
 
   dl.debug(`Log(processItem): About to exit processItem ${wikidataItem.id}`);
+
+  // ##### Note: XMLvalidation can be assessed here via content from (const xml), or maybe after to make sure the file has been written properly.
 
   return await writeTXT(filename, xml);
 
@@ -623,6 +759,21 @@ async function updateEndpoint() {
 // #################################################
 
 
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+async function wikidataItem_log(a) {
+
+  const b = a;
+
+  return 0
+
+}
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+
+
 // ######################################
 // ##### Function-Conductor (START) #####
 // ######################################
@@ -679,10 +830,13 @@ async function main() {
   dl.debug("Log(main): main()_getItemData()_OUT");
   dl.debug("Log(main): ##########");
 
+  const file_validation = await XMLvalidation_All();
+  dl.debug(`Log(main): file validated: ${file_validation} !!!!!!!!!!!!!!!!!!!!!!`);
+
   //
   //
   // ##### Note: to implement a function that updates the EndPoint here
-  // updateEndpoint(); // ##### not yet using this function
+  // updateEndpoint_test(); // ##### not yet using this function
   //
   //
 
@@ -706,8 +860,181 @@ await log.setup(logging);
 const dl = log.getLogger();
 const cl = log.getLogger('client');
 
-if (import.meta.main) {
+// ##### Note: to call main() within cron.
+// if (import.meta.main) { main(); }
 
-  main();
+console.log(``);
+console.log(`##################################################`);
+console.log(`#####             CRON SECTION               #####`);
+console.log(`##################################################`);
+console.log(``);
+
+// #######################################
+// ##### CRON - TIME CONTROL (START) #####
+// #######################################
+// ##### Note: Does not work for javascript to call import inside an eval(). Example: eval("import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.ts'");
+// Note: cron('* * * * * *', () => {function_called(); });
+// Note: cron('second minute hour day month day_of_week', () => {function_called(); });
+// Example: Use seconds as 1 to initialize in the very first second, just keep it simple cron('1 * * * * *', () => {function_called(); });
+// Example: To run every 30 minutes cron('1 /*30 * * * *', () => {function_called(); });
+// Example: To run 1st day of every month at mid-night cron('1 0 0 1 */1 *', () => {function_called(); });
+// Example: To run 1st to 7th day of every month on 3rd, 6th and 9th hour and every 30 minutes if it's monday cron('1 */30 3,6,9 1-7 */1 1'', () => {function_called(); }); // ##### Need to be tested
+// Example: To run every Friday at 23:50:01 cron('1 50 23 * * */5', () => {function_called(); }); // ##### Tested!
+
+// ##### Note: Only one must be true, or all false to run main() without cron
+const c1 = true; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c2 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c3 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
+
+// ##### OPTION-1 (START) ################
+async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
+
+  dl.debug(`Log(run_cron_option1): Started cron`);
+
+  // ##### passed variables: Function-1
+  const sec_1 = sec1;
+  const min_1 = min1;
+  const hr_1 = hr1;
+  const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1 + '';
+
+  // ##### passed variables: Function-2
+  const sec_2 = sec2;
+  const min_2 = min2;
+  const hr_2 = hr2;
+  const weekday_2 = weekday2; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const cron_string_control2 = '' + sec_2 + ' ' + min_2 + ' ' + hr_2 + ' * * */' + weekday_2 + '';
+
+  // ##### Function-1
+  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option1): to process main()!`); main(); });
+
+  // ##### Function-2
+  async function updateEndpoint_test() { console.log(`########## Endpoint Updated!`); } // ##### Note: Update function can be called inside main() if not here.
+  cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
+
 
 }
+
+if (c1 == true && c2 == false && c3 == false) {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option1): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
+  console.log(`##################################################`);
+
+  // ##### Input: Function-1
+  const sec1 = "1";
+  const min1 = "56";
+  const hr1 = "6";
+  const weekday1 = "7"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  // ##### Input: Function-2
+  const sec2 = "1";
+  const min2 = "57";
+  const hr2 = "7";
+  const weekday2 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  
+  // ##### Function to call Functions
+  run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2);
+
+} else {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option1): cron not used!`);
+  console.log(`##################################################`);
+
+  // if (import.meta.main) { main(); }
+
+}
+
+// ##### OPTION-1 (END) ##################
+
+// ##### OPTION-2 (START) ################
+async function run_cron_option2(dt1) {
+  
+  // ##### Note: this option required updateEndpoint() to be called inside main()
+  dl.debug(`Log(run_cron_option2): Started cron`);
+
+  // ##### passed variables: Function-1
+  const dt_1 = dt1; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
+  const cron_string_control1 = '1 */' + dt_1 + ' * * * *';
+
+  // ##### Function-1
+  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option2): to process main()!`); main(); });
+
+}
+
+if (c1 == false && c2 == true && c3 == false) {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option2): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
+  console.log(`##################################################`);
+
+  // ##### Input: Function-1
+  const dt1 = '1';
+
+  // ##### Function to call Functions
+  run_cron_option2(dt1);
+
+} else {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option2): cron not used!`);
+  console.log(`##################################################`);
+
+  // if (import.meta.main) { main(); }
+
+}
+// ##### OPTION-2 (END) ##################
+
+// ##### OPTION-3 (START) ################
+async function run_cron_option3(dt1,dt2) {
+
+  dl.debug(`Log(run_cron_option3): Started cron`);
+
+  // ##### passed variables: Function-1
+  const dt_1 = dt1; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
+  const cron_string_control1 = '1 */' + dt_1 + ' * * * *';
+
+  // ##### passed variables: Function-2
+  const dt_2 = dt2; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
+  const cron_string_control2 = '1 */' + dt_2 + ' * * * *';
+
+  // ##### Function-1
+  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option3): to process main()!`); main(); });
+  
+  // ##### Function-2
+  async function updateEndpoint_test() { console.log(`########## UPDATED!`); } // ##### Note: Update function can be called inside main() if not here.
+  cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
+
+}
+
+if (c1 == false && c2 == false && c3 == true) {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option3): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
+  console.log(`##################################################`);
+
+  // ##### Input: Function-1
+  const dt1 = '5';
+  // ##### Input: Function-2
+  const dt2 = '1';
+
+  // ##### Function to call Functions
+  run_cron_option3(dt1,dt2);
+
+} else {
+
+  console.log(`##################################################`);
+  console.log(`Log(run_cron_option3): cron not used!`);
+  console.log(`##################################################`);
+
+  // if (import.meta.main) { main(); }
+
+}
+// ##### OPTION-3 (END) ##################
+
+// ##### Note: Running main() without cron
+if (c1 == false && c2 == false && c3 == false) { if (import.meta.main) { main(); } }
+
+// #####################################
+// ##### CRON - TIME CONTROL (END) #####
+// #####################################

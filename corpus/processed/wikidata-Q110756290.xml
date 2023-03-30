@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110756290</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110756290</dc:identifier>
   <dc:identifier>doi:10.18764/1981-6421E2021.7</dc:identifier>
   <dc:title>EXTENSÃO DE OCORRÊNCIA DO CAMARÃO NÃO NATIVO Penaeus monodon FABRICIUS, 1798 (DECAPODA: PENAEIDAE) NO LITORAL AMAZÔNICO BRASILEIRO = THIS STUDY PROVIDES NEW RECORDS OF THE NON-NATIVE SPECIES Penaeus monodon FABRICIUS, 1798, IN THE BRAZILIAN AMAZ</dc:title>
@@ -15,5 +16,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Penaeidae</dc:subject>
   <dc:publisher>Universidade Federal do Maranhao</dc:publisher>
-  <dc:description>&lt;jats:p&gt;O presente estudo fornece três novos registros de ocorrência da espécie não nativa Penaeus monodon Fabricius, 1798 no Litoral Amazônico Brasileiro, a partir de capturas no estado do Maranhão.AbstractThis study provides new records of the non-native species Penaeus monodon Fabricius, 1798, in the Brazilian Amazon Coast through catches on State of Maranhão. &lt;/jats:p&gt;</dc:description>
+  <dc:description>O presente estudo fornece três novos registros de ocorrência da espécie não nativa Penaeus monodon Fabricius, 1798 no Litoral Amazônico Brasileiro, a partir de capturas no estado do Maranhão.AbstractThis study provides new records of the non-native species Penaeus monodon Fabricius, 1798, inthe Brazilian Amazon Coast through catches on State of Maranhão.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56355716</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56355716</dc:identifier>
   <dc:identifier>doi:10.1590/1982-0224-20160094</dc:identifier>
   <dc:title>Colorful invasion in permissive Neotropical ecosystems: establishment of ornamental non-native poeciliids of the genera Poecilia/Xiphophorus (Cyprinodontiformes: Poeciliidae) and management alternatives</dc:title>
@@ -9,6 +10,7 @@
   <dc:date>2017</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Xiphophorus</dc:subject>
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>Neotropical realm</dc:subject>
@@ -16,5 +18,4 @@
   <dc:subject>Poeciliidae</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>FapUNIFESP (SciELO)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;ABSTRACT Headwater creeks are environments susceptible to invasion by non-native fishes. We evaluated the reproduction of 22 populations of the non-native livebearers guppy Poecilia reticulata, black molly Poecilia sphenops, Yucatan molly Poecilia velifera, green swordtail Xiphophorus hellerii, southern platyfish Xiphophorus maculatus, and variable platyfish Xiphophorus variatus during an annual cycle in five headwater creeks located in the largest South American ornamental aquaculture center, Paraíba do Sul River basin, southeastern Brazil. With few exceptions, females of most species were found reproducing (stages 2, 3, 4) all year round in the creeks and gravid females of all species showed small sizes indicating stunting. Juveniles were frequent in all sites. The fecundity of the six poeciliids was always low in all periods. The sex ratio was biased for females in most species, both bimonthly as for the whole period. Water temperature, water level and rainfall were not significantly correlated with reproduction in any species. Therefore, most populations appeared well established. The pertinence of different management actions, such as devices to prevent fish escape, eradication with rotenone and research about negative effects on native species, is discussed in the light of current aquaculture practices in the region.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

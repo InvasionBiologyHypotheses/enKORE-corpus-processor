@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39007424</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q39007424</dc:identifier>
   <dc:identifier>doi:10.1038/ONC.2014.49</dc:identifier>
   <dc:title>KAP regulates ROCK2 and Cdk2 in an RNA-activated glioblastoma invasion pathway</dc:title>
@@ -16,10 +17,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-04-07</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>glioblastoma</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Aberrant splicing of the cyclin-dependent kinase-associated phosphatase, KAP, promotes glioblastoma invasion in a Cdc2-dependent manner. However, the mechanism by which this occurs is unknown. Here we show that miR-26a, which is often amplified in glioblastoma, promotes invasion in phosphatase and tensin homolog (PTEN)-competent and PTEN-deficient glioblastoma cells by directly downregulating KAP expression. Mechanistically, we find that KAP binds and activates ROCK2. Thus, RNA-mediated downregulation of KAP leads to decreased ROCK2 activity and this, in turn, increases Rac1-mediated invasion. In addition, the decrease in KAP expression activates the cyclin-dependent kinase, Cdk2, and this directly promotes invasion by increasing retinoblastoma phosphorylation, E2F-dependent Cdc2 expression and Cdc2-mediated inactivation of the actomyosin inhibitor, caldesmon. Importantly, glioblastoma cell invasion mediated by this pathway can be antagonized by Cdk2/Cdc2 inhibitors in vitro and in vivo. Thus, two distinct RNA-based mechanisms activate this novel KAP/ROCK2/Cdk2-dependent invasion pathway in glioblastoma.</dc:description>
 </oai_dc:dc>

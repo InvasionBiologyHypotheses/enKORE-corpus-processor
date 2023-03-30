@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58384160</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q58384160</dc:identifier>
   <dc:identifier>doi:10.1017/S1068280500010108</dc:identifier>
   <dc:title>Forest Product Trade Impacts of an Invasive Species: Modeling Structure and Intervention Trade-Offs</dc:title>
@@ -12,10 +13,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2006-04</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Asian gypsy and nun moth introductions into the United States, possibly arriving on imported Siberian coniferous logs, threaten domestic forests and product markets and could have global market consequences. We simulate, using the Global Forest Products Model (a spatial equilibrium model of the world forest sector), the consequences under current policies of a widespread, successful pest invasion, and of plausible trading partner responses to the successful invasion. We find that trade liberalization would have a negligible effect on U.S. imports of Siberian logs and, consequently, on the risk of a pest invasion. But, if it happened, possibly through trade in other commodities, a successful and widespread pest invasion would have large effects on producers and consumers over the period 2002 to 2030.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

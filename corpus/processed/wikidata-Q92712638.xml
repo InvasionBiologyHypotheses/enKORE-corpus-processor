@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92712638</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92712638</dc:identifier>
   <dc:identifier>doi:10.1016/J.JENVMAN.2019.03.061</dc:identifier>
   <dc:title>Evaluation of the short-term and long-term performance of biological invasion management in the China-Myanmar border region</dc:title>
@@ -11,11 +12,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-03-27</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Myanmar</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Invasive alien species pose great threats to ecological and economic health and cause enormous losses to global ecosystems. The Mikania micrantha management program is a source of great theoretical and practical insights for regional agricultural and forestry development. In this paper, the invasion history and distribution patterns of M. micrantha in the China-Myanmar Border Region are summarized, and the short-term and long-term performance of the current post-border management program are evaluated. A literature survey found that M. micrantha was mainly distributed in 85 townships of five municipalities along the border in China with Myanmar, suggesting an explicit border-crossing scenario of M. micrantha. The M. micrantha management program has produced positive but short-term results due to the conduction of general investigations, establishment of an extensive monitoring network, development of integrated measures, and improvements of public awareness and participation. However, the long-term management performance was hampered by overlapping departmental functions, lagging and unreliable public feedback, inadequate funding, and biased and passive strategies. We suggest that invasive species committees, social media tools, public-private partnership, and forest restoration and conservation and biological control could greatly improve the situation. This regional-scale research provides referential insights for the development of biological invasion management systems in developing economies under transboundary contexts.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q93179468</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q93179468</dc:identifier>
   <dc:identifier>doi:10.1016/J.SCITOTENV.2019.02.460</dc:identifier>
   <dc:title>Managing small, highly prolific invasive aquatic species: Exploring an ecosystem approach for the eastern mosquitofish (Gambusia holbrooki)</dc:title>
@@ -10,11 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-04-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Eastern mosquitofish</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Invasive exotic species threaten native biodiversity worldwide and their management is on the agenda of an increasing number of countries. We explored the potential of an ecosystem approach for the natural control of Gambusia holbrooki, which is among the most pernicious and widely distributed fish invaders. Individual-based linear mixed models were used to identify the ecosystem factors (conspecific density, environment and piscivorous birds) that most influenced life-history variation in male and female G. holbrooki (N = 654). All traits (body condition, growth, length, gonad weight, offspring size and number, real and potential fertility) were associated with at least one ecosystem factor from the 18 water bodies surveyed in north-eastern Spain. Models for female reproductive traits had the highest fit (R&lt;sup&gt;2&lt;/sup&gt; = 0.89) and those for body condition in both sexes the lowest (0.12). The life history of G. holbrooki was mostly affected by its density; increasing offspring number at the expense of offspring size at the sites with the highest fish density. Weaker effects on G. holbrooki life history were observed for the abundance of piscivorous birds and water-quality conditions, including turbidity and nutrient concentrations. Although effects were not consistent between traits, outputs supported that G. holbrooki has a wide tolerance to changes in water quality. Therefore, actions based solely on environmental changes within the range tested probably will fail in reducing the proliferation of G. holbrooki, especially if its body condition improved at the most naturalised sites. Overall, this study suggests that the management of G. holbrooki using ecologically sound treatments is likely to be very difficult in stagnant waters. Preventing new introductions and direct removal once established are the most appropriate actions for the management of this small, highly prolific fish invader.</dc:description>
 </oai_dc:dc>

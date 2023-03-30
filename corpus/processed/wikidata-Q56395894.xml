@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56395894</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56395894</dc:identifier>
   <dc:identifier>doi:10.1007/S10750-016-2641-X</dc:identifier>
   <dc:title>Do non-native pumpkinseed Lepomis gibbosus affect the growth, diet and trophic niche breadth of native brown trout Salmo trutta?</dc:title>
@@ -7,7 +8,7 @@
   <dc:creator>Britton, J. R.</dc:creator>
   <dc:creator>Cucherousset, J.</dc:creator>
   <dc:creator>Guo, Z.</dc:creator>
-  <dc:creator>Stakėnas, S.</dc:creator>
+  <dc:creator>Staknas, S.</dc:creator>
   <dc:creator>Gozlan, R. E.</dc:creator>
   <dc:creator>Godard, M. G.</dc:creator>
   <dc:creator>Roussel, J.-M.</dc:creator>
@@ -17,6 +18,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>aquatic science</dc:subject>
   <dc:subject>pumpkinseed</dc:subject>
   <dc:subject>Salmo trutta</dc:subject>

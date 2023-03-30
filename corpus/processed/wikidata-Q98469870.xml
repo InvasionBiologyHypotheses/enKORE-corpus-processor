@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q98469870</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q98469870</dc:identifier>
   <dc:identifier>doi:10.1016/J.JENVMAN.2020.111140</dc:identifier>
   <dc:title>Impact of invasive alien plants on native plant communities and Natura 2000 habitats: State of the art, gap analysis and perspectives in Italy</dc:title>
@@ -56,13 +57,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-08-11</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Italy</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Invasive alien plants are a major threat to biodiversity and they contribute to the unfavourable conservation status of habitats of interest to the European Community. In order to favour implementation of European Union Regulation no. 1143/2014 on invasive alien species, the Italian Society of Vegetation Science carried out a large survey led by a task force of 49 contributors with expertise in vegetation across all the Italian administrative regions. The survey summed up the knowledge on impact mechanisms of invasive alien plants in Italy and their outcomes on plant communities and the EU habitats of Community Interest, in accordance with Directive no. 92/43/EEC. The survey covered 241 alien plant species reported as having deleterious ecological impacts. The data collected illustrate the current state of the art, highlight the main gaps in knowledge, and suggest topics to be further investigated. In particular, the survey underlined competition as being the main mechanism of ecological impact on plant communities and Natura 2000 habitats. Of the 241 species, only Ailanthus altissima was found to exert an ecological impact on plant communities and Natura 2000 habitats in all Italian regions; while a further 20 species impact up to ten out of the 20 Italian administrative regions. Our data indicate that 84 out of 132 Natura 2000 Habitats (64%) are subjected to some degree of impact by invasive alien plants. Freshwater habitats and natural and semi-natural grassland formations were impacted by the highest number of alien species, followed by coastal sand dunes and inland dunes, and forests. Although not exhaustive, this research is the first example of nationwide evaluation of the ecological impacts of invasive alien plants on plant communities and Natura 2000 Habitats.</dc:description>
 </oai_dc:dc>

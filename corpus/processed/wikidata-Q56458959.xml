@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56458959</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56458959</dc:identifier>
   <dc:identifier>doi:10.2478/AEP-2014-0007</dc:identifier>
   <dc:title>Impact of the Salinity Gradient on the Mollusc Fauna in Flooded Mine Subsidences (Karvina, Czech Republic)</dc:title>
-  <dc:creator>Kašovská, Kamila</dc:creator>
-  <dc:creator>Pierzchała, Łukasz</dc:creator>
+  <dc:creator>Kaovská, Kamila</dc:creator>
+  <dc:creator>Pierzchaa, ukasz</dc:creator>
   <dc:creator>Sierka, Edyta</dc:creator>
   <dc:creator>Stalmachová, Barbara</dc:creator>
   <dc:type>journal article</dc:type>
@@ -12,11 +13,12 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Czech Republic</dc:subject>
   <dc:subject>invasion impact</dc:subject>
-  <dc:publisher>Walter de Gruyter GmbH</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-				&lt;jats:p&gt;This paper presents the impact of salinisation on the aquatic mollusc fauna in flooded mine subsidences in the Karvina region (Czech Republic). The results of the previous research on salinity in flooded mine subsidences show that some of them contain a high content of dissolved inorganic substances (above 1000 mg·l-1). These substances can affect the vegetation and animals occurring in the water and the surrounding area. The phylum of Mollusca was selected as a model group for the fieldwork as it includes species with the proven bioindication potential. &lt;/jats:p&gt;
-				&lt;jats:p&gt;The occurrence of aquatic mollusc species was studied at 10 sites. The sites were selected based on the content of dissolved substances (the salinity gradient from &lt;500 to &gt;1000 mg·l-1. A total of 12 aquatic mollusc species were found, including one species identified as a potential bioindicator of the negative effect of salinisation on aquatic biota. &lt;/jats:p&gt;
-				&lt;jats:p&gt;The analysis showed statistically significant positive correlations between the content of dissolved inorganic substances and the presence of alien species Potamopyrgus antipodarum (J.E. Gray, 1843). The gradient of salinity significantly affects the species composition of the mollusc fauna in flooded mine subsidences and may affect the biodiversity of this group.&lt;/jats:p&gt;</dc:description>
+  <dc:publisher>Polish Academy of Sciences Chancellery</dc:publisher>
+  <dc:description>Abstract
+				This paper presents the impact of salinisation on the aquatic mollusc fauna in flooded mine subsidences in the Karvina region (Czech Republic). The results of the previous research on salinity in flooded mine subsidences show that some of them contain a high content of dissolved inorganic substances (above 1000 mgl-1). These substances can affect the vegetation and animals occurring in the water and the surrounding area. The phylum of Mollusca was selected as a model group for the fieldwork as it includes species with the proven bioindication potential. 
+				The occurrence of aquatic mollusc species was studied at 10 sites. The sites were selected based on the content of dissolved substances (the salinity gradient from &lt;500 to &gt;1000 mgl-1. A total of 12 aquatic mollusc species were found, including one species identified as a potential bioindicator of the negative effect of salinisation on aquatic biota. 
+				The analysis showed statistically significant positive correlations between the content of dissolved inorganic substances and the presence of alien species Potamopyrgus antipodarum (J.E. Gray, 1843). The gradient of salinity significantly affects the species composition of the mollusc fauna in flooded mine subsidences and may affect the biodiversity of this group.</dc:description>
 </oai_dc:dc>

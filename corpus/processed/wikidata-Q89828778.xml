@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q89828778</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q89828778</dc:identifier>
   <dc:identifier>doi:10.1002/ECY.3022</dc:identifier>
   <dc:title>Invasive species interact with climatic variability to reduce success of natives</dc:title>
@@ -9,10 +10,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-02-21</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Plants have evolved resource-conservative and resource-acquisitive strategies to deal with variability in rainfall, but interactions with dominant invasive species may undermine these adaptations. To investigate the relative effect of invaders on species with these two strategies, we manipulated rainfall and invasive grass presence and measured demographic rates in three resource-acquisitive and three resource-conservative native annual forbs. We found that invasive grasses were harmful to all of the target species, but especially the resource-acquisitive ones, and that these effects were stronger under experimental drought. Invasive grass presence under drought lowered per capita population growth rates of acquisitive natives through increased mortality and decreased seed set. While invasive grasses also decreased per capita growth rates of resource-conservative natives, they did so by increasing mortality under experimental watering and by limiting the production of seed under experimental drought. Invasive species can thus interact with climatic fluctuations to make bad years worse for resource-acquisitive natives and good years less good for resource-conservative natives, and they may generally tend to undermine the acquisitive strategy more than the conservative one.</dc:description>
 </oai_dc:dc>

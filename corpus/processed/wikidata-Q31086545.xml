@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31086545</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31086545</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0154600</dc:identifier>
   <dc:title>Thermal Niches of Two Invasive Genotypes of the Wheat Curl Mite Aceria tosichella: Congruence between Physiological and Geographical Distribution Data</dc:title>
-  <dc:creator>Kuczyński, Lechosław</dc:creator>
+  <dc:creator>Kuczyski, Lechosaw</dc:creator>
   <dc:creator>Rector, Brian G</dc:creator>
   <dc:creator>Kiedrowicz, Agnieszka</dc:creator>
   <dc:creator>Lewandowski, Mariusz</dc:creator>
-  <dc:creator>Szydło, Wiktoria</dc:creator>
+  <dc:creator>Szydo, Wiktoria</dc:creator>
   <dc:creator>Skoracka, Anna</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2016-04-28</dc:date>

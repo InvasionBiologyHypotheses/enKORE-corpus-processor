@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51146073</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51146073</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.28.5503</dc:identifier>
   <dc:title>Distribution and abundance of exotic earthworms within a boreal forest system in southcentral Alaska</dc:title>
@@ -22,6 +23,7 @@
   <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q110620464</dc:subject>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>aquatic science</dc:subject>
   <dc:subject>Alaska</dc:subject>
   <dc:subject>taiga</dc:subject>

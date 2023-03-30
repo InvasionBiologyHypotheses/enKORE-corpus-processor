@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35873051</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35873051</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684280</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0143210</dc:identifier>
@@ -12,8 +13,9 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Rhynchophorus palmarum</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
-  <dc:description>During studies to adapt pheromone trapping of Rhynchophorus palmarum to the special coconut growing conditions at the Colombian Pacific coast, 152 atypically-colored specimens were captured in a total collection of 53,802 of the normally completely black weevil. Five specimens had the typical coloration of Rhynchophorus ferrugineus, an invasive species recently introduced to Aruba and Curação. A regional expansion of this invasion to the South American continent was feared and all atypical specimens were submitted to taxonomic analysis. Both conventional and molecular methods were employed. Conventional taxonomics confirmed the samples as belonging to R. palmarum but registered undescribed and species-atypical morphological variability in the subgular suture (wide vs. narrow), the ratio between intraocular distance and width of antennal scrobes (&gt;0.35 vs. &lt; 0.29) and the indentation of the mandibles (up to three mandibular teeth vs. bilobed). Molecular analysis placed all samples inspected, black and reddish alike, firmly within the R. palmarum group and the hypothesis of having inter-specific hybrids was rejected using co-dominant single sequence repeat markers with allelic specificity for both species.</dc:description>
+  <dc:description>During studies to adapt pheromone trapping of Rhynchophorus palmarum to the special coconut growing conditions at the Colombian Pacific coast, 152 atypically-colored specimens were captured in a total collection of 53,802 of the normally completely black weevil. Five specimens had the typical coloration of Rhynchophorus ferrugineus, an invasive species recently introduced to Aruba and Curação. A regional expansion of this invasion to the South American continent was feared and all atypical specimens were submitted to taxonomic analysis. Both conventional and molecular methods were employed. Conventional taxonomics confirmed the samples as belonging to R. palmarum but registered undescribed and species-atypical morphological variability in the subgular suture (wide vs. narrow), the ratio between intraocular distance and width of antennal scrobes (&gt;0.35 vs. </dc:description>
 </oai_dc:dc>

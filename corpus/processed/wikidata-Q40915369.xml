@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q40915369</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q40915369</dc:identifier>
   <dc:identifier>doi:10.1002/PS.4043</dc:identifier>
   <dc:title>Synthetic pheromones as a management technique - dispensers reduce Linepithema humile activity in a commercial vineyard</dc:title>
@@ -10,10 +11,9 @@
   <dc:creator>Lester, Philip J</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2015-06-24</dc:date>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Linepithema humile</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Invasive ants, such as the Argentine ant, have often been reported to facilitate honeydew-producing hemipteran pests such as mealybugs, which can be vectors of plant pathogens. Synthetic pheromones may offer a target-specific method to control such ants and consequently lower the abundance of honeydew-producing pests. Here we report the results of a trial to suppress Argentine ants in grapevines using ant pheromone dispensers.&lt;h4&gt;Results&lt;/h4&gt;Compared with untreated controls, we observed a significant drop in Argentine ant activity on the ground, irrespective of whether pheromone dispensers were placed at ground level, within the canopy or in both locations. Ant counts in the canopy confirmed that Argentine ant abundance was reduced under the influence of the pheromone dispenser placed at ground level compared with untreated controls. However, placing dispensers only in the canopy did not reduce the numbers of ants within the canopy compared with untreated controls.&lt;h4&gt;Conclusion&lt;/h4&gt;Our results showed that pheromone dispensers can significantly reduce Argentine ant foraging in grapevines if they are positioned appropriately. This technique could potentially reduce the abundance of associated mealybugs and potentially attendant virus vectoring areawide.</dc:description>
 </oai_dc:dc>

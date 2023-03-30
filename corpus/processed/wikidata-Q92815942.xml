@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92815942</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92815942</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6707552</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0220687</dc:identifier>
@@ -17,8 +18,10 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion management</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
   <dc:description>Detections of invasive species outbreaks are often followed by the removal of susceptible host organisms in order to slow the spread of the invading pest population. We propose the acceptance sampling approach for detection and optional removal of susceptible host trees to manage an outbreak of the emerald ash borer (EAB), a highly destructive forest pest, in Winnipeg, Canada. We compare the strategy with two common delimiting survey techniques that do not consider follow-up management actions such as host removal. Our results show that the management objective influences the survey strategy. The survey-only strategies maximized the capacity to detect new infestations and prioritized sites with high likelihood of being invaded. Comparatively, the surveys with subsequent host removal actions allocated most of the budget to sites where complete host removal would minimize the pest's ability to spread to uninvaded locations. Uncertainty about the pest's spread causes the host removal measures to cover a larger area in a uniform spatial pattern and extend to farther distances from already infested sites. If a decision maker is ambiguity-averse and strives to avoid the worst-case damages from the invasion, the optimal strategy is to survey more sites with high host densities and remove trees from sites at farther distances, where EAB arrivals may be uncertain, but could cause significant damage if not detected quickly. Accounting for the uncertainty about spread helps develop a more robust pest management strategy. The approach is generalizable and can support management programs for new pest incursions.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97529073</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q97529073</dc:identifier>
   <dc:identifier>doi:10.1007/S10646-020-02251-Y</dc:identifier>
   <dc:title>The mixed silicon and cadmium synergistically impact the allelopathy of Solidago canadensis L. on native plant species Lactuca sativa L</dc:title>
@@ -11,12 +12,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-07-14</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Solidago canadensis</dc:subject>
   <dc:subject>lettuce</dc:subject>
   <dc:subject>allelopathy</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Several invasive alien plants (IAP) can trigger evidently allelopathy on the seed germination and seedling growth (SgSg) of native plant species (NPS). The getting worse condition with heavy metal pollution (e.g., cadmium) can significantly impact SgSg of plant species. Silicon can offset the adverse effects of environmental pressure on the growth and development of plant species. Thus, it is important to evaluate the influences of silicon on the allelopathy of IAP on SgSg of NPS under cadmium stress to better understand the mechanism driving the successful colonization of IAP. This study focuses on the allelopathy of the infamous IAP Solidago canadensis L. (Canada goldenrod; by using leaf extracts) on SgSg of NPS Lactuca sativa L. under the separated and mixed silicon and cadmium addition. S. canadensis triggers notably allelopathy on SgSg of L. sativa and gradually upsurges with increasing leaf extract concentration. Thus, the growth performance of NPS will be gradually reduced with an increasing degree of S. canadensis invasion. Cadmium evidently declines SgSg of L. sativa due to the broken balance of plant species for nutrient absorption. The mixed S. canadensis leaf extracts and cadmium synergistically impact seed germination of L. sativa but antagonistically affect seedling growth of L. sativa. The mixed silicon and cadmium intensify the allelopathy of S. canadensis on SgSg of L. sativa probably due to the increased effective content of cadmium in plant roots under silicon addition. Thus, the mixed silicon and cadmium will be advantageous to the following invasion process of IAP largely via the depressed SgSg of NPS.</dc:description>
 </oai_dc:dc>

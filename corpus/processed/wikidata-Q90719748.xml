@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90719748</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q90719748</dc:identifier>
   <dc:identifier>doi:10.1016/J.MOLMED.2018.07.003</dc:identifier>
   <dc:title>An Experimenter's Guide to Glioblastoma Invasion Pathways</dc:title>
@@ -10,10 +11,9 @@
   <dc:creator>Tellingen, Olaf</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-07-30</dc:date>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>glioblastoma</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Glioblastoma is a highly aggressive brain tumor that is characterized by its unparalleled invasiveness. Invasive glioblastoma cells not only escape surgery and focal therapies but also are more resistant to current radio- and chemo-therapeutic approaches. Thus, any curative therapy for this deadly disease likely should include treatment strategies that interfere with glioblastoma invasiveness. Understanding glioblastoma invasion mechanisms is therefore critical. We discuss the strengths and weaknesses of various glioblastoma invasion models and conclude that robust experimental evidence has been obtained for a pro-invasive role of Ephrin receptors, Rho GTPases, and casein kinase 2 (CK2). Extensive interplay occurs between these proteins, suggesting the existence of a glioblastoma invasion signaling network that comprises several targets for therapy.</dc:description>
 </oai_dc:dc>

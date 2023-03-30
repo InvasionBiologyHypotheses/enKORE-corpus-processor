@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46245517</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q46245517</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-017-4039-5</dc:identifier>
   <dc:title>Belowground competition drives invasive plant impact on native species regardless of nitrogen availability.</dc:title>
@@ -11,13 +12,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-12-07</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>native species</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Plant invasions and eutrophication are pervasive drivers of global change that cause biodiversity loss. Yet, how invasive plant impacts on native species, and the mechanisms underpinning these impacts, vary in relation to increasing nitrogen (N) availability remains unclear. Competition is often invoked as a likely mechanism, but the relative importance of the above and belowground components of this is poorly understood, particularly under differing levels of N availability. To help resolve these issues, we quantified the impact of a globally invasive grass species, Agrostis capillaris, on two co-occurring native New Zealand grasses, and vice versa. We explicitly separated above- and belowground interactions amongst these species experimentally and incorporated an N addition treatment. We found that competition with the invader had large negative impacts on native species growth (biomass decreased by half), resource capture (total N content decreased by up to 75%) and even nutrient stoichiometry (native species tissue C:N ratios increased). Surprisingly, these impacts were driven directly and indirectly by belowground competition, regardless of N availability. Higher root biomass likely enhanced the invasive grass's competitive superiority belowground, indicating that root traits may be useful tools for understanding invasive plant impacts. Our study shows that belowground competition can be more important in driving invasive plant impacts than aboveground competition in both low and high fertility ecosystems, including those experiencing N enrichment due to global change. This can help to improve predictions of how two key drivers of global change, plant species invasions and eutrophication, impact native species diversity.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56767140</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56767140</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-009-9605-2</dc:identifier>
   <dc:title>Impact assessment revisited: improving the theoretical basis for management of invasive alien species</dc:title>
@@ -10,9 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-10-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>invasion management</dc:subject>

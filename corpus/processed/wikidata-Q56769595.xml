@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56769595</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56769595</dc:identifier>
   <dc:identifier>doi:10.1071/RJ09076</dc:identifier>
-  <dc:title>Ecological impacts of buffel grass (Cenchrus ciliarisL.) invasion in central Australia – does field evidence support a fire-invasion feedback?</dc:title>
+  <dc:title>Ecological impacts of buffel grass (Cenchrus ciliarisL.) invasion in central Australia  does field evidence support a fire-invasion feedback?</dc:title>
   <dc:creator>Miller, Georgia</dc:creator>
   <dc:creator>Friedel, Margaret</dc:creator>
   <dc:creator>Adam, Paul</dc:creator>
@@ -11,14 +12,9 @@
   <dc:date>2010</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Australia</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-Buffel grass (Cenchrus ciliaris L.) has invaded extensive areas of arid and semi-arid Australia following its introduction as a pasture species and for erosion control. It has been suggested that buffel grass has initiated a positive fire-invasion feedback in central Australia, disrupting existing fire regimes, encouraging further buffel grass invasion, and disadvantaging the native woody flora in particular, but this hypothesis has not been tested quantitatively.
-This study investigated recently burnt woodland areas near Alice Springs for evidence of a fire-invasion feedback, including the impact of changing fire behaviour (intensity) on the native woodland overstorey flora. Despite the limitations inherent in a short study of ecological processes in a highly heterogeneous environment, substantial field evidence was found to support the existence of a buffel grass-initiated fire-invasion feedback.
-Buffel grass invasion was significantly correlated with increased fuel loads. Increased fuel loads were significantly correlated with increased burn severity, although the direct relationship between the proportion of buffel grass and increased burn severity was marginally non-significant. High field variance resulted in inadequate power to test whether or not the relative abundance of buffel grass had increased in the post-fire community. Burn severity was significantly correlated with the mortality of woodland overstorey species, and with the proportion of fire survivors that were reduced to basal resprouts. Seedling density of canopy species was low. It appears likely that future recruitment of canopy species will be hindered by the dense post-fire reestablishment of buffel grass cover at some sites. The overstorey flora is thus likely to be adversely affected by increased severity of fire associated with buffel grass invasion. As a result, there may be major change in the structure and composition of some woodlands.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101304977</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101304977</dc:identifier>
   <dc:identifier>https://checklist.pensoft.net/article/50849/download/pdf/</dc:identifier>
   <dc:identifier>doi:10.15560/16.3.621</dc:identifier>
@@ -13,5 +14,5 @@
   <dc:subject>New Zealand mud snail</dc:subject>
   <dc:subject>Tateidae</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The New Zealand mudsnail &lt;jats:italic&gt;Potamopyrgus antipodarum&lt;/jats:italic&gt; (Gray, 1843) has been considered as one of the most invasive mollusks worldwide and recently was listed among the 50 most damaging species in Europe. In the present paper, we report for the first time the presence of &lt;jats:italic&gt;P. antipodarum&lt;/jats:italic&gt; in the Maule river basin, Chile. The identity of the species was based on anatomical microdissections, scanning electron microscopy comparisons, and DNA barcode analysis. This finding constitutes the southernmost record of the species until now in this country and South America.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The New Zealand mudsnail Potamopyrgus antipodarum (Gray, 1843) has been considered as one of the most invasive mollusks worldwide and recently was listed among the 50 most damaging species in Europe. In the present paper, we report for the first time the presence of P. antipodarum in the Maule river basin, Chile. The identity of the species was based on anatomical microdissections, scanning electron microscopy comparisons, and DNA barcode analysis. This finding constitutes the southernmost record of the species until now in this country and South America.</dc:description>
 </oai_dc:dc>

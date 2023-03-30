@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51583707</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51583707</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-010-1573-9</dc:identifier>
   <dc:title>Habitat-mediated impact of alien mink predation on common frog densities in the outer archipelago of the Baltic Sea.</dc:title>
@@ -9,12 +10,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-02-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>habitat</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Alien predators have been recognised as one possible cause for amphibian declines around the world, but little is known of habitat-mediated predation impacts especially on adult amphibians. We studied common frog Rana temporaria under American mink Mustela vison predation in the outer archipelago of the Baltic Sea, south-western Finland. Using egg batches as an index of breeding frog female numbers we compared frog numbers and densities between a large, long-term mink-removal area and a comparable control area. Frog numbers in the removal area were at least 2.7-fold higher than those in the control area. In the presence of mink, frog densities increased with the amount of vegetation cover on the islands, indicating that mink predation affected frog densities especially on less-vegetated islands. An opposite trend appeared to be true for frogs in the mink-removal area, where other predators like snakes could induce a decline of frog densities on more vegetated islands. Shrub or grass vegetation seems to provide frogs shelter against alien mink predation. Our result highlights the importance of landscape-level habitat management as a conservation tool for amphibian populations.</dc:description>
 </oai_dc:dc>

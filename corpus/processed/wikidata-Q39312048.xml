@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39312048</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q39312048</dc:identifier>
   <dc:identifier>doi:10.1111/1365-2656.12734</dc:identifier>
   <dc:title>Non-random dispersal mediates invader impacts on the invertebrate community</dc:title>
@@ -10,9 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-08-30</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Dispersers are often not a random draw from a population, dispersal propensity being conditional on individual phenotypic traits and local contexts. This non-randomness consequently results in phenotypic differences between dispersers and non-dispersers and, in the context of biological invasions, in an invasion front made of individuals with a biased phenotype. This bias of phenotypes at the front may subsequently modulate the strength of ecological effects of an invasive species on invaded communities. We recently demonstrated that more asocial mosquitofish (Gambusia affinis), one of the 100 worst invasive species, disperse further, suggesting a sociability-biased invasion front. As behavioural types are related to the strength of interspecific interactions, an invasion by a biased subset of individuals should have important ecological implications for native communities. Here, we tested the impact of phenotypic biases in dispersing individuals (relative to non-dispersers) on prey communities in experimental mesocosms. We show that dispersers reduce prey abundance more than do non-dispersers during the first 4 weeks after introduction, and that the disperser's social types are likely drivers of these differences. These differences in prey communities disappeared after 8 weeks suggesting prey community resilience against predation in these mesocosm ecosystems. Consequently, we call for the integration of non-random dispersal, dispersal syndromes and more generally intraspecific variation into studies predicting the impacts of invasions.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56767271</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56767271</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-09-00043.1</dc:identifier>
   <dc:title>Wild and Cultivated Potato (Solanum sect. Petota) Escaped and Persistent Outside of its Natural Range</dc:title>
@@ -16,10 +17,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-11</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Wild potato contains about 100 species that are native to the Americas from the southwestern United States to central Chile and adjacent Argentina, Uruguay, Paraguay, and southern Brazil. We report the occurrence of naturalized populations of the wild potato &lt;jats:italic&gt;Solanum chacoense&lt;/jats:italic&gt; in seven sites in southern Australia, eastern China, England, New Zealand, the eastern United States, central Peru, and east-central Argentina. Modeling similar climatic niches on the basis of the distribution of &lt;jats:italic&gt;S. chacoense&lt;/jats:italic&gt; from South America shows that observations of naturalized &lt;jats:italic&gt;S. chacoense&lt;/jats:italic&gt; overlap with predicted areas. A literature review reveals that although &lt;jats:italic&gt;S. chacoense&lt;/jats:italic&gt; possesses traits typical of an invasive species, all populations presently appear to be contained near their site of introduction.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

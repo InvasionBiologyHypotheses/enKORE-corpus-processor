@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31043930</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31043930</dc:identifier>
   <dc:identifier>doi:10.1093/AOB/MCR312</dc:identifier>
   <dc:title>Integrating multiple disturbance aspects: management of an invasive thistle, Carduus nutans</dc:title>
@@ -9,7 +10,7 @@
   <dc:date>2011-12-23</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background and aims&lt;/h4&gt;Disturbances occur in most ecological systems, and play an important role in biological invasions. We delimit five key disturbance aspects: intensity, frequency, timing, duration and extent. Few studies address more than one of these aspects, yet interactions and interdependence between aspects may lead to complex outcomes.&lt;h4&gt;Methods&lt;/h4&gt;In a two-cohort experimental study, we examined how multiple aspects (intensity, frequency and timing) of a mowing disturbance regime affect the survival, phenology, growth and reproduction of an invasive thistle Carduus nutans (musk thistle).&lt;h4&gt;Key results&lt;/h4&gt;Our results show that high intensity and late timing strongly delay flowering phenology and reduce plant survival, capitulum production and plant height. A significant interaction between intensity and timing further magnifies the main effects. Unexpectedly, high frequency alone did not effectively reduce reproduction. However, a study examining only frequency and intensity, and not timing, would have erroneously attributed the importance of timing to frequency.&lt;h4&gt;Conclusions&lt;/h4&gt;We used management of an invasive species as an example to demonstrate the importance of a multiple-aspect disturbance framework. Failure to consider possible interactions, and the inherent interdependence of certain aspects, could result in misinterpretation and inappropriate management efforts. This framework can be broadly applied to improve our understanding of disturbance effects on individual responses, population dynamics and community composition.</dc:description>
 </oai_dc:dc>

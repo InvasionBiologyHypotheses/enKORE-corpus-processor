@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34299860</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34299860</dc:identifier>
   <dc:identifier>doi:10.1016/J.TREE.2012.08.014</dc:identifier>
   <dc:title>The intermediate disturbance hypothesis should be abandoned</dc:title>
@@ -7,11 +8,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-09-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>Intermediate Disturbance Hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q9003976</dc:subject>
   <dc:subject>hypothesis:Intermediate Disturbance Hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q9003976</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>A leading idea about how disturbances and other environmental fluctuations affect species diversity is the intermediate disturbance hypothesis (IDH). The IDH states that diversity of competing species is, or should be expected to be, maximized at intermediate frequencies and/or intensities of disturbance or environmental change. I argue that the IDH has been refuted on both empirical and theoretical grounds, and so should be abandoned. Empirical studies only rarely find the predicted humped diversity-disturbance relationship. Theoretically, the three major mechanisms thought to produce humped diversity-disturbance relationships are logically invalid and do not actually predict what they are thought to predict. Disturbances and other environmental fluctuations can affect diversity, but for different reasons than are commonly recognized.</dc:description>
 </oai_dc:dc>

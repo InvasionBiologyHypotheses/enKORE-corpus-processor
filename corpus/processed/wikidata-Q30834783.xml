@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30834783</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30834783</dc:identifier>
   <dc:identifier>doi:10.1890/13-0753.1</dc:identifier>
   <dc:title>The interactive effects of climate change, riparian management, and a nonnative predator on stream-rearing salmon</dc:title>
@@ -14,12 +15,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-06-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>non-native predator</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Predicting how climate change is likely to interact with myriad other stressors that threaten species of conservation concern is an essential challenge in aquatic ecosystems. This study provides a framework to accomplish this task in salmon-bearing streams of the northwestern United States, where land-use-related reductions in riparian shading have caused changes in stream thermal regimes, and additional warming from projected climate change may result in significant losses of coldwater fish habitat over the next century. Predatory, nonnative smallmouth bass have also been introduced into many northwestern streams, and their range is likely to expand as streams warm, presenting an additional challenge to the persistence of threatened Pacific salmon. The goal of this work was to forecast the interactive effects of climate change, riparian management, and nonnative species on stream-rearing salmon and to evaluate the capacity of restoration to mitigate these effects. We intersected downscaled global climate forecasts with a local-scale water temperature model to predict mid- and end-of-century temperatures in streams in the Columbia River basin. We compared one stream that is thermally impaired due to the loss of riparian vegetation and another that is cooler and has a largely intact riparian corridor. Using the forecasted stream temperatures in conjunction with fish-habitat models, we predicted how stream-rearing chinook salmon and bass distributions would change as each stream warmed. In the highly modified stream, end-of-century warming may cause near total loss of chinook salmon-rearing habitat and a complete invasion of the upper watershed by bass. In the less modified stream, bass were thermally restricted from the upstream-most areas. In both systems, temperature increases resulted in higher predicted spatial overlap between stream-rearing chinook salmon and potentially predatory bass in the early summer (two- to fourfold increase) and greater abundance of bass. We found that riparian restoration could prevent the extirpation of chinook salmon from the more altered stream and could also restrict bass from occupying the upper 31 km of salmon-rearing habitat. The proposed methodology and model predictions are critical for prioritizing climate-change adaptation strategies before salmonids are exposed to both warmer water and greater predation risk by nonnative species.</dc:description>
 </oai_dc:dc>

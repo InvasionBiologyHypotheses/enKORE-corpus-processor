@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56772768</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56772768</dc:identifier>
   <dc:identifier>doi:10.1139/A09-007</dc:identifier>
   <dc:title>Towards an integrated approach to modelling the risks and impacts of invasive forest species</dc:title>
@@ -11,9 +12,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Canadian Science Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt; In this paper we provide an overview of an integrated approach to modelling the risks and impacts associated with non-indigenous forest pest species. This is a broad and important topic given the scale of ecological and economic consequences associated with non-indigenous species in North America and elsewhere. Assessments of risks and impacts remain difficult due to complexities and interactions between the many factors driving invasions and outcomes. These processes occur across various spatial and temporal scales, and are often influenced and complicated by human activities. For each component of an ecological invasion (i.e., arrival, establishment, and spread), we review general approaches for modelling the phenomenon and identify data and knowledge gaps. With the greater availability of various spatial data and computational power we suggest the possibility of linking the models for each invasion component into a more integrated framework, thus allowing interactions and feedbacks between components to be better incorporated into risk modelling efforts. The approach is illustrated using examples from current work with Sirex noctilio Fabricius — a relatively new invasive wood wasp in eastern North America. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

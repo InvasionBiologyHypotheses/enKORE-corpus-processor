@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110809461</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110809461</dc:identifier>
   <dc:identifier>doi:10.3390/DATA4040133</dc:identifier>
-  <dc:title>A Lack of “Environmental Earth Data” at the Microhabitat Scale Impacts Efforts to Control Invasive Arthropods That Vector Pathogens</dc:title>
+  <dc:title>A Lack of Environmental Earth Data at the Microhabitat Scale Impacts Efforts to Control Invasive Arthropods That Vector Pathogens</dc:title>
   <dc:creator>Pascoe, Emily L.</dc:creator>
   <dc:creator>Pareeth, Sajid</dc:creator>
   <dc:creator>Rocchini, Duccio</dc:creator>
@@ -12,10 +13,11 @@
   <dc:language>en</dc:language>
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>ecological niche</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>microhabitat</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
-  <dc:description>&lt;jats:p&gt;We currently live in an era of major global change that has led to the introduction and range expansion of numerous invasive species worldwide. In addition to the ecological and economic consequences associated with most invasive species, invasive arthropods that vector pathogens (IAVPs) to humans and animals pose substantial health risks. Species distribution models that are informed using environmental Earth data are frequently employed to predict the distribution of invasive species, and to advise targeted mitigation strategies. However, there are currently substantial mismatches in the temporal and spatial resolution of these data and the environmental contexts which affect IAVPs. Consequently, targeted actions to control invasive species or to prepare the population for possible disease outbreaks may lack efficacy. Here, we identify and discuss how the currently available environmental Earth data are lacking with respect to their applications in species distribution modeling, particularly when predicting the potential distribution of IAVPs at meaningful space-time scales. For example, we examine the issues related to interpolation of weather station data and the lack of microclimatic data relevant to the environment experienced by IAVPs. In addition, we suggest how these data gaps can be filled, including through the possible development of a dedicated open access database, where data from both remotely- and proximally-sensed sources can be stored, shared, and accessed.&lt;/jats:p&gt;</dc:description>
+  <dc:description>We currently live in an era of major global change that has led to the introduction and range expansion of numerous invasive species worldwide. In addition to the ecological and economic consequences associated with most invasive species, invasive arthropods that vector pathogens (IAVPs) to humans and animals pose substantial health risks. Species distribution models that are informed using environmental Earth data are frequently employed to predict the distribution of invasive species, and to advise targeted mitigation strategies. However, there are currently substantial mismatches in the temporal and spatial resolution of these data and the environmental contexts which affect IAVPs. Consequently, targeted actions to control invasive species or to prepare the population for possible disease outbreaks may lack efficacy. Here, we identify and discuss how the currently available environmental Earth data are lacking with respect to their applications in species distribution modeling, particularly when predicting the potential distribution of IAVPs at meaningful space-time scales. For example, we examine the issues related to interpolation of weather station data and the lack of microclimatic data relevant to the environment experienced by IAVPs. In addition, we suggest how these data gaps can be filled, including through the possible development of a dedicated open access database, where data from both remotely- and proximally-sensed sources can be stored, shared, and accessed.</dc:description>
 </oai_dc:dc>

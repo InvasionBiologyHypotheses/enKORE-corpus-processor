@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56769931</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56769931</dc:identifier>
   <dc:identifier>doi:10.1016/J.ECOLMODEL.2009.07.013</dc:identifier>
   <dc:title>Invasive species impacts on ecosystem structure and function: A comparison of the Bay of Quinte, Canada, and Oneida Lake, USA, before and after zebra mussel invasion</dc:title>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2009-11</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Canada</dc:subject>
   <dc:subject>freshwater ecology</dc:subject>

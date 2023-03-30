@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33530162</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33530162</dc:identifier>
   <dc:identifier>doi:10.1007/S00267-010-9426-1</dc:identifier>
   <dc:title>Index of alien impact: a method for evaluating potential ecological impact of alien plant species</dc:title>
@@ -10,10 +11,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-02-07</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Alien plant species are stressors to ecosystems and indicators of reduced ecosystem integrity. The magnitude of the stress reflects not only the quantity of aliens present, but also the quality of their interactions with native ecosystems. We develop an Index of Alien Impact (IAI) to estimate the collective ecological impact of in situ alien species. IAI summarizes the frequency of occurrence and potential ecological impact (Invasiveness-Impact Score (I ( i ))) of individual alien species for all aliens present in a particular location or community type. A component metric, I (i), is based on ecological species traits (life history, ecological amplitude, and ability to alter ecosystem processes) that reflect mechanisms, which can increase impact to ecosystem structure and function. While I (i) is less complex than some other multi-metric rankings of alien impact, it compares well to these metrics and to qualitative judgments. IAI can be adapted for different ecological settings by modifying the set of species traits incorporated in I (i) to reflect properties likely to breach biotic and abiotic barriers or alter ecosystem function in a particular region or community type of interest. To demonstrate our approach, we created versions of IAI and I (i), applicable to the diverse streamside vegetation of a river basin (19,631 km(2)) spanning low-elevation arid to mesic montane habitats in eastern Oregon, USA. In this demonstration effort, we (1) evaluate relationships of IAI to metrics describing invasion level, and (2) illustrate the potential utility of IAI for prioritizing alien species management activities and informing restoration goals.</dc:description>
 </oai_dc:dc>

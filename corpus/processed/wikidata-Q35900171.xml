@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35900171</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35900171</dc:identifier>
   <dc:identifier>doi:10.1016/J.MARPOLBUL.2015.12.043</dc:identifier>
   <dc:title>Assessing exemptions under the ballast water management convention: preclude the Trojan horse</dc:title>
@@ -10,11 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-01-12</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>water management</dc:subject>
   <dc:subject>sailing ballast</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>The International Maritime Organization (IMO) Ballast Water Management Convention (BWMC) is a powerful instrument aimed at reducing spread of harmful aquatic organisms and pathogens (HAOPs). As BWMC is expected to enter into force soon, shipping companies will start seeking exemptions for ballast water management in accordance with BWMC Regulation A-4. However, without scientifically robust risk assessment (RA) and consistent rules, the exemptions may introduce a new form of risk within a convention generally designed to reduce risks. This paper describes an adaptive system for granting exemptions, consisting of six major components: target species selection procedure, port-to-port RA, monitoring, information support, administrative decision and review process. The system is based on key principles defined in the IMO guidelines for RA and is designed to continuously accumulate evolving experience on granting exemptions. The ultimate goal is to contribute to the control of the spread of HAOPs, without placing an unnecessary burden on the shipping industry.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31143664</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31143664</dc:identifier>
   <dc:identifier>doi:10.1002/ECY.1566</dc:identifier>
   <dc:title>Increased seedling establishment via enemy release at the upper elevational range limit of sugar maple</dc:title>
@@ -11,11 +12,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-11-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>enemy release hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
   <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The enemy release hypothesis is frequently invoked to explain invasion by nonnative species, but studies focusing on the influence of enemies on natural plant range expansion due to climate change remain scarce. We combined multiple approaches to study the influence of plant-enemy interactions on the upper elevational range limit of sugar maple (Acer saccharum) in southeastern Québec, Canada, where a previous study had demonstrated intense seed predation just beyond the range limit. Consistent with the hypothesis of release from natural enemies at the range limit, data from both natural patterns of regeneration and from seed and seedling transplant experiments showed higher seedling densities at the range edge than in the core of the species' distribution. A growth chamber experiment manipulating soil origin and temperature indicated that this so-called "happy edge" was not likely caused by temperature (i.e., the possibility that climate warming has made high elevation temperatures optimal for sugar maple) or by abiotic soil factors that vary along the elevational gradient. Finally, an insect-herbivore-exclusion experiment showed that insect herbivory was a major cause of seedling mortality in the core of sugar maple's distribution, whereas seedlings transplanted at or beyond the range edge experienced minimal herbivory (i.e., enemy release). Insect herbivory did not completely explain the high levels of seedling mortality in the core of the species' distribution, suggesting that seedlings at or beyond the range edge may also experience release from pathogens. In sum, while some effects of enemies are magnified beyond range edges (e.g., seed predation), others are dampened at and beyond the range edge (e.g., insect herbivory), such that understanding the net outcome of different biotic interactions within, at and beyond the edge of distribution is critical to predicting species' responses to global change.</dc:description>
 </oai_dc:dc>

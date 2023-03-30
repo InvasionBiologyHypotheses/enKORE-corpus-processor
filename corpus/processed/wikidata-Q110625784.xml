@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110625784</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110625784</dc:identifier>
   <dc:identifier>doi:10.1093/BIOSCI/BIAA139</dc:identifier>
   <dc:title>Management Policies for Invasive Alien Species: Addressing the Impacts Rather than the Species</dc:title>
@@ -29,13 +30,13 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-12-02</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>introduced species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Effective long-term management is needed to address the impacts of invasive alien species (IAS) that cannot be eradicated. We describe the fundamental characteristics of long-term management policies for IAS, diagnose a major shortcoming, and outline how to produce effective IAS management. Key international and transnational management policies conflate addressing IAS impacts with controlling IAS populations. This serious purpose–implementation gap can preclude the development of broader portfolios of interventions to tackle IAS impacts. We posit that IAS management strategies should directly address impacts via impact-based interventions, and we propose six criteria to inform the choice of these interventions. We review examples of interventions focused on tackling IAS impacts, including IAS control, which reveal the range of interventions available and their varying effectiveness in counteracting IAS impacts. As the impacts caused by IAS increase globally, stakeholders need to have access to a broader and more effective set of tools to respond.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

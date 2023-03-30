@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q48880117</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q48880117</dc:identifier>
   <dc:identifier>doi:10.1890/07-0421.1</dc:identifier>
   <dc:title>Biogenic disturbance determines invasion success in a subtidal soft-sediment system.</dc:title>
@@ -10,9 +11,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2008-05-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Theoretically, disturbance and diversity can influence the success of invasive colonists if (1) resource limitation is a prime determinant of invasion success and (2) disturbance and diversity affect the availability of required resources. However, resource limitation is not of overriding importance in all systems, as exemplified by marine soft sediments, one of Earth's most widespread habitat types. Here, we tested the disturbance-invasion hypothesis in a marine soft-sediment system by altering rates of biogenic disturbance and tracking the natural colonization of plots by invasive species. Levels of sediment disturbance were controlled by manipulating densities of burrowing spatangoid urchins, the dominant biogenic sediment mixers in the system. Colonization success by two invasive species (a gobiid fish and a semelid bivalve) was greatest in plots with sediment disturbance rates &lt; 500 cm(3) x m(-2) x d(-1), at the low end of the experimental disturbance gradient (0 to &gt; 9000 cm(3) x m(-2) x d(-1)). Invasive colonization declined with increasing levels of sediment disturbance, counter to the disturbance-invasion hypothesis. Increased sediment disturbance by the urchins also reduced the richness and diversity of native macrofauna (particularly small, sedentary, surface feeders), though there was no evidence of increased availability of resources with increased disturbance that would have facilitated invasive colonization: sediment food resources (chlorophyll a and organic matter content) did not increase, and space and access to overlying water were not limited (low invertebrate abundance). Thus, our study revealed the importance of biogenic disturbance in promoting invasion resistance in a marine soft-sediment community, providing further evidence of the valuable role of bioturbation in soft-sediment systems (bioturbation also affects carbon processing, nutrient recycling, oxygen dynamics, benthic community structure, and so on.). Bioturbation rates are influenced by the presence and abundance of large burrowing species (like spatangoid urchins). Therefore, mass mortalities of large bioturbators could inflate invasion risk and alter other aspects of ecosystem performance in marine soft-sediment habitats.</dc:description>
 </oai_dc:dc>

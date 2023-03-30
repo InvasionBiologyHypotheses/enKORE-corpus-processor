@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q105731588</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q105731588</dc:identifier>
   <dc:identifier>doi:10.2179/17-125</dc:identifier>
   <dc:title>Invasive Species Management Impacts on Native and Nonnative Ferns in an Urban Forest Spore Bank</dc:title>
@@ -9,13 +10,15 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-12-28</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.bioone.org/page/resources/researchers/rights_and_permissions</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>urban forest</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>Castanea</dc:publisher>
 </oai_dc:dc>

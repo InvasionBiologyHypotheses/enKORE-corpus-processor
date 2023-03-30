@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64081421</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q64081421</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483921</dc:identifier>
   <dc:identifier>doi:10.1292/JVMS.18-0319</dc:identifier>
@@ -15,12 +16,13 @@
   <dc:date>2019-03-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>castration</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Eastern gray squirrel</dc:subject>
   <dc:subject>Italy</dc:subject>
   <dc:subject>urban population</dc:subject>
   <dc:subject>invasion management</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>Japanese Society of Veterinary Science</dc:publisher>
-  <dc:description>We report a successful surgical sterilization procedure for population control of 324 male and female free-ranging grey squirrels (Sciurus carolinensis) in Genoa (Italy). We describe the clinical procedure from the trapping of the animals to their surgical sterilization and release in another part of the city. Live-trapped squirrels were transported to the veterinary clinic within 1-2 hr of capture and maintained in a hospitalization room reserved for them. The waiting period before surgery was kept below 12 hr. The developed procedure has resulted in a survival of 94% of trapped squirrels from surgery to animal release. Sterilized squirrels started to feed in a very short time (1.0-1.5 hr), and after 2-3 days, it was possible to release them in a new area. Amoxicillin was used as a long-acting postoperative antibiotic to reduce the period of captivity. The successful surgical procedure described here can provide an important additional tool for the management of introduced populations of squirrels. We showed that the surgical sterilization of some hundred squirrels is clinically possible and could be included in management strategies aimed at removing critical populations of these species. Moreover, the data allow dosages and operational times in order to provide economic viability assessment of future population control measures.</dc:description>
 </oai_dc:dc>

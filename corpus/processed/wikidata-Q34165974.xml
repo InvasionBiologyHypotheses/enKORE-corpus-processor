@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34165974</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34165974</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161354</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0105997</dc:identifier>
   <dc:title>Genome size as a key to evolutionary complex aquatic plants: polyploidy and hybridization in Callitriche (Plantaginaceae).</dc:title>
-  <dc:creator>Prančl, Jan</dc:creator>
-  <dc:creator>Kaplan, Zdeněk</dc:creator>
-  <dc:creator>Trávníček, Pavel</dc:creator>
+  <dc:creator>Pranl, Jan</dc:creator>
+  <dc:creator>Kaplan, Zdenk</dc:creator>
+  <dc:creator>Trávníek, Pavel</dc:creator>
   <dc:creator>Jarolímová, Vlasta</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2014-09-11</dc:date>

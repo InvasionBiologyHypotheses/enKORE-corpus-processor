@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51146061</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51146061</dc:identifier>
   <dc:identifier>doi:10.1086/692167</dc:identifier>
   <dc:title>New Weapons in the Toad Toolkit: A Review of Methods to Control and Mitigate the Biodiversity Impacts of Invasive Cane Toads (Rhinella Marina).</dc:title>
@@ -22,10 +23,10 @@
   <dc:date>2017-06-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>Rhinella marina</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>University of Chicago Press</dc:publisher>
-  <dc:description>Our best hope of developing innovative methods to combat invasive species is likely to come from the study of high-profile invaders that have attracted intensive research not only into control, but also basic biology. Here we illustrate that point by reviewing current thinking about novel ways to control one of the world’s most well-studied invasions: that of the cane toad in Australia. Recently developed methods for population suppression include more effective traps based on the toad’s acoustic and pheromonal biology. New tools for containing spread include surveillance technologies (e.g., eDNA sampling and automated call detectors), as well as landscape-level barriers that exploit the toad’s vulnerability to desiccation—a strategy that could be significantly enhanced through the introduction of sedentary, range-core genotypes ahead of the invasion front. New methods to reduce the ecological impacts of toads include conditioned taste aversion in free-ranging predators, gene banking, and targeted gene flow. Lastly, recent advances in gene editing and gene drive technology hold the promise of modifying toad phenotypes in ways that may facilitate control or buffer impact. Synergies between these approaches hold great promise for novel and more effective means to combat the toad invasion and its consequent impacts on biodiversity.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97522398</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q97522398</dc:identifier>
   <dc:identifier>doi:10.3390/FOODS9070885</dc:identifier>
   <dc:title>Nutritional Value of the Larvae of the Alien Invasive Wasp Vespa velutina nigrithorax and Amino Acid Composition of the Larval Saliva</dc:title>
@@ -18,5 +19,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive wasp</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The systematic investigations on the value of social wasps as a food resource are deficient, in spite of the long history of the utilization of social wasps as food and pharmaceutical bioresources. Vespa velutina nigrithorax is an invasive alien wasp species that is currently dominating in East Asia and Europe, bringing huge economic damages. As a control over alien species is made when the valuable utilization of the invasive species as a potential resource are discovered, investigations on the potential of V. v. nigrithorax as a useful bioresource are also in demand. Nutritional and heavy metal analyses of the larvae revealed their balanced and rich nutritional value and safety as a food resource. The larval saliva amino acid composition was investigated for further study on amino acid supplementation and exercise enhancement.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The systematic investigations on the value of social wasps as a food resource are deficient, in spite of the long history of the utilization of social wasps as food and pharmaceutical bioresources. Vespa velutina nigrithorax is an invasive alien wasp species that is currently dominating in East Asia and Europe, bringing huge economic damages. As a control over alien species is made when the valuable utilization of the invasive species as a potential resource are discovered, investigations on the potential of V. v. nigrithorax as a useful bioresource are also in demand. Nutritional and heavy metal analyses of the larvae revealed their balanced and rich nutritional value and safety as a food resource. The larval saliva amino acid composition was investigated for further study on amino acid supplementation and exercise enhancement.</dc:description>
 </oai_dc:dc>

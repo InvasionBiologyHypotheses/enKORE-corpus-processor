@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q70202802</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q70202802</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6750612</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PPAT.1008049</dc:identifier>
@@ -18,5 +19,4 @@
   <dc:subject>Plasmodium falciparum</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
-  <dc:description>The malaria parasite Plasmodium falciparum invades, replicates within and destroys red blood cells in an asexual blood stage life cycle that is responsible for clinical disease and crucial for parasite propagation. Invasive malaria merozoites possess a characteristic apical complex of secretory organelles that are discharged in a tightly controlled and highly regulated order during merozoite egress and host cell invasion. The most prominent of these organelles, the rhoptries, are twinned, club-shaped structures with a body or bulb region that tapers to a narrow neck as it meets the apical prominence of the merozoite. Different protein populations localise to the rhoptry bulb and neck, but the function of many of these proteins and how they are spatially segregated within the rhoptries is unknown. Using conditional disruption of the gene encoding the only known glycolipid-anchored malarial rhoptry bulb protein, rhoptry-associated membrane antigen (RAMA), we demonstrate that RAMA is indispensable for blood stage parasite survival. Contrary to previous suggestions, RAMA is not required for trafficking of all rhoptry bulb proteins. Instead, RAMA-null parasites display selective mislocalisation of a subset of rhoptry bulb and neck proteins (RONs) and produce dysmorphic rhoptries that lack a distinct neck region. The mutant parasites undergo normal intracellular development and egress but display a fatal defect in invasion and do not induce echinocytosis in target red blood cells. Our results indicate that distinct pathways regulate biogenesis of the two main rhoptry sub-compartments in the malaria parasite.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56777142</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56777142</dc:identifier>
   <dc:identifier>doi:10.1111/J.1461-0248.2007.01067.X</dc:identifier>
   <dc:title>Disturbance, invasion and re-invasion: managing the weed-shaped hole in disturbed ecosystems</dc:title>
@@ -9,9 +10,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2007-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>We aim to develop a simple model to explore how disturbance and propagule pressure determine conditions for successful invasion in systems where recruitment occurs only in disturbed sites. Disturbance is often thought to favour invaders as it allows recruitment; however, the effects of disturbance are more complicated when it results in mortality of the invader. When disturbance rates in both invader occupied and unoccupied sites are the same, recruitment and mortality effects are exactly balanced, and successful invasion is independent of the disturbance regime. Differences in the disturbance rates between invader occupied and unoccupied sites can occur through invader modification or management of disturbance. Under these conditions, we found a novel mechanism for the generation of an Allee effect, which occurs when the invader promotes disturbance in sites it already occupies. When Allee effects occur one-off, large-scale disturbances can result in permanent, dramatic shifts in invader abundance; and conversely, reducing the population below a critical threshold can cause extinction.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113904259</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q113904259</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-022-02826-2</dc:identifier>
   <dc:title>The role of priority effects in limiting the success of the invasive tiger mosquito, Aedes albopictus</dc:title>
@@ -10,7 +11,6 @@
   <dc:creator>Costanzo, Katie S.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2022-06-02</dc:date>
-  <dc:rights>https://www.springer.com/tdm</dc:rights>
   <dc:subject>biotic resistance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
   <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56426779</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56426779</dc:identifier>
   <dc:identifier>doi:10.4039/TCE.2014.69</dc:identifier>
   <dc:title>The European fire ant (Hymenoptera: Formicidae) as an invasive species: impact on local ant species and other epigaeic arthropods</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-12-10</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Hymenoptera</dc:subject>
   <dc:subject>Formicidae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Pitfall trapping revealed that the European fire ant,&lt;jats:italic&gt;Myrmica rubra&lt;/jats:italic&gt;(Linnaeus) (Hymenoptera: Formicidae), represents an unusual example of a temperate invasive ant species. In British Columbia, Canada,&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;populations are associated with a decreased incidence and abundance of other ant species in three different plant communities when compared with&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;-free control areas.&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;represented more than 99.99% of the total ant fauna caught in the infested areas, and the numbers of&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;captured in the plant communities ranged from over 10 times to over 1300 times the total number of all ants collected in corresponding&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;-free areas. Total numbers of some taxa of insects and non-insect arthropods, including those likely to be competitors or prey of&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;, were reduced where the invasive species was present. Biodiversity indexes for the overall suite of captured arthropod species were lower where&lt;jats:italic&gt;M. rubra&lt;/jats:italic&gt;was present in all three plant communities but most of this decrease can be attributed to the difference in the ant fauna.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35231309</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35231309</dc:identifier>
   <dc:identifier>doi:10.1111/COBI.12359</dc:identifier>
   <dc:title>Clarifying values, risk perceptions, and attitudes to resolve or avoid social conflicts in invasive species management</dc:title>
@@ -10,12 +11,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-08-22</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Decision makers and researchers recognize the need to effectively confront the social dimensions and conflicts inherent to invasive species research and management. Yet, despite numerous contentious situations that have arisen, no systematic evaluation of the literature has examined the commonalities in the patterns and types of these emergent social issues. Using social and ecological keywords, we reviewed trends in the social dimensions of invasive species research and management and the sources and potential solutions to problems and conflicts that arise around invasive species. We integrated components of cognitive hierarchy theory and risk perceptions theory to provide a conceptual framework to identify, distinguish, and provide understanding of the driving factors underlying disputes associated with invasive species. In the ISI Web of Science database, we found 15,915 peer-reviewed publications on biological invasions, 124 of which included social dimensions of this phenomenon. Of these 124, 28 studies described specific contentious situations. Social approaches to biological invasions have emerged largely in the last decade and have focused on both environmental social sciences and resource management. Despite being distributed in a range of journals, these 124 articles were concentrated mostly in ecology and conservation-oriented outlets. We found that conflicts surrounding invasive species arose based largely on differences in value systems and to a lesser extent stakeholder and decision maker's risk perceptions. To confront or avoid such situations, we suggest integrating the plurality of environmental values into invasive species research and management via structured decision making techniques, which enhance effective risk communication that promotes trust and confidence between stakeholders and decision makers.</dc:description>
 </oai_dc:dc>

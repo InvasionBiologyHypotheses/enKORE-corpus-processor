@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35015413</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35015413</dc:identifier>
   <dc:identifier>doi:10.1111/1365-2656.12155</dc:identifier>
   <dc:title>Fortune favours the bold: a higher predator reduces the impact of a native but not an invasive intermediate predator</dc:title>
@@ -13,10 +14,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-11-11</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Emergent multiple predator effects (MPEs) might radically alter predictions of predatory impact that are based solely on the impact of individuals. In the context of biological invasions, determining if and how the individual-level impacts of invasive predators relates to their impacts in multiple-individual situations will inform understanding of how such impacts might propagate through recipient communities. Here, we use functional responses (the relationship between prey consumption rate and prey density) to compare the impacts of the invasive freshwater mysid crustacean Hemimysis anomala with a native counterpart Mysis salemaai when feeding on basal cladoceran prey (i) as individuals, (ii) in conspecific groups and (iii) in conspecific groups in the presence of a higher fish predator, Gasterosteus aculeatus. In the absence of the higher predator, the invader consumed significantly more basal prey than the native, and consumption was additive for both mysid species - that is, group consumption was predictable from individual-level consumption. Invaders and natives were themselves equally susceptible to predation when feeding with the higher fish predator, but an MPE occurred only between the natives and higher predator, where consumption of basal prey was significantly reduced. In contrast, consumption by the invaders and higher predator remained additive. The presence of a higher predator serves to exacerbate the existing difference in individual-level consumption between invasive and native mysids. We attribute the mechanism responsible for the MPE associated with the native to a trait-mediated indirect interaction, and further suggest that the relative indifference to predator threat on the part of the invader contributes to its success and impacts within invaded communities.</dc:description>
 </oai_dc:dc>

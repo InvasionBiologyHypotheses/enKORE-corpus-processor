@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51155540</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51155540</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5031649</dc:identifier>
   <dc:identifier>doi:10.1098/RSPB.2016.0663</dc:identifier>
@@ -15,13 +16,14 @@
   <dc:type>journal article</dc:type>
   <dc:date>2016-09-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://royalsociety.org/journals/ethics-policies/data-sharing-mining/</dc:rights>
   <dc:subject>Darwin's naturalization hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
   <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
   <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>phylogenetics</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>naturalization</dc:subject>
@@ -29,5 +31,4 @@
   <dc:subject>invasion success prediction</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>The Royal Society</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Darwin's naturalization hypothesis (DNH), which predicts that alien species more distantly related to native communities are more likely to naturalize, has received much recent attention. The mixed findings from empirical studies that have tested DNH, however, seem to defy generalizations. Using meta-analysis to synthesize results of existing studies, we show that the predictive power of DNH depends on both the invasion stage and the spatial scale of the studies. Alien species more closely related to natives tended to be less successful at the local scale, supporting DNH; invasion success, however, was unaffected by alien–native relatedness at the regional scale. On the other hand, alien species with stronger impacts on native communities tended to be more closely related to natives at the local scale, but less closely related to natives at the regional scale. These patterns are generally consistent across different ecosystems, taxa and investigation methods. Our results revealed the different effects of invader–native relatedness on invader success and impact, suggesting the operation of different mechanisms across invasion stages and spatial scales.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

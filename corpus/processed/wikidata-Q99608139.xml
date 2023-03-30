@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q99608139</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q99608139</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.2011441117</dc:identifier>
   <dc:title>Assessing the ecological niche and invasion potential of the Asian giant hornet</dc:title>
@@ -15,17 +16,17 @@
   <dc:subject>invasion potential</dc:subject>
   <dc:subject>ecological niche</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
+  <dc:description>
             The Asian giant hornet (
-            &lt;jats:italic&gt;Vespa mandarinia&lt;/jats:italic&gt;
+            Vespa mandarinia
             ) was recently detected in western British Columbia, Canada and Washington State, United States.
-            &lt;jats:italic&gt;V. mandarinia&lt;/jats:italic&gt;
+            V. mandarinia
             are an invasion concern due to their ability to kill honey bees and affect humans. Here, we used habitat suitability models and dispersal simulations to assess potential invasive spread of
-            &lt;jats:italic&gt;V. mandarinia&lt;/jats:italic&gt;
+            V. mandarinia
             . We show
-            &lt;jats:italic&gt;V. mandarinia&lt;/jats:italic&gt;
+            V. mandarinia
             are most likely to establish in areas with warm to cool annual mean temperature, high precipitation, and high human activity. The realized niche of introduced populations is small compared to native populations, suggesting introduced populations could spread into habitats across a broader range of environmental conditions. Dispersal simulations also show that
-            &lt;jats:italic&gt;V. mandarinia&lt;/jats:italic&gt;
+            V. mandarinia
             could rapidly spread throughout western North America without containment. Given its potential negative impacts and capacity for spread, extensive monitoring and eradication efforts throughout western North America are warranted.
-          &lt;/jats:p&gt;</dc:description>
+          </dc:description>
 </oai_dc:dc>

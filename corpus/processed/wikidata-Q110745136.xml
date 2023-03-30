@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110745136</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110745136</dc:identifier>
   <dc:identifier>doi:10.21273/HORTSCI.34.3.563D</dc:identifier>
   <dc:title>669 The Impact of Gulf Coast Hurricanes on Pecans, Ornamental Trees, and Invasive Exotic Species</dc:title>
@@ -8,9 +9,9 @@
   <dc:date>1999-06</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>coastal invasion</dc:subject>
   <dc:publisher>American Society for Horticultural Science</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Hurricanes strike the Gulf Coast of the United States every few years. We briefly describe generalized hurricane tracks for the Gulf Coast and vegetation damage using NDVI satellite imagery as well as slides of damaged urban trees in Florida. The impact of recent hurricanes on both pecan defoliation and production and on initial damage and subsequent recovery of various ornamental trees is described. Pecan harvests were greatly reduced by hurricanes that struck late in the season in both Alabama and Texas. Varieties of pecans varied in their susceptibility to various stresses. Pine forests were sometimes devastated by certain hurricanes while live oaks, various shrubs, and important insects often survived the same storms with little damage. Many exotic ornamental plants including Chinese tallow are either adventive or invasive along the Gulf Coast. Species escape from cultivation over a long period of time and exhibit different invasion lag phases. In Texas and Louisiana, hurricane damage to native trees allowed Chinese tallow seedlings and saplings to subsequently dominate some areas as a result of the disturbance. One delayed ecological response to hurricanes and typhoons is an acceleration of ongoing exotic plant invasions.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

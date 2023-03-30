@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33690267</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33690267</dc:identifier>
   <dc:identifier>doi:10.1016/J.JENVMAN.2010.08.025</dc:identifier>
   <dc:title>A framework for sustainable invasive species management: Environmental, social, and economic objectives</dc:title>
@@ -13,12 +14,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2010-09-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Applying the concept of sustainability to invasive species management (ISM) is challenging but necessary, given the increasing rates of invasion and the high costs of invasion impacts and control. To be sustainable, ISM must address environmental, social, and economic factors (or "pillars") that influence the causes, impacts, and control of invasive species across multiple spatial and temporal scales. Although these pillars are generally acknowledged, their implementation is often limited by insufficient control options and significant economic and political constraints. In this paper, we outline specific objectives in each of these three "pillars" that, if incorporated into a management plan, will improve the plan's likelihood of sustainability. We then examine three case studies that illustrate how these objectives can be effectively implemented. Each pillar reinforces the others, such that the inclusion of even a few of the outlined objectives will lead to more effective management that achieves ecological goals, while generating social support and long-term funding to maintain projects to completion. We encourage agency directors and policy-makers to consider sustainability principles when developing funding schemes, management agendas, and policy.</dc:description>
 </oai_dc:dc>

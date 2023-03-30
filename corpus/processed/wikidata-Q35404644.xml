@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35404644</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35404644</dc:identifier>
   <dc:identifier>doi:10.1007/S10886-014-0513-2</dc:identifier>
   <dc:title>Do defensive chemicals facilitate intraguild predation and influence invasion success in ladybird beetles?</dc:title>
@@ -11,13 +12,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-11-08</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>predation</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>guild</dc:subject>
   <dc:subject>Intraguild predation</dc:subject>
   <dc:subject>invasion facilitation</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Egg predation and cannibalism are believed to be common phenomena among many species of aphidophagous predatory ladybird beetles despite the presence of alkaloid based defensive chemicals in all life stages. We identified defensive chemicals from eggs of three congeneric species, one introduced into North America (Coccinella septempunctata L.), and two native (C. transversoguttata richardsoni Brown, and C. novemnotata Herbst), and examined the effects of ingested defensive chemicals on first instars. Ingested congeneric alkaloids were not toxic to first instars, likely because the three congeners produce the same principal alkaloids, precoccinelline and coccinelline, in similar amounts. First instars of the three congeners accumulated alkaloids ingested through egg cannibalism and congeneric predation. Egg consumption doubled the amount of alkaloids in first instars when they fed on conspecific or congeneric eggs, in comparison to a pea aphid diet. No detrimental effects of ingested congeneric alkaloids on development or survival of first instars were observed among these congeners. Chemical defenses of eggs are therefore not likely to be important in favoring the invasive species, C. septempunctata, in interactions with these native congeneric species. Because the invasive species is the most aggressive predator, having the same types of alkaloids may facilitate disproportionate intraguild predation on native congeners by C. septempunctata thereby potentially enhancing the invasion success of this introduced species.</dc:description>
 </oai_dc:dc>

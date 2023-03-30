@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90023073</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q90023073</dc:identifier>
   <dc:identifier>doi:10.1016/J.MARPOLBUL.2018.10.055</dc:identifier>
   <dc:title>Between-habitat variability in the population dynamics of a global marine invader may drive management uncertainty</dc:title>
@@ -8,12 +9,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2018-10-30</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>population dynamics</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>marine invader</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>Understanding population dynamics of established invasive species is important for designing effective management measures and predicting factors such as invasiveness and ecological impact. The kelp Undaria pinnatifida has spread to most temperate regions of the world, however a basic understanding of population dynamics is lacking for many regions. Here, Undaria was monitored for 2 years, at 9 sites, across 3 habitats to investigate habitat-related variation in population structure, reproductive capacity and morphology. Populations on marina pontoons were distinct from those in reef habitats, with extended recruitment periods and higher abundance, biomass, maturation rates and fecundity; potentially driven by lower inter-specific and higher intra-specific competition within marinas. This suggests that artificial habitats are likely to facilitate the spread, proliferation and reproductive fitness of Undaria across its non-native range. More broadly, generalising population dynamics of invasive species across habitat types is problematic, thus adding high complexity to management options.</dc:description>
 </oai_dc:dc>

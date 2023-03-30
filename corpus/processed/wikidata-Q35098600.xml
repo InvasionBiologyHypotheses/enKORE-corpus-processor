@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35098600</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35098600</dc:identifier>
   <dc:identifier>doi:10.1890/12-1712.1</dc:identifier>
   <dc:title>A seasonal, density-dependent model for the management of an invasive weed</dc:title>
@@ -10,10 +11,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2013-12-01</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive weed</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>The population effects of harvest depend on complex interactions between density dependence, seasonality, stage structure, and management timing. Here we present a periodic nonlinear matrix population model that incorporates seasonal density dependence with stage-selective and seasonally selective harvest. To this model, we apply newly developed perturbation analyses to determine how population densities respond to changes in harvest and demographic parameters. We use the model to examine the effects of popular control strategies and demographic perturbations on the invasive weed garlic mustard (Alliaria petiolata). We find that seasonality is a major factor in harvest outcomes, because population dynamics may depend significantly on both the season of management and the season of observation. Strategies that reduce densities in one season can drive increases in another, with strategies giving positive sensitivities of density in the target seasons leading to compensatory effects that invasive species managers should avoid. Conversely, demographic parameters to which density is very elastic (e.g., seeding survival, second-year rosette spring survival, and the flowering to fruiting adult transition for maximum summer densities) may indicate promising management targets.</dc:description>
 </oai_dc:dc>

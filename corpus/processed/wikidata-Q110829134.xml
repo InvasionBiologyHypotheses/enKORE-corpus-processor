@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110829134</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110829134</dc:identifier>
   <dc:identifier>doi:10.3390/SU11205838</dc:identifier>
   <dc:title>You Can’t See the Woods for the Trees: Invasive Acer negundo L. in Urban Riparian Forests Harms Biodiversity and Limits Recreation Activity</dc:title>
   <dc:creator>Sikorska, Daria</dc:creator>
   <dc:creator>Sikorski, Piotr</dc:creator>
-  <dc:creator>Archiciński, Piotr</dc:creator>
-  <dc:creator>Chormański, Jarosław</dc:creator>
+  <dc:creator>Archiciski, Piotr</dc:creator>
+  <dc:creator>Chormaski, Jarosaw</dc:creator>
   <dc:creator>Hopkins, Richard J.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2019-10-21</dc:date>
@@ -15,6 +16,7 @@
   <dc:subject>Acer negundo</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Public access to high quality green environments has become a key issue for city managers and a matter of environmental justice. Urban pressures on ecosystem remnants may act to favor the expansion of some invasive species in cities. Whilst the negative impacts of invasive species on ecosystem function is well documented, little is known about how invasive species influence the use of green space by people. Here, we examined one of the few remnants of urban riparian forests in Europe, the Vistula river valley in Warsaw, which has recently become an attractive recreation site. Despite their high ecological value, the poplar and willow forests have been increasingly taken over by the invasive tree species Acer negundo. We examined the status of the invasion process and the relationship between recreational ecosystem services and the characteristics of the tree stands—tree species, tree density, and age and NDVI values. We found the willow forest to be more susceptible to invasion by A. negundo than the poplar forest, which was revealed in significantly higher share of the maple individuals and their greater volume per unit area. Ash-leaved maples also prevailed in numbers in younger stands (&lt;10 years) than in older ones. The presence of A. negundo affected biodiversity, resulting in decreased undergrowth density and biodiversity expressed in number of species. The use intensity by the public, assessed on the basis of soil compaction of existing informal tracks, as revealed by GLM analysis, was related to volume of invasive maple and distance from the main track. This study highlights the need to integrate invasive species management into green infrastructure planning and management.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Public access to high quality green environments has become a key issue for city managers and a matter of environmental justice. Urban pressures on ecosystem remnants may act to favor the expansion of some invasive species in cities. Whilst the negative impacts of invasive species on ecosystem function is well documented, little is known about how invasive species influence the use of green space by people. Here, we examined one of the few remnants of urban riparian forests in Europe, the Vistula river valley in Warsaw, which has recently become an attractive recreation site. Despite their high ecological value, the poplar and willow forests have been increasingly taken over by the invasive tree species Acer negundo. We examined the status of the invasion process and the relationship between recreational ecosystem services and the characteristics of the tree standstree species, tree density, and age and NDVI values. We found the willow forest to be more susceptible to invasion by A. negundo than the poplar forest, which was revealed in significantly higher share of the maple individuals and their greater volume per unit area. Ash-leaved maples also prevailed in numbers in younger stands (&lt;10 years) than in older ones. The presence of A. negundo affected biodiversity, resulting in decreased undergrowth density and biodiversity expressed in number of species. The use intensity by the public, assessed on the basis of soil compaction of existing informal tracks, as revealed by GLM analysis, was related to volume of invasive maple and distance from the main track. This study highlights the need to integrate invasive species management into green infrastructure planning and management.</dc:description>
 </oai_dc:dc>

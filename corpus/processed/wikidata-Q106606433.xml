@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q106606433</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q106606433</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.9.1835</dc:identifier>
   <dc:title>Open minded and open access: introducing NeoBiota, a new peer-reviewed journal of biological invasions</dc:title>
@@ -20,7 +21,7 @@
   <dc:creator>Hierro, José</dc:creator>
   <dc:creator>Hufbauer, Ruth</dc:creator>
   <dc:creator>Hulme, Philip</dc:creator>
-  <dc:creator>Jarošik, Vojtěch</dc:creator>
+  <dc:creator>Jaroik, Vojtch</dc:creator>
   <dc:creator>Jeschke, Jonathan</dc:creator>
   <dc:creator>Karrer, Gerhard</dc:creator>
   <dc:creator>Mack, Richard</dc:creator>
@@ -28,7 +29,7 @@
   <dc:creator>Murray, Brad</dc:creator>
   <dc:creator>Nentwig, Wolfgang</dc:creator>
   <dc:creator>Osborne, Bruce</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Rabitsch, Wolfgang</dc:creator>
   <dc:creator>Rejmanek, Marcel</dc:creator>
   <dc:creator>Roques, Alain</dc:creator>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34461007</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34461007</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3482215</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PONE.0048157</dc:identifier>
   <dc:title>Which factors affect the success or failure of eradication campaigns against alien species?</dc:title>
   <dc:creator>Pluess, Therese</dc:creator>
-  <dc:creator>Jarošík, Vojtěch</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Jaroík, Vojtch</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Cannon, Ray</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
   <dc:creator>Breukers, Annemarie</dc:creator>

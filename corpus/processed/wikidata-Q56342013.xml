@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56342013</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56342013</dc:identifier>
   <dc:identifier>doi:10.1007/S11295-016-1096-6</dc:identifier>
   <dc:title>Genetic structure of dioecious and trioecious Salix myrsinifolia populations at the border of geographic range</dc:title>
   <dc:creator>Mirski, P.</dc:creator>
   <dc:creator>Brzosko, E.</dc:creator>
-  <dc:creator>Jędrzejczyk, I.</dc:creator>
+  <dc:creator>Jdrzejczyk, I.</dc:creator>
   <dc:creator>Kotowicz, J.</dc:creator>
   <dc:creator>Ostrowiecka, B.</dc:creator>
   <dc:creator>Wróblewska, A.</dc:creator>

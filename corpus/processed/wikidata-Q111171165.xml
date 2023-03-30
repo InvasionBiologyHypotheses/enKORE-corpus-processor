@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111171165</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111171165</dc:identifier>
   <dc:identifier>doi:10.1590/1806-9665-RBENT-2020-0006</dc:identifier>
   <dc:title>Ecological impact and population status of non-native bees in a Brazilian urban environment</dc:title>
@@ -11,7 +12,9 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>urban ecology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>FapUNIFESP (SciELO)</dc:publisher>
 </oai_dc:dc>

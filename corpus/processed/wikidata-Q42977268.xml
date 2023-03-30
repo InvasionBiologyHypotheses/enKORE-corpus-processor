@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q42977268</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q42977268</dc:identifier>
   <dc:identifier>doi:10.2807/ESE.17.04.20067-EN</dc:identifier>
   <dc:title>Two invasive mosquito species, Aedes albopictus and Aedes japonicus japonicus, trapped in south-west Germany, July to August 2011.</dc:title>
@@ -20,6 +21,6 @@
   <dc:subject>Aedes japonicus japonicus</dc:subject>
   <dc:subject>invasive mosquito species</dc:subject>
   <dc:publisher>European Centre for Disease Control and Prevention (ECDC)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Adult females of two invasive species, Aedes albopictus and Aedes japonicus japonicus, were collected for the first time in July and August 2011 in Germany. Previously, only immature stages of these species had been found in the country. Repeated detection of these species reveals the Upper Rhine Valley in south-west Germany to be a particularly sensitive region for the introduction and establishment of exotic mosquito species that needs careful observation.
-&lt;/jats:p&gt;</dc:description>
+  <dc:description>Adult females of two invasive species, Aedes albopictus and Aedes japonicus japonicus, were collected for the first time in July and August 2011 in Germany. Previously, only immature stages of these species had been found in the country. Repeated detection of these species reveals the Upper Rhine Valley in south-west Germany to be a particularly sensitive region for the introduction and establishment of exotic mosquito species that needs careful observation.
+</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q40365113</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q40365113</dc:identifier>
   <dc:identifier>doi:10.1016/J.JINF.2016.12.016</dc:identifier>
   <dc:title>Impact of echinocandin on prognosis of proven invasive candidiasis in ICU: A post-hoc causal inference model using the AmarCAND2 study.</dc:title>
@@ -20,12 +21,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2017-01-16</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>causal inference</dc:subject>
   <dc:subject>candidiasis</dc:subject>
   <dc:subject>invasive candidiasis</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
-  <dc:description>&lt;h4&gt;Objective&lt;/h4&gt;guidelines recommend first-line systemic antifungal therapy (SAT) with echinocandins in invasive candidiasis (IC), especially in critically ill patients. This study aimed at assessing the impact of echinocandins compared to azoles as initial SAT on the 28-day prognosis in adult ICU patients.&lt;h4&gt;Methods&lt;/h4&gt;From the prospective multicenter AmarCAND2 cohort (835 patients), we selected those with documented IC and treated with echinocandins (ECH) or azoles (AZO). The average causal effect of echinocandins on 28-day mortality was assessed using an inverse probability of treatment weight (IPTW) estimator.&lt;h4&gt;Results&lt;/h4&gt;397 patients were selected, treated with echinocandins (242 patients, 61%) or azoles (155 patients, 39%); septic shock: 179 patients (45%). The median SAPSII was higher in the ECH group (48 [35; 62] vs. 43 [31; 58], p = 0.01). Crude mortality was 34% (ECH group) vs. 25% (AZO group). After adjustment on baseline confounders, no significant association emerged between initial SAT with echinocandins and 28-day mortality (HR: 0.95; 95% CI: [0.60; 1.49]; p = 0.82). However, echinocandin tended to benefit patients with septic shock (HR: 0.46 [0.19; 1.07]; p = 0.07).&lt;h4&gt;Conclusion&lt;/h4&gt;Patients who received echinocandins were more severely ill. Echinocandin use was associated with a non-significant 7% decrease of 28-day mortality and a trend to a beneficial effect for patient with septic shock.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51189853</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51189853</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-004-1494-6</dc:identifier>
   <dc:title>Competitive effect versus competitive response of invasive and native wetland plant species.</dc:title>
@@ -7,7 +8,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2004-01-31</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
@@ -15,5 +15,4 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Non-native plants can have adverse effects on ecosystem structure and processes by invading and out-competing native plants. I examined the hypothesis that mature plants of non-native and native species exert differential effects on the growth of conspecific and heterospecific seedlings by testing predictions that (1) invasive vegetation has a stronger suppressive effect on seedlings than does native vegetation, (2) seedlings of invasive species are better able to grow in established vegetation than are native seedlings, and (3) invasive species facilitate conspecific and inhibit heterospecific seedling growth. I measured growth rates and interaction intensities for seedlings of four species that were transplanted into five wetland monoculture types: invasive Lythrum salicaria; native L. alatum, Typha angustifolia, T. latifolia; unvegetated control. Invasive L. salicaria had the strongest suppressive effect on actual and per-individual bases, but not on a per-gram basis. Seedlings of T. latifolia were better able to grow in established vegetation than were those of L. salicaria and T. angustifolia. These results suggest that L. salicaria is not a good invader of established vegetation, but once established, it is fairly resistant to invasion. Thus, it is likely that disturbance of established vegetation facilitates invasion by L. salicaria, allowing it to compete with other species in even-aged stands where its high growth rate and consequent production of aboveground biomass confer a competitive advantage.</dc:description>
 </oai_dc:dc>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101300525</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101300525</dc:identifier>
   <dc:identifier>https://checklist.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=download_pdf&amp;item_id=19887</dc:identifier>
   <dc:identifier>doi:10.15560/13.4.245</dc:identifier>
-  <dc:title>Heterotilapia buttikoferi (Hubrecht, 1881) (Perciformes: Cichlidae), an introduced exotic fish in the upper Paraná river basin</dc:title>
+  <dc:title>Heterotilapia buttikoferi (Hubrecht, 1881) (Perciformes: Cichlidae),an introduced exotic fish in the upper Paraná river basin</dc:title>
   <dc:creator>Sampaio, Wagner</dc:creator>
   <dc:creator>Belei, Frederico</dc:creator>
   <dc:creator>Giongo, Patrícia</dc:creator>

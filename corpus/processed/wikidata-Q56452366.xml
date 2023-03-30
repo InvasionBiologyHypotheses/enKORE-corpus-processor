@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56452366</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56452366</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-13-00043.1</dc:identifier>
   <dc:title>Landscape-Level Simulation of Weed Treatments to Evaluate Treatment Plan Options</dc:title>
@@ -9,10 +10,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-06</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Models have been developed to simulate the long-term effects of weed treatments across a landscape to determine effective management strategies, but those models might not be suitable for evaluating short-term action plans of weed treatments that are specific in time and place. In this study, we developed a simulation model to build and evaluate 5-yr weed treatment plan options in terms of their cost and effectiveness in minimizing total infestation areas over the short-term planning horizon. In an iterative, interactive process, 5-yr treatment plan options are developed based on user-defined weed treatment preferences, and evaluated in terms of total projected infestation areas at the end of the planning horizon. The simulation model was applied to a study area of 24,867 ha (61,447 ac) located in the Salmon River watershed in Idaho. Eight treatment plan options were developed using two treatment priority strategies and four increasing budget levels, and compared for their effectiveness. The application results showed that regardless of budget levels, site priority strategies were more cost-effective than the species priority strategies in reducing total infestation areas over time. This simulation model can provide weed managers with a useful tool to evaluate short-term treatment options, and thus support informed decision-making for effective weed management. Although the availability and quality of input data may be a practical limitation of using the simulation model, more data would become available and improved as more invasive species monitoring programs are implemented.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

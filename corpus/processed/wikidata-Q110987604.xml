@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110987604</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110987604</dc:identifier>
   <dc:identifier>doi:10.1111/1365-2664.13953</dc:identifier>
   <dc:title>Invasion theory as a management tool for increasing native biodiversity in urban ecosystems</dc:title>
@@ -9,10 +10,11 @@
   <dc:creator>MacIvor, J. Scott</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2021-07-11</dc:date>
-  <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>biodiversity</dc:subject>
   <dc:subject>urban ecology</dc:subject>
   <dc:subject>invasion management</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
 </oai_dc:dc>

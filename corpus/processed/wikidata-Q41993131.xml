@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q41993131</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q41993131</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940619</dc:identifier>
   <dc:identifier>doi:10.7717/PEERJ.262</dc:identifier>
@@ -13,9 +14,9 @@
   <dc:date>2014-02-25</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>range expansion</dc:subject>
   <dc:subject>native range</dc:subject>
   <dc:publisher>PeerJ</dc:publisher>
-  <dc:description>Only recently has it been formally acknowledged that native species can occasionally reach the status of 'pest' or 'invasive species' within their own native range. The study of such species has potential to help unravel fundamental aspects of biological invasions. A good model for such a study is the New Zealand native scarab beetle, Costelytra zealandica (White), which even in the presence of its natural enemies has become invasive in exotic pastures throughout the country. Because C. zealandica still occurs widely within its native habitat, we hypothesised that this species has only undergone a host range expansion (ability to use equally both an ancestral and new host) onto exotic hosts rather than a host shift (loss of fitness on the ancestral host in comparison to the new host). Moreover, this host range expansion could be one of the main drivers of its invasion success. In this study, we investigated the fitness response of populations of C. zealandica from native and exotic flora, to several feeding treatments comprising its main exotic host plant as well as one of its ancestral hosts. Our results suggest that our initial hypothesis was incorrect and that C. zealandica populations occurring in exotic pastures have experienced a host-shift rather than simply a host-range expansion. This finding suggests that an exotic plant introduction can facilitate the evolution of a distinct native host-race, a phenomenon often used as evidence for speciation in phytophagous insects and which may have been instrumental to the invasion success of C. zealandica.</dc:description>
 </oai_dc:dc>

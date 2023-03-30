@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92735527</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92735527</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-019-04435-8</dc:identifier>
   <dc:title>Soil-mediated impacts of an invasive thistle inhibit the recruitment of certain native plants</dc:title>
@@ -8,9 +9,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-06-13</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Invasive plants may outcompete and replace native plant species through a variety of mechanisms. Recent evidence indicates that soil microbial pathways such as pathogen accumulation may have a considerable role in facilitating competition between native and invasive plants. To assess microbe-mediated pathways of invasion, we tested the impacts of invaded and non-invaded field soils on plant establishment using naturally occurring populations of the common Eurasian invader Cirsium arvense (Canada thistle) in Southern Ontario, Canada. Linked field and greenhouse experiments were used to quantify differences in the germinability and early growth rates of native plant species, depending on exposure to the microbial community in invaded or non-invaded soils. The invaded microbial community significantly reduced early growth rates for two of the seven native species surveyed, and decreased seed germination for another. In contrast, the germination and growth of invasive Cirsium were not affected by its own soil microbial community. These results demonstrate that the invasion of C. arvense can reduce the performance of some native plant species through changes to the soil microbial community. Different effects on different species suggest that this invader may also change the relative importance of certain natives in the invaded community. If these effects influence plant abundance in the field, microbially mediated interactions in the soil may aid the invasion of C. arvense and facilitate the disruption of invaded communities.</dc:description>
 </oai_dc:dc>

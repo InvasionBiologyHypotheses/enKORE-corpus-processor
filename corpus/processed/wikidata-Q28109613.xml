@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28109613</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q28109613</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ECOLSYS-120213-091928</dc:identifier>
   <dc:title>Biogeomorphic Impacts of Invasive Species</dc:title>
@@ -10,10 +11,10 @@
   <dc:date>2014-11-23</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>biogeomorphology</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Invasive species, often recognized as ecosystem engineers, can dramatically alter geomorphic processes and landforms. Our review shows that the biogeomorphic impacts of invasive species are common, but variable in magnitude or severity, ranging from simple acceleration or deceleration of preexisting geomorphic processes to landscape metamorphosis. Primary effects of invasive flora are bioconstruction and bioprotection, whereas primary effects of invasive fauna are bioturbation, bioerosion, and bioconstruction. Land-water interfaces seem particularly vulnerable to biogeomorphic impacts of invasive species. Although not different from biogeomorphic impacts in general, invasive species are far more likely to lead to major geomorphic changes or landscape metamorphosis, which can have long-lasting impacts. In addition, invasive species can alter selection pressures in both macroevolution and microevolution by changing geomorphic processes. However, the differing timescales of biological invasions, landscape evolution, and biological evolution complicate assessment of the evolutionary impacts of invasive organisms. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111169291</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111169291</dc:identifier>
   <dc:identifier>doi:10.1093/BIOSCI/BIAA003</dc:identifier>
   <dc:title>Disconnects between Communicated Impact and Ecological Impact of Biological Invasions</dc:title>
@@ -16,10 +17,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2020-01-10</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Although scientists strive to accurately communicate their research, disconnects can arise between results and rhetoric. Some have regarded invasion scientists as particularly prone to using value-laden language incommensurate with the scientific facts or results. We addressed how authors used 10 near synonyms (words for which usage is similar but not completely overlapping) of the negative-value word invasive. We asked whether study findings (effect sizes) or other factors predicted language use. The use of negative-value words such as invasive was not associated with study findings but, instead, with contextual factors. For example, plant and invertebrate biologists used more negative language to describe nonnatives than did those studying vertebrates. The authors also tended to use more negative language in recently published papers than in older studies. Although many have called for impartial language when communicating research, some scientists use language imbued with value that may be inappropriate. Such use may affect how the public perceives scientific findings.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38586436</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q38586436</dc:identifier>
   <dc:identifier>doi:10.1093/JXB/ERV548</dc:identifier>
   <dc:title>High water availability increases the negative impact of a native hemiparasite on its non-native host</dc:title>
@@ -10,7 +11,7 @@
   <dc:date>2015-12-23</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>Environmental factors alter the impacts of parasitic plants on their hosts. However, there have been no controlled studies on how water availability modulates stem hemiparasites' effects on hosts. A glasshouse experiment was conducted to investigate the association between the Australian native stem hemiparasite Cassytha pubescens and the introduced host Ulex europaeus under high (HW) and low (LW) water supply. Cassytha pubescens had a significant, negative effect on the total biomass of U. europaeus, which was more severe in HW than LW. Regardless of watering treatment, infection significantly decreased shoot and root biomass, nodule biomass, nodule biomass per unit root biomass, F v/F m, and nitrogen concentration of U. europaeus. Host spine sodium concentration significantly increased in response to infection in LW but not HW conditions. Host water potential was significantly higher in HW than in LW, which may have allowed the parasite to maintain higher stomatal conductances in HW. In support of this, the δ(13)C of the parasite was significantly lower in HW than in LW (and significantly higher than the host). C. pubescens also had significantly higher F v/F m and 66% higher biomass per unit host in the HW compared with the LW treatment. The data suggest that the enhanced performance of C. pubescens in HW resulted in higher parasite growth rates and thus a larger demand for resources from the host, leading to poorer host performance in HW compared with LW. C. pubescens should more negatively affect U. europaeus growth under wet conditions rather than under dry conditions in the field.</dc:description>
 </oai_dc:dc>

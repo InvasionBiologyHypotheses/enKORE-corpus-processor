@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90037950</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q90037950</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055815</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PNTD.0008130</dc:identifier>
-  <dc:title>A LAMP-based colorimetric assay to expedite field surveillance of the invasive mosquito species Aedes aegypti and Aedes albopictus</dc:title>
+  <dc:title>A LAMP-based colorimetric assay to expedite field surveillance of the invasive mosquito speciesAedes aegypti and Aedes albopictus</dc:title>
   <dc:creator>Huang, Bixing</dc:creator>
   <dc:creator>Montgomery, Brian L</dc:creator>
   <dc:creator>Adamczyk, Rebecca</dc:creator>

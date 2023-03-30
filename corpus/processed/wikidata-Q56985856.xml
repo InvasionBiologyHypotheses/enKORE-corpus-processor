@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56985856</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56985856</dc:identifier>
   <dc:identifier>doi:10.1071/BT05088</dc:identifier>
   <dc:title>Plant traits predict impact of invading species: an analysis of herbaceous vegetation in the subtropics</dc:title>
@@ -11,12 +12,9 @@
   <dc:date>2005</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>plant trait</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-The need to predict potential invasion impact of plant species is important for setting weed-management priorities and determining quarantine restrictions for newly imported plant material. We analysed the naturalised plant component of a herbaceous plant community in sub-tropical eucalypt woodlands subjected to various disturbances associated with agricultural activities. The native and naturalised plant species did not differ in the proportions of different life forms, although life-history differed, with the naturalised group having more annual and biennial, and relatively fewer perennial species. We classified the naturalised assemblage into high- and low-impact species and compared the plant-trait and habitat characteristics of the two groups. Low-impact species covered a range of levels of habitat specialisation whereas high-impact species tended to have moderate to low levels of specialisation and to be less tolerant of grazing. Seven traits were found to be significantly associated with impact. Stepwise regression indicated a high level of redundancy in the data, owing to attributes being correlated. For all species, four attributes were significant in determining impact: very wide lateral spread, C4 photosynthesis, tall height and large leaves. For forbs, only two attributes (large seeds, adhesion/ingestion mode of seed dispersal) were significant in the overall model. We identified the following eight functional types amongst the naturalised species: (i) high-impact C4 lawn grasses, (ii) high-impact C4 bulky tussock grasses, (iii) moderate-impact annual grasses, (iv) moderate-impact tall annual forbs, (v) moderate-impact spreading forbs, (vi) moderate-impact woody forbs, (vii) low-impact legumes and (viii) low-impact small ruderals. In the subtropical woodland environment perennial C4 grasses appear to present the greatest invasive threat to herbaceous native communities, whereas forbs of wide lateral spread, with large animal-dispersed seeds are also problematic. The results support a case for limiting further importation of horticultural and forage material into Australia.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

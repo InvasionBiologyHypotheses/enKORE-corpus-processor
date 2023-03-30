@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30867609</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q30867609</dc:identifier>
   <dc:identifier>doi:10.1007/S00267-014-0397-5</dc:identifier>
   <dc:title>Using scenario planning to evaluate the impacts of climate change on wildlife populations and communities in the Florida Everglades</dc:title>
@@ -14,12 +15,11 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-11-05</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>Florida</dc:subject>
   <dc:subject>climate impact research</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>It is uncertain how climate change will impact hydrologic drivers of wildlife population dynamics in freshwater wetlands of the Florida Everglades, or how to accommodate this uncertainty in restoration decisions. Using projections of climate scenarios for the year 2060, we evaluated how several possible futures could affect wildlife populations (wading birds, fish, alligators, native apple snails, amphibians, threatened and invasive species) across the Everglades landscape and inform planning already underway. We used data collected from prior research and monitoring to parameterize our wildlife population models. Hydrologic data were simulated using a spatially explicit, regional-scale model. Our scenario evaluations show that expected changes in temperature, precipitation, and sea level could significantly alter important ecological functions. All of our wildlife indicators were negatively affected by scenarios with less rainfall and more evapotranspiration. Under such scenarios, habitat suitability was substantially reduced for iconic animals such as wading birds and alligators. Conversely, the increased rainfall scenario benefited aquatic prey productivity and apex predators. Cascading impacts on non-native species is speculative, but increasing temperatures could increase the time between cold events that currently limit expansion and abundance of non-native fishes, amphibians, and reptiles with natural ranges in the tropics. This scenario planning framework underscored the benefits of proceeding with Everglades restoration plans that capture and clean more freshwater with the potential to mitigate rainfall loss and postpone impacts of sea level rise.</dc:description>
 </oai_dc:dc>

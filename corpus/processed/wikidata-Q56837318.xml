@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56837318</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56837318</dc:identifier>
   <dc:identifier>doi:10.1007/S10096-005-0006-X</dc:identifier>
   <dc:title>Invasive pulmonary aspergillosis transformed into fatal mucous impaction by immune reconstitution in an AIDS patient</dc:title>
@@ -7,11 +8,10 @@
   <dc:creator>Denning, David W.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2005-09-01</dc:date>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>patient</dc:subject>
   <dc:subject>invasive pulmonary aspergillosis</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Reported here is the case of a newly diagnosed AIDS patient with end-stage HIV infection and biopsy-proven invasive pulmonary aspergillosis who responded to antifungal therapy but developed severe mucous impaction in association with rapid immune restoration that was ultimately fatal. Invasive pulmonary aspergillosis complicates about 4% of AIDS infections. A search of the medical literature revealed no previous report of this organism's involvement in immune restoration syndrome.</dc:description>
 </oai_dc:dc>

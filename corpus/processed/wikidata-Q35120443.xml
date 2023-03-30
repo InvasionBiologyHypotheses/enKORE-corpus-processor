@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35120443</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35120443</dc:identifier>
   <dc:identifier>doi:10.1111/JFB.12351</dc:identifier>
   <dc:title>Trophic flexibility by roach Rutilus rutilus in novel habitats facilitates rapid growth and invasion success</dc:title>
@@ -12,8 +13,8 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-03-13</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>habitat</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:subject>Rutilus rutilus</dc:subject>
@@ -21,5 +22,4 @@
   <dc:subject>invasion facilitation</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>Stable isotope and gut content analyses, in conjunction with backcalculated length-at-age estimates of growth, were employed to examine the relationship between trophic ecology and growth rate of a successful invader, Rutilus rutilus, in eight lakes in Ireland. The data revealed that R. rutilus was a trophic generalist in Irish lakes. It utilized a greater proportion of pelagic resources in mesotrophic lakes than in eutrophic lakes, potentially due to a greater density of benthic macroinvertebrates in eutrophic systems. The species was characterized by a large dietary and isotopic niche width and high temporal and spatial variations in diet. Growth rates were typical of those found in the native range of the species and were unrelated to either lake productivity or fish's diet. A generalist trophic ecology confers significant advantages on an invasive species, allowing it to exploit a variety of novel resources and fluctuations in prey availability.</dc:description>
 </oai_dc:dc>

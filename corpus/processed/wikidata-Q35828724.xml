@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35828724</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35828724</dc:identifier>
   <dc:identifier>doi:10.1017/S0007485315000851</dc:identifier>
   <dc:title>Adaptive management of invasive pests in natural protected areas: the case of Matsucoccus feytaudi in Central Italy</dc:title>
@@ -13,10 +14,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-11-02</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Italy</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Invasive species are a significant threat to affected ecosystems, having serious environmental, economic and social impacts. The maritime pine bast scale, &lt;jats:italic&gt;Matsucoccus feytaudi&lt;/jats:italic&gt; Ducasse (Hemiptera: Matsucoccidae), causes serious damage to &lt;jats:italic&gt;Pinus pinaster&lt;/jats:italic&gt; forests in SE France, Corsica and Italy where it has been introduced. This study illustrates the adaptive management plan implemented in the Migliarino, San Rossore, Massaciuccoli Regional Natural Park in Tuscany, Italy, where &lt;jats:italic&gt;M. feytaudi&lt;/jats:italic&gt; arrived in 2004, leading to the decay of local &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; stands. The management programme, aimed at slowing the establishment and growth of &lt;jats:italic&gt;M. feytaudi&lt;/jats:italic&gt;, was carried out in the main sector of the park, Tenuta di San Rossore, to retard the destruction of the &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; coastal strip protecting the more internal woodland from sea salt and to allow replacement of &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; trees with a more stable broad-leaved wood. The combined use of mass trapping and silvicultural interventions, applied in a targeted manner according to distribution maps of pest captures and damage, helped to delay forest destruction compared with a nearby unmanaged area of the park Tenuta di Tombolo. Although &lt;jats:italic&gt;M. feytaudi&lt;/jats:italic&gt; continued to spread during the management period, the populations remained at low levels for 6 years, showing a marked increase in 2012. During this period, the &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; stands were reduced from 320 to 249 ha. The final result of this ongoing gradual conversion process will be transformation of the &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; forest into Holm oak woods and Mediterranean shrub land, while &lt;jats:italic&gt;P. pinaster&lt;/jats:italic&gt; will survive as clusters or blocks of trees.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

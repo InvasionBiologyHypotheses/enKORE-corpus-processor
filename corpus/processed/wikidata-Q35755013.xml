@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35755013</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35755013</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4541992</dc:identifier>
   <dc:identifier>doi:10.1002/ECE3.1551</dc:identifier>
@@ -12,7 +13,7 @@
   <dc:creator>Leipzig-Scott, Peter</dc:creator>
   <dc:creator>Nuñez, Martin A</dc:creator>
   <dc:creator>Pauchard, Aníbal</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Vítková, Michaela</dc:creator>
   <dc:creator>Maxwell, Bruce D</dc:creator>
   <dc:type>journal article</dc:type>
@@ -20,6 +21,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasive plant</dc:subject>

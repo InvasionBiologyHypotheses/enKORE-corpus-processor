@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56432835</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56432835</dc:identifier>
   <dc:identifier>doi:10.1614/IPSM-D-14-00040.1</dc:identifier>
   <dc:title>Climate Change May Alter Both Establishment and High Abundance of Red Brome (Bromus rubens) and African Mustard (Brassica tournefortii) in the Semiarid Southwest United States</dc:title>
@@ -8,13 +9,12 @@
   <dc:type>journal article</dc:type>
   <dc:date>2015-09</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Bromus rubens</dc:subject>
   <dc:subject>Brassica tournefortii</dc:subject>
   <dc:subject>climate change</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Nonnative, invasive plants are becoming increasingly widespread and abundant throughout the southwestern United States, leading to altered fire regimes and negative effects on native plant communities. Models of potential invasion are pertinent tools for informing regional management. However, most modeling studies have relied on occurrence data, which predict the potential for nonnative establishment only and can overestimate potential risk. We compiled locations of presence and high abundance for two problematic, invasive plants across the southwestern United States: red brome (&lt;jats:italic&gt;Bromus rubens&lt;/jats:italic&gt; L.) and African mustard (&lt;jats:italic&gt;Brassica tournefortii&lt;/jats:italic&gt; Gouan). Using an ensemble of five climate projections and two types of distribution model (MaxEnt and Bioclim), we modeled current and future climatic suitability for establishment of both species. We also used point locations of abundant infestations to model current and future climatic suitability for abundance (i.e., impact niche) of both species. Because interpretations of future ensemble models depend on the threshold used to delineate climatically suitable from unsuitable areas, we applied a low threshold (1 model of 10) and a high threshold (6 or more models of 10). Using the more-conservative high threshold, suitability for &lt;jats:italic&gt;Bromus rubens&lt;/jats:italic&gt; presence expands by 12%, but high abundance contracts by 42%, whereas suitability for &lt;jats:italic&gt;Brassica tournefortii&lt;/jats:italic&gt; presence and high abundance contract by 34% and 56%, respectively. Based on the low threshold (worst-case scenario), suitability for &lt;jats:italic&gt;Bromus rubens&lt;/jats:italic&gt; presence and high abundance are projected to expand by 65% and 64%, respectively, whereas suitability for &lt;jats:italic&gt;Brassica tournefortii&lt;/jats:italic&gt; presence and high abundance expand by 29% and 28%, respectively. The difference between results obtained from the high and low thresholds is indicative of the variability in climate models for this region but can serve as indicators of best- and worst-case scenarios.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

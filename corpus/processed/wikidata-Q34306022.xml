@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34306022</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q34306022</dc:identifier>
   <dc:identifier>doi:10.1111/J.1365-2656.2012.02001.X</dc:identifier>
   <dc:title>Joint estimation of habitat dynamics and species interactions: disturbance reduces co-occurrence of non-native predators with an endangered toad</dc:title>
@@ -11,7 +12,6 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-06-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://doi.wiley.com/10.1002/tdm_license_1.1</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
@@ -20,5 +20,4 @@
   <dc:subject>habitat</dc:subject>
   <dc:subject>non-native predator</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
-  <dc:description>1. Ecologists have long been interested in the processes that determine patterns of species occurrence and co-occurrence. Potential short-comings of many existing empirical approaches that address these questions include a reliance on patterns of occurrence at a single time point, failure to account properly for imperfect detection and treating the environment as a static variable. 2. We fit detection and non-detection data collected from repeat visits using a dynamic site occupancy model that simultaneously accounts for the temporal dynamics of a focal prey species, its predators and its habitat. Our objective was to determine how disturbance and species interactions affect the co-occurrence probabilities of an endangered toad and recently introduced non-native predators in stream breeding habitats. For this, we determined statistical support for alternative processes that could affect co-occurrence frequency in the system. 3. We collected occurrence data at stream segments in two watersheds where streams were largely ephemeral and one watershed dominated by perennial streams. Co-occurrence probabilities of toads with non-native predators were related to disturbance frequency, with low co-occurrence in the ephemeral watershed and high co-occurrence in the perennial watershed. This occurred because once predators were established at a site, they were rarely lost from the site except in cases when the site dried out. Once dry sites became suitable again, toads colonized them much more rapidly than predators, creating a period of predator-free space. 4. We attribute the dynamics to a storage effect, where toads persisting outside the stream environment during periods of drought rapidly colonized sites when they become suitable again. Our results support that even in highly connected stream networks, temporal disturbance can structure frequencies with which breeding amphibians encounter non-native predators. 5. Dynamic multi-state occupancy models are a powerful tool for rigorously examining hypotheses about inter-species and species-habitat interactions. In contrast to previous methods that infer dynamic processes based on static patterns in occupancy, the approach we took allows the dynamic processes that determine species-species and species-habitat interactions to be directly estimated.</dc:description>
 </oai_dc:dc>

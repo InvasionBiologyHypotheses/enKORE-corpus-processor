@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101635344</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q101635344</dc:identifier>
   <dc:identifier>https://herpetozoa.pensoft.net/article/36609/download/pdf/</dc:identifier>
   <dc:identifier>doi:10.3897/HERPETOZOA.32.E36609</dc:identifier>
@@ -14,5 +15,5 @@
   <dc:subject>Italian wall lizard</dc:subject>
   <dc:subject>invasive lizard</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
-  <dc:description>&lt;jats:p&gt;Invasive species have been recognised as an important hazard to native communities. Amongst the mitigation measures that have been proposed to confront biological invasions, eradication projects are certainly the most drastic. In this short communication, a successful eradication project against a recently established population of the Italian wall lizard (&lt;jats:italic&gt;Podarcissiculus&lt;/jats:italic&gt;) in Athens, Greece, is reported. To this aim, the Hellenic Herpetological Society received unforeseen aid from stray cats and, possibly, from the Οcellated skink (&lt;jats:italic&gt;Chalcidesocellatus&lt;/jats:italic&gt;) and vegetation growth. Within three years, the initial thriving &lt;jats:italic&gt;P.siculus&lt;/jats:italic&gt; population has shrunk to very few individuals.&lt;/jats:p&gt;</dc:description>
+  <dc:description>Invasive species have been recognised as an important hazard to native communities. Amongst the mitigation measures that have been proposed to confront biological invasions, eradication projects are certainly the most drastic. In this short communication, a successful eradication project against a recently established population of the Italian wall lizard (Podarcissiculus) in Athens, Greece, is reported. To this aim, the Hellenic Herpetological Society received unforeseen aid from stray cats and, possibly, from the cellated skink (Chalcidesocellatus) and vegetation growth. Within three years, the initial thriving P.siculus population has shrunk to very few individuals.</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110758506</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110758506</dc:identifier>
   <dc:identifier>doi:10.1007/S10750-018-3548-5</dc:identifier>
   <dc:title>Water turbidity increases biotic resistance of native Neotropical piscivores to alien fish</dc:title>
@@ -9,7 +10,6 @@
   <dc:creator>Santos, Luciano N.</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2018-03-06</dc:date>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>

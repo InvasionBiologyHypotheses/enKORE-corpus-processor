@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q80387030</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q80387030</dc:identifier>
   <dc:identifier>doi:10.1097/INF.0B013E31805CDBEB</dc:identifier>
   <dc:title>Impact of the pneumococcal conjugate vaccine on serotype distribution and antimicrobial resistance of invasive Streptococcus pneumoniae isolates in Dallas, TX, children from 1999 through 2005</dc:title>
@@ -14,10 +15,10 @@
   <dc:date>2007-06-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Streptococcus pneumoniae</dc:subject>
   <dc:subject>pneumococcal conjugate vaccine</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Ovid Technologies (Wolters Kluwer Health)</dc:publisher>
-  <dc:description>&lt;h4&gt;Background&lt;/h4&gt;Because the heptavalent pneumococcal conjugate vaccine has reduced vaccine-type invasive pneumococcal disease (IPD) in children, a greater proportion of IPD is now caused by nonvaccine (NVT) serotypes. We analyzed the serotypes, antimicrobial resistance profiles and genetic relatedness of Streptococcus pneumoniae responsible for IPD at Children's Medical Center of Dallas.&lt;h4&gt;Methods&lt;/h4&gt;S. pneumoniae isolates were collected from January 1, 1999 through December 31, 2005. Incidence of IPD was calculated using inpatient and emergency center admissions to Children's Medical Center of Dallas as the denominator. Isolates were serotyped, and their penicillin and cefotaxime susceptibility determined. The 19A isolates were further characterized by pulsed-field gel electrophoresis, multilocus sequence typing and determination of penicillin-binding proteins and mef and erm genes.&lt;h4&gt;Results&lt;/h4&gt;The incidence of IPD decreased from 93.6 cases/100,000 patients in 1999 to a nadir of 41 cases/100,000 patients in 2003 (P &lt; 0.001). The number of IPD cases caused by serotype 19A increased, accounting for 40% of the cases of IPD in 2005. Penicillin and cefotaxime susceptibility of IPD isolates did not change from 1999 through 2005 (P = 0.687). There was a decrease in penicillin (P &lt; 0.001) and cefotaxime (P = 0.034) susceptibility in NVT serotypes from 1999 to 2005. Molecular characterization of 19A isolates revealed a predominance of ST-199 (62%). Several highly penicillin-resistant and intermediately cefotaxime-resistant strains emerged in 2004 and 2005.&lt;h4&gt;Conclusions&lt;/h4&gt;In Dallas, heptavalent pneumococcal conjugate vaccine reduced the incidence of IPD from 1999 to 2005 by reducing the incidence of vaccine-type disease. NVT serotypes, particularly 19A, were prevalent and more resistant to antimicrobials in 2004 and 2005.</dc:description>
 </oai_dc:dc>

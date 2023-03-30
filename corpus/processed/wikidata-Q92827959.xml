@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92827959</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92827959</dc:identifier>
   <dc:identifier>doi:10.1007/S00267-019-01176-5</dc:identifier>
   <dc:title>Using Audience Segmentation to Understand Nonparticipation in Invasive Mammal Management in Australia</dc:title>
@@ -7,11 +8,10 @@
   <dc:creator>Hine, Donald W</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2019-06-17</dc:date>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>Australia</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:subject>invasive mammal</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Invasive mammals threaten agriculture, biodiversity, and community health. Yet many landholders fail to engage in control activities recommended by experts. We surveyed a representative sample of 731 Western Australian rural landholders. The survey assessed landholders' participation in a range of activities to control invasive mammals, as well as their capabilities, opportunities, and motivation for engaging in such activities. We found that over half of our respondents had not participated in any individual or group activities to control invasive mammals during the previous 12 months. Using latent profile analysis, we identified six homogeneous subgroups of nonparticipating landholders, each with their distinct psycho-graphic profiles: Unaware, Unskilled, and Unmotivated, Aware but Unskilled and Doubtful, Unskilled and Time Poor, Disinterested, Skilled but Dismissive, and Capable but Unmotivated. Our results indicate that engagement specialists should not treat nonparticipating landholders as a single homogeneous group. Nonparticipators differ considerably in terms of their capabilities, opportunities, and motivations, and require targeted engagement strategies informed by these differences.</dc:description>
 </oai_dc:dc>

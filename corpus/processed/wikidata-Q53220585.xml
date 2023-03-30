@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q53220585</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q53220585</dc:identifier>
   <dc:identifier>doi:10.3109/13693786.2011.603102</dc:identifier>
   <dc:title>Impact of galactomannan testing on the prevalence of invasive aspergillosis in patients with hematological malignancies</dc:title>
@@ -16,8 +17,8 @@
   <dc:date>2011-09-12</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive aspergillosis</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>Galactomannan (GM) is a polysaccharide component of the cell wall of Aspergillus spp. and is released into the host's circulation by growing hyphae. GM testing of patients with hematological malignancies has been rarely considered in recent epidemiologic studies of invasive mould infections (IMIs). The aim of the investigation was to analyze the impact of GM testing on the reported prevalence of IMI by comparing detection rates of IMI before and after the introduction of this diagnostic procedure. Prevalence of IMI was assessed by conducting a prospective single-centre study over seven months in 2010. Results obtained were then compared to those obtained with a representative collection of patients assessed by the same investigators at the same institution over seven months in 2007, i.e., prior to the introduction of GM testing. We found that, in general, detection rates of invasive aspergillosis (IA) and invasive mould infections increased significantly after the introduction of GM analysis. This study may therefore indicate that GM testing has a significant impact on the reported prevalence of IMI. Broad usage of such testing in patients with hematological malignancies may be able to produce a realistic picture of IMI rates when current diagnostic criteria are applied.</dc:description>
 </oai_dc:dc>

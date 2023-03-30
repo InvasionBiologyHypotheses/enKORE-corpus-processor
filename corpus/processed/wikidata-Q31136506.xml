@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31136506</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q31136506</dc:identifier>
   <dc:identifier>doi:10.1007/S00442-007-0911-Z</dc:identifier>
   <dc:title>Rainfall facilitates the spread, and time alters the impact, of the invasive Argentine ant.</dc:title>
@@ -10,10 +11,9 @@
   <dc:type>journal article</dc:type>
   <dc:date>2007-11-15</dc:date>
   <dc:language>en</dc:language>
-  <dc:rights>http://www.springer.com/tdm</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Argentina</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>Climate change may exacerbate invasions by making conditions more favorable to introduced species relative to native species. Here we used data obtained during a long-term biannual survey of the distribution of ant species in a 481-ha preserve in northern California to assess the influence of interannual variation in rainfall on the spread of invasive Argentine ants, Linepithema humile, and the displacement of native ant species. Since the survey began in 1993, Argentine ants have expanded their range into 74 new hectares. Many invaded hectares were later abandoned, so the range of Argentine ants increased in some years and decreased in others. Rainfall predicted both range expansion and interannual changes in the distribution of Argentine ants: high rainfall, particularly in summer months, promoted their spread in the summer. This suggests that an increase in rainfall will promote a wider distribution of Argentine ants and increase their spread into new areas in California. Surprisingly, the distribution of two native ant species also increased following high rainfall, but only in areas of the preserve that were invaded by L. humile. Rainfall did not have a negative impact on total native ant species richness in invaded areas. Instead, native ant species richness in invaded areas increased significantly over the 13 years of observation. This suggests that the impact of Argentine ants on naïve ant communities may be most severe early in the invasion process.</dc:description>
 </oai_dc:dc>

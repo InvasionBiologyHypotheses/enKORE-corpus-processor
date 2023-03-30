@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97035125</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q97035125</dc:identifier>
   <dc:identifier>doi:10.1080/23802359.2020.1765709</dc:identifier>
   <dc:title>Complete mitogenome of the invasive land flatworm Parakontikia ventrolineata, the second Geoplanidae (Platyhelminthes) to display an unusually long cox2 gene</dc:title>
@@ -15,5 +16,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>Geoplanidae</dc:subject>
   <dc:publisher>Informa UK Limited</dc:publisher>
-  <dc:description>We sequenced the complete mitogenome of the invasive flatworm &lt;i&gt;Parakontikia ventrolineata&lt;/i&gt; (Platyhelminthes, order Tricladida, family Geoplanidae). The genome is 17,210 bp long, and displays common unusual characteristics shared with &lt;i&gt;Platydemus manokwari&lt;/i&gt;, such as its colinearity, an overlap between &lt;i&gt;ND4L&lt;/i&gt; and &lt;i&gt;ND4&lt;/i&gt; genes and an unusually long &lt;i&gt;cox2&lt;/i&gt; genes. Both &lt;i&gt;Parakontikia&lt;/i&gt; and &lt;i&gt;Platydemus&lt;/i&gt; are members of the subfamily Rhynchodeminae and their close relationships are supported by the maximum likelihood phylogeny inferred from the protein-coding genes.</dc:description>
+  <dc:description>We sequenced the complete mitogenome of the invasive flatworm Parakontikia ventrolineata (Platyhelminthes, order Tricladida, family Geoplanidae). The genome is 17,210bp long, and displays common unusual characteristics shared with Platydemus manokwari, such as its colinearity, an overlap between ND4L and ND4 genes and an unusually long cox2 genes. Both Parakontikia and Platydemus are members of the subfamily Rhynchodeminae and their close relationships are supported by the maximum likelihood phylogeny inferred from the protein-coding genes.</dc:description>
 </oai_dc:dc>

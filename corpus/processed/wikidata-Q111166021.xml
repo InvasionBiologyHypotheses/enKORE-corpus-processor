@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111166021</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q111166021</dc:identifier>
   <dc:identifier>doi:10.1017/S1742758417000091</dc:identifier>
   <dc:title>Impact of introduced parasitoid Cotesia vestalis (Hymenoptera: Braconidae) on Plutella xylostella (Lepidoptera: Plutellidae) and its parasitoid guild on kale in semi-arid areas in Kenya</dc:title>
@@ -10,6 +11,7 @@
   <dc:date>2017-06-27</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Cotesia vestalis</dc:subject>
   <dc:subject>Plutella xylostella</dc:subject>
   <dc:subject>invasive species</dc:subject>
@@ -19,5 +21,4 @@
   <dc:subject>Plutellidae</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;&lt;jats:italic&gt;Cotesia vestalis&lt;/jats:italic&gt;was introduced into Kenya from South Africa in March 2003 for biological control of&lt;jats:italic&gt;Plutella xylostella&lt;/jats:italic&gt;with initial release in 2004. To confirm establishment, the rate of spread beyond the release sites and parasitism rates by&lt;jats:italic&gt;C. vestalis&lt;/jats:italic&gt;were assessed between October 2011 and April 2012 in eastern and southeastern Kenya (Kitui, Mwingi/Yatta and Loitokitok areas). Monthly observations on kale infestation by diamondback moth, damage scores, parasitism and parasitoid guild were undertaken on 20 randomly selected plants in farmer-managed kale farms. Sampled larval and pupal stages were placed in containers and taken to the laboratory for parasitoid emergence. The infestation levels ranged from 0.4 to 2.5 DBM per plant, while damage scores ranged from 1.2 to 1.6, which correlated with the infestation levels.&lt;jats:italic&gt;Cotesia vestalis&lt;/jats:italic&gt;was not only the most abundant parasitoid, but it had also spread to new areas from the release sites. In December, the three sites recorded an average of 50% from&lt;jats:italic&gt;C. vestalis&lt;/jats:italic&gt;. Excluding the exotic parasitoids&lt;jats:italic&gt;C&lt;/jats:italic&gt;.&lt;jats:italic&gt;vestalis&lt;/jats:italic&gt;and&lt;jats:italic&gt;D. semiclausum&lt;/jats:italic&gt;, indigenous parasitoids accounted for less than 5% total parasitism. The parasitoid guild of the diamondback moth varied between months and study sites with January recording the highest species diversity and evenness of 1.15 and 0.63, 1.28 and 0.80, 1.08 and 0.47 in Loitokitok, Kitui and Mwingi/Matuu, respectively. Therefore,&lt;jats:italic&gt;C&lt;/jats:italic&gt;.&lt;jats:italic&gt;vestalis&lt;/jats:italic&gt;had an impact on the management of the DBM with parasitism rate of 35% to 88% and had spread beyond the release sites.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

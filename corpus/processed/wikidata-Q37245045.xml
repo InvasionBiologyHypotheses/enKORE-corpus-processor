@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37245045</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q37245045</dc:identifier>
   <dc:identifier>doi:10.1073/PNAS.0902252106</dc:identifier>
   <dc:title>Invasive hybrid tiger salamander genotypes impact native amphibians</dc:title>
@@ -10,19 +11,7 @@
   <dc:date>2009-06-29</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-            Although the ecological consequences of species invasions are well studied, the ecological impacts of genetic introgression through hybridization are less understood. This is particularly true of the impacts of hybridization on “third party” community members not genetically involved in hybridization. We also know little about how direct interactions between hybrid and parental individuals influence fitness. Here, we examined the ecological effects of hybridization between the native, threatened California Tiger Salamander (
-            &lt;jats:italic&gt;Ambystoma californiense&lt;/jats:italic&gt;
-            ) and the introduced Barred Tiger Salamander (
-            &lt;jats:italic&gt;Ambystoma tigrinum mavortium&lt;/jats:italic&gt;
-            ). Native x introduced hybrids are widespread in California, where they are top predators in seasonal ponds. We examined the impacts of early generation hybrids (first 2 generations of parental crosses) and contemporary hybrids derived from ponds where hybrids have been under selection in the wild for 20 generations. We found that most classes of hybrid tiger salamander larvae dramatically reduced survival of 2 native community members, the Pacific Chorus Frog (
-            &lt;jats:italic&gt;Pseudacris regilla&lt;/jats:italic&gt;
-            ) and the California Newt (
-            &lt;jats:italic&gt;Taricha torosa&lt;/jats:italic&gt;
-            ). We also found that native
-            &lt;jats:italic&gt;A. californiense&lt;/jats:italic&gt;
-            larvae were negatively impacted by the presence of hybrid larvae: Native survival and size at metamorphosis were reduced and time to metamorphosis was extended. We also observed a large influence of Mendelian dominance on size, metamorphic timing and predation rate of hybrid tiger salamanders. These results suggest that both genetic and ecological factors are likely to influence the dynamics of admixture, and that tiger salamander hybridization might constitute a threat to additional pond-breeding species of concern in the region.
-          &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

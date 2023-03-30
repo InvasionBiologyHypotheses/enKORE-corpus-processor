@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114102288</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114102288</dc:identifier>
   <dc:identifier>doi:10.1071/PC19030</dc:identifier>
   <dc:title>Social and logistical challenges in managing invasive predators: insights from islands in Japan and New Zealand</dc:title>
@@ -9,9 +10,7 @@
   <dc:date>2020-07-02</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-Managing the impacts of invasive predators on islands is a priority for conserving global biodiversity. However, large islands and islands with substantial human settlement present particular challenges that can be broadly categorised as social and logistical. Around the world, managers concerned with island biodiversity are tackling increasingly ambitious projects, and some examples from Japan and New Zealand have been at the forefront. We used dialogues with managers, researchers, and community members, as well as our respective experience as wildlife researchers in Japan and New Zealand, to compare the challenges faced by wildlife managers in each country. We note similarities and differences between the two countries, and identify lessons from each that will help advance invasive species management on islands globally. Our observations from Japan and New Zealand show that considerable progress has been made in managing invasive predators on large, inhabited islands. Further progress will require more effective engagement with island residents to promote the goals of invasive species management, to find common ground, and to ensure that management is socially and culturally acceptable.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

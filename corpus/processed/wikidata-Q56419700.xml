@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56419700</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56419700</dc:identifier>
   <dc:identifier>doi:10.1146/ANNUREV-ENVIRON-110615-085532</dc:identifier>
   <dc:title>Risk Analysis and Bioeconomics of Invasive Species to Inform Policy and Management</dc:title>
@@ -38,10 +39,10 @@
   <dc:date>2016-11</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>risk analysis</dc:subject>
   <dc:subject>invasive species management</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Annual Reviews</dc:publisher>
-  <dc:description>&lt;jats:p&gt; Risk analysis of species invasions links biology and economics, is increasingly mandated by international and national policies, and enables improved management of invasive species. Biological invasions proceed through a series of transition probabilities (i.e., introduction, establishment, spread, and impact), and each of these presents opportunities for management. Recent research advances have improved estimates of probability and associated uncertainty. Improvements have come from species-specific trait-based risk assessments (of estimates of introduction, establishment, spread, and impact probabilities, especially from pathways of commerce in living organisms), spatially explicit dispersal models (introduction and spread, especially from transportation pathways), and species distribution models (establishment, spread, and impact). Results of these forecasting models combined with improved and cheaper surveillance technologies and practices [e.g., environmental DNA (eDNA), drones, citizen science] enable more efficient management by focusing surveillance, prevention, eradication, and control efforts on the highest-risk species and locations. Bioeconomic models account for the interacting dynamics within and between ecological and economic systems, and allow decision makers to better understand the financial consequences of alternative management strategies. In general, recent research advances demonstrate that prevention is the policy with the greatest long-term net benefit. &lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

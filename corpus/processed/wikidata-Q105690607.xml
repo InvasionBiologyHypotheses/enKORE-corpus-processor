@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q105690607</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q105690607</dc:identifier>
   <dc:identifier>doi:10.3897/ZOOLOGIA.37.E50834</dc:identifier>
   <dc:title>The puzzling occurrence of the upside-down jellyfish Cassiopea (Cnidaria: Scyphozoa) along the Brazilian coast: a result of several invasion events?</dc:title>
@@ -20,5 +21,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>coastal invasion</dc:subject>
   <dc:publisher>FapUNIFESP (SciELO)</dc:publisher>
-  <dc:description>&lt;jats:p&gt;The massive occurrence of jellyfish in several areas of the world is reported annually, but most of the data come from the northern hemisphere and often refer to a restricted group of species that are not in the genus &lt;jats:italic&gt;Cassiopea&lt;/jats:italic&gt;. This study records a massive, clonal and non-native population of &lt;jats:italic&gt;Cassiopea&lt;/jats:italic&gt; and discusses the possible scenarios that resulted in the invasion of the Brazilian coast by these organisms. The results indicate that this jellyfish might have invaded the Brazilian coast multiple times.&lt;/jats:p&gt;</dc:description>
+  <dc:description>The massive occurrence of jellyfish in several areas of the world is reported annually, but most of the data come from the northern hemisphere and often refer to a restricted group of species that are not in the genus Cassiopea. This study records a massive, clonal and non-native population of Cassiopea and discusses the possible scenarios that resulted in the invasion of the Brazilian coast by these organisms. The results indicate that this jellyfish might have invaded the Brazilian coast multiple times.</dc:description>
 </oai_dc:dc>

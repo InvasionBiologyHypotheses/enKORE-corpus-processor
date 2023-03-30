@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33742554</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q33742554</dc:identifier>
   <dc:identifier>doi:10.1603/EC10140</dc:identifier>
   <dc:title>What does "local" firewood buy you? Managing the risk of invasive species introduction</dc:title>
@@ -11,10 +12,10 @@
   <dc:date>2010-10-01</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion biology</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>species introduction</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>Firewood can serve as a vector in the transport of non-native species, including wood-boring insects that feed within the wood and thus can be transported accidentally. Governments have enacted limitations on the movement of firewood in an effort to limit the anthropogenic movement of non-native species through, for example, recreational camping. Although the movement of invasive species through firewood is a documented invasion pathway, it is not trivial for governments to determine a "safe" allowable distance for moving firewood. We were motivated by this challenge and developed a theoretical simulation to determine the campgrounds that could be potentially exposed to infested firewood based upon the hypothetical distribution of an invasive species and the allowable distance for moving firewood. We extend this concept to the known distributions of emerald ash borer, Agrilus planipennis Fairmaire (Coleoptera: Buprestidae) and Asian longhorned beetle, Anoplophora glabripennis (Motschulsky) Coleoptera: Cerambycidae). We illustrate, based upon theoretical and empirical observations, that as the distribution of an invasive species increases, more rigid constraints on the movement of firewood would be required relative to those species that are distributed over a smaller scale. Also, on the level of management within a state, smaller states have far less margin for error than larger ones, as even extremely rigid restrictions on the movement of firewood could have little management effect unless the infested area is spatially limited. These results collectively suggest the potential for a dynamic management strategy that adjusts allowable distances for firewood movement based upon the distribution of the non-native species.</dc:description>
 </oai_dc:dc>

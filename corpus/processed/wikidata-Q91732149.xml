@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91732149</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q91732149</dc:identifier>
   <dc:identifier>doi:10.1093/TREEPHYS/TPAA042</dc:identifier>
   <dc:title>Impacts of experimental defoliation on native and invasive saplings: are native species more resilient to canopy disturbance?</dc:title>
@@ -9,9 +10,8 @@
   <dc:date>2020-04-09</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>native species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
-               &lt;jats:p&gt;Many non-native, invasive woody species in mesic forests of North America are both shade tolerant and more productive than their native counterparts, but their ability to tolerate disturbances remains unclear. In particular, complete defoliation associated with herbivory and extreme weather events may have larger impacts on invaders if natives maintain greater resource reserves to support regrowth. On the other hand, invaders may be more resilient to partial defoliation by means of upregulation of photosynthesis or may be better able to take advantage of canopy gaps to support refoliation. Across a light gradient, we measured radial growth, new leaf production, non-structural carbohydrates (NSCs), chlorophyll content and survival in response to varying levels of defoliation in saplings of two native and two invasive species that commonly co-occur in deciduous forests of Eastern North America. Individuals were subjected to one of the four leaf removal treatments: no-defoliation controls, 50% defoliation over three growing seasons, 100% defoliation over one growing season and 100% defoliation over two growing seasons. Contrary to our hypothesis, native and invasive species generally did not differ in defoliation responses, although invasive species experienced more pronounced decreases in leaf chlorophyll following full defoliation and native species’ survival was more dependent on light availability. Radial growth progressively decreased with increasing defoliation intensity, and refoliation mass was largely a function of sapling size. Survival rates for half-defoliated saplings did not differ from controls (90% of saplings survived), but survival rates in fully defoliated individuals over one and two growing seasons were reduced to 45 and 15%, respectively. Surviving defoliated saplings generally maintained control NSC concentrations. Under high light, chlorophyll concentrations were higher in half-defoliated saplings compared with controls, which may suggest photosynthetic upregulation. Our results indicate that native and invasive species respond similarly to defoliation, despite the generally faster growth strategy of invaders.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110625858</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110625858</dc:identifier>
   <dc:identifier>doi:10.1080/14634988.2017.1397483</dc:identifier>
   <dc:title>Traits and impacts of invasive species: Myths and evidences from the perspective of introduced freshwater Mussels</dc:title>
@@ -8,10 +9,10 @@
   <dc:date>2017-10-30</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>invasive trait</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Michigan State University Press</dc:publisher>
-  <dc:description>&lt;jats:p&gt;While invasion success is usually associated with the biological fitness of the invader and environmental similarity between the area of origin and the invaded range, some of the most notorious aquatic invasions involve species with traits that for millions of years were a burden, rather than an advantage, for their survival. These odd characteristics became major assets after man started reshaping the surface of the earth, facilitating their spread. Invasion risk-assessment models, chiefly based on environmental match parameters, are unlikely to predict the dispersion of these (and probably many other) species, whose invasive nature involves subtle and intricate mechanisms that operate at levels normally ignored by (and often unknown to) the models. Much of the literature on introduced species is focused on demonstrating their negative impacts on the ecosystems invaded. While the fact that invasive organisms can, and very often do, have enormous negative impacts, is beyond doubt, and all efforts possible for keeping biological invasions at bay should be made, once the introduction happens and the eradication of the invader is unfeasible, research efforts should be centered on objective analyses of how the invader interacts with the new ecosystem, untainted by efforts to forcibly demonstrate its negative impact.&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>

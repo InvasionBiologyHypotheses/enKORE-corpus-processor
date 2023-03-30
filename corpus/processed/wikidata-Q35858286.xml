@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35858286</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q35858286</dc:identifier>
   <dc:identifier>doi:10.1093/EE/NVV179</dc:identifier>
   <dc:title>Impacts of the Adventive Psyllid Arytainilla spartiophila (Hemiptera: Psyllidae) on Growth of the Invasive Weed Cytisus scoparius Under Controlled and Field Conditions in California</dc:title>
@@ -10,6 +11,7 @@
   <dc:date>2015-11-30</dc:date>
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>Arytainilla spartiophila</dc:subject>
   <dc:subject>California</dc:subject>
   <dc:subject>invasive weed</dc:subject>
@@ -18,5 +20,4 @@
   <dc:subject>Hemiptera</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Oxford University Press (OUP)</dc:publisher>
-  <dc:description>The postrelease impact of weed biological control agents on their target weeds is rarely assessed. This study focuses on the impacts of the univoltine broom psyllid Arytainilla spartiophila Forster on the growth of its target weed, the invasive shrub Scotch broom, Cytisus scoparius (L.) Link (Fabaceae), in California. Arytainilla spartiophila is an adventive species that has been present in North America for several decades. In a greenhouse experiment, plant growth as measured by both height and total stem length (height + length of all branches) was reduced on plants that received psyllids, and psyllid densities were negatively correlated to proportional change in plant height. There were no effects on number of leaves, however. Furthermore, the psyllid had no statistically detectable impacts on plant growth parameters in a field experiment, underscoring how results obtained under controlled conditions may not fully predict the performance of biological control agents in the field. The high psyllid mortality that occurred at higher psyllid densities in both the greenhouse and the field suggests that the impacts of A. spartiophila may be moderated by intraspecific competition.</dc:description>
 </oai_dc:dc>

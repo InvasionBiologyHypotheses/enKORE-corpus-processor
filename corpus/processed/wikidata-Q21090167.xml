@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21090167</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q21090167</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011680</dc:identifier>
   <dc:identifier>doi:10.1371/JOURNAL.PBIO.1001850</dc:identifier>
@@ -12,10 +13,10 @@
   <dc:creator>Kühn, Ingolf</dc:creator>
   <dc:creator>Kumschick, Sabrina</dc:creator>
   <dc:creator>Marková, Zuzana</dc:creator>
-  <dc:creator>Mrugała, Agata</dc:creator>
+  <dc:creator>Mrugaa, Agata</dc:creator>
   <dc:creator>Nentwig, Wolfgang</dc:creator>
   <dc:creator>Pergl, Jan</dc:creator>
-  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Pyek, Petr</dc:creator>
   <dc:creator>Rabitsch, Wolfgang</dc:creator>
   <dc:creator>Ricciardi, Anthony</dc:creator>
   <dc:creator>Richardson, David M</dc:creator>
@@ -30,6 +31,7 @@
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>environmental effects</dc:subject>
   <dc:subject>introduced species</dc:subject>

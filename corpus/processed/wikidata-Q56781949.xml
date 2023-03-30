@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56781949</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56781949</dc:identifier>
   <dc:identifier>doi:10.1071/WF05074</dc:identifier>
   <dc:title>Establishment of non-native plant species after wildfires: effects of fuel treatments, abiotic and biotic factors, and post-fire grass seeding treatments</dc:title>
@@ -20,8 +21,4 @@
   <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>wildfire</dc:subject>
   <dc:publisher>CSIRO Publishing</dc:publisher>
-  <dc:description>&lt;jats:p&gt;
-
-Establishment and spread of non-native species following wildfires can pose threats to long-term native plant recovery. Factors such as disturbance severity, resource availability, and propagule pressure may influence where non-native species establish in burned areas. In addition, pre- and post-fire management activities may influence the likelihood of non-native species establishment. In the present study we examine the establishment of non-native species after wildfires in relation to native species richness, fire severity, dominant native plant cover, resource availability, and pre- and post-fire management actions (fuel treatments and post-fire rehabilitation treatments). We used an information-theoretic approach to compare alternative hypotheses. We analysed post-fire effects at multiple scales at three wildfires in Colorado and New Mexico. For large and small spatial scales at all fires, fire severity was the most consistent predictor of non-native species cover. Non-native species cover was also correlated with high native species richness, low native dominant species cover, and high seeded grass cover. There was a positive, but non-significant, association of non-native species with fuel-treated areas at one wildfire. While there may be some potential for fuels treatments to promote non-native species establishment, wildfire and post-fire seeding treatments seem to have a larger impact on non-native species.
-&lt;/jats:p&gt;</dc:description>
 </oai_dc:dc>
