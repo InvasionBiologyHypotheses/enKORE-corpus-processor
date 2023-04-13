@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58129909</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q58129909</dc:identifier>
+  <dc:identifier>doi:10.1186/S12859-018-2272-5</dc:identifier>
+  <dc:title>Big data analysis for evaluating bioinvasion risk</dc:title>
+  <dc:creator>Wang, Shengling</dc:creator>
+  <dc:creator>Wang, Chenyu</dc:creator>
+  <dc:creator>Wang, Shenling</dc:creator>
+  <dc:creator>Liran</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-08-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>big data</dc:subject>
+  <dc:subject>applied mathematics</dc:subject>
+  <dc:subject>molecular biology</dc:subject>
+  <dc:subject>structural biology</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>BackgroundGlobal maritime trade plays an important role in the modern transportation industry. It brings significant economic profit along with bioinvasion risk. Species translocate and establish in a non-native area through ballast water and biofouling. Aiming at aquatic bioinvasion issue, people proposed various suggestions for bioinvasion management. Nonetheless, these suggestions only focus on the chance of a port been affected but ignore the port's ability to further spread the invaded species.ResultsTo tackle the issues of the existing work, we propose a biosecurity triggering mechanism, where the bioinvasion risk of a port is estimated according to both the invaded risk of a port and its power of being a stepping-stone. To compute the invaded risk, we utilize the automatic identification system data, the ballast water data and marine environmental data. According to the invaded risk of ports, we construct a species invasion network (SIN). The incoming bioinvasion risk is derived from invaded risk data while the invasion risk spreading capability of each port is evaluated by s-core decomposition of SIN.ConclusionsWe illustrate 100 ports in the world that have the highest bioinvasion risk when the invaded risk and stepping-stone bioinvasion risk are equally treated. There are two bioinvasion risk intensive regions, namely the Western Europe (including the Western European margin and the Mediterranean) and the Asia-Pacific, which are just the region with a high growth rate of non-indigenous species and the area that has been identified as a source for many of non-indigenous species discovered elsewhere (especially the Asian clam, which is assumed to be the most invasive species worldwide).</dc:description>
+</oai_dc:dc>

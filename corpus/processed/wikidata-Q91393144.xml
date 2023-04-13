@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91393144</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91393144</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003831</dc:identifier>
+  <dc:identifier>doi:10.1111/MEC.15313</dc:identifier>
+  <dc:title>Genomic footprints of a biological invasion: Introduction from Asia and dispersal in Europe of the topmouth gudgeon (Pseudorasbora parva)</dc:title>
+  <dc:creator>Baltazar-Soares, Miguel</dc:creator>
+  <dc:creator>Blanchet, Simon</dc:creator>
+  <dc:creator>Cote, Julien</dc:creator>
+  <dc:creator>Tarkan, Ali S</dc:creator>
+  <dc:creator>Záhorská, Eva</dc:creator>
+  <dc:creator>Gozlan, Rodolphe Elie</dc:creator>
+  <dc:creator>Eizaguirre, Christophe</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-12-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>Pseudorasbora parva</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Facilitated by the intensification of global trading, the introduction and dispersal of species to areas in which they are historically non-native is nowadays common. From an evolutionary standpoint, invasions are paradoxical: not only non-native environments could be different from native ones for which introduced individuals would be ill-adapted, but also small founding population size should be associated with reduced adaptive potential. As such, biological invasions are considered valuable real-time evolutionary experiments. Here, we investigated the population structure and adaptive potential of the highly invasive topmouth gudgeon (Pseudorasbora parva) across Europe and East Asia. We RAD-sequenced 301 specimens from sixteen populations and three distinct within-catchment invaded regions as well as two locations in the native range. With 13,785 single nucleotide polymorphisms, we provide conclusive evidence for a genome-wide signature of two distinct invasion events, in Slovakia and Turkey, each originating from a specific area in the native range. A third invaded area, in France, appears to be the result of dispersal within the invasive range. Few loci showed signs of selection, the vast majority of which being identified in the Slovakian region. Functional annotation suggests that faster early stage development, resistance to pollution and immunocompetence contribute to the invasion success of the local habitats. By showing that populations in the invasive range have different evolutionary histories, our study reinforces the idea that populations, rather than species, are the units to consider in invasion biology.</dc:description>
+</oai_dc:dc>

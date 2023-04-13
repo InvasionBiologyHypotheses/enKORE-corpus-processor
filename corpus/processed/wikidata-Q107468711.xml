@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107468711</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q107468711</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.63.50049</dc:identifier>
+  <dc:title>A classification system for predicting invasiveness using climatic niche traits and global distribution models: application to alien plant species in Chile</dc:title>
+  <dc:creator>O. Bustamante, Ramiro</dc:creator>
+  <dc:creator>Alves, Lúa</dc:creator>
+  <dc:creator>Goncalves, Estefany</dc:creator>
+  <dc:creator>Duarte, Milen</dc:creator>
+  <dc:creator>Herrera, Ileana</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:subject>invasive trait</dc:subject>
+  <dc:subject>climatic niche</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Functional traits that predict plant invasiveness are a central issue in invasion ecology. However, in many cases they are difficult to determine, especially for a large set of species. Climatic niche traits can overcome this problem due to the ease of acquiring them for a large number of species. This effort is critical given that knowledge of species invasiveness is necessary (although not sufficient) to anticipate/manage invasive species.
+          In this study, we examined thermal and hydric niche traits to predict plant invasiveness. We used a set of 49 alien plant species, representative of the alien flora of Chile. Niche traits were obtained using environmental information (WorldClim) and global occurrences. Invasiveness was estimated using global niche models and projection of the potential distribution in Chile. As a final step, we reviewed the literature for a subset of species, documenting their impacts on a) biodiversity, b) crop agriculture and c) livestock.
+          Thermal niche breadth and thermal niche position were the most important niche traits to predict potential distribution (a proxy of invasiveness). Using thermal niche breadth and niche position traits, we constructed a graphical model that classifies alien species as highly invasive (wide thermal niche breadth and low niche position) or low potential to be invasive (narrow niche breadth and high niche position). We also found no association between our invasiveness classification and the documented impact of alien species.</dc:description>
+</oai_dc:dc>

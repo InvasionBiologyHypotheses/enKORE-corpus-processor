@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114955647</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114955647</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-022-02903-6</dc:identifier>
+  <dc:title>More time for aliens? Performance shifts lead to increased activity time budgets propelling invasion success</dc:title>
+  <dc:creator>Ginal, Philipp</dc:creator>
+  <dc:creator>Kruger, Natasha</dc:creator>
+  <dc:creator>Wagener, Carla</dc:creator>
+  <dc:creator>Araspin, Laurie</dc:creator>
+  <dc:creator>Mokhatla, Mohlamatsane</dc:creator>
+  <dc:creator>Secondi, Jean</dc:creator>
+  <dc:creator>Herrel, Anthony</dc:creator>
+  <dc:creator>Measey, John</dc:creator>
+  <dc:creator>Rödder, Dennis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-09-22</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractIn the Grinnellian niche concept, the realized niche and potential distribution is characterized as an interplay among the fundamental niche, biotic interactions and geographic accessibility. Climate is one of the main drivers for this concept and is essential to predict a taxon’s distribution. Mechanistic approaches can be useful tools, which use fitness-related aspects like locomotor performance and critical thermal limits to predict the potential distribution of an organism. These mechanistic approaches allow the inclusion key ecological processes like local adaptation and can account for thermal performance traits of different life-history stages. The African Clawed Frog, Xenopus laevis, is a highly invasive species occurring on five continents. The French population is of special interest due to an ongoing expansion for 40years and a broad base of knowledge. We hypothesize that(1) the French population exhibits increased activity time in the invasive European range that could be devoted to fitness-relevant activity and (2) tadpoles may have less activity time available than adult frogs from the same range. We investigate how thermal performance traits translate into activity time budgets and how local adaptation and differences in the thermal responses of life-history stages may boost the European Xenopus invasion. We use a mechanistic approach based on generalized additive mixed models, where thermal performance curves were used to predict the hours of activity and to compare the potential activity time budgets for two life-history stages of native and invasive populations. Our results show that adult French frogs have more activity time available in Europe compared to South African frogs, which might be an advantage in searching for prey or escaping from predators. However, French tadpoles do not have more activity time in Europe compared to the native South African populations suggesting that tadpoles do not suffer the same strong selective pressure as adult frogs.</dc:description>
+</oai_dc:dc>

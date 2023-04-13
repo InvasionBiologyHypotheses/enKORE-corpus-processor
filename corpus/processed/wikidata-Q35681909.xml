@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35681909</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35681909</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490395</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP11877</dc:identifier>
+  <dc:title>Temporal Genetic Dynamics of an Invasive Species, Frankliniella occidentalis (Pergande), in an Early Phase of Establishment</dc:title>
+  <dc:creator>Yang, Xian-Ming</dc:creator>
+  <dc:creator>Lou, Heng</dc:creator>
+  <dc:creator>Sun, Jing-Tao</dc:creator>
+  <dc:creator>Zhu, Yi-Ming</dc:creator>
+  <dc:creator>Xue, Xiao-Feng</dc:creator>
+  <dc:creator>Hong, Xiao-Yue</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-07-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>Frankliniella occidentalis</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractMany species can successfully colonize new areas despite their propagules having low genetic variation. We assessed whether the decreased genetic diversity could result in temporal fluctuations of genetic parameters of the new populations of an invasive species, western flower thrips, Frankliniella occidentalis, using mitochondrial and microsatellite markers. This study was conducted in eight localities from four climate regions in China, where F. occidentalis was introduced in the year 2000 and had lower genetic diversity than its native populations. We also tested the level of genetic differentiation in these introduced populations. The genetic diversity of the samples at different years in the same locality was not significantly different from each other in most localities. FST and STRUCTURE analysis also showed that most temporal population comparisons from the same sites were not significantly differentiated. Our results showed that the invasive populations of F. occidentalis in China can maintain temporal stability in genetic composition at an early phase of establishment despite having lower genetic diversity than in their native range.</dc:description>
+</oai_dc:dc>
