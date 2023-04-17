@@ -891,19 +891,45 @@ async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
 
   dl.debug(`Log(run_cron_option1): Started cron`);
 
+    // #################################################
+    // ##### Adjusting weekday from word to number #####
+    let weekday_1number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+    if (weekday1 == "Monday" || weekday1 == "monday" || weekday1 == "Mon" || weekday1 == "mon") { weekday_1number++; }
+    if (weekday1 == "Tuesday" || weekday1 == "tuesday" || weekday1 == "Tue" || weekday1 == "tue") { weekday_1number+=2; }
+    if (weekday1 == "Wednesday" || weekday1 == "wednesday" || weekday1 == "Wed" || weekday1 == "wed") { weekday_1number+=3; }
+    if (weekday1 == "Thursday" || weekday1 == "thursday" || weekday1 == "Thu" || weekday1 == "thu") { weekday_1number+=4; }
+    if (weekday1 == "Friday" || weekday1 == "friday" || weekday1 == "Fri" || weekday1 == "fri") { weekday_1number+=5; }
+    if (weekday1 == "Saturday" || weekday1 == "saturday" || weekday1 == "Sat" || weekday1 == "sat") { weekday_1number+=6; }
+    if (weekday1 == "Sunday" || weekday1 == "sunday" || weekday1 == "Sun" || weekday1 == "sun") { weekday_1number+=7; }
+    const weekday_1string = weekday_1number.toString();
+    // #################################################
+
+    // #################################################
+    // ##### Adjusting weekday from word to number #####
+    let weekday_2number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+    if (weekday2 == "Monday" || weekday2 == "monday" || weekday2 == "Mon" || weekday2 == "mon") { weekday_2number++; }
+    if (weekday2 == "Tuesday" || weekday2 == "tuesday" || weekday2 == "Tue" || weekday2 == "tue") { weekday_2number+=2; }
+    if (weekday2 == "Wednesday" || weekday2 == "wednesday" || weekday2 == "Wed" || weekday2 == "wed") { weekday_2number+=3; }
+    if (weekday2 == "Thursday" || weekday2 == "thursday" || weekday2 == "Thu" || weekday2 == "thu") { weekday_2number+=4; }
+    if (weekday2 == "Friday" || weekday2 == "friday" || weekday2 == "Fri" || weekday2 == "fri") { weekday_2number+=5; }
+    if (weekday2 == "Saturday" || weekday2 == "saturday" || weekday2 == "Sat" || weekday2 == "sat") { weekday_2number+=6; }
+    if (weekday2 == "Sunday" || weekday2 == "sunday" || weekday2 == "Sun" || weekday2 == "sun") { weekday_2number+=7; }
+    const weekday_2string = weekday_2number.toString();
+    // #################################################
+
   // ##### passed variables: Function-1
   const sec_1 = sec1;
   const min_1 = min1;
   const hr_1 = hr1; // ##### Note: 24format
-  const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-  const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1 + '';
+  //const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1string + '';
 
   // ##### passed variables: Function-2
   const sec_2 = sec2;
   const min_2 = min2;
   const hr_2 = hr2; // ##### Note: 24format
-  const weekday_2 = weekday2; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-  const cron_string_control2 = '' + sec_2 + ' ' + min_2 + ' ' + hr_2 + ' * * */' + weekday_2 + '';
+  //const weekday_2 = weekday2; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const cron_string_control2 = '' + sec_2 + ' ' + min_2 + ' ' + hr_2 + ' * * */' + weekday_2string + '';
 
   // ##### Function-1
   cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option1): to process main()!`); main(); });
@@ -925,12 +951,12 @@ if (c1 == true && c2 == false && c3 == false) {
   const sec1 = "1";
   const min1 = "56";
   const hr1 = "6"; // ##### Note: 24format
-  const weekday1 = "7"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const weekday1 = "Monday"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7). Adjusted inside function.
   // ##### Input: Function-2
   const sec2 = "1";
   const min2 = "57";
   const hr2 = "7"; // ##### Note: 24format
-  const weekday2 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  const weekday2 = "Monday"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7). Adjusted inside function.
   
   // ##### Function to call Functions
   run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2);
