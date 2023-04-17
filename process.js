@@ -894,14 +894,14 @@ async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
   // ##### passed variables: Function-1
   const sec_1 = sec1;
   const min_1 = min1;
-  const hr_1 = hr1;
+  const hr_1 = hr1; // ##### Note: 24format
   const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1 + '';
 
   // ##### passed variables: Function-2
   const sec_2 = sec2;
   const min_2 = min2;
-  const hr_2 = hr2;
+  const hr_2 = hr2; // ##### Note: 24format
   const weekday_2 = weekday2; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   const cron_string_control2 = '' + sec_2 + ' ' + min_2 + ' ' + hr_2 + ' * * */' + weekday_2 + '';
 
@@ -924,12 +924,12 @@ if (c1 == true && c2 == false && c3 == false) {
   // ##### Input: Function-1
   const sec1 = "1";
   const min1 = "56";
-  const hr1 = "6";
+  const hr1 = "6"; // ##### Note: 24format
   const weekday1 = "7"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   // ##### Input: Function-2
   const sec2 = "1";
   const min2 = "57";
-  const hr2 = "7";
+  const hr2 = "7"; // ##### Note: 24format
   const weekday2 = "6"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
   
   // ##### Function to call Functions
