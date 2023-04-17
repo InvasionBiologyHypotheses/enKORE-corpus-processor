@@ -84,25 +84,25 @@ async function run_cron_option1(sec1,min1,hr1,weekday1) {
 
     console.log(`Log(run_cron_option1): Started cron`);  
 
-    let weekday_1n = 0; // ##### Note: increments will define the weekday
-    // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+    // #################################################
+    // ##### Adjusting weekday from word to number #####
+    let weekday_1number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+    if (weekday1 == "Monday" || weekday1 == "monday" || weekday1 == "Mon" || weekday1 == "mon") { weekday_1number++; }
+    if (weekday1 == "Tuesday" || weekday1 == "tuesday" || weekday1 == "Tue" || weekday1 == "tue") { weekday_1number+=2; }
+    if (weekday1 == "Wednesday" || weekday1 == "wednesday" || weekday1 == "Wed" || weekday1 == "wed") { weekday_1number+=3; }
+    if (weekday1 == "Thursday" || weekday1 == "thursday" || weekday1 == "Thu" || weekday1 == "thu") { weekday_1number+=4; }
+    if (weekday1 == "Friday" || weekday1 == "friday" || weekday1 == "Fri" || weekday1 == "fri") { weekday_1number+=5; }
+    if (weekday1 == "Saturday" || weekday1 == "saturday" || weekday1 == "Sat" || weekday1 == "sat") { weekday_1number+=6; }
+    if (weekday1 == "Sunday" || weekday1 == "sunday" || weekday1 == "Sun" || weekday1 == "sun") { weekday_1number+=7; }
+    const weekday_1string = weekday_1number.toString();
+    // #################################################
 
-    if (weekday1 == "Monday" || weekday1 == "monday" || weekday1 == "Mon" || weekday1 == "mon") { weekday_1n++; }
-    if (weekday1 == "Tuesday" || weekday1 == "tuesday" || weekday1 == "Tue" || weekday1 == "tue") { weekday_1n+=2; }
-    if (weekday1 == "Wednesday" || weekday1 == "wednesday" || weekday1 == "Wed" || weekday1 == "wed") { weekday_1n+=3; }
-    if (weekday1 == "Thursday" || weekday1 == "thursday" || weekday1 == "Thu" || weekday1 == "thu") { weekday_1n+=4; }
-    if (weekday1 == "Friday" || weekday1 == "friday" || weekday1 == "Fri" || weekday1 == "fri") { weekday_1n+=5; }
-    if (weekday1 == "Saturday" || weekday1 == "saturday" || weekday1 == "Sat" || weekday1 == "sat") { weekday_1n+=6; }
-    if (weekday1 == "Sunday" || weekday1 == "sunday" || weekday1 == "Sun" || weekday1 == "sun") { weekday_1n+=7; }
-
-    const weekday_1 = weekday_1n.toString();
-  
     // ##### passed variables: Function-1
     const sec_1 = sec1;
     const min_1 = min1;
     const hr_1 = hr1;
     // const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-    const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1 + '';
+    const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1string + '';
   
     // ##### Function-1
     cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option1): to process run_gitpull()!`); run_gitpull(); });
@@ -114,8 +114,8 @@ async function run_cron_option1(sec1,min1,hr1,weekday1) {
 
 // ##### Input: Function-1
 const sec1 = "1";
-const min1 = "12";
-const hr1 = "13"; // ##### Note: 24format
+const min1 = "30";
+const hr1 = "19"; // ##### Note: 24format
 const weekday1 = "Monday"; 
 // ##### Note: It has been adjusted inside the function so use words (e.g. Monday, or monday, or Mon, or mon)
 // ##### Note: Before it was required to apply numbers. For example, Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7). 
