@@ -357,8 +357,8 @@ async function XMLvalidation_All() {
     // dl.debug("============");
 
     const filename = `./corpus/processed/${files_list_i}`;
-    dl.debug("============");
-    dl.debug(filename);
+    dl.debug("Log(XMLvalidation_All): ============");
+    dl.debug(`Log(XMLvalidation_All): ${filename}`);
 
     // ##### Note: Temporary txt file to store  XML string content
     const filename_temp = './corpus/processed/TEMP.txt';
@@ -390,74 +390,181 @@ async function XMLvalidation_All() {
     // ##### Note: We are now assessing its validation
     // ##### Note: Variable (content_string)
     // ##### https://learn.microsoft.com/en-us/dotnet/standard/data/xml/xml-schema-xsd-validation-with-xmlschemaset (For C#)
-    
 
-    // #########################################
-    // ##### Note: OPTION-1: XML validator #####
-    // #########################################
-    // ##### Note: You must have jsdom for DOM checking (see error message).
-    // ##### https://stackoverflow.com/questions/6334119/check-for-xml-errors-using-javascript
 
-    // ##### Note: Once it runs fine, just place in function!
-    try {
+    // ##### Note: Function for validating XML files.
 
-      const jsdom = require("jsdom");
-      dl.debug('PASSED: Module (jsdom) is available.');
+    function XML_validator_option1(content_string) {
 
-    } catch(err) {
-    
-      dl.debug('FAILED: You must install module (jsdom), which is currently missing.');
-      dl.debug('For Ubuntu (check your distribution), run the following lines.');
-      dl.debug('Line: $ sudo apt install npm');
-      dl.debug('Line: $ npm install jsdom');
-      dl.debug('Line: $ npm install xmlhttprequest');
+      // ################################################
+      // ##### Note: OPTION-1: XML hand-implemented #####
+      // ################################################
+
+      const content_string2 = content_string;
+
+      let content_string3 = content_string2.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
+
+      dl.debug('Log(XMLvalidation_All): #################################');
+      dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
+
+      console.log(content_string3);
+      dl.debug('Log(XMLvalidation_All): #################################');
+
+      // ##### Note: List of strings to be confirmed
+      const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
+      const XML_row_2 = '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
+      const XML_row_end = '</oai_dc:dc>';
+
+      const XML_row_1_value = 0;
+      const XML_row_2_value = 0;
+      const XML_row_end_value = 0;
+
+      for (let j = 0; j < content_string3.length; j++) { // ##### Note: loop through the rows of the XML file
+
+        const content_string3_j = String(content_string3[j]);
+
+        // ##### Note: Quality check of row_1
+        if (j == 0) {
+
+          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
+          if (content_string3_j.includes(XML_row_1)) {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
+            XML_row_1_value++; // ##### Note: adding 1 because it is passed.
+
+          } else {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
+  
+          }        
+
+        } 
+
+        // ##### Note: Quality check of row_2
+        if (j == 1) {
+
+          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
+          if (content_string3_j.includes(XML_row_2)) {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
+            XML_row_2_value++; // ##### Note: adding 1 because it is passed.
+
+          } else {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
+  
+          }        
+
+        } 
+
+        // ##### Note: Quality check of row_end
+        if (j == content_string3.length-1) {
+
+          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
+          if (content_string3_j.includes(XML_row_end)) {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
+            XML_row_end_value++; // ##### Note: adding 1 because it is passed.
+
+          } else {
+
+            dl.debug("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
+  
+          }
+
+        }
+
+      }
+
+      const XML_result = "passed";
+
+      return XML_result
 
     }
-    // #########################################
-    // #########################################
 
+    function XML_validator_option2(content_string) {
 
-    // #########################################
-    // ##### Note: OPTION-2: XML validator #####
-    // #########################################
-    // ##### Note: You must have fast-xml-parse.
-    // ##### https://www.npmjs.com/package/fast-xml-parser 
+      // #########################################
+      // ##### Note: OPTION-2: XML validator #####
+      // #########################################
+      // ##### Note: You must have jsdom for DOM checking (see error message).
+      // ##### https://stackoverflow.com/questions/6334119/check-for-xml-errors-using-javascript
 
-    // ##### Note: Once it runs fine, just place in function!
-    try {
+      const content_string2 = content_string;
 
-      const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
-      const parser = new XMLParser();
-      let jObj = parser.parse(XMLdata);
-      const builder = new XMLBuilder();
-      const xmlContent = builder.build(jObj);
-      dl.debug('PASSED: Module (fast-xml-parser) is available.');
+      // ##### Note: Once it runs fine, just place in function!
+      try {
 
-    } catch(err) {
-    
-      dl.debug('FAILED: You must install module (fast-xml-parser), which is currently missing.');
-      dl.debug('For Ubuntu (check your distribution), run the following lines.');
-      dl.debug('Line: $ sudo apt install npm');
-      dl.debug('Line: $ npm install fast-xml-parser');
+        const jsdom = require("jsdom");
+        dl.debug('Log(XMLvalidation_All): PASSED: Module (jsdom) is available.');
+
+      } catch(err) {
+      
+        dl.debug('Log(XMLvalidation_All): FAILED: You must install module (jsdom), which is currently missing.');
+        dl.debug('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
+        dl.debug('Log(XMLvalidation_All): Line: $ sudo apt install npm');
+        dl.debug('Log(XMLvalidation_All): Line: $ npm install jsdom');
+        dl.debug('Log(XMLvalidation_All): Line: $ npm install xmlhttprequest');
+
+      }
+
+      const XML_result = "passed";
+
+      return XML_result
 
     }
-    // #########################################
-    // #########################################
+
+    function XML_validator_option3(content_string) {
+
+      // #########################################
+      // ##### Note: OPTION-3: XML validator #####
+      // #########################################
+      // ##### Note: You must have fast-xml-parse.
+      // ##### https://www.npmjs.com/package/fast-xml-parser 
+
+      const content_string2 = content_string;
+
+      // ##### Note: Once it runs fine, just place in function!
+      try {
+
+        const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
+        const parser = new XMLParser();
+        let jObj = parser.parse(XMLdata);
+        const builder = new XMLBuilder();
+        const xmlContent = builder.build(jObj);
+        dl.debug('Log(XMLvalidation_All): PASSED: Module (fast-xml-parser) is available.');
+
+      } catch(err) {
+      
+        dl.debug('Log(XMLvalidation_All): FAILED: You must install module (fast-xml-parser), which is currently missing.');
+        dl.debug('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
+        dl.debug('Log(XMLvalidation_All): Line: $ sudo apt install npm');
+        dl.debug('Log(XMLvalidation_All): Line: $ npm install fast-xml-parser');
+
+      }
+
+      const XML_result = "passed";
+
+      return XML_result
+
+    }
 
     try {
 
-      // BRING FUNCTION FOR VALIDATION HERE!
-      dl.debug('PASSED: XML content has passed validation');
+      // ##### Note: Passing function for validation.
+      const XML_validation_result = XML_validator_option1(content_string);
+      dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could check file ${filename}`);
+      dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
 
     } catch(err) {
 
-      dl.debug('FAILED: XML content has failed validation');
+      dl.debug(`Log(XMLvalidation_All):XML-VALIDATOR could not check  file ${filename}. Potential problem with input file!`);
 
     }
     
   }
 
-  return "yes"
+  return "COMPLETE"
 
 }
 // ################################
@@ -764,6 +871,8 @@ async function updateEndpoint() {
 // ################################################
 async function wikidataItem_log(a) {
 
+  dl.debug("Log(wikidataItem_log): ....");
+
   const b = a;
 
   return 0
@@ -831,7 +940,8 @@ async function main() {
   dl.debug("Log(main): ##########");
 
   const file_validation = await XMLvalidation_All();
-  dl.debug(`Log(main): file validated: ${file_validation} !!!!!!!!!!!!!!!!!!!!!!`);
+  dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
+  dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
 
   //
   //
@@ -882,7 +992,7 @@ console.log(``);
 // Example: To run every Friday at 23:50:01 cron('1 50 23 * * */5', () => {function_called(); }); // ##### Tested!
 
 // ##### Note: Only one must be true, or all false to run main() without cron
-const c1 = true; // ##### Note: (cron alias) can be transferred to arguments if needed.
+const c1 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
 const c2 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
 const c3 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
 
@@ -937,7 +1047,6 @@ async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
   // ##### Function-2
   async function updateEndpoint_test() { console.log(`########## Endpoint Updated!`); } // ##### Note: Update function can be called inside main() if not here.
   cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
-
 
 }
 
