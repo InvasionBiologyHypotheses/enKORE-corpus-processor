@@ -404,20 +404,19 @@ async function XMLvalidation_All() {
 
       let content_string3 = content_string2.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
 
-      dl.debug('Log(XMLvalidation_All): #################################');
-      dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
-
-      console.log(content_string3);
-      dl.debug('Log(XMLvalidation_All): #################################');
+      // dl.debug('Log(XMLvalidation_All): #################################');
+      // dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
+      // console.log(content_string3);
+      // dl.debug('Log(XMLvalidation_All): #################################');
 
       // ##### Note: List of strings to be confirmed
       const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
       const XML_row_2 = '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
       const XML_row_end = '</oai_dc:dc>';
 
-      const XML_row_1_value = 0;
-      const XML_row_2_value = 0;
-      const XML_row_end_value = 0;
+      let XML_row_1_value = 0;
+      let XML_row_2_value = 0;
+      let XML_row_end_value = 0;
 
       for (let j = 0; j < content_string3.length; j++) { // ##### Note: loop through the rows of the XML file
 
@@ -476,7 +475,10 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "passed";
+      const XML_result_string = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:0; failed:1]`
+      dl.debug(`Log(XMLvalidation_All): ${XML_result_string}`);
+
+      const XML_result = "validator-1: passed";
 
       return XML_result
 
@@ -508,7 +510,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "passed";
+      const XML_result = "validator-2: passed";
 
       return XML_result
 
@@ -543,7 +545,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "passed";
+      const XML_result = "validator-3: passed";
 
       return XML_result
 
@@ -553,15 +555,15 @@ async function XMLvalidation_All() {
 
       // ##### Note: Passing function for validation.
       const XML_validation_result = XML_validator_option1(content_string);
-      dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could check file ${filename}`);
+      dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
       dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
 
     } catch(err) {
 
-      dl.debug(`Log(XMLvalidation_All):XML-VALIDATOR could not check  file ${filename}. Potential problem with input file!`);
+      dl.debug(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
 
     }
-    
+
   }
 
   return "COMPLETE"
