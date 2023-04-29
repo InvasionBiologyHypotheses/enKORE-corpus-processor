@@ -400,87 +400,110 @@ async function XMLvalidation_All() {
       // ##### Note: OPTION-1: XML hand-implemented #####
       // ################################################
 
-      const content_string2 = content_string;
+      let content_string2 = content_string.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
 
-      let content_string3 = content_string2.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
+      if (content_string2.length > 1) { // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
 
-      // dl.debug('Log(XMLvalidation_All): #################################');
-      // dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
-      // console.log(content_string3);
-      // dl.debug('Log(XMLvalidation_All): #################################');
+        dl.debug('Log(XMLvalidation_All): = = =');
+        dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
+        console.log(content_string2);
+        dl.debug('Log(XMLvalidation_All): = = =');
 
-      // ##### Note: List of strings to be confirmed
-      const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
-      const XML_row_2 = '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
-      const XML_row_end = '</oai_dc:dc>';
+        // ##### Note: List of strings to be confirmed inside the XML-content
+        const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
+        const XML_row_2 = '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
+        const XML_row_end = '</oai_dc:dc>';
 
-      let XML_row_1_value = 0;
-      let XML_row_2_value = 0;
-      let XML_row_end_value = 0;
+        let XML_row_1_value = 0; // ##### Note: to be changed to 1 when passing the checking.
+        let XML_row_2_value = 0; // ##### Note: to be changed to 1 when passing the checking.
+        let XML_row_end_value = 0; // ##### Note: to be changed to 1 when passing the checking.
 
-      for (let j = 0; j < content_string3.length; j++) { // ##### Note: loop through the rows of the XML file
+        for (let j = 0; j < content_string2.length; j++) { // ##### Note: loop through the rows of the XML file
 
-        const content_string3_j = String(content_string3[j]);
+          const content_string2_j = String(content_string2[j]);
 
-        // ##### Note: Quality check of row_1
-        if (j == 0) {
 
-          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
-          if (content_string3_j.includes(XML_row_1)) {
+          // #################################
+          // ##### Quality-Check - row_1 #####
+          // #################################
+          if (j == 0) {
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
-            XML_row_1_value++; // ##### Note: adding 1 because it is passed.
+            // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
+            if (content_string2_j.includes(XML_row_1)) {
 
-          } else {
+              dl.debug("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
+              XML_row_1_value++; // ##### Note: adding 1 because it is passed.
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
-  
-          }        
+            } else {
 
-        } 
+              dl.debug("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
+    
+            }        
 
-        // ##### Note: Quality check of row_2
-        if (j == 1) {
+          } 
 
-          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
-          if (content_string3_j.includes(XML_row_2)) {
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
-            XML_row_2_value++; // ##### Note: adding 1 because it is passed.
+          // #################################
+          // ##### Quality-Check - row_2 #####
+          // #################################
+          if (j == 1) {
 
-          } else {
+            // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
+            if (content_string2_j.includes(XML_row_2)) {
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
-  
-          }        
+              dl.debug("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
+              XML_row_2_value++; // ##### Note: adding 1 because it is passed.
 
-        } 
+            } else {
 
-        // ##### Note: Quality check of row_end
-        if (j == content_string3.length-1) {
+              dl.debug("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
+    
+            }        
 
-          // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
-          if (content_string3_j.includes(XML_row_end)) {
+          } 
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
-            XML_row_end_value++; // ##### Note: adding 1 because it is passed.
 
-          } else {
+          // ###################################
+          // ##### Quality-Check - row_end #####
+          // ###################################
+          if (j == content_string2.length-1) {
 
-            dl.debug("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
-  
+            // ##### Note: (includes) or (equal) may suit below. However, (equal) may complicate due to empty spaces starting and ending the string.
+            if (content_string2_j.includes(XML_row_end)) {
+
+              dl.debug("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
+              XML_row_end_value++; // ##### Note: adding 1 because it is passed.
+
+            } else {
+
+              dl.debug("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
+    
+            }
+
           }
 
         }
 
+        const XML_result_string = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
+        dl.debug(`Log(XMLvalidation_All): ${XML_result_string}`);
+
+        let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
+
+        if (XML_result_value == 3) {
+
+          return "Validator-1: passed.";
+
+        } else {
+
+          return `Validator-1: failed. Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`;
+
+        }
+
+      } else {
+
+        return "Validator-1: empty file.";
+
       }
-
-      const XML_result_string = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:0; failed:1]`
-      dl.debug(`Log(XMLvalidation_All): ${XML_result_string}`);
-
-      const XML_result = "validator-1: passed";
-
-      return XML_result
 
     }
 
@@ -510,7 +533,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "validator-2: passed";
+      const XML_result = "Validator-2: passed.";
 
       return XML_result
 
@@ -545,7 +568,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "validator-3: passed";
+      const XML_result = "Validator-3: passed.";
 
       return XML_result
 
@@ -557,10 +580,13 @@ async function XMLvalidation_All() {
       const XML_validation_result = XML_validator_option1(content_string);
       dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
       dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
+      dl.debug(`\n`);
+      // ##### Note: To write result into log here.
 
     } catch(err) {
 
       dl.debug(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
+      dl.debug(`\n`);
 
     }
 
