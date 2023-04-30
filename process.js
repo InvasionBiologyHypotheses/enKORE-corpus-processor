@@ -175,6 +175,33 @@ async function processArgs(args) {
 // ###################################################
 
 
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+// ##### Note: Not using asynchronous so it can be properly writen inside another asynchronous.
+function wikidataItem_log(dir,filename,c) {
+
+  const content = c;
+  const filename_path = `${dir}${filename}`;
+
+  // writeTXT(filename_path, content);
+
+  const fs = require('fs')
+  fs.open(filename_path,'a',666,function(e,id) {
+    fs.write(id,"\r\n" + content, null, 'utf8', function(){
+      fs.close(id,function(){
+      });
+    });
+  });
+
+  return 0
+
+}
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+
+
 // ####################################################
 // ##### Function to get URL entries-list (START) #####
 // ####################################################
@@ -248,6 +275,8 @@ async function fetchFileEntries(file) {
 // ######################################################################
 // ##### Function to check requested and saved WikidataItem (START) #####
 // ######################################################################
+// ##### Note: Using Node.js module: fs.readdirSync and fs.readFile
+// ##### Note: This function is called by processArgs()
 async function checkWikidataItem(items) {
 
   // ##### Note: For LOOP-1
@@ -339,14 +368,19 @@ async function checkWikidataItem(items) {
 // ################################
 // ##### Note: (OPTION-1) XMLvalidation_All() can be applied when all XML files are created near the end of main().
 // ##### Note: (OPTION-2) XMLvalidaiton_Each(filename) can be applied inside processItem(), and it can use the return from generateXML().
-// ##### Note: To check validation online: https://validator.w3.org/ 
+// ##### Note: It is possible to check validation online: https://validator.w3.org/ 
+// ##### Note: Using Node.js module: fs.readdirSync, fs.readFile (fs.readFileSync optional)
+// ##### Note: This function is called by main()
 
+// ##### IMPORTANT: It may be better emptying files not in SPARQL-query and then calling this function!
+// ##### IMPORTANT: Because there is not need to spend more time checking a file which will be emptied.
 async function XMLvalidation_All() {
-  // ##### Note: Using Node.js module: available are fs.readFile, fs.readFileSync
   
   const fs = require('fs');
-  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
-  const files_list = files;
+  const files_list = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  dl.debug("Log(XMLvalidation_All): ============");
+  console.log(files_list); // ##### Note: List of XML-files to be validated.
+  dl.debug("Log(XMLvalidation_All): ============");
   let total_files = files_list.length;
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
@@ -372,7 +406,8 @@ async function XMLvalidation_All() {
 
     // ##### Note: Reading the string content from XML_converted_to_TXT
     const fs_p = require('fs').promises;
-    const content = await fs_p.readFile(filename);
+    const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
+    //const content = fs_p.readFile(filename);
     const content_string = String(content);
     // dl.debug("= = = = = =");
     // dl.debug(content_string);
@@ -392,14 +427,17 @@ async function XMLvalidation_All() {
     // ##### https://learn.microsoft.com/en-us/dotnet/standard/data/xml/xml-schema-xsd-validation-with-xmlschemaset (For C#)
 
 
-    // ##### Note: Function for validating XML files.
+    // #############################################################
+    // ##### Note: Creating functions for validating XML files #####
+    // #############################################################
 
-    function XML_validator_option1(content_string) {
+    function XML_validator_option1(filename,content_string) {
 
       // ################################################
       // ##### Note: OPTION-1: XML hand-implemented #####
       // ################################################
 
+      const filename_string = filename;
       let content_string2 = content_string.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
 
       if (content_string2.length > 1) { // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
@@ -484,26 +522,30 @@ async function XMLvalidation_All() {
 
         }
 
-        const XML_result_string = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
-        dl.debug(`Log(XMLvalidation_All): ${XML_result_string}`);
+        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
+        
+        dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
+        const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`;
+        wikidataItem_log('./logs/','XMLvalidation_All.txt',XML_filename_result_write);
 
         let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
         if (XML_result_value == 3) {
 
-          return "Validator-1: passed.";
+          return "Validator-1: passed all.";
 
         } else {
 
-          return `Validator-1: failed. Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`;
+          return "Validator-1: failed one at least.";
 
-        }
+        }       
 
       } else {
 
         return "Validator-1: empty file.";
 
       }
+
 
     }
 
@@ -533,7 +575,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "Validator-2: passed.";
+      const XML_result = "Validator-2: passed all.";
 
       return XML_result
 
@@ -568,16 +610,21 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "Validator-3: passed.";
+      const XML_result = "Validator-3: passed all.";
 
       return XML_result
 
     }
 
+
+    // #####################################
+    // ##### Section to call validator #####
+    // #####################################
+
     try {
 
       // ##### Note: Passing function for validation.
-      const XML_validation_result = XML_validator_option1(content_string);
+      const XML_validation_result = XML_validator_option1(filename,content_string);
       dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
       dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
       dl.debug(`\n`);
@@ -592,7 +639,7 @@ async function XMLvalidation_All() {
 
   }
 
-  return "COMPLETE"
+  return "COMPLETE" // ##### Note: This result is returned to main()
 
 }
 // ################################
@@ -818,9 +865,9 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 // ##########################################################
 // ##### Function to cluster data from all APIs (START) #####
 // ##########################################################
-// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, and PubMedCentral
+// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, PubMedCentral
 // ##### Note: This function is called by main()
-// ##### Note: This function calls findAbstract(), getCrossrefItem(),  and processItem()
+// ##### Note: This function calls findAbstract(), getCrossrefItem(),  processItem()
 async function getItemData(items) {
 
   dl.debug(`Log(getItemData): Started getItemData`);
@@ -894,27 +941,10 @@ async function updateEndpoint() {
 // #################################################
 
 
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
-async function wikidataItem_log(a) {
-
-  dl.debug("Log(wikidataItem_log): ....");
-
-  const b = a;
-
-  return 0
-
-}
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
-
-
 // ######################################
 // ##### Function-Conductor (START) #####
 // ######################################
-// ##### Note: This function calls processArgs(), and getItemData()
+// ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
 
   dl.debug("Log(main): starting main");
@@ -941,7 +971,7 @@ async function main() {
   const startTime = new Date();
   dl.debug("Log(main): ##########");
   dl.debug("Log(main): Main() has just started! #####");
-  cl.info(`Log(main): processor started at ${startTime}`);
+  // cl.info(`Log(main): processor started at ${startTime}`);
   dl.debug(`Log(main): processor started at ${startTime}`);
   dl.debug("Log(main): main()_getItemData()_IN");
   dl.debug("Log(main): ##########");
@@ -953,7 +983,7 @@ async function main() {
       count + size > items.length ? items.length : count + size,
     );
 
-    cl.info(`Log(main): Processing ${size} entries from ${count}`);
+    // cl.info(`Log(main): Processing ${size} entries from ${count}`);
     dl.debug({ count });
     // dl.debug(batch);
     await getItemData(batch);
@@ -967,6 +997,7 @@ async function main() {
   dl.debug("Log(main): main()_getItemData()_OUT");
   dl.debug("Log(main): ##########");
 
+  //const file_validation = await XMLvalidation_All();
   const file_validation = await XMLvalidation_All();
   dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
   dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
@@ -980,8 +1011,8 @@ async function main() {
 
   const endTime = new Date();
   const milisec1 = 1000;
-  cl.info(`Log(main): processor finished at ${endTime}`);
-  cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
+  // cl.info(`Log(main): processor finished at ${endTime}`);
+  // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
   dl.debug(`Log(main): processor finished at ${endTime}`);
   dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
 
