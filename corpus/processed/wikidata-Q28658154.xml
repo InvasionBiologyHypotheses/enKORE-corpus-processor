@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28658154</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28658154</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005729</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0088798</dc:identifier>
+  <dc:title>Ecological effects of the invasive giant madagascar day gecko on endemic mauritian geckos: applications of binomial-mixture and species distribution models</dc:title>
+  <dc:creator>Buckland, Steeves</dc:creator>
+  <dc:creator>Cole, Nik C</dc:creator>
+  <dc:creator>Aguirre-Gutiérrez, Jesus</dc:creator>
+  <dc:creator>Gallagher, Laura E</dc:creator>
+  <dc:creator>Henshaw, Sion M</dc:creator>
+  <dc:creator>Besnard, Aurélien</dc:creator>
+  <dc:creator>Tucker, Rachel M</dc:creator>
+  <dc:creator>Bachraz, Vishnu</dc:creator>
+  <dc:creator>Ruhomaun, Kevin</dc:creator>
+  <dc:creator>Harris, Stephen</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>Madagascar</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>species distribution</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The invasion of the giant Madagascar day gecko Phelsuma grandis has increased the threats to the four endemic Mauritian day geckos (Phelsuma spp.) that have survived on mainland Mauritius. We had two main aims: (i) to predict the spatial distribution and overlap of P. grandis and the endemic geckos at a landscape level; and (ii) to investigate the effects of P. grandis on the abundance and risks of extinction of the endemic geckos at a local scale. An ensemble forecasting approach was used to predict the spatial distribution and overlap of P. grandis and the endemic geckos. We used hierarchical binomial mixture models and repeated visual estimate surveys to calculate the abundance of the endemic geckos in sites with and without P. grandis. The predicted range of each species varied from 85 km2 to 376 km2. Sixty percent of the predicted range of P. grandis overlapped with the combined predicted ranges of the four endemic geckos; 15% of the combined predicted ranges of the four endemic geckos overlapped with P. grandis. Levin's niche breadth varied from 0.140 to 0.652 between P. grandis and the four endemic geckos. The abundance of endemic geckos was 89% lower in sites with P. grandis compared to sites without P. grandis, and the endemic geckos had been extirpated at four of ten sites we surveyed with P. grandis. Species Distribution Modelling, together with the breadth metrics, predicted that P. grandis can partly share the equivalent niche with endemic species and survive in a range of environmental conditions. We provide strong evidence that smaller endemic geckos are unlikely to survive in sympatry with P. grandis. This is a cause of concern in both Mauritius and other countries with endemic species of Phelsuma.</dc:description>
+</oai_dc:dc>

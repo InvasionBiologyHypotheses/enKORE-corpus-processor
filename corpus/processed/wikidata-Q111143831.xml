@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111143831</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111143831</dc:identifier>
+  <dc:identifier>doi:10.3897/NATURECONSERVATION.34.29575</dc:identifier>
+  <dc:title>Modelling Acacia saligna invasion on the Adriatic coastal landscape: An integrative approach using LTER data</dc:title>
+  <dc:creator>Marzialetti, Flavio</dc:creator>
+  <dc:creator>Bazzichetto, Manuele</dc:creator>
+  <dc:creator>Giulio, Silvia</dc:creator>
+  <dc:creator>Acosta, Alicia T.R.</dc:creator>
+  <dc:creator>Stanisci, Angela</dc:creator>
+  <dc:creator>Malavasi, Marco</dc:creator>
+  <dc:creator>Carranza, Maria Laura</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-05-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>coastal landscape</dc:subject>
+  <dc:subject>Acacia saligna</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>coastal invasion</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Invasive Alien Species (IAS) pose a major threat to biodiversity and ecosystem services worldwide. Even if preventing biological invasions should be the most cost-effective way to minimise the impact of IAS on biodiversity, new efforts are necessary to identify early signs of invasion and to assess invasion risk. In this context, the implementation of invasive Species Distribution Models (iSDMs) could represent a sound instrument that merits further research. Acaciasaligna is an Australian vascular plant introduced into Europe during the last half century and is one of the most aggressive IAS in the Mediterranean basin.
+          In this work, we model the occurrence of A.saligna in the coastal landscapes of central Italy (Adriatic coast) while accounting for the simultaneous effect of multiple factors (propagule pressure, abiotic, biotic factors). The iSDM for A.saligna was implemented on a representative tract of the Adriatic coast in central Italy (Molise region), largely included in two Long-Term Ecological Research (LTER) sites which actively contribute to the description of the considered ecosystem status and possible future trends. By using a Generalised Linear Model (GLM) with a binomial distribution of errors based on field and cartographic geo-referenced data, we examined the statistical relationship between the occurrence of A.saligna and a comprehensive set of environmental factors. The iSDM effectively captured the role of the different variables in determining the occurrence of A.saligna in the coastal dunes. Its occurrence is primarily related to Wooded dunes with Pinuspinea and/or P.pinaster (EU Habitat 2270) and distance from the sea and, to a lesser extent, with distance from roads and rivers. This research provides a first exploratory analysis of the environmental characteristics that promote the rapid growth and development of A.saligna in Italian dune ecosystems, identifying the habitats that are mainly affected by the invasive process in coastal areas and, by doing so, contributing to filling the gap between theory and practice in conservation decision-making. Finally, the LTER network benefitted from this research, confirming its relevance in providing useful information for modelling and monitoring invasion processes.</dc:description>
+</oai_dc:dc>

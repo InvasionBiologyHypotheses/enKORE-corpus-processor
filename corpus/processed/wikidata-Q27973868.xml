@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27973868</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27973868</dc:identifier>
+  <dc:identifier>doi:10.1073/PNAS.1315517111</dc:identifier>
+  <dc:title>Multiple pathways for Plasmodium ookinete invasion of the mosquito midgut</dc:title>
+  <dc:creator>Pandey, Akhilesh</dc:creator>
+  <dc:creator>Vega-Rodríguez, Joel</dc:creator>
+  <dc:creator>Ghosh, Anil K</dc:creator>
+  <dc:creator>Kanzok, Stefan M</dc:creator>
+  <dc:creator>Dinglasan, Rhoel R</dc:creator>
+  <dc:creator>Wang, Sibao</dc:creator>
+  <dc:creator>Bongio, Nicholas J</dc:creator>
+  <dc:creator>Kalume, Dario E</dc:creator>
+  <dc:creator>Miura, Kazutoyo</dc:creator>
+  <dc:creator>Long, Carole A</dc:creator>
+  <dc:creator>Jacobs-Lorena, Marcelo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-01-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>enolase</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+</oai_dc:dc>

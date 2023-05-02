@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92011641</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92011641</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6963816</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS8120593</dc:identifier>
+  <dc:title>Understanding the Environmental Background of an Invasive Plant Species (Asclepias syriaca) for the Future: An Application of LUCAS Field Photographs and Machine Learning Algorithm Methods</dc:title>
+  <dc:creator>Szilassi, Peter</dc:creator>
+  <dc:creator>Szatmári, Gábor</dc:creator>
+  <dc:creator>Pásztor, László</dc:creator>
+  <dc:creator>Árvai, Mátyás</dc:creator>
+  <dc:creator>Szatmári, József</dc:creator>
+  <dc:creator>Szitár, Katalin</dc:creator>
+  <dc:creator>Papp, Levente</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-12-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>machine learning</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Asclepias syriaca</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>For developing global strategies against the dramatic spread of invasive species, we need to identify the geographical, environmental, and socioeconomic factors determining the spatial distribution of invasive species. In our study, we investigated these factors influencing the occurrences of common milkweed (Asclepias syriaca L.), an invasive plant species that is of great concern to the European Union (EU). In a Hungarian study area, we used country-scale soil and climate databases, as well as an EU-scale land cover databases (CORINE) for the analyses. For the abundance data of A. syriaca, we applied the field survey photos from the Land Use and Coverage Area Frame Survey (LUCAS) Land Cover database for the European Union. With machine learning algorithm methods, we quantified the relative weight of the environmental variables on the abundance of common milkweed. According to our findings, soil texture and soil type (sandy soils) were the most important variables determining the occurrence of this species. We could exactly identify the actual land cover types and the recent land cover changes that have a significant role in the occurrence the common milkweed in Europe. We could also show the role of climatic conditions of the study area in the occurrence of this species, and we could prepare the potential distribution map of common milkweed for the study area.</dc:description>
+</oai_dc:dc>

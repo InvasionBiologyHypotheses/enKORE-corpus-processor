@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q99634783</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q99634783</dc:identifier>
+  <dc:identifier>doi:10.3390/CANCERS12092430</dc:identifier>
+  <dc:title>Cross-Species Proteomics Identifies CAPG and SBP1 as Crucial Invasiveness Biomarkers in Rat and Human Malignant Mesothelioma</dc:title>
+  <dc:creator>Nader, Jolle S</dc:creator>
+  <dc:creator>Boissard, Alice</dc:creator>
+  <dc:creator>Henry, Cécile</dc:creator>
+  <dc:creator>Valo, Isabelle</dc:creator>
+  <dc:creator>Verrile, Véronique</dc:creator>
+  <dc:creator>Grégoire, Marc</dc:creator>
+  <dc:creator>Coqueret, Olivier</dc:creator>
+  <dc:creator>Guette, Catherine</dc:creator>
+  <dc:creator>Pouliquen, Daniel L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-08-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biomarker</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:subject>neoplastic invasiveness</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Malignant mesothelioma (MM) still represents a devastating disease that is often detected too late, while the current effect of therapies on patient outcomes remains unsatisfactory. Invasiveness biomarkers may contribute to improving early diagnosis, prognosis, and treatment for patients, a task that could benefit from the development of high-throughput proteomics. To limit potential sources of bias when identifying such biomarkers, we conducted cross-species proteomic analyzes on three different MM sources. Data were collected firstly from two human MM cell lines, secondly from rat MM tumors of increasing invasiveness grown in immunocompetent rats and human MM tumors grown in immunodeficient mice, and thirdly from paraffin-embedded sections of patient MM tumors of the epithelioid and sarcomatoid subtypes. Our investigations identified three major invasiveness biomarkers common to the three tumor sources, CAPG, FABP4, and LAMB2, and an additional set of 25 candidate biomarkers shared by rat and patient tumors. Comparing the data to proteomic analyzes of preneoplastic and neoplastic rat mesothelial cell lines revealed the additional role of SBP1 in the carcinogenic process. These observations could provide new opportunities to identify highly vulnerable MM patients with poor survival outcomes, thereby improving the success of current and future therapeutic strategies.</dc:description>
+</oai_dc:dc>

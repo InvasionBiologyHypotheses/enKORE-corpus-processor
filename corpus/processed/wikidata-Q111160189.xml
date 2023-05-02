@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111160189</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111160189</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-020-02338-X</dc:identifier>
+  <dc:title>Remotely sensed plant traits can provide insights into ecosystem impacts of plant invasions: a case study covering two functionally different invaders</dc:title>
+  <dc:creator>Van Cleemput, Elisa</dc:creator>
+  <dc:creator>Van Meerbeek, Koenraad</dc:creator>
+  <dc:creator>Helsen, Kenny</dc:creator>
+  <dc:creator>Honnay, Olivier</dc:creator>
+  <dc:creator>Somers, Ben</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-08-27</dc:date>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>plant trait</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

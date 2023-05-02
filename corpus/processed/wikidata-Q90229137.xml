@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90229137</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q90229137</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6958423</dc:identifier>
+  <dc:identifier>doi:10.3390/NCRNA5040048</dc:identifier>
+  <dc:title>Expression of Long Non-Coding RNAs by Human Retinal Müller Glial Cells Infected with Clonal and Exotic Virulent Toxoplasma gondii</dc:title>
+  <dc:creator>Rochet, Elise</dc:creator>
+  <dc:creator>Appukuttan, Binoy</dc:creator>
+  <dc:creator>Yuefang</dc:creator>
+  <dc:creator>Ashander, Liam M</dc:creator>
+  <dc:creator>Smith, Justine R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-09-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Retinal infection with Toxoplasma gondiiocular toxoplasmosisis a common cause of vision impairment worldwide. Pathology combines parasite-induced retinal cell death and reactive intraocular inflammation. Müller glial cells, which represent the supporting cell population of the retina, are relatively susceptible to infection with T. gondii. We investigated expression of long non-coding RNAs (lncRNAs) with immunologic regulatory activity in Müller cells infected with virulent T. gondii strainsGT1 (haplogroup 1, type I) and GPHT (haplogroup 6). We first confirmed expression of 33 lncRNA in primary cell isolates. MIO-M1 human retinal Müller cell monolayers were infected with T. gondii tachyzoites (multiplicity of infection = 5) and harvested at 4, 12, 24, and 36 h post-infection, with infection being tracked by the expression of parasite surface antigen 1 (SAG1). Significant fold-changes were observed for 31 lncRNAs at one or more time intervals. Similar changes between strains were measured for BANCR, CYTOR, FOXD3-AS1, GAS5, GSTT1-AS1, LINC-ROR, LUCAT1, MALAT1, MIR22HG, MIR143HG, PVT1, RMRP, SNHG15, and SOCS2-AS1. Changes differing between strains were measured for APTR, FIRRE, HOTAIR, HOXD-AS1, KCNQ1OT1, LINC00968, LINC01105, lnc-SGK1, MEG3, MHRT, MIAT, MIR17HG, MIR155HG, NEAT1, NeST, NRON, and PACER. Our findings suggest roles for lncRNAs in regulating retinal Müller cell immune responses to T. gondii, and encourage future studies on lncRNA as biomarkers and/or drug targets in ocular toxoplasmosis.</dc:description>
+</oai_dc:dc>
