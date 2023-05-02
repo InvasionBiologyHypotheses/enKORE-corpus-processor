@@ -35,7 +35,9 @@ import * as retried from "retried";
 
 import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
-import "@enkore/citationjs-plugin";
+import "@enkore/citationjs-plugin"; // ##### 
+//import 'https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js';
+
 // ##### Note: xmlexporter is imported to save contents to file(XML)
 import { generateXML } from "./lib/xmlexporter.js"; // ##### Note: get needed information and scripts from (xmlexporter.js)
 import get from "just-safe-get";
@@ -51,6 +53,7 @@ const require = createRequire(import.meta.url);
 const path = require("path");
 
 import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.ts';
+
 
 // #########################################
 // ##### Import required modules (END) #####
@@ -115,7 +118,7 @@ async function processArgs(args) {
   if (parsedArgs.pull) { // ##### Note: If true use get entries from Wikidata with fetchURLEntries
 
     dl.debug("Log(processArgs): Pulling entries from URL");
-    const retrieved = await fetchURLEntries(parsedArgs.url);
+    const retrieved = await fetchURLEntries(parsedArgs.url); // ##### Note:  (await) To be used with asynchronous function
     extend(entries, retrieved);
 
     if (parsedArgs.file) {
@@ -175,6 +178,72 @@ async function processArgs(args) {
 // ###################################################
 
 
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+// ##### Note: You may use non-asynchronous to pass smoothly inside other asynchronous, and slow processing time.
+async function wikidataItem_log(dir,filename,c) {
+
+  const content = c;
+  const filename_path = `${dir}${filename}`;
+
+  const fs = require('fs');
+  
+
+  // #####################################################
+  // ##### OPTION-1: Check file-existance synchrnous #####
+  // #####################################################
+  // try {
+
+  //   if (fs.existsSync(filename_path)) {
+
+  //     dl.debug(`Log(wikidataItem_log): Appending information to existing file: ${filename_path}`);
+
+  //   }
+
+  // } catch(err) {
+
+  //   dl.debug(`Log(wikidataItem_log): Creating file: ${filename_path}`);
+  //   await writeTXT(filename_path, ""); // ##### Note:  (await) To be used with asynchronous function
+  //   // writeTXT(filename_path, content); // ##### Note: To be used with non-asynchronous function
+
+  // }
+
+
+  // ######################################################
+  // ##### OPTION-2: Check file-existance asynchrnous #####
+  // ######################################################
+  // fs.access(filename_path, fs.F_OK, (err) => {
+
+  //   if (err) {
+
+  //     dl.debug(`Log(wikidataItem_log): Creating file: ${filename_path}`);
+  //     writeTXT(filename_path, "");
+  //     return
+
+  //   }
+  
+  //   dl.debug(`Log(wikidataItem_log): Appending information to existing file: ${filename_path}`);
+
+  // })
+
+  // const fs = require('fs'); // ##### Note: just called before synchronous function to check existence of file
+  // ##### Note: to append information.
+  fs.open(filename_path,'a',666,function(e,id) {
+    fs.write(id,"\r\n" + content, null, 'utf8', function(){
+      fs.close(id,function(){
+      });
+    });
+  });
+
+  return 0
+
+}
+// ################################################
+// ##### Function to log WikidataItem (START) #####
+// ################################################
+
+
 // ####################################################
 // ##### Function to get URL entries-list (START) #####
 // ####################################################
@@ -191,7 +260,7 @@ async function fetchURLEntries(url) {
   }
 
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
-  const entries = await readJSONFromURL(url);
+  const entries = await readJSONFromURL(url); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
 
   return entries;
@@ -209,7 +278,7 @@ async function fetchURLEntries(url) {
 // ##### Note: This function is called by processArgs()
 async function saveFileEntries(file, entries) {
 
-  const fileSave = await writeJSON(file, entries, null, 2);
+  const fileSave = await writeJSON(file, entries, null, 2); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(saveFileEntries): File written: ${file} - ${fileSave}`);
 
   return fileSave;
@@ -228,7 +297,7 @@ async function fetchFileEntries(file) {
 
   if (!file) return;
 
-  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH
+  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
 
     dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
     Deno.exit(1);
@@ -248,6 +317,8 @@ async function fetchFileEntries(file) {
 // ######################################################################
 // ##### Function to check requested and saved WikidataItem (START) #####
 // ######################################################################
+// ##### Note: Using Node.js module: fs.readdirSync and fs.readFile
+// ##### Note: This function is called by processArgs()
 async function checkWikidataItem(items) {
 
   // ##### Note: For LOOP-1
@@ -301,16 +372,16 @@ async function checkWikidataItem(items) {
       try {
 
         const fs_p = require('fs').promises;
-        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt");
+        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt"); // ##### Note:  (await) To be used with asynchronous function
         const filename = `./corpus/processed/${files_list_i}`;
-        await writeTXT(filename, content);
+        await writeTXT(filename, content); // ##### Note:  (await) To be used with asynchronous function
         dl.debug(`Log(checkWikidataItem): template given [./corpus/Template_emptied_XML.txt] and considered to write file [${files_list_i}]`);
 
       } catch(err) {
 
         const content = "DELETED";
         const filename = `./corpus/processed/${files_list_i}`;
-        await writeTXT(filename, content);
+        await writeTXT(filename, content); // ##### Note:  (await) To be used with asynchronous function
         dl.debug(`Log(checkWikidataItem): template missing [./corpus/Template_emptied_XML.txt], so we are using (NULL) to write file  [${files_list_i}]`);
 
       }
@@ -337,16 +408,21 @@ async function checkWikidataItem(items) {
 // ################################
 // ##### Validade XML (START) #####
 // ################################
-// ##### Note: (OPTION-1) XMLvalidation_All() can be applied when all XML files are created near the end of main().
-// ##### Note: (OPTION-2) XMLvalidaiton_Each(filename) can be applied inside processItem(), and it can use the return from generateXML().
-// ##### Note: To check validation online: https://validator.w3.org/ 
+// ##### Note: (POSSIBILITY-CONSIDERED) XMLvalidation_All() can be applied when all XML files are created near the end of main().
+// ##### Note: (POSSIBILITY-AVAILABLE) XMLvalidaiton_Each(filename) can be applied inside processItem(), and it can use the return from generateXML().
+// ##### Note: It is possible to check validation online: https://validator.w3.org/. However, headers may be an issue, though acceptable.
+// ##### Note: Using Node.js module: fs.readdirSync, fs.readFile (fs.readFileSync optional)
+// ##### Note: This function is called by main()
 
+// ##### IMPORTANT: It may be better emptying files not listed in the SPARQL-query, and then calling this function.
+// ##### REASON: Tthere is not need to spend more time checking a file which will be later emptied.
 async function XMLvalidation_All() {
-  // ##### Note: Using Node.js module: available are fs.readFile, fs.readFileSync
   
   const fs = require('fs');
-  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
-  const files_list = files;
+  const files_list = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  dl.debug("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log(files_list); // ##### Note: List of XML-files to be validated, and including the emptied ones.
+  dl.debug("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
   let total_files = files_list.length;
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
@@ -357,7 +433,7 @@ async function XMLvalidation_All() {
     // dl.debug("============");
 
     const filename = `./corpus/processed/${files_list_i}`;
-    dl.debug("Log(XMLvalidation_All): ============");
+    dl.debug("Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====");
     dl.debug(`Log(XMLvalidation_All): ${filename}`);
 
     // ##### Note: Temporary txt file to store  XML string content
@@ -372,7 +448,8 @@ async function XMLvalidation_All() {
 
     // ##### Note: Reading the string content from XML_converted_to_TXT
     const fs_p = require('fs').promises;
-    const content = await fs_p.readFile(filename);
+    const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
+    // const content = fs_p.readFile(filename); // Note: To be used with non-asynchronous function
     const content_string = String(content);
     // dl.debug("= = = = = =");
     // dl.debug(content_string);
@@ -392,22 +469,26 @@ async function XMLvalidation_All() {
     // ##### https://learn.microsoft.com/en-us/dotnet/standard/data/xml/xml-schema-xsd-validation-with-xmlschemaset (For C#)
 
 
-    // ##### Note: Function for validating XML files.
+    // #############################################################
+    // ##### Note: Creating functions for validating XML files #####
+    // #############################################################
 
-    function XML_validator_option1(content_string) {
+    function XML_validator_option1(filename,content_string) {
 
-      // ################################################
-      // ##### Note: OPTION-1: XML hand-implemented #####
-      // ################################################
+      // ###################################
+      // ##### OPTION-1: XML validator #####
+      // ###################################
+      // ##### Note: Hand-implemented to deal with different headers
 
+      const filename_string = filename;
       let content_string2 = content_string.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
 
       if (content_string2.length > 1) { // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
 
-        dl.debug('Log(XMLvalidation_All): = = =');
+        dl.debug('Log(XMLvalidation_All): = = = = = =');
         dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
         console.log(content_string2);
-        dl.debug('Log(XMLvalidation_All): = = =');
+        dl.debug('Log(XMLvalidation_All): = = = = = =');
 
         // ##### Note: List of strings to be confirmed inside the XML-content
         const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
@@ -423,9 +504,9 @@ async function XMLvalidation_All() {
           const content_string2_j = String(content_string2[j]);
 
 
-          // #################################
-          // ##### Quality-Check - row_1 #####
-          // #################################
+          // ################################
+          // ##### Quality-Check: row_1 #####
+          // ################################
           if (j == 0) {
 
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
@@ -443,9 +524,9 @@ async function XMLvalidation_All() {
           } 
 
 
-          // #################################
-          // ##### Quality-Check - row_2 #####
-          // #################################
+          // ################################
+          // ##### Quality-Check: row_2 #####
+          // ################################
           if (j == 1) {
 
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
@@ -463,9 +544,9 @@ async function XMLvalidation_All() {
           } 
 
 
-          // ###################################
-          // ##### Quality-Check - row_end #####
-          // ###################################
+          // ##################################
+          // ##### Quality-Check: row_end #####
+          // ##################################
           if (j == content_string2.length-1) {
 
             // ##### Note: (includes) or (equal) may suit below. However, (equal) may complicate due to empty spaces starting and ending the string.
@@ -484,20 +565,26 @@ async function XMLvalidation_All() {
 
         }
 
-        const XML_result_string = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
-        dl.debug(`Log(XMLvalidation_All): ${XML_result_string}`);
+        // ###########################
+        // ##### To write result #####
+        // ###########################
+        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
+        
+        dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
+        const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
+        wikidataItem_log('./logs/','XMLvalidation_All.txt',XML_filename_result_write); // ##### Note: wikidataItem_log(directory,filename.ext,content);
 
         let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
         if (XML_result_value == 3) {
 
-          return "Validator-1: passed.";
+          return "Validator-1: passed all.";
 
         } else {
 
-          return `Validator-1: failed. Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`;
+          return "Validator-1: failed one at least.";
 
-        }
+        }       
 
       } else {
 
@@ -505,13 +592,14 @@ async function XMLvalidation_All() {
 
       }
 
+
     }
 
     function XML_validator_option2(content_string) {
 
-      // #########################################
-      // ##### Note: OPTION-2: XML validator #####
-      // #########################################
+      // ###################################
+      // ##### OPTION-2: XML validator #####
+      // ###################################
       // ##### Note: You must have jsdom for DOM checking (see error message).
       // ##### https://stackoverflow.com/questions/6334119/check-for-xml-errors-using-javascript
 
@@ -533,7 +621,7 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "Validator-2: passed.";
+      const XML_result = "Validator-2: passed all.";
 
       return XML_result
 
@@ -541,9 +629,9 @@ async function XMLvalidation_All() {
 
     function XML_validator_option3(content_string) {
 
-      // #########################################
-      // ##### Note: OPTION-3: XML validator #####
-      // #########################################
+      // ###################################
+      // ##### OPTION-3: XML validator #####
+      // ###################################
       // ##### Note: You must have fast-xml-parse.
       // ##### https://www.npmjs.com/package/fast-xml-parser 
 
@@ -568,16 +656,21 @@ async function XMLvalidation_All() {
 
       }
 
-      const XML_result = "Validator-3: passed.";
+      const XML_result = "Validator-3: passed all.";
 
       return XML_result
 
     }
 
+
+    // #####################################
+    // ##### Section to call validator #####
+    // #####################################
+
     try {
 
       // ##### Note: Passing function for validation.
-      const XML_validation_result = XML_validator_option1(content_string);
+      const XML_validation_result = XML_validator_option1(filename,content_string);
       dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
       dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
       dl.debug(`\n`);
@@ -592,7 +685,7 @@ async function XMLvalidation_All() {
 
   }
 
-  return "COMPLETE"
+  return "COMPLETE" // ##### Note: This result is returned to main()
 
 }
 // ################################
@@ -619,11 +712,11 @@ async function getAbstract(src, service) {
 
   try {
 
-    const res = await fetch(url);
+    const res = await fetch(url); // ##### Note:  (await) To be used with asynchronous function
 
     if (res.ok) {
 
-      const data = await res.json();
+      const data = await res.json(); // ##### Note:  (await) To be used with asynchronous function
       const out = get(data, service.path);
       return out;
 
@@ -659,7 +752,7 @@ async function findAbstract(wikidataItem) {
 
   for (const source of abstractSources) {
 
-    const foundAbstract = await getAbstract(wikidataItem, source);
+    const foundAbstract = await getAbstract(wikidataItem, source); // ##### Note:  (await) To be used with asynchronous function
 
     if (foundAbstract) {
 
@@ -687,11 +780,11 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
   dl.debug(`Log(getCrossrefItem): Entering getCrossrefItem ${DOI}`);
 
-  await delay;
+  await delay; // ##### Note:  (await) To be used with asynchronous function
 
   try {
 
-    const response = await fetch(
+    const response = await fetch( // ##### Note:  (await) To be used with asynchronous function
 
       `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
 
@@ -699,7 +792,7 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
     if (response.ok) {
 
-      const data = await response.json();
+      const data = await response.json(); // ##### Note:  (await) To be used with asynchronous function
       return data?.message;
 
     } else if (response.status == "404") { // ##### Note: ERROR-NOT-FOUND
@@ -795,7 +888,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   dl.debug(`Log(processItem): Entering processItem ${wikidataItem.id}`);
   const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
 
-  const xml = await generateXML({
+  const xml = await generateXML({ // ##### Note:  (await) To be used with asynchronous function
 
     wikidataItem,
     crossrefItem,
@@ -807,7 +900,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 
   // ##### Note: XMLvalidation can be assessed here via content from (const xml), or maybe after to make sure the file has been written properly.
 
-  return await writeTXT(filename, xml);
+  return await writeTXT(filename, xml); // ##### Note:  (await) To be used with asynchronous function
 
 }
 // #########################################################
@@ -818,27 +911,28 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 // ##########################################################
 // ##### Function to cluster data from all APIs (START) #####
 // ##########################################################
-// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, and PubMedCentral
+// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, PubMedCentral
 // ##### Note: This function is called by main()
-// ##### Note: This function calls findAbstract(), getCrossrefItem(),  and processItem()
+// ##### Note: This function calls findAbstract(), getCrossrefItem(),  processItem()
 async function getItemData(items) {
 
   dl.debug(`Log(getItemData): Started getItemData`);
-  const { data } = await new citationJS.Cite.async(items);
+  const { data } = await new citationJS.Cite.async(items); // ##### Note:  (await) To be used with asynchronous function
+  dl.debug(`Log(getItemData): Received all items from batch.`);
 
   data.forEach(async (item) => {
 
     dl.debug(`Log(getItemData): wikidataitem id: ${item?.id}`);
     // dl.debug(JSON.stringify(item, null, 2));
-    let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem
+    let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem // ##### Note:  (await) To be used with asynchronous function
 
     const accumulatedData = {
 
-      abstract: await findAbstract(item), // ##### Note: defining accumulatedData
+      abstract: await findAbstract(item), // ##### Note: defining accumulatedData // ##### Note:  (await) To be used with asynchronous function
 
     };
 
-    const process = await processItem({
+    const process = await processItem({ // ##### Note:  (await) To be used with asynchronous function
 
       wikidataItem: item, // ##### Note: defining wikidataItem as item and passing into function
       crossrefItem,
@@ -846,7 +940,7 @@ async function getItemData(items) {
 
     });
 
-    await sleep(500);
+    await sleep(500); // ##### Note:  (await) To be used with asynchronous function
 
   });
 
@@ -864,15 +958,15 @@ async function getItemData(items) {
 // ##### Note: Currently not used!
 async function updateEndpoint() {
 
-  const response = await fetch(Deno.env.get("UPDATE_URL"), {
+  const response = await fetch(Deno.env.get("UPDATE_URL"), { // ##### Note:  (await) To be used with asynchronous function
     method: "GET",
 
   });
 
   dl.debug({ response });
-  const message = await response.text();
+  const message = await response.text(); // ##### Note:  (await) To be used with asynchronous function
 
-  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), {
+  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), { // ##### Note:  (await) To be used with asynchronous function
 
     method: "POST",
     body: message || "no response!",
@@ -894,27 +988,10 @@ async function updateEndpoint() {
 // #################################################
 
 
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
-async function wikidataItem_log(a) {
-
-  dl.debug("Log(wikidataItem_log): ....");
-
-  const b = a;
-
-  return 0
-
-}
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
-
-
 // ######################################
 // ##### Function-Conductor (START) #####
 // ######################################
-// ##### Note: This function calls processArgs(), and getItemData()
+// ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
 
   dl.debug("Log(main): starting main");
@@ -926,7 +1003,7 @@ async function main() {
     parsedArgs: { offset, size, delay },
     items,  
                                     // ##### Note: items come as return from processArgs
-  } = await processArgs(Deno.args);
+  } = await processArgs(Deno.args); // ##### Note:  (await) To be used with asynchronous function
 
   if (items?.length < 1) {
 
@@ -941,7 +1018,7 @@ async function main() {
   const startTime = new Date();
   dl.debug("Log(main): ##########");
   dl.debug("Log(main): Main() has just started! #####");
-  cl.info(`Log(main): processor started at ${startTime}`);
+  // cl.info(`Log(main): processor started at ${startTime}`);
   dl.debug(`Log(main): processor started at ${startTime}`);
   dl.debug("Log(main): main()_getItemData()_IN");
   dl.debug("Log(main): ##########");
@@ -953,12 +1030,16 @@ async function main() {
       count + size > items.length ? items.length : count + size,
     );
 
-    cl.info(`Log(main): Processing ${size} entries from ${count}`);
+    // cl.info(`Log(main): Processing ${size} entries from ${count}`);
+    dl.debug("= = = = = = = = = =");
     dl.debug({ count });
+    dl.debug("Log(main): BATCH:");
+    dl.debug(batch);
+    dl.debug("= = = = = = = = = =");
     // dl.debug(batch);
-    await getItemData(batch);
+    await getItemData(batch); // ##### Note:  (await) To be used with asynchronous function
     dl.debug("Log(main): start sleeping");
-    await sleep(delay);
+    await sleep(delay); // ##### Note:  (await) To be used with asynchronous function
     dl.debug("Log(main): stop sleeping");
 
   }
@@ -967,7 +1048,7 @@ async function main() {
   dl.debug("Log(main): main()_getItemData()_OUT");
   dl.debug("Log(main): ##########");
 
-  const file_validation = await XMLvalidation_All();
+  const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
   dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
 
@@ -980,8 +1061,8 @@ async function main() {
 
   const endTime = new Date();
   const milisec1 = 1000;
-  cl.info(`Log(main): processor finished at ${endTime}`);
-  cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
+  // cl.info(`Log(main): processor finished at ${endTime}`);
+  // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
   dl.debug(`Log(main): processor finished at ${endTime}`);
   dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
 
@@ -992,8 +1073,8 @@ async function main() {
 // ##### Function-Conductor (END) #####
 // ####################################
 
-await config();
-await log.setup(logging);
+await config(); // ##### Note:  (await) To be used with asynchronous function
+await log.setup(logging); // ##### Note:  (await) To be used with asynchronous function
 
 const dl = log.getLogger();
 const cl = log.getLogger('client');
