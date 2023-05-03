@@ -178,6 +178,23 @@ async function processArgs(args) {
 // ###################################################
 
 
+// ############################################
+// ##### Function to get DateNow (START) #####
+// ############################################
+async function get_DateNow() {
+
+  var date1 = new Date();
+  let date2 = date1.toISOString();
+
+  return date2
+
+}
+// const date_now = await get_DateNow();
+// ##########################################
+// ##### Function to get Date-now (END) #####
+// ##########################################
+
+
 // ################################################
 // ##### Function to log WikidataItem (START) #####
 // ################################################
@@ -253,12 +270,14 @@ async function fetchURLEntries(url) {
 
   if (!url) {
 
-    dl.error("Log(fetchURLEntries): No url to fetch! Exiting...");  // ##### Note: ERROR-FETCH
+    wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
+    dl.error(`Log(fetchURLEntries): No url: ${url}. Exiting...`);  // ##### Note: ERROR-FETCH
     Deno.exit(1);
     return;
 
   }
-
+  
+  wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
   const entries = await readJSONFromURL(url); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
@@ -304,7 +323,19 @@ async function fetchFileEntries(file) {
 
   });
 
-  dl.debug(`Log(fetchFileEntries): ${entries.length} entries retrieved from file: ${file}`);
+  // try {
+  //   const entries = await readJSON(file);
+  // }
+  // catch(err) {
+    
+  //   dl.error(`Log(fetchFileEntries): ERROR3: ${err}`);
+  //   Deno.exit(1);
+  // }
+
+  //let total_entries  = String(entries.length); // ##### Note: Total is not passing, but can be included in the string below.
+ 
+  wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
+  dl.debug(`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`);
 
   return entries;
 
@@ -572,7 +603,7 @@ async function XMLvalidation_All() {
         
         dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
-        wikidataItem_log('./logs/','XMLvalidation_All.txt',XML_filename_result_write); // ##### Note: wikidataItem_log(directory,filename.ext,content);
+        wikidataItem_log('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
 
         let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
@@ -994,7 +1025,14 @@ async function updateEndpoint() {
 // ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
 
-  dl.debug("Log(main): starting main");
+  dl.debug(`Log(main): entering main() at Date-UTC: ${await get_DateNow()}`);
+  // ##### Note: Passing datestamp to logs
+  wikidataItem_log('./logs/','Log_entries.txt',`= = = = = = = = = = = = = = = = = = = =`);
+  wikidataItem_log('./logs/','Log_entries.txt',`Date-UTC: ${await get_DateNow()}`);
+  wikidataItem_log('./logs/','Log_XMLvalidation.txt',`= = = = = = = = = = = = = = = = = = = =`);
+  wikidataItem_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await get_DateNow()}`);
+
+  dl.debug("Log(main): starting main()");
 
   dl.debug("Log(main): main()_processArgs()_IN");
 
