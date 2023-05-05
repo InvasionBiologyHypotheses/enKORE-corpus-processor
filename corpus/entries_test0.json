@@ -1,0 +1,17 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "license",
+      "licenseLabel",
+      "topic",
+      "topicLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+
+    ]
+  }
+}
