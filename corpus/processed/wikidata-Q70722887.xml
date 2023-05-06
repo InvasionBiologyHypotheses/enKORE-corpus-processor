@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q70722887</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q70722887</dc:identifier>
+  <dc:identifier>doi:10.3390/RS11101217</dc:identifier>
+  <dc:title>Spatial Evolution of Prosopis Invasion and its Effects on LULC and Livelihoods in Baringo, Kenya</dc:title>
+  <dc:creator>Mbaabu, Purity Rima</dc:creator>
+  <dc:creator>Ng, Wai-Tim</dc:creator>
+  <dc:creator>Schaffner, Urs</dc:creator>
+  <dc:creator>Gichaba, Maina</dc:creator>
+  <dc:creator>Olago, Daniel</dc:creator>
+  <dc:creator>Choge, Simon</dc:creator>
+  <dc:creator>Oriaso, Silas</dc:creator>
+  <dc:creator>Eckert, Sandra</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-05-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Kenya</dc:subject>
+  <dc:subject>remote sensing</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Woody alien plant species have been deliberately introduced globally in many arid and semi-arid regions, as they can provide services and goods to the rural poor. However, some of these alien trees and shrubs have become invasive over time, with important impacts on biodiversity, ecosystem services, and human well-being. Prosopis was introduced in Baringo County, Kenya, in the 1980s, but since then, it has spread rapidly from the original plantations to new areas. To assess land-use and land-cover (LULC) changes and dynamics in Baringo, we used a combination of dry and wet season Landsat satellite data acquired over a seven-year time interval between 19882016, and performed a supervised Random Forest classification. For each time interval, we calculated the extent of Prosopis invasion, rates of spread, gains and losses of specific LULC classes, and the relative importance of Prosopis invasion on LULC changes. The overall accuracy and kappa coefficients of the LULC classifications ranged between 98.198.5% and 0.930.96, respectively. We found that Prosopis coverage increased from 882 ha in 1988 to 18,792 ha in 2016. The highest negative changes in LULC classes were found for grasslands (6252 ha; 86%), irrigated cropland (849 ha; 57%), Vachellia tortilis-dominated vegetation (3602 ha; 42%), and rainfed cropland (1432 ha; 37%). Prosopis invasion alone directly accounted for over 30% of these negative changes, suggesting that Prosopis invasion is a key driver of the observed LULC changes in Baringo County. Although the management of Prosopis by utilization has been promoted in Baringo for 1015 years, the spread of Prosopis has not stopped or slowed down. This suggests that Prosopis management in Baringo and other invaded areas in East Africa needs to be based on a more integrated approach.</dc:description>
+</oai_dc:dc>

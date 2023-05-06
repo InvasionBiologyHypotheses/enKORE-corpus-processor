@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36202533</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36202533</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0166916</dc:identifier>
+  <dc:title>Human Genome-Wide RNAi Screen for Host Factors That Facilitate Salmonella Invasion Reveals a Role for Potassium Secretion in Promoting Internalization</dc:title>
+  <dc:creator>Thornbrough, Joshua M</dc:creator>
+  <dc:creator>Gopinath, Adarsh</dc:creator>
+  <dc:creator>Hundley, Tom</dc:creator>
+  <dc:creator>Worley, Micah J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-11-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Salmonella enterica can actively invade the gastro-intestinal epithelium. This frequently leads to diarrheal disease, and also gives the pathogen access to phagocytes that can serve as vehicles for dissemination into deeper tissue. The ability to invade host cells is also important in maintaining the carrier state. While much is known about the bacterial factors that promote invasion, relatively little is known about the host factors involved. To gain insight into how Salmonella enterica serovar Typhimurium is able to invade normally non-phagocytic cells, we undertook a global RNAi screen with S. Typhimurium-infected human epithelial cells. In all, we identified 633 genes as contributing to bacterial internalization. These genes fall into a diverse group of functional categories revealing that cytoskeletal regulators are not the only factors that modulate invasion. In fact, potassium ion transport was the most enriched molecular function category in our screen, reinforcing a link between potassium and internalization. In addition to providing new insights into the molecular mechanisms underlying the ability of pathogens to invade host cells, all 633 host factors identified are candidates for new anti-microbial targets for treating Salmonella infections, and may be useful in curtailing infections with other pathogens as well.</dc:description>
+</oai_dc:dc>

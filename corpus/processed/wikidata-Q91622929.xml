@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91622929</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91622929</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525518</dc:identifier>
+  <dc:identifier>doi:10.1073/PNAS.1818081116</dc:identifier>
+  <dc:title>Disentangling the abundance-impact relationship for invasive species</dc:title>
+  <dc:creator>Bradley, Bethany A.</dc:creator>
+  <dc:creator>Laginhas, Brittany B</dc:creator>
+  <dc:creator>Whitlock, Raj</dc:creator>
+  <dc:creator>Allen, Jenica M</dc:creator>
+  <dc:creator>Bates, Amanda E</dc:creator>
+  <dc:creator>Bernatchez, Genevieve</dc:creator>
+  <dc:creator>Diez, Jeffrey M</dc:creator>
+  <dc:creator>Early, Regan</dc:creator>
+  <dc:creator>Lenoir, Jonathan</dc:creator>
+  <dc:creator>Planella, Montserrat Vilà</dc:creator>
+  <dc:creator>Sorte, Cascade J. B.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-04-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36842266</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36842266</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847257</dc:identifier>
+  <dc:identifier>doi:10.1186/S40478-016-0313-8</dc:identifier>
+  <dc:title>ALS-linked misfolded SOD1 species have divergent impacts on mitochondria</dc:title>
+  <dc:creator>Pickles, Sarah</dc:creator>
+  <dc:creator>Semmler, Sabrina</dc:creator>
+  <dc:creator>Broom, Helen R</dc:creator>
+  <dc:creator>Destroismaisons, Laurie</dc:creator>
+  <dc:creator>Legroux, Laurine</dc:creator>
+  <dc:creator>Arbour, Nathalie</dc:creator>
+  <dc:creator>Meiering, Elizabeth</dc:creator>
+  <dc:creator>Cashman, Neil R</dc:creator>
+  <dc:creator>Velde, Christine Vande</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-04-27</dc:date>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>amyotrophic lateral sclerosis</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

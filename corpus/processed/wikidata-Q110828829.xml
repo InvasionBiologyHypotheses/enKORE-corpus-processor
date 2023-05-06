@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110828829</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110828829</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0263052</dc:identifier>
+  <dc:title>The role of hydraulic and geomorphic complexity in predicting invasive carp spawning potential: St. Croix River, Minnesota and Wisconsin, United States</dc:title>
+  <dc:creator>Kasprak, Alan</dc:creator>
+  <dc:creator>Jackson, P Ryan</dc:creator>
+  <dc:creator>Lindroth, Evan M</dc:creator>
+  <dc:creator>Lund, J William</dc:creator>
+  <dc:creator>Ziegeweid, Jeffrey R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Since they were first introduced to the United States more than 50 years ago, invasive carp have rapidly colonized rivers of the Mississippi River Basin, with detrimental effects on native aquatic species. Their continued range expansion, and potential for subsequent invasion of the Great Lakes, has led to increased concern for the susceptibility of as-yet uncompromised lotic and lentic systems in the central United States. Because invasive carp eggs and larvae must drift in the river current for the first several days following spawning, numerical drift modeling has emerged as a useful technique for determining whether certain river systems and reaches have the potential to support suspension-to-hatching survival of invasive carp eggs, a critical first step in recruitment. Here we use one such numerical modeling approach, the Fluvial Egg Drift Simulator (FluEgg), to estimate bighead carp (Hypophthalmichthys nobilis) egg hatching success and larval retention in a 47.8-kilometer (km) reach of the multi-thread St. Croix River, Minnesota and Wisconsin, United States. We explore three approaches for obtaining the hydraulic data required by FluEgg, parameterizing the model with either (a) field hydraulic data collected within the main channel during a high-flow event, or hydraulic data output from a one-dimensional hydrodynamic model with both (b) steady, and (c) unsteady flows. We find that the three approaches, along with the range of water temperatures and discharge used in simulations, produce vastly different predictions of streamwise transport and in-river egg hatching probability (0% for field data, 0 to 96% for steady-state hydraulic modeling, and 1.8 to 65% for unsteady modeling). However, all FluEgg simulations, regardless of the source of hydraulic data, predicted that no larvae reach the gas bladder inflation stage within the study reach where nursery habitat is abundant. Overall, these results indicate that the lower St. Croix River is suitable for invasive carp spawning and egg suspension until hatching for a range of discharge and water temperatures. These results highlight the role of complex channel hydraulics and morphology, particularly multi-thread reaches, and their inclusion in ecohydraulic-suitability modeling to determine susceptibility of river systems for invasive carp reproduction. Our work also emphasizes the scientific value of multi-dimensional hydrodynamic models that can capture the spatial heterogeneity of flow fields in geomorphically complex rivers. This work may help to guide management efforts based on the targeted monitoring and control and improve invasive carp egg and larvae sampling efficiency.</dc:description>
+</oai_dc:dc>

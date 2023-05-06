@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q63246300</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q63246300</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6434845</dc:identifier>
+  <dc:identifier>doi:10.1186/S13071-019-3366-2</dc:identifier>
+  <dc:title>Modelling seasonal dynamics, population stability, and pest control in Aedes japonicus japonicus (Diptera: Culicidae)</dc:title>
+  <dc:creator>Wieser, Andreas</dc:creator>
+  <dc:creator>Reuss, Friederike</dc:creator>
+  <dc:creator>Niamir, Aidin</dc:creator>
+  <dc:creator>Müller, Ruth</dc:creator>
+  <dc:creator>O'Hara, Robert B</dc:creator>
+  <dc:creator>Pfenninger, Markus</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>parasitology</dc:subject>
+  <dc:subject>Aedes japonicus japonicus</dc:subject>
+  <dc:subject>infectious disease</dc:subject>
+  <dc:subject>Aedes japonicus</dc:subject>
+  <dc:subject>Diptera</dc:subject>
+  <dc:subject>Culicidae</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>BackgroundThe invasive temperate mosquito Aedes japonicus japonicus is a potential vector for various infectious diseases and therefore a target of vector control measures. Even though established in Germany, it is unclear whether the species has already reached its full distribution potential. The possible range of the species, its annual population dynamics, the success of vector control measures and future expansions due to climate change still remain poorly understood. While numerous studies on occurrence have been conducted, they used mainly presence data from relatively few locations. In contrast, we used experimental life history data to model the dynamics of a continuous stage-structured population to infer potential seasonal densities and ask whether stable populations are likely to establish over a period of more than oneyear. In addition, we used climate change models to infer future ranges. Finally, we evaluated the effectiveness of various stage-specific vector control measures.ResultsAedes j. japonicus has already established stable populations in the southwest and west of Germany. Our models predict a spread of Ae. j. japonicus beyond the currently observed range, but likely not much further eastwards under current climatic conditions. Climate change models, however, will expand this range substantially and higher annual densities can be expected. Applying vector control measures to oviposition, survival of eggs, larvae or adults showed that application of adulticides for 30days between late spring and early autumn, while ambient temperatures are above 9C, can reduce population density by 75%. Continuous application of larvicide showed similar results in population reduction. Most importantly, we showed that with the consequent application of a mixed strategy, it should be possible to significantly reduce or even extinguish existing populations with reasonable effort.ConclusionOur study provides valuable insights into the mechanisms concerning the establishment of stable populations in invasive species. In order to minimise the hazard to public health, we recommend vector control measures to be applied in 'high risk areas' which are predicted to allow establishment of stable populations to establish.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110626178</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110626178</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.681100</dc:identifier>
+  <dc:title>The Genomic Processes of Biological Invasions: From Invasive Species to Cancer Metastases and Back Again</dc:title>
+  <dc:creator>Neinavaie, Fargam</dc:creator>
+  <dc:creator>Ibrahim-Hashim, Arig</dc:creator>
+  <dc:creator>Kramer, Andrew M.</dc:creator>
+  <dc:creator>Brown, Joel S.</dc:creator>
+  <dc:creator>Richards, Christina L.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-09-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>The concept of invasion is useful across a broad range of contexts, spanning from the fine scale landscape of cancer tumors up to the broader landscape of ecosystems. Invasion biology provides extraordinary opportunities for studying the mechanistic basis of contemporary evolution at the molecular level. Although the field of invasion genetics was established in ecology and evolution more than 50 years ago, there is still a limited understanding of how genomic level processes translate into invasive phenotypes across different taxa in response to complex environmental conditions. This is largely because the study of most invasive species is limited by information about complex genome level processes. We lack good reference genomes for most species. Rigorous studies to examine genomic processes are generally too costly. On the contrary, cancer studies are fortified with extensive resources for studying genome level dynamics and the interactions among genetic and non-genetic mechanisms. Extensive analysis of primary tumors and metastatic samples have revealed the importance of several genomic mechanisms including higher mutation rates, specific types of mutations, aneuploidy or whole genome doubling and non-genetic effects. Metastatic sites can be directly compared to primary tumor cell counterparts. At the same time, clonal dynamics shape the genomics and evolution of metastatic cancers. Clonal diversity varies by cancer type, and the tumors’ donor and recipient tissues. Still, the cancer research community has been unable to identify any common events that provide a universal predictor of metastatic potential which parallels findings in evolutionary ecology. Instead, invasion in cancer studies depends strongly on context, including order of events and clonal composition. The detailed studies of the behavior of a variety of human cancers promises to inform our understanding of genome level dynamics in the diversity of invasive species and provide novel insights for management.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64255510</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64255510</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6380166</dc:identifier>
+  <dc:identifier>doi:10.3389/FGENE.2019.00071</dc:identifier>
+  <dc:title>Genome-Wide Identification and Evaluation of New Reference Genes for Gene Expression Analysis Under Temperature and Salinity Stresses in</dc:title>
+  <dc:creator>Huang, Xuena</dc:creator>
+  <dc:creator>Li, Shiguo</dc:creator>
+  <dc:creator>Zhan, Aibin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Ciona savignyi</dc:subject>
+  <dc:subject>RNA sequencing</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Rapid adaptation/accommodation to changing environments largely contributes to maximal survival of invaders during biological invasions, usually leading to success in crossing multiple barriers and finally in varied environments in recipient habitats. Gene expression is one of the most important and rapid ways during responses to environmental stresses. Selection of proper reference genes is the crucial prerequisite for gene expression analysis using the common approach, real-time quantitative PCR (RT-qPCR). Here we identified eight candidate novel reference genes from the RNA-Seq data in an invasive model ascidian Ciona savignyi under temperature and salinity stresses. Subsequently, the expression stability of these eight novel reference genes, as well as other six traditionally used reference genes, was evaluated using RT-qPCR and comprehensive tool RefFinder. Under the temperature stress, two traditional reference genes, ribosomal proteins S15 and L17 (RPS15, RPL17), and one novel gene Ras homolog A (RhoA), were recommended as the top three stable genes, which can be used to normalize target genes with a high and moderate expression level, respectively. Under the salinity stress, transmembrane 9 superfamily member (TMN), MOB kinase activator 1A-like gene (MOB) and ubiquitin-conjugating enzyme (UBQ2) were suggested as the top three stable genes. On the other hand, several commonly used reference genes such as -tubulin (TubA), -tubulin (TubB) and glyceraldehyde-3-phosphate dehydrogenase (GAPDH) showed unstable expressions, thus these genes should not be used as internal controls for gene expression analysis. We also tested the expression level of an important stress response gene, large proline-rich protein bag6-like gene (BAG) using different reference genes. As expected, we observed different results and conclusions when using different normalization methods, thus suggesting the importance of selection of proper reference genes and associated normalization methods. Our results provide a valuable reference gene resource for the normalization of gene expression in the study of environmental adaptation/accommodation during biological invasions using C. savignyi as a model.</dc:description>
+</oai_dc:dc>

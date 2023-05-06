@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104154259</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104154259</dc:identifier>
+  <dc:identifier>doi:10.3897/BISS.3.38084</dc:identifier>
+  <dc:title>Improving Darwin Core for research and management of alien species</dc:title>
+  <dc:creator>Groom, Quentin</dc:creator>
+  <dc:creator>Desmet, Peter</dc:creator>
+  <dc:creator>Reyserhove, Lien</dc:creator>
+  <dc:creator>Adriaens, Tim</dc:creator>
+  <dc:creator>Oldoni, Damiano</dc:creator>
+  <dc:creator>Vanderhoeven, Sonia</dc:creator>
+  <dc:creator>Baskauf, Steven J</dc:creator>
+  <dc:creator>Chapman, Arthur</dc:creator>
+  <dc:creator>McGeoch, Melodie</dc:creator>
+  <dc:creator>Walls, Ramona</dc:creator>
+  <dc:creator>Wieczorek, John</dc:creator>
+  <dc:creator>Wilson, John</dc:creator>
+  <dc:creator>Zermoglio, Paula F</dc:creator>
+  <dc:creator>Simpson, Annie</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-10-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/share-your-work/public-domain/cc0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>To improve the suitability of the Darwin Core standard for the research and management of alien species, the standard needs to express the native status of organisms, how well established they are and how they came to occupy a location. To facilitate this, we propose:
+          1. To adopt a controlled vocabulary for the existing Darwin Core term dwc:establishmentMeans
+          2. To elevate the pathway term from the Invasive Species Pathways extension to become a new Darwin Core term dwc:pathway maintained as part of the Darwin Core standard
+          3. To adopt a new Darwin Core term dwc:degreeOfEstablishment with an associated controlled vocabulary
+          These changes to the standard will allow users to clearly state whether an occurrence of a species is native to a location or not, how it got there (pathway), and to what extent the species has become a permanent feature of the location. By improving Darwin Core for capturing and sharing these data, we aim to improve the quality of occurrence and checklist data in general and to increase the number of potential uses of these data.</dc:description>
+</oai_dc:dc>
