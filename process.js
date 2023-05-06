@@ -38,6 +38,12 @@ import * as citationJS from "@citation-js/core";
 import "@enkore/citationjs-plugin"; // ##### 
 //import 'https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js';
 
+// ##### Note: function to provide date now in UTM
+import { function_DateNow } from "./lib/DateNow.js";
+
+// ##### Note: function to log in different files when needed
+import { function_log } from "./lib/log.js";
+
 // ##### Note: xmlexporter is imported to save contents to file(XML)
 import { generateXML } from "./lib/xmlexporter.js"; // ##### Note: get needed information and scripts from (xmlexporter.js)
 import get from "just-safe-get";
@@ -50,7 +56,6 @@ import { abstractSources, logging, settings } from "./config.js"; // ##### Note:
 // ##### Note: https://reflect.run/articles/how-to-use-node-modules-in-deno/#:~:text=The%20Deno%20std%2Fnode%20library,to%20import%20and%20use%20Node.
 import { createRequire } from "https://deno.land/std/node/module.ts";
 const require = createRequire(import.meta.url);
-const path = require("path");
 
 import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.ts';
 
@@ -181,84 +186,22 @@ async function processArgs(args) {
 // ############################################
 // ##### Function to get DateNow (START) #####
 // ############################################
-async function get_DateNow() {
-
-  var date1 = new Date();
-  let date2 = date1.toISOString();
-
-  return date2
-
-}
-// const date_now = await get_DateNow();
+// async function function_DateNow() {
+// }
 // ##########################################
 // ##### Function to get Date-now (END) #####
 // ##########################################
 
 
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
-// ##### Note: You may use non-asynchronous to pass smoothly inside other asynchronous, and slow processing time.
-async function wikidataItem_log(dir,filename,c) {
-
-  const content = c;
-  const filename_path = `${dir}${filename}`;
-
-  const fs = require('fs');
-  
-
-  // #####################################################
-  // ##### OPTION-1: Check file-existance synchrnous #####
-  // #####################################################
-  // try {
-
-  //   if (fs.existsSync(filename_path)) {
-
-  //     dl.debug(`Log(wikidataItem_log): Appending information to existing file: ${filename_path}`);
-
-  //   }
-
-  // } catch(err) {
-
-  //   dl.debug(`Log(wikidataItem_log): Creating file: ${filename_path}`);
-  //   await writeTXT(filename_path, ""); // ##### Note:  (await) To be used with asynchronous function
-  //   // writeTXT(filename_path, content); // ##### Note: To be used with non-asynchronous function
-
-  // }
-
-
-  // ######################################################
-  // ##### OPTION-2: Check file-existance asynchrnous #####
-  // ######################################################
-  // fs.access(filename_path, fs.F_OK, (err) => {
-
-  //   if (err) {
-
-  //     dl.debug(`Log(wikidataItem_log): Creating file: ${filename_path}`);
-  //     writeTXT(filename_path, "");
-  //     return
-
-  //   }
-  
-  //   dl.debug(`Log(wikidataItem_log): Appending information to existing file: ${filename_path}`);
-
-  // })
-
-  // const fs = require('fs'); // ##### Note: just called before synchronous function to check existence of file
-  // ##### Note: to append information.
-  fs.open(filename_path,'a',666,function(e,id) {
-    fs.write(id,"\r\n" + content, null, 'utf8', function(){
-      fs.close(id,function(){
-      });
-    });
-  });
-
-  return 0
-
-}
-// ################################################
-// ##### Function to log WikidataItem (START) #####
-// ################################################
+// ###################################
+// ##### Function to log (START) #####
+// ###################################
+// ##### Note: You may use synchronous to pass smoothly inside other asynchronous, and slow processing time.
+// async function function_log(dir,filename,c) {
+// }
+// #################################
+// ##### Function to log (END) #####
+// #################################
 
 
 // ####################################################
@@ -270,14 +213,14 @@ async function fetchURLEntries(url) {
 
   if (!url) {
 
-    wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
+    function_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
     dl.error(`Log(fetchURLEntries): No url: ${url}. Exiting...`);  // ##### Note: ERROR-FETCH
     Deno.exit(1);
     return;
 
   }
   
-  wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
+  function_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
   const entries = await readJSONFromURL(url); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
@@ -314,7 +257,7 @@ async function saveFileEntries(file, entries) {
 // ##### Note: This function is called by processArgs() 
 async function fetchFileEntries(file) {
 
-  if (!file) return;
+  if (!file) return; // ##### Note: VIP-Flag
 
   const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
 
@@ -323,18 +266,9 @@ async function fetchFileEntries(file) {
 
   });
 
-  // try {
-  //   const entries = await readJSON(file);
-  // }
-  // catch(err) {
-    
-  //   dl.error(`Log(fetchFileEntries): ERROR3: ${err}`);
-  //   Deno.exit(1);
-  // }
-
   //let total_entries  = String(entries.length); // ##### Note: Total is not passing, but can be included in the string below.
  
-  wikidataItem_log('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
+  function_log('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
   dl.debug(`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`);
 
   return entries;
@@ -480,7 +414,7 @@ async function XMLvalidation_All() {
     // ##### Note: Reading the string content from XML_converted_to_TXT
     const fs_p = require('fs').promises;
     const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
-    // const content = fs_p.readFile(filename); // Note: To be used with non-asynchronous function
+    // const content = fs_p.readFile(filename); // Note: To be used with synchronous function
     const content_string = String(content);
     // dl.debug("= = = = = =");
     // dl.debug(content_string);
@@ -603,7 +537,7 @@ async function XMLvalidation_All() {
         
         dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
-        wikidataItem_log('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
+        function_log('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
 
         let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
@@ -1025,12 +959,12 @@ async function updateEndpoint() {
 // ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
 
-  dl.debug(`Log(main): entering main() at Date-UTC: ${await get_DateNow()}`);
+  dl.debug(`Log(main): entering main() at Date-UTC: ${await function_DateNow()}`);
   // ##### Note: Passing datestamp to logs
-  wikidataItem_log('./logs/','Log_entries.txt',`= = = = = = = = = = = = = = = = = = = =`);
-  wikidataItem_log('./logs/','Log_entries.txt',`Date-UTC: ${await get_DateNow()}`);
-  wikidataItem_log('./logs/','Log_XMLvalidation.txt',`= = = = = = = = = = = = = = = = = = = =`);
-  wikidataItem_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await get_DateNow()}`);
+  function_log('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_entries.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await function_DateNow()}`);
 
   dl.debug("Log(main): starting main()");
 
