@@ -114,9 +114,9 @@ async function run_cron_option1(sec1,min1,hr1,weekday1) {
 
 // ##### Input: Function-1
 const sec1 = "1";
-const min1 = "30";
-const hr1 = "19"; // ##### Note: 24format
-const weekday1 = "Monday"; 
+const min1 = "1";
+const hr1 = "5"; // ##### Note: 24format
+const weekday1 = "Sunday"; 
 // ##### Note: It has been adjusted inside the function so use words (e.g. Monday, or monday, or Mon, or mon)
 // ##### Note: Before it was required to apply numbers. For example, Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7). 
   
