@@ -329,9 +329,25 @@ async function checkWikidataItem(items) {
 
     if (keep_wikidataitem_saved == 0) {
 
-      dl.debug(`Log(checkWikidataItem): Emptying existing item: ${files_list_i}`);
       total_files_emptied++;
 
+      const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
+      const item2 = fs.statSync("./corpus/Template_emptied_XML.txt"); // ##### Note: template-size
+      // dl.debug(`${item1.size}`); // ##### Note: item-size
+      // dl.debug(`${item2.size}`); // ##### Note: template-size
+
+      if (item1.size == item2.size) { // ##### Note: Size must match size of the template
+
+        dl.debug(`Log(checkWikidataItem): Already empty file: ${files_list_i}`);
+        dl.debug("Log(checkWikidataItem): Not writting to log.");
+
+      } else {
+
+        function_log('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
+        dl.debug(`Log(checkWikidataItem): Emptying file: ${files_list_i}`);
+
+      }
+      
       // ##### Note: content to write inside file to be emptied
 
       try {
@@ -965,6 +981,13 @@ async function main() {
   function_log('./logs/','Log_entries.txt',`Date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
   function_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_emptied_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_total_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_total_empty_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_total_content_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_total_content_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  
 
   dl.debug("Log(main): starting main()");
 
