@@ -329,9 +329,25 @@ async function checkWikidataItem(items) {
 
     if (keep_wikidataitem_saved == 0) {
 
-      dl.debug(`Log(checkWikidataItem): Emptying existing item: ${files_list_i}`);
       total_files_emptied++;
 
+      const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
+      const item2 = fs.statSync("./corpus/Template_emptied_XML.txt"); // ##### Note: template-size
+      // dl.debug(`${item1.size}`); // ##### Note: item-size
+      // dl.debug(`${item2.size}`); // ##### Note: template-size
+
+      if (item1.size == item2.size) { // ##### Note: Size must match size of the template
+
+        dl.debug(`Log(checkWikidataItem): Already empty file: ${files_list_i}`);
+        dl.debug("Log(checkWikidataItem): Not writting to log.");
+
+      } else {
+
+        function_log('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
+        dl.debug(`Log(checkWikidataItem): Emptying file: ${files_list_i}`);
+
+      }
+      
       // ##### Note: content to write inside file to be emptied
 
       try {
@@ -414,7 +430,6 @@ async function XMLvalidation_All() {
     // ##### Note: Reading the string content from XML_converted_to_TXT
     const fs_p = require('fs').promises;
     const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
-    // const content = fs_p.readFile(filename); // Note: To be used with synchronous function
     const content_string = String(content);
     // dl.debug("= = = = = =");
     // dl.debug(content_string);
@@ -917,6 +932,56 @@ async function getItemData(items) {
 // ########################################################
 
 
+// ################################################################################
+// ##### Function to compute total content(non-empty) and empty files (START) #####
+// ################################################################################
+// ##### Note: list of entries sometimes provides repetions.
+// ##### Note: Computing then total non-empty and empty files near the end of the process.
+// ##### OBSERVATION: A script to polish entries will be made and remove repetitions.
+async function compute_content_empty_files() {
+
+  // ##### Note: For LOOP-1
+  const fs = require('fs');
+  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  const files_list = files;
+  let total_files = files_list.length;
+  let total_content = 0;
+  let total_empty = 0;
+
+  for (let i = 0; i < files_list.length; i++) {
+
+    const files_list_i = String(files_list[i]);
+
+    const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
+    const item2 = fs.statSync("./corpus/Template_emptied_XML.txt"); // ##### Note: template-size
+    // dl.debug(`${item1.size}`); // ##### Note: item-size
+    // dl.debug(`${item2.size}`); // ##### Note: template-size
+
+    if (item1.size == item2.size) { // ##### Note: Size must match size of the template
+
+      total_empty++;
+
+    } else {
+
+      total_content++;
+
+    }
+
+  }
+
+  let total_content_empty = total_content + total_empty;
+  
+  function_log('./logs/','Log_total_files.txt',`Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`); 
+  dl.debug(`Log(compute_content_empty_files): Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`);
+
+  return "COMPLETE"
+
+}
+// ##############################################################################
+// ##### Function to compute total content(non-empty) and empty files (END) #####
+// ##############################################################################
+
+
 // ###################################################
 // ##### Function to update the Endpoint (START) #####
 // ###################################################
@@ -965,6 +1030,11 @@ async function main() {
   function_log('./logs/','Log_entries.txt',`Date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
   function_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_emptied_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_total_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  
 
   dl.debug("Log(main): starting main()");
 
@@ -1023,6 +1093,10 @@ async function main() {
   const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
   dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
+
+  dl.debug(`Log(main): Computing files: non-empty and empty.`);
+  const computed_files = await compute_content_empty_files();
+  dl.debug(`Log(main): Computing files: Task ${computed_files}!`);
 
   //
   //
