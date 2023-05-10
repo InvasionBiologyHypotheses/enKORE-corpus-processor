@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG" width="220" height="165">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG" width="220" height="165">
 
 # enKORE-corpus-processor
 
