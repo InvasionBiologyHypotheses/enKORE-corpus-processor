@@ -4,7 +4,7 @@
 
 git clone this repo:
 
-`git clone https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor.git`
+```rubygit clone https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor.git```
 
 install deno - see https://deno.land/manual@v1.28.3/getting_started/installation
 
