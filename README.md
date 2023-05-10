@@ -1,5 +1,4 @@
-- <img src="" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG" width="220" height="165" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG" width="220" height="165">
 
 # enKORE-corpus-processor
 
