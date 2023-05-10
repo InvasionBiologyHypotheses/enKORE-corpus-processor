@@ -1,3 +1,5 @@
+![invasive species example](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_lionfish_near_Gilli_Banta_Island.JPG/440px-Red_lionfish_near_Gilli_Banta_Island.JPG)
+
 # enKORE-corpus-processor
 
 ## Manual
