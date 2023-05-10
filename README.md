@@ -1,5 +1,11 @@
 # enKORE-corpus-processor
 
+## Manual
+
+For details, please read the project's wiki:
+
+https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor/wiki
+
 ## Dependencies
 
 git clone this repo:
