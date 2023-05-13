@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27968148</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27968148</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0014670</dc:identifier>
+  <dc:title>Challenges in identifying sites climatically matched to the native ranges of animal invaders</dc:title>
+  <dc:creator>Rodda, Gordon H</dc:creator>
+  <dc:creator>Jarnevich, Catherine S</dc:creator>
+  <dc:creator>Reed, Robert N</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-02-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>native range</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundSpecies distribution models are often used to characterize a species' native range climate, so as to identify sites elsewhere in the world that may be climatically similar and therefore at risk of invasion by the species. This endeavor provoked intense public controversy over recent attempts to model areas at risk of invasion by the Indian Python (Python molurus). We evaluated a number of MaxEnt models on this species to assess MaxEnt's utility for vertebrate climate matching.Methodology/principal findingsOverall, we found MaxEnt models to be very sensitive to modeling choices and selection of input localities and background regions. As used, MaxEnt invoked minimal protections against data dredging, multi-collinearity of explanatory axes, and overfitting. As used, MaxEnt endeavored to identify a single ideal climate, whereas different climatic considerations may determine range boundaries in different parts of the native range. MaxEnt was extremely sensitive to both the choice of background locations for the python, and to selection of presence points: inclusion of just four erroneous localities was responsible for Pyron et al.'s conclusion that no additional portions of the U.S. mainland were at risk of python invasion. When used with default settings, MaxEnt overfit the realized climate space, identifying models with about 60 parameters, about five times the number of parameters justifiable when optimized on the basis of Akaike's Information Criterion.Conclusions/significanceWhen used with default settings, MaxEnt may not be an appropriate vehicle for identifying all sites at risk of colonization. Model instability and dearth of protections against overfitting, multi-collinearity, and data dredging may combine with a failure to distinguish fundamental from realized climate envelopes to produce models of limited utility. A priori identification of biologically realistic model structure, combined with computational protections against these statistical problems, may produce more robust models of invasion risk.</dc:description>
+</oai_dc:dc>

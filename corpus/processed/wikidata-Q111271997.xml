@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111271997</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111271997</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.71.75711</dc:identifier>
+  <dc:title>Predatory ability and abundance forecast the ecological impacts of two aquatic invasive species</dc:title>
+  <dc:creator>DeRoy, Emma M.</dc:creator>
+  <dc:creator>Crookes, Steven</dc:creator>
+  <dc:creator>Matheson, Kyle</dc:creator>
+  <dc:creator>Scott, Ryan</dc:creator>
+  <dc:creator>McKenzie, Cynthia H.</dc:creator>
+  <dc:creator>Alexander, Mhairi E.</dc:creator>
+  <dc:creator>Dick, Jaimie T. A.</dc:creator>
+  <dc:creator>MacIsaac, Hugh J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-01-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/share-your-work/public-domain/cc0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Characterising interspecific interaction strengths, combined with population abundances of prey and their novel predators, is critical to develop predictive invasion ecology. This is especially true of aquatic invasive species, which can pose a significant threat to the structure and stability of the ecosystems to which they are introduced. Here, we investigated consumer-resource dynamics of two globally-established aquatic invasive species, European green crab (Carcinus maenas) and brown trout (Salmo trutta). We explored the mediating effect of prey density on predatory impact in these invaders relative to functionally analogous native rock crab (Cancer irroratus) and Atlantic salmon (Salmo salar), respectively, feeding on shared prey (Mytilus sp. and Tenebrio molitor, respectively). We subsequently combined feeding rates with each predator’s regional abundance to forecast relative ecological impacts. All predators demonstrated potentially destabilising Type II functional responses towards prey, with native rock crab and invasive brown trout exhibiting greater per capita impacts relative to their trophic analogues. Functional Response Ratios (attack rates divided by handling times) were higher for both invasive species, reflecting greater overall per capita effects compared to natives. Impact projections that incorporated predator abundances with per capita effects predicted severe impacts by European green crabs. However, brown trout, despite possessing higher per capita effects than Atlantic salmon, are projected to have low impact owing to currently low abundances in the sampled watershed. Should brown trout density increase sixfold, we predict it would exert higher impact than Atlantic salmon. Such impact-forecasting metrics and methods are thus vital tools to assist in the determination of current and future adverse impacts associated with aquatic invasive species.</dc:description>
+</oai_dc:dc>

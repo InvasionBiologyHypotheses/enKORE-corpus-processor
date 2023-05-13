@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64067156</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64067156</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6431541</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.6538</dc:identifier>
+  <dc:title>Comparative analysis of the liver transcriptome in the red-eared slider under chronic salinity stress</dc:title>
+  <dc:creator>Hong, Meiling</dc:creator>
+  <dc:creator>Jiang, Aiping</dc:creator>
+  <dc:creator>Li, Na</dc:creator>
+  <dc:creator>Li, Weihao</dc:creator>
+  <dc:creator>Shi, Haitao</dc:creator>
+  <dc:creator>Storey, Kenneth B</dc:creator>
+  <dc:creator>Ding, Li</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>salinity stress</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>The red-eared slider (Trachemys scripta elegans), identified as one of the 100 most invasive species in the world, is a freshwater turtle originally from the eastern United States and northeastern Mexico. Field investigations have shown that T. s. elegans can survive and lay eggs in saline habitats. In order to understand the molecular mechanisms of salinity adaptation, high-throughput RNA-Seq was utilized to identify the changes in gene expression profiles in the liver of T. s. elegans in response to elevated salinity. We exposed individuals to 0, 5, or 15 psu (practical salinity units) for 30 days. A total of 157.21 million reads were obtained and assembled into 205138 unigenes with an average length of 620 bp and N50 of 964 bp. Of these, 1019 DEGs (differentially expressed genes) were found in the comparison of 0 vs. 5 psu, 1194 DEGs in 0 vs. 15 psu and 1180 DEGs in 5 vs. 15 psu, which are mainly related to macromolecule metabolic process, ion transport, oxidoreductase activity and generation of precursor metabolites and energy by GO (Gene Ontology) enrichment analyses. T. s. elegans can adapt itself into salinity by balancing the entry of sodium and chloride ions via the up-regulation expression genes of ion transport (potassium voltage-gated channel subfamily H member 5, KCNH5; erine/threonine-protein kinase 32, STK32; salt-inducible kinase 1, SIK1; adiponectin, ACDC), and by accumulating plasma urea and free amino acid via the up-regulation expression genes of amino acid metabolism (ornithine decarboxylase antizyme 3, OAZ3; glutamine synthetase, GLUL; asparaginase-like protein 1b, ASRGL; L-amino-acid oxidase-like, LAAO; sodium-dependent neutral amino acid transporter B, SLC6A15s; amino acid permease, SLC7A9) in response to osmotic regulation. An investment of energy to maintain their homeostatic balance is required to salinity adaptation, therefore, the genes related to energy production and conversion (F-ATPase protein 6, ATP6; cytochrome c oxidase subunit I, COX1; cytochrome c oxidase subunit III, COX3; cytochrome b, CYTb; cytochrome P450 17A1, CYP17A1) were up-regulated with the increase of gene expression associated with lipid metabolism (apolipoprotein E precursor, APoE; coenzyme Q-binding protein, CoQ10; high-density lipoprotein particle, SAA) and carbohydrate metabolism (HK, MIP). These findings improve our understanding of the underlying molecular mechanisms involved in salinity adaptation and provide general guidance to illuminate the invasion potential of T. s. elegans into saline environments.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34606720</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34606720</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574135</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0056326</dc:identifier>
+  <dc:title>The epitope of monoclonal antibodies blocking erythrocyte invasion by Plasmodium falciparum map to the dimerization and receptor glycan binding sites of EBA-175.</dc:title>
+  <dc:creator>Ambroggio, Xavier</dc:creator>
+  <dc:creator>Jiang, Lubin</dc:creator>
+  <dc:creator>Aebig, Joan</dc:creator>
+  <dc:creator>Obiakor, Harold</dc:creator>
+  <dc:creator>Lukszo, Jan</dc:creator>
+  <dc:creator>Narum, David L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-02-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>erythrocyte binding antigen-175</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The malaria parasite, Plasmodium falciparum, and related parasites use a variety of proteins with Duffy-Binding Like (DBL) domains to bind glycoproteins on the surface of host cells. Among these proteins, the 175 kDa erythrocyte binding antigen, EBA-175, specifically binds to glycophorin A on the surface of human erythrocytes during the process of merozoite invasion. The domain responsible for glycophorin A binding was identified as region II (RII) which contains two DBL domains, F1 and F2. The crystal structure of this region revealed a dimer that is presumed to represent the glycophorin A binding conformation as sialic acid binding sites and large cavities are observed at the dimer interface. The dimer interface is largely composed of two loops from within each monomer, identified as the F1 and F2 -fingers that contact depressions in the opposing monomers in a similar manner. Previous studies have identified a panel of five monoclonal antibodies (mAbs) termed R215 to R218 and R256 that bind to RII and inhibit invasion of erythrocytes to varying extents. In this study, we predict the F2 -finger region as the conformational epitope for mAbs, R215, R217, and R256, and confirm binding for the most effective blocking mAb R217 and R215 to a synthetic peptide mimic of the F2 -finger. Localization of the epitope to the dimerization and glycan binding sites of EBA-175 RII and site-directed mutagenesis within the predicted epitope are consistent with R215 and R217 blocking erythrocyte invasion by Plasmodium falciparum by preventing formation of the EBA-175- glycophorin A complex.</dc:description>
+</oai_dc:dc>
