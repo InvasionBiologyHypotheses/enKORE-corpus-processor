@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35533099</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35533099</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408118</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004846</dc:identifier>
+  <dc:title>EphrinA2 receptor (EphA2) is an invasion and intracellular signaling receptor for Chlamydia trachomatis</dc:title>
+  <dc:creator>Subbarayal, Prema</dc:creator>
+  <dc:creator>Karunakaran, Karthika</dc:creator>
+  <dc:creator>Winkler, Ann-Cathrin</dc:creator>
+  <dc:creator>Rother, Marion</dc:creator>
+  <dc:creator>Gonzalez, Erik</dc:creator>
+  <dc:creator>Meyer, Thomas F</dc:creator>
+  <dc:creator>Rudel, Thomas</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Chlamydia trachomatis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The obligate intracellular bacterium Chlamydia trachomatis invades into host cells to replicate inside a membrane-bound vacuole called inclusion. Multiple different host proteins are recruited to the inclusion and are functionally modulated to support chlamydial development. Invaded and replicating Chlamydia induces a long-lasting activation of the PI3 kinase signaling pathway that is required for efficient replication. We identified the cell surface tyrosine kinase EphrinA2 receptor (EphA2) as a chlamydial adherence and invasion receptor that induces PI3 kinase (PI3K) activation, promoting chlamydial replication. Interfering with binding of C. trachomatis serovar L2 (Ctr) to EphA2, downregulation of EphA2 expression or inhibition of EphA2 activity significantly reduced Ctr infection. Ctr interacts with and activates EphA2 on the cell surface resulting in Ctr and receptor internalization. During chlamydial replication, EphA2 remains active accumulating around the inclusion and interacts with the p85 regulatory subunit of PI3K to support the activation of the PI3K/Akt signaling pathway that is required for normal chlamydial development. Overexpression of full length EphA2, but not the mutant form lacking the intracellular cytoplasmic domain, enhanced PI3K activation and Ctr infection. Despite the depletion of EphA2 from the cell surface, Ctr infection induces upregulation of EphA2 through the activation of the ERK pathway, which keeps the infected cell in an apoptosis-resistant state. The significance of EphA2 as an entry and intracellular signaling receptor was also observed with the urogenital C. trachomatis-serovar D. Our findings provide the first evidence for a host cell surface receptor that is exploited for invasion as well as for receptor-mediated intracellular signaling to facilitate chlamydial replication. In addition, the engagement of a cell surface receptor at the inclusion membrane is a new mechanism by which Chlamydia subverts the host cell and induces apoptosis resistance.</dc:description>
+</oai_dc:dc>

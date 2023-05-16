@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q49613087</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q49613087</dc:identifier>
+  <dc:identifier>doi:10.3390/JOF2010010</dc:identifier>
+  <dc:title>Invasive Candidiasis in Various Patient Populations: Incorporating Non-Culture Diagnostic Tests into Rational Management Strategies.</dc:title>
+  <dc:creator>Clancy, Cornelius J</dc:creator>
+  <dc:creator>Shields, Ryan K</dc:creator>
+  <dc:creator>Nguyen, Hong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-06</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>candidiasis</dc:subject>
+  <dc:subject>invasive candidiasis</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Mortality rates due to invasive candidiasis remain unacceptably high, in part because the poor sensitivity and slow turn-around time of cultures delay the initiation of antifungal treatment. -d-glucan (Fungitell) and polymerase chain reaction (PCR)-based (T2Candida) assays are FDA-approved adjuncts to cultures for diagnosing invasive candidiasis, but their clinical roles are unclear. We propose a Bayesian framework for interpreting non-culture test results and developing rational patient management strategies, which considers test performance and types of invasive candidiasis that are most common in various patient populations. -d-glucan sensitivity/specificity for candidemia and intra-abdominal candidiasis is ~80%/80% and ~60%/75%, respectively. In settings with 1%-10% likelihood of candidemia, anticipated -d-glucan positive and negative predictive values are ~4%-31% and 97%, respectively. Corresponding values in settings with 3%-30% likelihood of intra-abdominal candidiasis are ~7%-51% and ~78%-98%. -d-glucan is predicted to be useful in guiding antifungal treatment for wide ranges of populations at-risk for candidemia (incidence ~5%-40%) or intra-abdominal candidiasis (~7%-20%). Validated PCR-based assays should broaden windows to include populations at lower-risk for candidemia (incidence ~2%) and higher-risk for intra-abdominal candidiasis (up to ~40%). In the management of individual patients, non-culture tests may also have value outside of these windows. The proposals we put forth are not definitive treatment guidelines, but rather represent starting points for clinical trial design and debate by the infectious diseases community. The principles presented here will be applicable to other assays as they enter the clinic, and to existing assays as more data become available from different populations.</dc:description>
+</oai_dc:dc>

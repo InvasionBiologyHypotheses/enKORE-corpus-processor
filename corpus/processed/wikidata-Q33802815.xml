@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33802815</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33802815</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019169</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0016151</dc:identifier>
+  <dc:title>Blue and red light modulates SigB-dependent gene transcription, swimming motility and invasiveness in Listeria monocytogenes</dc:title>
+  <dc:creator>Ondrusch, Nicolai</dc:creator>
+  <dc:creator>Kreft, Jürgen</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-01-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Listeria monocytogenes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundIn a number of gram-positive bacteria, including Listeria, the general stress response is regulated by the alternative sigma factor B (SigB). Common stressors which lead to the activation of SigB and the SigB-dependent regulon are high osmolarity, acid and several more. Recently is has been shown that also blue and red light activates SigB in Bacillus subtilis.Methodology/principal findingsBy qRT-PCR we analyzed the transcriptional response of the pathogen L. monocytogenes to blue and red light in wild type bacteria and in isogenic deletion mutants for the putative blue-light receptor Lmo0799 and the stress sigma factor SigB. It was found that both blue (455 nm) and red (625 nm) light induced the transcription of sigB and SigB-dependent genes, this induction was completely abolished in the SigB mutant. The blue-light effect was largely dependent on Lmo0799, proving that this protein is a genuine blue-light receptor. The deletion of lmo0799 enhanced the red-light effect, the underlying mechanism as well as that of SigB activation by red light remains unknown. Blue light led to an increased transcription of the internalin A/B genes and of bacterial invasiveness for Caco-2 enterocytes. Exposure to blue light also strongly inhibited swimming motility of the bacteria in a Lmo0799- and SigB-dependent manner, red light had no effect there.Conclusions/significanceOur data established that visible, in particular blue light is an important environmental signal with an impact on gene expression and physiology of the non-phototrophic bacterium L. monocytogenes. In natural environments these effects will result in sometimes random but potentially also cyclic fluctuations of gene activity, depending on the light conditions prevailing in the respective habitat.</dc:description>
+</oai_dc:dc>

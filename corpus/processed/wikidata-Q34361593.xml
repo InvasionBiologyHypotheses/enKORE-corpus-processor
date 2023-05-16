@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34361593</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34361593</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201426</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.1031</dc:identifier>
+  <dc:title>Differences in evolutionary history translate into differences in invasion success of alien mammals in South Africa</dc:title>
+  <dc:creator>Yessoufou, Kowiyou</dc:creator>
+  <dc:creator>Gere, Jephris</dc:creator>
+  <dc:creator>Daru, Barnabas H</dc:creator>
+  <dc:creator>Bank, Michelle</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>South Africa</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Attempts to investigate the drivers of invasion success are generally limited to the biological and evolutionary traits distinguishing native from introduced species. Although alien species introduced to the same recipient environment differ in their invasion intensity - for example, some are "strong invaders"; others are "weak invaders" - the factors underlying the variation in invasion success within alien communities are little explored. In this study, we ask what drives the variation in invasion success of alien mammals in South Africa. First, we tested for taxonomic and phylogenetic signal in invasion intensity. Second, we reconstructed predictive models of the variation in invasion intensity among alien mammals using the generalized linear mixed-effects models. We found that the family Bovidae and the order Artiodactyla contained more "strong invaders" than expected by chance, and that such taxonomic signal did not translate into phylogenetic selectivity. In addition, our study indicates that latitude, gestation length, social group size, and human population density are only marginal determinant of the variation in invasion success. However, we found that evolutionary distinctiveness - a parameter characterising the uniqueness of each alien species - is the most important predictive variable. Our results indicate that the invasive behavior of alien mammals may have been "fingerprinted" in their evolutionary past, and that evolutionary history might capture beyond ecological, biological and life-history traits usually prioritized in predictive modeling of invasion success. These findings have applicability to the management of alien mammals in South Africa.</dc:description>
+</oai_dc:dc>

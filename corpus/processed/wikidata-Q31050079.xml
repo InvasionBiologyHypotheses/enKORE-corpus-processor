@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31050079</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31050079</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768694</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.1703</dc:identifier>
+  <dc:title>May arsenic pollution contribute to limiting Artemia franciscana invasion in southern Spain?</dc:title>
+  <dc:creator>Sánchez, Marta I.</dc:creator>
+  <dc:creator>Petit, Cathleen</dc:creator>
+  <dc:creator>Martínez-Haro, Mónica</dc:creator>
+  <dc:creator>Taggart, Mark A</dc:creator>
+  <dc:creator>Green, Andy J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-18</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>Artemia franciscana</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Limited information exists regarding the complex interactions between biological invasions, pollution, and climate change. Most studies indicate that pollution tends to favor invasive species. Here, we provide evidence that arsenic (As) pollution may have a role in limiting the invasion of the exotic brine shrimpArtemia franciscana. We tested As toxicity in natural populations ofArtemia parthenogenetica(a native taxon) andA. franciscanafrom localities in southern Spain with differing degrees of As contamination. Tests were conducted both under current mean temperature conditions (25 C), and as per a future climate scenario (i.e., an increase in mean temperature of 4 C). Acute toxicity was estimated on the basis of the median lethal concentration (at 24 h), and chronic toxicity was evaluated by measuringArtemiasurvival and growth under sublethal exposures (after 26 days). At 25 C, nativeA. parthenogeneticafrom the highly polluted Odiel and Tinto estuary was much more resistant to acute As stress (LC50-24 h, 24.67 mg L1) thanA. franciscana(15.78 mg L1) andA. parthenogeneticafrom unpolluted sites (12.04 mg L1)suggesting that local adaptation to polluted conditions may occur. At 29 C, resistance ofA. parthenogeneticafrom Odiel decreased significantly, and there were no statistical differences in sensitivity between the three species/populations, suggesting that climate change may enhance the probability of invasion. Resistance increased with developmental stage from nauplii to adults, and was extremely high in cysts which still hatched at As concentrations of up to 6400 mg L1. Under sublethal chronic exposureA. franciscanaperformed better (survival and growth) thanA. parthenogenetica, and both species experienced a faster growth when exposed to As, compared with unexposed (control) individuals, probably due to the hormesis. We discuss the ecological implications of our results.</dc:description>
+</oai_dc:dc>
