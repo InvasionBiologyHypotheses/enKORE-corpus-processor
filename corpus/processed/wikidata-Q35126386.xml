@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35126386</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35126386</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0092177</dc:identifier>
+  <dc:title>Spatial and temporal dynamics of fucoid populations (Ascophyllum nodosum and Fucus serratus): a comparison between central and range edge populations</dc:title>
+  <dc:creator>Araujo, Rita</dc:creator>
+  <dc:creator>Serrão, Ester A.</dc:creator>
+  <dc:creator>Pinto, Isabel Sousa</dc:creator>
+  <dc:creator>Åberg, Per</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-03-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Ascophyllum nodosum</dc:subject>
+  <dc:subject>range edge</dc:subject>
+  <dc:subject>Fucus serratus</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Persistence of populations at range edges relies on local population dynamics and fitness, in the case of geographically isolated populations of species with low dispersal potential. Focusing on spatial variations in demography helps to predict the long-term capability for persistence of populations across the geographical range of species' distribution. The demography of two ecological and phylogenetically close macroalgal species with different life history characteristics was investigated by using stochastic, stage-based matrix models. Populations of Ascophyllum nodosum and Fucus serratus were sampled for up to 4 years at central locations in France and at their southern range limits in Portugal. The stochastic population growth rate ((s)) of A. nodosum was lower and more variable in central than in southern sites whilst for F. serratus this trend was reversed with (s) much lower and more variable in southern than in central populations. Individuals were larger in central than in southern populations for both species, which was reflected in the lower transition probabilities of individuals to larger size classes and higher probability of shrinkage in the southern populations. In both central and southern populations elasticity analysis (proportional sensitivity) of population growth rate showed that fertility elements had a small contribution to (s) that was more sensitive to changes in matrix transitions corresponding to survival. The highest elasticities were found for loop transitions in A. nodosum and for growth to larger size classes in F. serratus. Sensitivity analysis showed high selective pressure on individual growth for both species at both locations. The results of this study highlight the deterministic role of species-specific life-history traits in population demography across the geographical range of species. Additionally, this study demonstrates that individuals' life-transitions differ in vulnerability to environmental variability and shows the importance of vegetative compared to reproductive stages for the long-term persistence of populations.</dc:description>
+</oai_dc:dc>

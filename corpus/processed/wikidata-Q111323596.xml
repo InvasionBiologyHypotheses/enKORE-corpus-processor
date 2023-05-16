@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111323596</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111323596</dc:identifier>
+  <dc:identifier>doi:10.1093/G3JOURNAL/JKAB339</dc:identifier>
+  <dc:title>Genome report: a draft genome of Alliaria petiolata (garlic mustard) as a model system for invasion genetics</dc:title>
+  <dc:creator>Alabi, Nikolay</dc:creator>
+  <dc:creator>Wu, Yihan</dc:creator>
+  <dc:creator>Bossdorf, Oliver</dc:creator>
+  <dc:creator>Rieseberg, Loren H</dc:creator>
+  <dc:creator>Colautti, Robert I</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-12-01</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Alliaria petiolata</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>Abstract
+               The emerging field of invasion genetics examines the genetic causes and consequences of biological invasions, but few study systems are available that integrate deep ecological knowledge with genomic tools. Here, we report on the de novo assembly and annotation of a genome for the biennial herb Alliaria petiolata (M. Bieb.) Cavara and Grande (Brassicaceae), which is widespread in Eurasia and invasive across much of temperate North America. Our goal was to sequence and annotate a genome to complement resources available from hundreds of published ecological studies, a global field survey, and hundreds of genetic lines maintained in Germany and Canada. We sequenced a genotype (EFCC3-3-20) collected from the native range near Venice, Italy, and sequenced paired-end and mate pair libraries at 70×coverage. A de novo assembly resulted in a highly continuous draft genome (N50 = 121Mb; L50 = 2) with 99.7% of the 1.1Gb genome mapping to scaffolds of at least 50 Kb in length. A total of 64,770 predicted genes in the annotated genome include 99% of plant BUSCO genes and 98% of transcriptome reads. Consistent with previous reports of (auto)hexaploidy in western Europe, we found that almost one-third of BUSCO genes (390/1440) mapped to two or more scaffolds despite &amp;lt;2% genome-wide average heterozygosity. The continuity and gene space quality of our draft assembly will enable molecular and functional genomic studies of A. petiolata to address questions relevant to invasion genetics and conservation strategies.</dc:description>
+</oai_dc:dc>

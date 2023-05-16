@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35553554</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35553554</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414612</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0125066</dc:identifier>
+  <dc:title>Native Wolbachia from Aedes albopictus Blocks Chikungunya Virus Infection In Cellulo</dc:title>
+  <dc:creator>Raquin, Vincent</dc:creator>
+  <dc:creator>Moro, Claire Valiente</dc:creator>
+  <dc:creator>Saucereau, Yoann</dc:creator>
+  <dc:creator>Tran, Florence-Hélne</dc:creator>
+  <dc:creator>Potier, Patrick</dc:creator>
+  <dc:creator>Mavingui, Patrick</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Asian tiger mosquito</dc:subject>
+  <dc:subject>Chikungunya virus</dc:subject>
+  <dc:subject>Wolbachia</dc:subject>
+  <dc:subject>chikungunya</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Wolbachia, a widespread endosymbiont of terrestrial arthropods, can protect its host against viral and parasitic infections, a phenotype called "pathogen blocking". However, in some cases Wolbachia may have no effect or even enhance pathogen infection, depending on the host-Wolbachia-pathogen combination. The tiger mosquito Aedes albopictus is naturally infected by two strains of Wolbachia, wAlbA and wAlbB, and is a competent vector for different arboviruses such as dengue virus (DENV) and chikungunya virus (CHIKV). Interestingly, it was shown in some cases that Ae. albopictus native Wolbachia strains are able to inhibit DENV transmission by limiting viral replication in salivary glands, but no such impact was measured on CHIKV replication in vivo. To better understand the Wolbachia/CHIKV/Ae. albopictus interaction, we generated a cellular model using Ae. albopictus derived C6/36 cells that we infected with the wAlbB strain. Our results indicate that CHIKV infection is negatively impacted at both RNA replication and virus assembly/secretion steps in presence of wAlbB. Using FISH, we observed CHIKV and wAlbB in the same mosquito cells, indicating that the virus is still able to enter the cell in the presence of the bacterium. Further work is needed to decipher molecular pathways involved in Wolbachia-CHIKV interaction at the cellular level, but this cellular model can be a useful tool to study the mechanism behind virus blocking phenotype induced by Wolbachia. More broadly, this put into question the ecological role of Wolbachia symbiont in Ae. albopictus, but also the ability of the CHIKV to counteract Wolbachia's antiviral potential in vivo.</dc:description>
+</oai_dc:dc>

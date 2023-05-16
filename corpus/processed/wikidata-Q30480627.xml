@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30480627</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30480627</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894077</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0011370</dc:identifier>
+  <dc:title>Combining next-generation sequencing strategies for rapid molecular resource development from an invasive aphid species, Aphis glycines</dc:title>
+  <dc:creator>Bai, Xiaodong</dc:creator>
+  <dc:creator>Zhang, Wei</dc:creator>
+  <dc:creator>Orantes, Lucia</dc:creator>
+  <dc:creator>Jun, Tae-Hwan</dc:creator>
+  <dc:creator>Mittapalli, Omprakash</dc:creator>
+  <dc:creator>Mian, A Rouf</dc:creator>
+  <dc:creator>Michel, Andrew P</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-06-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Soybean aphid</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundAphids are one of the most important insect taxa in terms of ecology, evolutionary biology, genetics and genomics, and interactions with endosymbionts. Additionally, many aphids are serious pest species of agricultural and horticultural plants. Recent genetic and genomic research has expanded molecular resources for many aphid species, including the whole genome sequencing of the pea aphid, Acrythosiphon pisum. However, the invasive soybean aphid, Aphis glycines, lacks in any significant molecular resources.Methodology/principal findingsTwo next-generation sequencing technologies (Roche-454 and Illumina GA-II) were used in a combined approach to develop both transcriptomic and genomic resources, including expressed genes and molecular markers. Over 278 million bp were sequenced among the two methods, resulting in 19,293 transcripts and 56,688 genomic sequences. From this data set, 635 SNPs and 1,382 microsatellite markers were identified. For each sequencing method, different soybean aphid biotypes were used which revealed potential biotype specific markers. In addition, we uncovered 39,822 bp of sequence that were related to the obligatory endosymbiont, Buchnera aphidicola, as well as sequences that suggest the presence of Hamiltonella defensa, a facultative endosymbiont.Conclusions and significanceMolecular resources for an invasive, non-model aphid species were generated. Additionally, the power of next-generation sequencing to uncover endosymbionts was demonstrated. The resources presented here will complement ongoing molecular studies within the Aphididae, including the pea aphid whole genome, lead to better understanding of aphid adaptation and evolution, and help provide novel targets for soybean aphid control.</dc:description>
+</oai_dc:dc>

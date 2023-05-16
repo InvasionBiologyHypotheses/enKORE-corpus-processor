@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27316537</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27316537</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4687929</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1005343</dc:identifier>
+  <dc:title>Plasmodium falciparum Adhesins Play an Essential Role in Signalling and Activation of Invasion into Human Erythrocytes</dc:title>
+  <dc:creator>Tham, Wai-Hong</dc:creator>
+  <dc:creator>Lim, Nicholas T Y</dc:creator>
+  <dc:creator>Weiss, Greta E</dc:creator>
+  <dc:creator>Lopaticki, Sash</dc:creator>
+  <dc:creator>Ansell, Brendan R E</dc:creator>
+  <dc:creator>Bird, Megan</dc:creator>
+  <dc:creator>Lucet, Isabelle</dc:creator>
+  <dc:creator>Dorin-Semblat, Dominique</dc:creator>
+  <dc:creator>Doerig, Christian</dc:creator>
+  <dc:creator>Gilson, Paul R</dc:creator>
+  <dc:creator>Crabb, Brendan S</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>human erythrocyte</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The most severe form of malaria in humans is caused by the protozoan parasite Plasmodium falciparum. The invasive form of malaria parasites is termed a merozoite and it employs an array of parasite proteins that bind to the host cell to mediate invasion. In Plasmodium falciparum, the erythrocyte binding-like (EBL) and reticulocyte binding-like (Rh) protein families are responsible for binding to specific erythrocyte receptors for invasion and mediating signalling events that initiate active entry of the malaria parasite. Here we have addressed the role of the cytoplasmic tails of these proteins in activating merozoite invasion after receptor engagement. We show that the cytoplasmic domains of these type 1 membrane proteins are phosphorylated in vitro. Depletion of PfCK2, a kinase implicated to phosphorylate these cytoplasmic tails, blocks P. falciparum invasion of red blood cells. We identify the crucial residues within the PfRh4 cytoplasmic domain that are required for successful parasite invasion. Live cell imaging of merozoites from these transgenic mutants show they attach but do not penetrate erythrocytes implying the PfRh4 cytoplasmic tail conveys signals important for the successful completion of the invasion process.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27349179</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27349179</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016778</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP33013</dc:identifier>
+  <dc:title>Rate of biological invasions is lower in coastal marine protected areas</dc:title>
+  <dc:creator>Ardura, A</dc:creator>
+  <dc:creator>Juanes, F</dc:creator>
+  <dc:creator>Planes, S</dc:creator>
+  <dc:creator>Garcia-Vazquez, E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-09-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>coastal invasion</dc:subject>
+  <dc:subject>marine protected area</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractMarine biological invasions threaten biodiversity worldwide. Here we explore how Marine Protected areas, by reducing human use of the coast, confer resilience against the introduction of non-indigenous species (NIS), using two very different Pacific islands as case studies for developing and testing mathematical models. We quantified NIS vectors and promoters on Vancouver (Canada) and Moorea (French Polynesia) islands, sampled and barcoded NIS, and tested models at different spatial scales with different types of interaction among vectors and between marine protection and NIS frequency. In our results NIS were negatively correlated with the dimension of the protected areas and the intensity of the protection. Small to medium geographical scale protection seemed to be efficient against NIS introductions. The likely benefit of MPAs was by exclusion of aquaculture, principally in Canada. These results emphasize the importance of marine protected areas for biodiversity conservation, and suggest that small or medium protected zones would confer efficient protection against NIS introduction.</dc:description>
+</oai_dc:dc>

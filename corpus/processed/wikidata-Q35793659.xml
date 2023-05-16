@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35793659</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35793659</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484427</dc:identifier>
+  <dc:identifier>doi:10.18632/ONCOTARGET.3535</dc:identifier>
+  <dc:title>Hypoxia-inducible factor 1 (HIF-1) and reactive oxygen species (ROS) mediates radiation-induced invasiveness through the SDF-1/CXCR4 pathway in non-small cell lung carcinoma cells</dc:title>
+  <dc:creator>Gu, Qing</dc:creator>
+  <dc:creator>He, Yan</dc:creator>
+  <dc:creator>Ji, Jianfeng</dc:creator>
+  <dc:creator>Yao, Yifan</dc:creator>
+  <dc:creator>Shen, Wenhao</dc:creator>
+  <dc:creator>Luo, Jialin</dc:creator>
+  <dc:creator>Zhu, Wei</dc:creator>
+  <dc:creator>Cao, Han</dc:creator>
+  <dc:creator>Geng, Yangyang</dc:creator>
+  <dc:creator>Xu, Jing</dc:creator>
+  <dc:creator>Zhang, Shuyu</dc:creator>
+  <dc:creator>Cao, Jianping</dc:creator>
+  <dc:creator>Ding, Wei-Qun</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-05-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>reactive oxygen species</dc:subject>
+  <dc:subject>lung carcinoma</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:subject>neoplastic invasiveness</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Impact Journals, LLC</dc:publisher>
+</oai_dc:dc>
