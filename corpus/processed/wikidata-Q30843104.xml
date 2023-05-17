@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30843104</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30843104</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5368605</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP45302</dc:identifier>
+  <dc:title>Mitochondrial DNA and trade data support multiple origins of Helicoverpa armigera (Lepidoptera, Noctuidae) in Brazil</dc:title>
+  <dc:creator>Tay, Wee Tek</dc:creator>
+  <dc:creator>Walsh, Thomas K</dc:creator>
+  <dc:creator>Downes, Sharon</dc:creator>
+  <dc:creator>Anderson, Craig</dc:creator>
+  <dc:creator>Jermiin, Lars S.</dc:creator>
+  <dc:creator>Wong, Thomas</dc:creator>
+  <dc:creator>Piper, Melissa C</dc:creator>
+  <dc:creator>Chang, Ester Silva</dc:creator>
+  <dc:creator>Macedo, Isabella Barony</dc:creator>
+  <dc:creator>Czepak, Cecilia</dc:creator>
+  <dc:creator>Behere, Gajanan T</dc:creator>
+  <dc:creator>Silvie, Pierre</dc:creator>
+  <dc:creator>Soria, Miguel F</dc:creator>
+  <dc:creator>Frayssinet, Marie</dc:creator>
+  <dc:creator>Gordon, Karl H J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Brazil</dc:subject>
+  <dc:subject>Lepidoptera</dc:subject>
+  <dc:subject>mitochondrial DNA</dc:subject>
+  <dc:subject>Helicoverpa armigera</dc:subject>
+  <dc:subject>Noctuidae</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe Old World bollworm Helicoverpa armigera is now established in Brazil but efforts to identify incursion origin(s) and pathway(s) have met with limited success due to the patchiness of available data. Using international agricultural/horticultural commodity trade data and mitochondrial DNA (mtDNA) cytochrome oxidase I (COI) and cytochrome b (Cyt b) gene markers, we inferred the origins and incursion pathways into Brazil. We detected 20 mtDNA haplotypes from six Brazilian states, eight of which were new to our 97 global COI-Cyt b haplotype database. Direct sequence matches indicated five Brazilian haplotypes had Asian, African, and European origins. We identified 45 parsimoniously informative sites and multiple substitutions per site within the concatenated (945bp) nucleotide dataset, implying that probabilistic phylogenetic analysis methods are needed. High diversity and signatures of uniquely shared haplotypes with diverse localities combined with the trade data suggested multiple incursions and introduction origins in Brazil. Increasing agricultural/horticultural trade activities between the Old and New Worlds represents a significant biosecurity risk factor. Identifying pest origins will enable resistance profiling that reflects countries of origin to be included when developing a resistance management strategy, while identifying incursion pathways will improve biosecurity protocols and risk analysis at biosecurity hotspots including national ports.</dc:description>
+</oai_dc:dc>

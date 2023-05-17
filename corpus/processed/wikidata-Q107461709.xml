@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107461709</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q107461709</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.49.34986</dc:identifier>
+  <dc:title>Impacts of non-native fishes under a seasonal temperature gradient are forecasted using functional responses and abundances</dc:title>
+  <dc:creator>Mofu, Lubabalo</dc:creator>
+  <dc:creator>Cuthbert, Ross N.</dc:creator>
+  <dc:creator>Dalu, Tatenda</dc:creator>
+  <dc:creator>Woodford, Darragh J.</dc:creator>
+  <dc:creator>Wasserman, Ryan J.</dc:creator>
+  <dc:creator>Dick, Jaimie T. A.</dc:creator>
+  <dc:creator>Weyl, Olaf L. F.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-08-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Developing predictive methods to forecast the impacts of existing and emerging invasive species is of critical importance to biodiversity conservation. However, invader impacts are context-dependent, making reliable and robust predictions challenging. In particular, it is unclear how temporal variabilities in relation to temperature regime shifts influence invader ecological impacts. In the present study, we quantify the functional responses of three coexisting freshwater fishes: the native freshwater River Goby Glossogobiuscallidus, and the non-native Mozambique Tilapia Oreochromismossambicus and Western Mosquitofish Gambusiaaffinis, under two temperature treatments using chironomid larvae as prey. This was used along with fish abundance data to determine temporal differences in ecological impacts of each fish species between seasons (i.e. at two corresponding temperatures). All three fish species exhibited potentially population-destabilizing Type II functional responses. Their maximum feeding rates were consistently higher in the warm temperature treatment, whereas attack rates tended to be reduced. Non-native Mozambique Tilapia had the highest maximum feeding rate under both temperature treatments (18 C and 25 C), followed by the non-native Western Mosquitofish and lastly the native River Goby, suggesting greater per capita impacts on native prey by non-native fishes. The predatory fish abundances differed significantly according to season, with native River Goby and non-native Mozambique Tilapia generally more abundant than non-native Western Mosquitofish. By multiplying functional response maximum feeding rates with abundances of each fish species across the seasonal gradient, the relative impact potential of non-native Mozambique Tilapia was consistently higher compared to that of native gobies. Western Mosquitofish impacts were less apparent, owing to their low abundances. We demonstrate how seasonal temperature fluctuations affect the relative impact capacities of introduced species and the utility of consumer functional response and the relative impact potential metric in impact forecasting.</dc:description>
+</oai_dc:dc>

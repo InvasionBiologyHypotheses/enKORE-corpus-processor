@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35890471</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35890471</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4709005</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0146785</dc:identifier>
+  <dc:title>AdcAII of Streptococcus pneumoniae Affects Pneumococcal Invasiveness</dc:title>
+  <dc:creator>Brown, Lindsey R</dc:creator>
+  <dc:creator>Gunnell, Steven M</dc:creator>
+  <dc:creator>Cassella, Adam N</dc:creator>
+  <dc:creator>Keller, Lance E</dc:creator>
+  <dc:creator>Scherkenbach, Lisa A</dc:creator>
+  <dc:creator>Mann, Beth</dc:creator>
+  <dc:creator>Brown, Matthew W</dc:creator>
+  <dc:creator>Hill, Rebecca</dc:creator>
+  <dc:creator>Fitzkee, Nicholas C</dc:creator>
+  <dc:creator>Rosch, Jason W</dc:creator>
+  <dc:creator>Tuomanen, Elaine I</dc:creator>
+  <dc:creator>Thornton, Justin A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Across bacterial species, metal binding proteins can serve functions in pathogenesis in addition to regulating metal homeostasis. We have compared and contrasted the activities of zinc (Zn2+)-binding lipoproteins AdcA and AdcAII in the Streptococcus pneumoniae TIGR4 background. Exposure to Zn2+-limiting conditions resulted in delayed growth in a strain lacking AdcAII (AdcAII) when compared to wild type bacteria or a mutant lacking AdcA (AdcA). AdcAII failed to interact with the extracellular matrix protein laminin despite homology to laminin-binding proteins of related streptococci. Deletion of AdcA or AdcAII led to significantly increased invasion of A549 human lung epithelial cells and a trend toward increased invasion in vivo. Loss of AdcAII, but not AdcA, was shown to negatively impact early colonization of the nasopharynx. Our findings suggest that expression of AdcAII affects invasiveness of S. pneumoniae in response to available Zn2+ concentrations.</dc:description>
+</oai_dc:dc>

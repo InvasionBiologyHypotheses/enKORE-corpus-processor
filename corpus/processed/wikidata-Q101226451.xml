@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101226451</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q101226451</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643150</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-020-75325-W</dc:identifier>
+  <dc:title>Assessing ecological uncertainty and simulation model sensitivity to evaluate an invasive plant species' potential impacts to the landscape</dc:title>
+  <dc:creator>Jarnevich, Catherine</dc:creator>
+  <dc:creator>Young, Nicholas E</dc:creator>
+  <dc:creator>Thomas, Catherine Cullinane</dc:creator>
+  <dc:creator>Grissom, Perry</dc:creator>
+  <dc:creator>Backer, Dana</dc:creator>
+  <dc:creator>Frid, Leonardo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-11-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>landscape ecology</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractEcological forecasts of the extent and impacts of invasive species can inform conservation management decisions. Such forecasts are hampered by ecological uncertainties associated with non-analog conditions resulting from the introduction of an invader to an ecosystem. We developed a state-and-transition simulation model tied to a fire behavior model to simulate the spread of buffelgrass (Cenchrus ciliaris) in Saguaro National Park, AZ, USA over a 30-year period. The simulation models forecast the potential extent and impact of a buffelgrass invasion including size and frequency of fire events and displacement of saguaro cacti and other native species. Using simulation models allowed us to evaluate how model uncertainties affected forecasted landscape outcomes. We compared scenarios covering a range of parameter uncertainties including model initialization (landscape susceptibility to invasion) and expert-identified ecological uncertainties (buffelgrass patch infill rates and precipitation). Our simulations showed substantial differences in the amount of buffelgrass on the landscape and the size and frequency of fires for dry years with slow patch infill scenarios compared to wet years with fast patch infill scenarios. We identified uncertainty in buffelgrass patch infill rates as a key area for research to improve forecasts. Our approach could be used to investigate novel processes in other invaded systems.</dc:description>
+</oai_dc:dc>
