@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35979238</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35979238</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4850966</dc:identifier>
+  <dc:identifier>doi:10.3390/S16040452</dc:identifier>
+  <dc:title>Non-Invasive Examination of Plant Surfaces by Opto-Electronic Means--Using Russet as a Prime Example</dc:title>
+  <dc:creator>Klemm, Matthias</dc:creator>
+  <dc:creator>Röttger, Olga</dc:creator>
+  <dc:creator>Damerow, Lutz</dc:creator>
+  <dc:creator>Blanke, Michael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-03-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>(1) BACKGROUND: Many disorders and diseases of agricultural produce change the physical features of surfaces of plant organs; in terms of russet, e.g., of apple or pear, affected fruit peel becomes rough and brown in color, which is associated with changes in light reflection; (2) OBJECTIVE AND METHODS: The objective of the present project was an interdisciplinary approach between horticultural science and engineering to examine two new innovative technologies as to their suitability for the non-destructive determination of surfaces of plant organs, using russet as an example, and (a) an industrial luster sensor (type CZ-H72, Keyence, Japan) and (b) a new type of a three-dimensional (3D) color microscope (VHX 5000); (3) RESULTS: In the case of russet, i.e., suberinization of the fruit peel, peel roughness increased by ca. 2.5-fold from ca. 20 m to ca. 50 m on affected fruit sections when viewed at 200× magnification. Russeted peel showed significantly reduced luster, with smaller variation than russet-devoid peel with larger variation; (4) CONCLUSION: These results indicate that both sensors are suitable for biological material and their use for non-contact, non-invasive detection of surface disorders on agricultural produce such as russet may be a very powerful tool for many applications in agriculture and beyond in the future.</dc:description>
+</oai_dc:dc>

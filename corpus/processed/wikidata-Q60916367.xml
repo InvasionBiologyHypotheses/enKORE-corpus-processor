@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60916367</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q60916367</dc:identifier>
+  <dc:identifier>doi:10.3389/FMICB.2018.03204</dc:identifier>
+  <dc:title>Comparative Analysis of Inflammatory Cytokine Release and Alveolar Epithelial Barrier Invasion in a Transwell® Bilayer Model of Mucormycosis</dc:title>
+  <dc:creator>Belic, Stanislav</dc:creator>
+  <dc:creator>Page, Lukas</dc:creator>
+  <dc:creator>Lazariotou, Maria</dc:creator>
+  <dc:creator>Waaga-Gasser, Ana Maria</dc:creator>
+  <dc:creator>Dragan, Mariola</dc:creator>
+  <dc:creator>Springer, Jan</dc:creator>
+  <dc:creator>Loeffler, Juergen</dc:creator>
+  <dc:creator>Morton, Charles Oliver</dc:creator>
+  <dc:creator>Einsele, Hermann</dc:creator>
+  <dc:creator>Ullmann, Andrew J.</dc:creator>
+  <dc:creator>Wurster, Sebastian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Dendritic Cells</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Understanding the mechanisms of early invasion and epithelial defense in opportunistic mold infections is crucial for the evaluation of diagnostic biomarkers and novel treatment strategies. Recent studies revealed unique characteristics of the immunopathology of mucormycoses. We therefore adapted an alveolar Transwell® A549/HPAEC bilayer model for the assessment of epithelial barrier integrity and cytokine response to Rhizopus arrhizus, Rhizomucor pusillus, and Cunninghamella bertholletiae. Hyphal penetration of the alveolar barrier was validated by 18S ribosomal DNA detection in the endothelial compartment. Addition of dendritic cells (moDCs) to the alveolar compartment led to reduced fungal invasion and strongly enhanced pro-inflammatory cytokine response, whereas epithelial CCL2 and CCL5 release was reduced. Despite their phenotypic heterogeneity, the studied Mucorales species elicited the release of similar cytokine patterns by epithelial and dendritic cells. There were significantly elevated lactate dehydrogenase concentrations in the alveolar compartment and epithelial barrier permeability for dextran blue of different molecular weights in Mucorales-infected samples compared to Aspergillus fumigatus infection. Addition of monocyte-derived dendritic cells further aggravated LDH release and epithelial barrier permeability, highlighting the influence of the inflammatory response in mucormycosis-associated tissue damage. An important focus of this study was the evaluation of the reproducibility of readout parameters in independent experimental runs. Our results revealed consistently low coefficients of variation for cytokine concentrations and transcriptional levels of cytokine genes and cell integrity markers. As additional means of model validation, we confirmed that our bilayer model captures key principles of Mucorales biology such as accelerated growth in a hyperglycemic or ketoacidotic environment or reduced epithelial barrier invasion upon epithelial growth factor receptor blockade by gefitinib. Our findings indicate that the Transwell® bilayer model provides a reliable and reproducible tool for assessing host response in mucormycosis.</dc:description>
+</oai_dc:dc>

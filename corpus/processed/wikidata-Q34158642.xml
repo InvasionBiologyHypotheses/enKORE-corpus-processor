@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34158642</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34158642</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4159865</dc:identifier>
+  <dc:identifier>doi:10.3390/IJMS150814505</dc:identifier>
+  <dc:title>Immunoproteome of Aspergillus fumigatus using sera of patients with invasive aspergillosis</dc:title>
+  <dc:creator>Virginio, Emylli D</dc:creator>
+  <dc:creator>Kubitschek-Barreira, Paula H</dc:creator>
+  <dc:creator>Batista, Marjorie Vieira</dc:creator>
+  <dc:creator>Schirmer, Marcelo R</dc:creator>
+  <dc:creator>Abdelhay, Eliana</dc:creator>
+  <dc:creator>Yasuda, Maria Shikanai</dc:creator>
+  <dc:creator>Bezerra, Leila Maria Lopes</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-08-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aspergillus fumigatus</dc:subject>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>invasive aspergillosis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive aspergillosis is a life-threatening lung or systemic infection caused by the opportunistic mold Aspergillus fumigatus. The disease affects mainly immunocompromised hosts, and patients with hematological malignances or who have been submitted to stem cell transplantation are at high risk. Despite the current use of Platelia Aspergillus as a diagnostic test, the early diagnosis of invasive aspergillosis remains a major challenge in improving the prognosis of the disease. In this study, we used an immunoproteomic approach to identify proteins that could be putative candidates for the early diagnosis of invasive aspergillosis. Antigenic proteins expressed in the first steps of A. fumigatus germination occurring in a human host were revealed using 2-D Western immunoblots with the serum of patients who had previously been classified as probable and proven for invasive aspergillosis. Forty antigenic proteins were identified using mass spectrometry (MS/MS). A BLAST analysis revealed that two of these proteins showed low homology with proteins of either the human host or etiological agents of other invasive fungal infections. To our knowledge, this is the first report describing specific antigenic proteins of A. fumigatus germlings that are recognized by sera of patients with confirmed invasive aspergillosis who were from two separate hospital units.</dc:description>
+</oai_dc:dc>

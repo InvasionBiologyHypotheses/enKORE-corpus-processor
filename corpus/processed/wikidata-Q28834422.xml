@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28834422</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28834422</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841241</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.1915</dc:identifier>
+  <dc:title>Phylogenetic species delimitation for crayfishes of the genus Pacifastacus</dc:title>
+  <dc:creator>Larson, Eric R</dc:creator>
+  <dc:creator>Castelin, Magalie</dc:creator>
+  <dc:creator>Williams, Bronwyn W</dc:creator>
+  <dc:creator>Olden, Julian D</dc:creator>
+  <dc:creator>Abbott, Cathryn L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>phylogenetics</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Molecular genetic approaches are playing an increasing role in conservation science by identifying biodiversity that may not be evident by morphology-based taxonomy and systematics. So-called cryptic species are particularly prevalent in freshwater environments, where isolation of dispersal-limited species, such as crayfishes, within dendritic river networks often gives rise to high intra- and inter-specific genetic divergence. We apply here a multi-gene molecular approach to investigate relationships among extant species of the crayfish genusPacifastacus, representing the first comprehensive phylogenetic study of this taxonomic group. Importantly,Pacifastacusincludes both the widely invasive signal crayfishPacifastacus leniusculus,as well as several species of conservation concern like the Shasta crayfishPacifastacus fortis. Our analysis used 83 individuals sampled across the four extantPacifastacusspecies (omitting the extinctPacifastacus nigrescens), representing the known taxonomic diversity and geographic distributions within this genus as comprehensively as possible. We reconstructed phylogenetic trees from mitochondrial (16S, COI) and nuclear genes (GAPDH), both separately and using a combined or concatenated dataset, and performed several species delimitation analyses (PTP, ABGD, GMYC) on the COI phylogeny to propose Primary Species Hypotheses (PSHs) within the genus. All phylogenies recovered the genusPacifastacusas monophyletic, within which we identified a range of six to 21 PSHs; more abundant PSHs delimitations from GMYC and ABGD were always nested within PSHs delimited by the more conservative PTP method.Pacifastacus leniusculusincluded the majority of PSHs and was not monophyletic relative to the otherPacifastacusspecies considered. Several of these highly distinctP. leniusculusPSHs likely require urgent conservation attention. Our results identify research needs and conservation priorities forPacifastacuscrayfishes in western North America, and may inform better understanding and management ofP. leniusculusin regions where it is invasive, such as Europe and Japan.</dc:description>
+</oai_dc:dc>

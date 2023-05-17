@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56740148</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56740148</dc:identifier>
+  <dc:identifier>doi:10.3390/RS3102283</dc:identifier>
+  <dc:title>Feasibility of Invasive Grass Detection in a Desertscrub Community Using Hyperspectral Field Measurements and Landsat TM Imagery</dc:title>
+  <dc:creator>Olsson, Aaryn D.</dc:creator>
+  <dc:creator>Leeuwen, Willem J.D.</dc:creator>
+  <dc:creator>Marsh, Stuart E.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-10-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive grass</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+</oai_dc:dc>

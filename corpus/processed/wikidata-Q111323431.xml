@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111323431</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111323431</dc:identifier>
+  <dc:identifier>doi:10.3389/FGENE.2021.790850</dc:identifier>
+  <dc:title>Genome Analysis of &lt;i&gt;Lagocephalus sceleratus&lt;/i&gt;: Unraveling the Genomic Landscape of a Successful Invader</dc:title>
+  <dc:creator>Danis, Theodoros</dc:creator>
+  <dc:creator>Papadogiannis, Vasileios</dc:creator>
+  <dc:creator>Tsakogiannis, Alexandros</dc:creator>
+  <dc:creator>Kristoffersen, Jon B</dc:creator>
+  <dc:creator>Golani, Daniel</dc:creator>
+  <dc:creator>Tsaparis, Dimitris</dc:creator>
+  <dc:creator>Sterioti, Aspasia</dc:creator>
+  <dc:creator>Kasapidis, Panagiotis</dc:creator>
+  <dc:creator>Kotoulas, Georgios</dc:creator>
+  <dc:creator>Magoulas, Antonios</dc:creator>
+  <dc:creator>Tsigenopoulos, Costas S</dc:creator>
+  <dc:creator>Manousaki, Tereza</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-12-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Lagocephalus sceleratus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>The Tetraodontidae family encompasses several species which attract scientific interest in terms of their ecology and evolution. The silver-cheeked toadfish (Lagocephalus sceleratus) is a well-known invasive sprinter that has invaded and spread, in less than a decade, throughout the Eastern and part of the Western Mediterranean Sea from the Red Sea through the Suez Canal. In this study, we built and analysed the first near-chromosome level genome assembly of L. sceleratus and explored its evolutionary landscape. Through a phylogenomic analysis, we positioned L. sceleratus closer to T. nigroviridis, compared to other members of the family, while gene family evolution analysis revealed that genes associated with the immune response have experienced rapid expansion, providing a genetic basis for studying how L. sceleratus is able to achieve highly successful colonisation. Moreover, we found that voltage-gated sodium channel (NaV 1.4) mutations previously connected to tetrodotoxin resistance in other pufferfishes are not found in L. sceleratus, highlighting the complex evolution of this trait. The high-quality genome assembly built here is expected to set the ground for future studies on the species biology.</dc:description>
+</oai_dc:dc>

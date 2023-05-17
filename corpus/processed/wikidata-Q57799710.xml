@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57799710</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q57799710</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6198752</dc:identifier>
+  <dc:identifier>doi:10.1038/SDATA.2018.239</dc:identifier>
+  <dc:title>Spread of a model invasive alien species, the harlequin ladybird Harmonia axyridis in Britain and Ireland</dc:title>
+  <dc:creator>Brown, Peter M. J.</dc:creator>
+  <dc:creator>Roy, David B.</dc:creator>
+  <dc:creator>Harrower, Colin</dc:creator>
+  <dc:creator>Dean, H J</dc:creator>
+  <dc:creator>Rorke, S L</dc:creator>
+  <dc:creator>Roy, H E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-10-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Harmonia axyridis</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvasive alien species are widely recognized as one of the main threats to global biodiversity. Rapid flow of information on the occurrence of invasive alien species is critical to underpin effective action. Citizen science, i.e. the involvement of volunteers in science, provides an opportunity to improve the information available on invasive alien species. Here we describe the dataset created via a citizen science approach to track the spread of a well-studied invasive alien species, the harlequin ladybird Harmonia axyridis (Coleoptera: Coccinellidae) in Britain and Ireland. This dataset comprises 48510 verified and validated spatio-temporal records of the occurrence of H. axyridis in Britain and Ireland, from first arrival in 2003, to the end of 2016. A clear and rapid spread of the species within Britain and Ireland is evident. A major reuse value of the dataset is in modelling the spread of an invasive species and applying this to other potential invasive alien species in order to predict and prevent their further spread.</dc:description>
+</oai_dc:dc>

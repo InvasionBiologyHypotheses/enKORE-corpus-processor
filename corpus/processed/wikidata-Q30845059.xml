@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30845059</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30845059</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2438614</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000104</dc:identifier>
+  <dc:title>Antibodies targeting the PfRH1 binding domain inhibit invasion of Plasmodium falciparum merozoites</dc:title>
+  <dc:creator>Gao, Xiaohong</dc:creator>
+  <dc:creator>Yeo, Kim Pin</dc:creator>
+  <dc:creator>Aw, Siqi Sharon</dc:creator>
+  <dc:creator>Kuss, Claudia</dc:creator>
+  <dc:creator>Iyer, Jayasree K</dc:creator>
+  <dc:creator>Genesan, Saraswathy</dc:creator>
+  <dc:creator>Rajamanonmani, Ravikumar</dc:creator>
+  <dc:creator>Lescar, Julien</dc:creator>
+  <dc:creator>Bozdech, Zbynek</dc:creator>
+  <dc:creator>Preiser, Peter R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-07-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasion by the malaria merozoite depends on recognition of specific erythrocyte surface receptors by parasite ligands. Plasmodium falciparum uses multiple ligands, including at least two gene families, reticulocyte binding protein homologues (RBLs) and erythrocyte binding proteins/ligands (EBLs). The combination of different RBLs and EBLs expressed in a merozoite defines the invasion pathway utilized and could also play a role in parasite virulence. The binding regions of EBLs lie in a conserved cysteine-rich domain while the binding domain of RBL is still not well characterized. Here, we identify the erythrocyte binding region of the P. falciparum reticulocyte binding protein homologue 1 (PfRH1) and show that antibodies raised against the functional binding region efficiently inhibit invasion. In addition, we directly demonstrate that changes in the expression of RBLs can constitute an immune evasion mechanism of the malaria merozoite.</dc:description>
+</oai_dc:dc>
