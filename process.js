@@ -183,9 +183,11 @@ async function processArgs(args) {
 // ###################################################
 
 
+// ##### Note: Function content transferred to ./lib
 // ############################################
 // ##### Function to get DateNow (START) #####
 // ############################################
+// ##### Note: To mostly get stamp-time for log-files
 // async function function_DateNow() {
 // }
 // ##########################################
@@ -193,10 +195,11 @@ async function processArgs(args) {
 // ##########################################
 
 
+// ##### Note: Function content transferred to ./lib
 // ###################################
 // ##### Function to log (START) #####
 // ###################################
-// ##### Note: You may use synchronous to pass smoothly inside other asynchronous, and slow processing time.
+// ##### Note: To write logs in independent files
 // async function function_log(dir,filename,c) {
 // }
 // #################################
@@ -282,6 +285,7 @@ async function fetchFileEntries(file) {
 // ######################################################################
 // ##### Function to check requested and saved WikidataItem (START) #####
 // ######################################################################
+// ##### Note: To check items not listed in entries, which must be emptied.
 // ##### Note: Using Node.js module: fs.readdirSync and fs.readFile
 // ##### Note: This function is called by processArgs()
 async function checkWikidataItem(items) {
@@ -389,6 +393,7 @@ async function checkWikidataItem(items) {
 // ################################
 // ##### Validade XML (START) #####
 // ################################
+// ##### Note: Validation of the XML-file via checking 1) hearder, 2) footer, and 3) body.
 // ##### Note: (POSSIBILITY-CONSIDERED) XMLvalidation_All() can be applied when all XML files are created near the end of main().
 // ##### Note: (POSSIBILITY-AVAILABLE) XMLvalidaiton_Each(filename) can be applied inside processItem(), and it can use the return from generateXML().
 // ##### Note: It is possible to check validation online: https://validator.w3.org/. However, headers may be an issue, though acceptable.
@@ -676,6 +681,7 @@ async function XMLvalidation_All() {
 // #########################################################
 // ##### Function to request URL with Abstract (START) #####
 // #########################################################
+// ##### Note: To download the abstract.
 // ##### Note: This function is called by findAbstract()
 async function getAbstract(src, service) {
 
@@ -755,6 +761,7 @@ async function findAbstract(wikidataItem) {
 // ###################################################################
 // ##### Function to request URL from CrossRef using DOI (START) #####
 // ###################################################################
+// ##### Note: To request information from Crossref
 // ##### Note: This function is called by itself and getItemData()
 async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
@@ -891,7 +898,8 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 // ##########################################################
 // ##### Function to cluster data from all APIs (START) #####
 // ##########################################################
-// ##### Note: Currently merging information from Wikidata, CrossRef, PubMed, PubMedCentral
+// ##### Note: To get data from (1) wikidataItem, (2) crossrefItem, and (3) accumulatedData
+// ##### Note: It merges information from Wikidata, CrossRef, PubMed, PubMedCentral
 // ##### Note: This function is called by main()
 // ##### Note: This function calls findAbstract(), getCrossrefItem(),  processItem()
 async function getItemData(items) {
@@ -900,12 +908,16 @@ async function getItemData(items) {
   const { data } = await new citationJS.Cite.async(items); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(getItemData): Received all items from batch.`);
 
+  // ##### Note: (1) SOURCE OF DATA
   data.forEach(async (item) => {
 
     dl.debug(`Log(getItemData): wikidataitem id: ${item?.id}`);
     // dl.debug(JSON.stringify(item, null, 2));
+
+  // ##### Note: (2) SOURCE OF DATA
     let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem // ##### Note:  (await) To be used with asynchronous function
 
+  // ##### Note: (3) SOURCE OF DATA
     const accumulatedData = {
 
       abstract: await findAbstract(item), // ##### Note: defining accumulatedData // ##### Note:  (await) To be used with asynchronous function
@@ -914,8 +926,11 @@ async function getItemData(items) {
 
     const process = await processItem({ // ##### Note:  (await) To be used with asynchronous function
 
-      wikidataItem: item, // ##### Note: defining wikidataItem as item and passing into function
+      // ##### Note: (1) SOURCE OF DATA
+      wikidataItem: item, // ##### Note: defining wikidataItem as item, and passing into function
+      // ##### Note: (2) SOURCE OF DATA
       crossrefItem,
+      // ##### Note: (3) SOURCE OF DATA
       accumulatedData,
 
     });
@@ -935,8 +950,7 @@ async function getItemData(items) {
 // ################################################################################
 // ##### Function to compute total content(non-empty) and empty files (START) #####
 // ################################################################################
-// ##### Note: list of entries sometimes provides repetions.
-// ##### Note: Computing then total non-empty and empty files near the end of the process.
+// ##### Note: Computing then total non-empty and empty files at the end of the process.
 // ##### OBSERVATION: A script to polish entries will be made and remove repetitions.
 async function compute_content_empty_files() {
 
@@ -960,6 +974,7 @@ async function compute_content_empty_files() {
     if (item1.size == item2.size) { // ##### Note: Size must match size of the template
 
       total_empty++;
+      function_log('./logs/','Log_empty_files.txt',`Log(compute_content_empty_files): Empty file: ${files_list_i}`); // ##### Note: Write down name of all empty files
 
     } else {
 
@@ -1032,9 +1047,13 @@ async function main() {
   function_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
   function_log('./logs/','Log_emptied_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_empty_files.txt',`Date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
   function_log('./logs/','Log_total_files.txt',`Date-UTC: ${await function_DateNow()}`);
   
+  function_log('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_invalid_characters.txt',`Date-UTC: ${await function_DateNow()}`);
 
   dl.debug("Log(main): starting main()");
 
