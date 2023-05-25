@@ -1,0 +1,17 @@
+
+= = = = = = = = = = = = = = = = = = = =
+Date-UTC: 2023-05-25T10:01:49.768Z
+Log(xmlexporter.js): XML-file: Q49027734.xml
+Log(xmlexporter.js): list of deleted char: –€€
+= = = = = = = = = = = = = = = = = = = =
+Date-UTC: 2023-05-25T10:02:28.329Z
+Log(xmlexporter.js): XML-file: Q49027734.xml
+Log(xmlexporter.js): list of deleted char: –€€
+= = = = = = = = = = = = = = = = = = = =
+Date-UTC: 2023-05-25T10:02:50.308Z
+Log(xmlexporter.js): XML-file: Q49027734.xml
+Log(xmlexporter.js): list of deleted char: –€€
+= = = = = = = = = = = = = = = = = = = =
+Date-UTC: 2023-05-25T10:03:44.141Z
+Log(xmlexporter.js): XML-file: Q49027734.xml
+Log(xmlexporter.js): list of deleted char: –€€

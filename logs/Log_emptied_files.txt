@@ -1,10 +1,12 @@
 
 = = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T09:03:19.451Z
+Date-UTC: 2023-05-25T10:01:49.768Z
 = = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T09:04:07.672Z
+Date-UTC: 2023-05-25T10:02:28.328Z
 Log(checkWikidataItem): Emptying file: wikidata-Q35745846 (copy).xml
 Log(checkWikidataItem): Emptying file: wikidata-Q33482830 (copy).xml
 = = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T09:05:00.258Z
-Log(checkWikidataItem): Emptying file: wikidata-Q56450031 (copy).xml
+Date-UTC: 2023-05-25T10:02:50.307Z
+Log(checkWikidataItem): Emptying file: wikidata-Q49027734 (copy).xml
+= = = = = = = = = = = = = = = = = = = =
+Date-UTC: 2023-05-25T10:03:44.140Z
