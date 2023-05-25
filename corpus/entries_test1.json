@@ -132,6 +132,35 @@
       {
         "item": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49027734"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cost-benefit analysis for invasive species control: the case of greater Canada goose Branta canadensis in Flanders (northern Belgium)."
+        },
+        "topic": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q942582"
+        },
+        "topicLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cost–benefit analysis"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q110745069"
         },
         "itemLabel": {
