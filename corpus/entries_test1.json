@@ -43,21 +43,30 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q56450031"
+          "value": "http://www.wikidata.org/entity/Q114729435"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Managing Remnant and Reemerging Common Reed (Phragmites australis) Infestations to Improve Treatment Efficacy and Mitigate Damage to Native Plants"
+          "value": "Notulae to the Italian alien vascular flora: 7"
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q113019190"
+          "value": "http://www.wikidata.org/entity/Q42985020"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "invasion management"
+          "value": "invasion biology"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
         }
       },
       {
@@ -92,21 +101,30 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35745846"
+          "value": "http://www.wikidata.org/entity/Q94479661"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "An Anthropogenic Habitat Facilitates the Establishment of Non-Native Birds by Providing Underexploited Resources"
+          "value": "Invasion and high-elevation acclimation of the red imported fire ant, Solenopsis invicta, in the southern Blue Ridge Escarpment region of North America"
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111725287"
+          "value": "http://www.wikidata.org/entity/Q1194382"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "limiting similarity hypothesis"
+          "value": "Solenopsis invicta"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
         }
       },
       {
@@ -147,35 +165,6 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "cost–benefit analysis"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110745069"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Identification problems of travelling snail species-new exotic introductions to tropical greenhouses in Gothenburg, Sweden (Gastropoda: Achatinellidae, Strobilopsidae, Helicarionidae)"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3075495"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Helicarionidae"
         },
         "license": {
           "type": "uri",
