@@ -1,17 +1,2545 @@
 
 = = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T10:01:49.768Z
-Log(xmlexporter.js): XML-file: Q49027734.xml
-Log(xmlexporter.js): list of deleted char: –€€
-= = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T10:02:28.329Z
-Log(xmlexporter.js): XML-file: Q49027734.xml
-Log(xmlexporter.js): list of deleted char: –€€
-= = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T10:02:50.308Z
-Log(xmlexporter.js): XML-file: Q49027734.xml
-Log(xmlexporter.js): list of deleted char: –€€
-= = = = = = = = = = = = = = = = = = = =
-Date-UTC: 2023-05-25T10:03:44.141Z
-Log(xmlexporter.js): XML-file: Q49027734.xml
-Log(xmlexporter.js): list of deleted char: –€€
+Date-UTC: 2023-05-25T14:59:26.168Z
+Log(xmlexporter.js): XML-file: Q110759232.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35169242.xml
+Log(xmlexporter.js): list of deleted char:                
+Log(xmlexporter.js): XML-file: Q35058534.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q21191853.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q46247362.xml
+Log(xmlexporter.js): list of deleted char:  −    
+Log(xmlexporter.js): XML-file: Q110756528.xml
+Log(xmlexporter.js): list of deleted char: ‒‒
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q110756528.xml
+Log(xmlexporter.js): list of deleted char: ‒‒
+Log(xmlexporter.js): XML-file: Q92741643.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q51165687.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64069039.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:    −  −  −
+Log(xmlexporter.js): XML-file: Q112765962.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q114729435.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q89936011.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q56419945.xml
+Log(xmlexporter.js): list of deleted char:                          
+Log(xmlexporter.js): XML-file: Q112485710.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q63884954.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64254350.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110663854.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q38842047.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q111323354.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q26247786.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q64109985.xml
+Log(xmlexporter.js): list of deleted char:   −    
+Log(xmlexporter.js): XML-file: Q110847778.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q112348370.xml
+Log(xmlexporter.js): list of deleted char: ∆
+Log(xmlexporter.js): XML-file: Q110759141.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q51165687.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51153250.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q59119389.xml
+Log(xmlexporter.js): list of deleted char: θθθ
+Log(xmlexporter.js): XML-file: Q100310739.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q27335336.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114546898.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q100404484.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q110756944.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q104580751.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110758971.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110848415.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q101302811.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110862065.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q39333054.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q33780061.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111323535.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q61797581.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114730754.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q110744671.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q113696467.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q33780061.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q38638991.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q110760026.xml
+Log(xmlexporter.js): list of deleted char: «»«»«»«»«»
+Log(xmlexporter.js): XML-file: Q97077924.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q111593734.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q56388414.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q90348614.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111168449.xml
+Log(xmlexporter.js): list of deleted char: ′
+Log(xmlexporter.js): XML-file: Q35113257.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q36301805.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114955647.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28959140.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q111153657.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q112462502.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q110756944.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q90037950.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111168122.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q54976164.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q110812829.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q91585667.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51172180.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q28596549.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q64093011.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q56555953.xml
+Log(xmlexporter.js): list of deleted char: ′
+Log(xmlexporter.js): XML-file: Q37120298.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q98237303.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q35113257.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q113205978.xml
+Log(xmlexporter.js): list of deleted char: űđ
+Log(xmlexporter.js): XML-file: Q110625884.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q31015402.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56747566.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q22679873.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q111327685.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q42135824.xml
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110862073.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q55402636.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110759232.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110760026.xml
+Log(xmlexporter.js): list of deleted char: «»«»«»«»«»
+Log(xmlexporter.js): XML-file: Q35077400.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q110630292.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q31050079.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q37120298.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q90037950.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q39742832.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q104580531.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111994496.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q102202028.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q46283460.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q36178068.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q111154359.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q110531546.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166379.xml
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28597158.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q90066765.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q58099150.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101300525.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q36178068.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q36390923.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q111137525.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q54976164.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q56395505.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111152813.xml
+Log(xmlexporter.js): list of deleted char: χ
+Log(xmlexporter.js): XML-file: Q54938102.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110626263.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111137525.xml
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q104580531.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110862073.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q110987617.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101302811.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110757007.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37414598.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33589115.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q96430226.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q28604046.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36441468.xml
+Log(xmlexporter.js): list of deleted char:                                     
+Log(xmlexporter.js): XML-file: Q33617445.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110663855.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q37472836.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q31015402.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55359326.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q51146321.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q34047537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64065315.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64069039.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q33851271.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111327685.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q34109966.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q92605379.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q33876022.xml
+Log(xmlexporter.js): list of deleted char:             
+Log(xmlexporter.js): XML-file: Q111166358.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30391452.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q56157099.xml
+Log(xmlexporter.js): list of deleted char: ��
+Log(xmlexporter.js): XML-file: Q96578791.xml
+Log(xmlexporter.js): list of deleted char:                   
+Log(xmlexporter.js): XML-file: Q31151203.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38614968.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q111246819.xml
+Log(xmlexporter.js): list of deleted char: Е
+Log(xmlexporter.js): XML-file: Q28596549.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q93166277.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q34427547.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110625963.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64093011.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q48103440.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q114293562.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q48103440.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q26247786.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q113692791.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q34109966.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33780061.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111327685.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q110812829.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q42374838.xml
+Log(xmlexporter.js): list of deleted char:  − −
+Log(xmlexporter.js): XML-file: Q64095733.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q111231967.xml
+Log(xmlexporter.js): list of deleted char: ТулінаЕльбісЄвгенівна  
+Log(xmlexporter.js): XML-file: Q114728743.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q64109985.xml
+Log(xmlexporter.js): list of deleted char:   −    
+Log(xmlexporter.js): XML-file: Q101035772.xml
+Log(xmlexporter.js): list of deleted char: 外来种对生物多样性的影响及其控制向言词彭少麟周厚诚蔡锡安
+Log(xmlexporter.js): XML-file: Q55363711.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34235313.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111154612.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q30843104.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q33886668.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114915700.xml
+Log(xmlexporter.js): list of deleted char: ‒
+Log(xmlexporter.js): XML-file: Q56435435.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q110626125.xml
+Log(xmlexporter.js): list of deleted char: țșț
+Log(xmlexporter.js): XML-file: Q110756406.xml
+Log(xmlexporter.js): list of deleted char: ˗˗˗˗
+Log(xmlexporter.js): XML-file: Q31050079.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q111161385.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q112765962.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q90037950.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35084987.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:    −  −  −
+Log(xmlexporter.js): XML-file: Q48302459.xml
+Log(xmlexporter.js): list of deleted char: ´´´´
+Log(xmlexporter.js): XML-file: Q111166410.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q34927064.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q55402636.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q58099150.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q35980681.xml
+Log(xmlexporter.js): list of deleted char:      χ   
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q39333054.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q101036814.xml
+Log(xmlexporter.js): list of deleted char: 城市郊区外来杂草生态位特点及对生物多样性影响研究胡天印黄华郭水良方芳
+Log(xmlexporter.js): XML-file: Q110626263.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56764677.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36910363.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64059514.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110812829.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q35113257.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q110630292.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q26247786.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51165687.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111994496.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35773998.xml
+Log(xmlexporter.js): list of deleted char: ´´
+Log(xmlexporter.js): XML-file: Q93166277.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q98237303.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q56395505.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30391452.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111152730.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q110862065.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q110663855.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q31151203.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q100310739.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q93166277.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q49913367.xml
+Log(xmlexporter.js): list of deleted char:  −−
+Log(xmlexporter.js): XML-file: Q57879838.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110862511.xml
+Log(xmlexporter.js): list of deleted char: ••••••
+Log(xmlexporter.js): XML-file: Q97681923.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q48302459.xml
+Log(xmlexporter.js): list of deleted char: ´´´´
+Log(xmlexporter.js): XML-file: Q46247362.xml
+Log(xmlexporter.js): list of deleted char:  −    
+Log(xmlexporter.js): XML-file: Q51160991.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111226446.xml
+Log(xmlexporter.js): list of deleted char: О
+Log(xmlexporter.js): XML-file: Q92605379.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q113207476.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q34158642.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q38647090.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110862163.xml
+Log(xmlexporter.js): list of deleted char: ‒ 
+Log(xmlexporter.js): XML-file: Q33650238.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56363687.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q26247786.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34158642.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111140800.xml
+Log(xmlexporter.js): list of deleted char:            
+Log(xmlexporter.js): XML-file: Q97437032.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q47263622.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q36413744.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111840377.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q33780061.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33876022.xml
+Log(xmlexporter.js): list of deleted char:             
+Log(xmlexporter.js): XML-file: Q22678742.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38638991.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q93166277.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55264123.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q92812860.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q38842047.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q47263622.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q48103440.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113207476.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q28603751.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q111172537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q100310739.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55359326.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111327429.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35773998.xml
+Log(xmlexporter.js): list of deleted char: ´´
+Log(xmlexporter.js): XML-file: Q97437032.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q64065315.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q33650238.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28596549.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q107978226.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33689932.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q35813850.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36301805.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q91298701.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q35579919.xml
+Log(xmlexporter.js): list of deleted char:               
+Log(xmlexporter.js): XML-file: Q111323535.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q114730754.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q47660649.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q110829174.xml
+Log(xmlexporter.js): list of deleted char:  −−
+Log(xmlexporter.js): XML-file: Q55264123.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q58099150.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q35245902.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28604046.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q21090736.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111741726.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58740438.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166410.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56095560.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q97035125.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64095733.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q104580531.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q112348370.xml
+Log(xmlexporter.js): list of deleted char: ∆
+Log(xmlexporter.js): XML-file: Q110809310.xml
+Log(xmlexporter.js): list of deleted char: ĂĂșȚș  
+Log(xmlexporter.js): XML-file: Q111827174.xml
+Log(xmlexporter.js): list of deleted char: ţ
+Log(xmlexporter.js): XML-file: Q28597158.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q101635344.xml
+Log(xmlexporter.js): list of deleted char: Ο
+Log(xmlexporter.js): XML-file: Q56380981.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q112765962.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58579136.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111373128.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q56948339.xml
+Log(xmlexporter.js): list of deleted char:           
+Log(xmlexporter.js): XML-file: Q111154313.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q98237303.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q96578791.xml
+Log(xmlexporter.js): list of deleted char:                   
+Log(xmlexporter.js): XML-file: Q34927064.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q35061494.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q110760026.xml
+Log(xmlexporter.js): list of deleted char: «»«»«»«»«»
+Log(xmlexporter.js): XML-file: Q28597158.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q28597158.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q92016814.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113692615.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113335243.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q37408072.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35058534.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q111152813.xml
+Log(xmlexporter.js): list of deleted char: χ
+Log(xmlexporter.js): XML-file: Q34722704.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q111166358.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35113257.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q96578791.xml
+Log(xmlexporter.js): list of deleted char:                   
+Log(xmlexporter.js): XML-file: Q56395405.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q49910256.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q33886668.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111153657.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q49910256.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55402636.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q101300594.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110663854.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q101300594.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56764870.xml
+Log(xmlexporter.js): list of deleted char: ­
+Log(xmlexporter.js): XML-file: Q34171299.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q37472836.xml
+Log(xmlexporter.js): XML-file: Q37408072.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110626125.xml
+Log(xmlexporter.js): list of deleted char: țșț
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56095560.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q31050079.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q100404484.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q31151203.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q46249705.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55363711.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q59461078.xml
+Log(xmlexporter.js): list of deleted char: œ
+Log(xmlexporter.js): XML-file: Q114023573.xml
+Log(xmlexporter.js): list of deleted char: º´
+Log(xmlexporter.js): XML-file: Q54983149.xml
+Log(xmlexporter.js): list of deleted char:             
+Log(xmlexporter.js): XML-file: Q56332251.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56395447.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35813850.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q104579390.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111323427.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q92812860.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q36178068.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q35077400.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56419693.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110862183.xml
+Log(xmlexporter.js): list of deleted char:   ²   
+Log(xmlexporter.js): XML-file: Q111154612.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q107978226.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q51161111.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111327429.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35077400.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110744671.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q113692788.xml
+Log(xmlexporter.js): XML-file: Q64109985.xml
+Log(xmlexporter.js): list of deleted char:   −    
+Log(xmlexporter.js): XML-file: Q110759140.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q33876022.xml
+Log(xmlexporter.js): list of deleted char:             
+Log(xmlexporter.js): XML-file: Q111373128.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q35245902.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55402636.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q62633338.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q64109985.xml
+Log(xmlexporter.js): list of deleted char:   −    
+Log(xmlexporter.js): XML-file: Q49913367.xml
+Log(xmlexporter.js): list of deleted char:  −−
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q39742832.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110630292.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q30843104.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51153250.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56742985.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q92229540.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q34805244.xml
+Log(xmlexporter.js): list of deleted char: ∶  ∶∶  
+Log(xmlexporter.js): list of deleted char: χ
+Log(xmlexporter.js): XML-file: Q111152813.xml
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q28652246.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q98237303.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110625884.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q34805244.xml
+Log(xmlexporter.js): list of deleted char: ∶  ∶∶  
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q104580531.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111149051.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q28959140.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q110757007.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q97681923.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q37408072.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110828966.xml
+Log(xmlexporter.js): list of deleted char: ﻿đđ
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q34374081.xml
+Log(xmlexporter.js): list of deleted char: Β
+Log(xmlexporter.js): XML-file: Q35009229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111373128.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111323535.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q100404484.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q111166379.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q36413744.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33650238.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110625963.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q110625963.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q34516922.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q28585810.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q104579496.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111166358.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35813850.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30978950.xml
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q91936987.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28604046.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q59152303.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q56784943.xml
+Log(xmlexporter.js): list of deleted char: �
+Log(xmlexporter.js): XML-file: Q41332288.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q42380155.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37472836.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q33851271.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114730754.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110626263.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q48302459.xml
+Log(xmlexporter.js): list of deleted char: ´´´´
+Log(xmlexporter.js): XML-file: Q112765962.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q114097272.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q58740438.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55018848.xml
+Log(xmlexporter.js): list of deleted char:  ·− ·− ·− ·− ·− ·− ·− ·− ·−
+Log(xmlexporter.js): XML-file: Q111320211.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q35077400.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q46249705.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110756290.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q46249705.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q49228204.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110756827.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q117769124.xml
+Log(xmlexporter.js): list of deleted char: đ
+Log(xmlexporter.js): XML-file: Q52663989.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37120298.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34374081.xml
+Log(xmlexporter.js): list of deleted char: Β
+Log(xmlexporter.js): XML-file: Q49913367.xml
+Log(xmlexporter.js): list of deleted char:  −−
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q34047537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56419693.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q57023061.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q111148721.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q21191474.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110756979.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q28652246.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111166344.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110756767.xml
+Log(xmlexporter.js): list of deleted char: ť    
+Log(xmlexporter.js): list of deleted char: а
+Log(xmlexporter.js): XML-file: Q51146391.xml
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q57616610.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35084987.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q31044259.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34805244.xml
+Log(xmlexporter.js): list of deleted char: ∶  ∶∶  
+Log(xmlexporter.js): XML-file: Q66811161.xml
+Log(xmlexporter.js): list of deleted char: 海岸带生物入侵的生态后果及管理对策建议黎静鞠瑞亭吴纪华李博
+Log(xmlexporter.js): XML-file: Q59613592.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56095560.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q46247362.xml
+Log(xmlexporter.js): list of deleted char:  −    
+Log(xmlexporter.js): XML-file: Q34516922.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q57799710.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q34306357.xml
+Log(xmlexporter.js): list of deleted char: ≅    
+Log(xmlexporter.js): XML-file: Q111231967.xml
+Log(xmlexporter.js): list of deleted char: ТулінаЕльбісЄвгенівна  
+Log(xmlexporter.js): XML-file: Q60925571.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35890262.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q49434728.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35579919.xml
+Log(xmlexporter.js): list of deleted char:               
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q94922898.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q56363687.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q40048442.xml
+Log(xmlexporter.js): list of deleted char:     ′    ′    
+Log(xmlexporter.js): XML-file: Q51160991.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q97035125.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55402636.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q31050079.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q34109966.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37154808.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110758409.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110759141.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q113335243.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110626125.xml
+Log(xmlexporter.js): list of deleted char: țșț
+Log(xmlexporter.js): XML-file: Q56441374.xml
+Log(xmlexporter.js): list of deleted char: ź
+Log(xmlexporter.js): XML-file: Q21191474.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146321.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q104579390.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q101635344.xml
+Log(xmlexporter.js): list of deleted char: Ο
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): XML-file: Q28604046.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q96578791.xml
+Log(xmlexporter.js): list of deleted char:                   
+Log(xmlexporter.js): XML-file: Q111148721.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q21191474.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q70722887.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−−−
+Log(xmlexporter.js): XML-file: Q41332288.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q46247362.xml
+Log(xmlexporter.js): list of deleted char:  −    
+Log(xmlexporter.js): XML-file: Q114922467.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q56458959.xml
+Log(xmlexporter.js): list of deleted char: ··
+Log(xmlexporter.js): XML-file: Q28959140.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q31130320.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111149051.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q34171299.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q108863149.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q114728946.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113056056.xml
+Log(xmlexporter.js): list of deleted char: ʻʻʻ
+Log(xmlexporter.js): XML-file: Q35058534.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q112732333.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114922685.xml
+Log(xmlexporter.js): list of deleted char:           
+Log(xmlexporter.js): XML-file: Q40048442.xml
+Log(xmlexporter.js): list of deleted char:     ′    ′    
+Log(xmlexporter.js): XML-file: Q56450184.xml
+Log(xmlexporter.js): list of deleted char: ··········∙∙
+Log(xmlexporter.js): XML-file: Q28597158.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56457860.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q55287342.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q100727610.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q108924425.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q28657428.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q97681923.xml
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q108863149.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q42380155.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56669703.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q58782479.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q91298701.xml
+Log(xmlexporter.js): XML-file: Q28652246.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q51161111.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101212523.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q27335336.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55426960.xml
+Log(xmlexporter.js): list of deleted char: ²
+Log(xmlexporter.js): XML-file: Q51153250.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q21090736.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q38838634.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110663855.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q113695560.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q59329675.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q30843104.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q59119389.xml
+Log(xmlexporter.js): list of deleted char: θθθ
+Log(xmlexporter.js): XML-file: Q110759140.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q51146391.xml
+Log(xmlexporter.js): list of deleted char: а
+Log(xmlexporter.js): XML-file: Q110759140.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q48302459.xml
+Log(xmlexporter.js): list of deleted char: ´´´´
+Log(xmlexporter.js): XML-file: Q97035125.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110663854.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q22678742.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q95293986.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q111819161.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110757772.xml
+Log(xmlexporter.js): list of deleted char: ǎ
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q34306357.xml
+Log(xmlexporter.js): list of deleted char: ≅    
+Log(xmlexporter.js): XML-file: Q35579919.xml
+Log(xmlexporter.js): list of deleted char:               
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111827174.xml
+Log(xmlexporter.js): list of deleted char: ţ
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q94922898.xml
+Log(xmlexporter.js): XML-file: Q114911362.xml
+Log(xmlexporter.js): list of deleted char: іу
+Log(xmlexporter.js): XML-file: Q114728725.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q111148721.xml
+Log(xmlexporter.js): XML-file: Q51153250.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51172180.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q55426960.xml
+Log(xmlexporter.js): list of deleted char: ²
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111226446.xml
+Log(xmlexporter.js): list of deleted char: О
+Log(xmlexporter.js): XML-file: Q28596549.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35245902.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q41476205.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q34306357.xml
+Log(xmlexporter.js): list of deleted char: ≅    
+Log(xmlexporter.js): XML-file: Q21090736.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37408072.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30840833.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111152813.xml
+Log(xmlexporter.js): list of deleted char: χ
+Log(xmlexporter.js): XML-file: Q33968149.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114024316.xml
+Log(xmlexporter.js): list of deleted char:  «» «»        
+Log(xmlexporter.js): XML-file: Q111327429.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q58740438.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56438762.xml
+Log(xmlexporter.js): list of deleted char: Ř
+Log(xmlexporter.js): XML-file: Q35980681.xml
+Log(xmlexporter.js): list of deleted char:      χ   
+Log(xmlexporter.js): XML-file: Q56095560.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33851271.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): XML-file: Q110756406.xml
+Log(xmlexporter.js): list of deleted char: ˗˗˗˗
+Log(xmlexporter.js): XML-file: Q51146391.xml
+Log(xmlexporter.js): list of deleted char: а
+Log(xmlexporter.js): XML-file: Q107978226.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113696057.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q33617445.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36413744.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q112385698.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q33589115.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q101303237.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114728725.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111158756.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q61797581.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q104579390.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q114728727.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q56332251.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110759141.xml
+Log(xmlexporter.js): XML-file: Q114023573.xml
+Log(xmlexporter.js): list of deleted char: º´
+Log(xmlexporter.js): XML-file: Q37408072.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166332.xml
+Log(xmlexporter.js): list of deleted char:   −
+Log(xmlexporter.js): XML-file: Q110759140.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q60519770.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111323819.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110756985.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q111166379.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q46249705.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37452788.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q33617445.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q110756979.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q110756944.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q33780061.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q34171299.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114728946.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q56447783.xml
+Log(xmlexporter.js): list of deleted char: ō
+Log(xmlexporter.js): XML-file: Q110758409.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q66795051.xml
+Log(xmlexporter.js): list of deleted char: 外来物种入侵的预警与立法管理张润志康乐
+Log(xmlexporter.js): XML-file: Q114728727.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q58740438.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110756290.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111593734.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q41332288.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q93185450.xml
+Log(xmlexporter.js): list of deleted char: ˂
+Log(xmlexporter.js): XML-file: Q59329675.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q110828966.xml
+Log(xmlexporter.js): list of deleted char: ﻿đđ
+Log(xmlexporter.js): XML-file: Q59461078.xml
+Log(xmlexporter.js): list of deleted char: œ
+Log(xmlexporter.js): XML-file: Q35058534.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q51172180.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111244800.xml
+Log(xmlexporter.js): XML-file: Q107978226.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111158457.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q35773998.xml
+Log(xmlexporter.js): list of deleted char: ´´
+Log(xmlexporter.js): XML-file: Q56419693.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111174005.xml
+Log(xmlexporter.js): list of deleted char: ·
+Log(xmlexporter.js): XML-file: Q92646871.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q56441374.xml
+Log(xmlexporter.js): list of deleted char: ź
+Log(xmlexporter.js): XML-file: Q110862073.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q64059514.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114023573.xml
+Log(xmlexporter.js): list of deleted char: º´
+Log(xmlexporter.js): XML-file: Q113391862.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q64065315.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q93223330.xml
+Log(xmlexporter.js): list of deleted char: ţ
+Log(xmlexporter.js): XML-file: Q111172487.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28820737.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110630234.xml
+Log(xmlexporter.js): list of deleted char: ň 
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q21191853.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q44279786.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q21191474.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111246029.xml
+Log(xmlexporter.js): list of deleted char: ­
+Log(xmlexporter.js): XML-file: Q31120454.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q34235313.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113904335.xml
+Log(xmlexporter.js): list of deleted char:           −   
+Log(xmlexporter.js): XML-file: Q110756328.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110862047.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114728727.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q51146391.xml
+Log(xmlexporter.js): list of deleted char: а
+Log(xmlexporter.js): XML-file: Q110758409.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111152730.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q49910256.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113391862.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q113904252.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q54938102.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q92163809.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111174005.xml
+Log(xmlexporter.js): list of deleted char: ·
+Log(xmlexporter.js): XML-file: Q111320229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28831352.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q91909262.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q34722704.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q114024316.xml
+Log(xmlexporter.js): list of deleted char:  «» «»        
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q60925571.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q40048442.xml
+Log(xmlexporter.js): list of deleted char:     ′    ′    
+Log(xmlexporter.js): XML-file: Q34516922.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q110531546.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q114728725.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q112732333.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111160025.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q57616610.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q31151203.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35169242.xml
+Log(xmlexporter.js): list of deleted char:                
+Log(xmlexporter.js): XML-file: Q34793613.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q101303237.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110757772.xml
+Log(xmlexporter.js): list of deleted char: ǎ
+Log(xmlexporter.js): XML-file: Q111323819.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q111149051.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56381059.xml
+Log(xmlexporter.js): list of deleted char: ōʻŌʻ
+Log(xmlexporter.js): XML-file: Q103800261.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q110759141.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q34793613.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q111373128.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64254350.xml
+Log(xmlexporter.js): XML-file: Q27335336.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34793613.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q33851271.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q57023061.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q108863149.xml
+Log(xmlexporter.js): XML-file: Q34109966.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q113056056.xml
+Log(xmlexporter.js): list of deleted char: ʻʻʻ
+Log(xmlexporter.js): XML-file: Q110847778.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q35980681.xml
+Log(xmlexporter.js): list of deleted char:      χ   
+Log(xmlexporter.js): XML-file: Q105625594.xml
+Log(xmlexporter.js): list of deleted char: 中国西南纵向岭谷区外来入侵植物对生物多样性的影响陆树刚徐成东董晓东段玉清王奕
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q110757772.xml
+Log(xmlexporter.js): list of deleted char: ǎ
+Log(xmlexporter.js): XML-file: Q110663851.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110809102.xml
+Log(xmlexporter.js): list of deleted char: Ř
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56654692.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111166527.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58740438.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30978950.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35594130.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q27335336.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56527695.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q56948339.xml
+Log(xmlexporter.js): list of deleted char:           
+Log(xmlexporter.js): XML-file: Q113704354.xml
+Log(xmlexporter.js): list of deleted char: А
+Log(xmlexporter.js): XML-file: Q56654692.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111231967.xml
+Log(xmlexporter.js): list of deleted char: ТулінаЕльбісЄвгенівна  
+Log(xmlexporter.js): XML-file: Q48103440.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q52663989.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114728725.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q64359295.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q47660649.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q111166527.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q30431591.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q60508508.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111226446.xml
+Log(xmlexporter.js): list of deleted char: О
+Log(xmlexporter.js): XML-file: Q111231967.xml
+Log(xmlexporter.js): list of deleted char: ТулінаЕльбісЄвгенівна  
+Log(xmlexporter.js): XML-file: Q35061494.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q56765210.xml
+Log(xmlexporter.js): list of deleted char: ��
+Log(xmlexporter.js): XML-file: Q112732333.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110756290.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111158457.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q91298701.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q22679873.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114911362.xml
+Log(xmlexporter.js): list of deleted char: іу
+Log(xmlexporter.js): XML-file: Q90924773.xml
+Log(xmlexporter.js): list of deleted char:   ´
+Log(xmlexporter.js): XML-file: Q34047537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q49787136.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56784310.xml
+Log(xmlexporter.js): list of deleted char: ��
+Log(xmlexporter.js): XML-file: Q57886039.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q57799710.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q101302811.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q62633338.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q101303237.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q34374081.xml
+Log(xmlexporter.js): list of deleted char: Β
+Log(xmlexporter.js): XML-file: Q57485234.xml
+Log(xmlexporter.js): list of deleted char:            
+Log(xmlexporter.js): XML-file: Q57091323.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q55361455.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q113904324.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q28596551.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28652246.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111172487.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58608172.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q92741643.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q57799710.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111244800.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q101128869.xml
+Log(xmlexporter.js): list of deleted char: −℃℃℃℃
+Log(xmlexporter.js): XML-file: Q40862099.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111320229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55361455.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q101128869.xml
+Log(xmlexporter.js): list of deleted char: −℃℃℃℃
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q39742832.xml
+Log(xmlexporter.js): XML-file: Q57616610.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35009229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q112732333.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56332251.xml
+Log(xmlexporter.js): XML-file: Q30978950.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56368726.xml
+Log(xmlexporter.js): list of deleted char: ź
+Log(xmlexporter.js): XML-file: Q64077404.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q111320229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q26764821.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111168449.xml
+Log(xmlexporter.js): list of deleted char: ′
+Log(xmlexporter.js): XML-file: Q111320229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char: ŚŚ
+Log(xmlexporter.js): XML-file: Q110829104.xml
+Log(xmlexporter.js): XML-file: Q110663854.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q57879838.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q60508508.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111154612.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q110759232.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q45893228.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q34927064.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q59329675.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q55287342.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q30391452.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56419693.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q33589115.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q56368726.xml
+Log(xmlexporter.js): list of deleted char: ź
+Log(xmlexporter.js): XML-file: Q30843104.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q57023061.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q36413744.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35594130.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34927064.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q110756528.xml
+Log(xmlexporter.js): list of deleted char: ‒‒
+Log(xmlexporter.js): XML-file: Q34984583.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q34042648.xml
+Log(xmlexporter.js): list of deleted char: ²⁺²²⁺
+Log(xmlexporter.js): XML-file: Q113207476.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q114575095.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q22678742.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q98242925.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q35061494.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q55361455.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35813850.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q40048442.xml
+Log(xmlexporter.js): list of deleted char:     ′    ′    
+Log(xmlexporter.js): XML-file: Q34516922.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q35838763.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q110756290.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q51172180.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q64059514.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111246029.xml
+Log(xmlexporter.js): list of deleted char: ­
+Log(xmlexporter.js): XML-file: Q33617445.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56669703.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56943224.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q60925571.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q36283872.xml
+Log(xmlexporter.js): list of deleted char:          
+Log(xmlexporter.js): XML-file: Q110756328.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q51146321.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114729484.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q111323819.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): list of deleted char: ™™
+Log(xmlexporter.js): XML-file: Q36097437.xml
+Log(xmlexporter.js): XML-file: Q110663851.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q33968149.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q42374838.xml
+Log(xmlexporter.js): list of deleted char:  − −
+Log(xmlexporter.js): XML-file: Q101300594.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56395505.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q111226446.xml
+Log(xmlexporter.js): list of deleted char: О
+Log(xmlexporter.js): XML-file: Q113056056.xml
+Log(xmlexporter.js): list of deleted char: ʻʻʻ
+Log(xmlexporter.js): XML-file: Q22679873.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q30843104.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q113207476.xml
+Log(xmlexporter.js): list of deleted char: π
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q45893228.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q91795917.xml
+Log(xmlexporter.js): list of deleted char: ™™™
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q111166339.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56332251.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56388414.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q56457860.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q55266647.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q56384308.xml
+Log(xmlexporter.js): list of deleted char: ӧӧ
+Log(xmlexporter.js): XML-file: Q56943224.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56780510.xml
+Log(xmlexporter.js): list of deleted char: ℉
+Log(xmlexporter.js): XML-file: Q112348370.xml
+Log(xmlexporter.js): list of deleted char: ∆
+Log(xmlexporter.js): XML-file: Q114024316.xml
+Log(xmlexporter.js): list of deleted char:  «» «»        
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111166330.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q111327685.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q113391862.xml
+Log(xmlexporter.js): XML-file: Q111323596.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q101302811.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55018848.xml
+Log(xmlexporter.js): list of deleted char:  ·− ·− ·− ·− ·− ·− ·− ·− ·−
+Log(xmlexporter.js): XML-file: Q113695560.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111323819.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q45886351.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−−
+Log(xmlexporter.js): XML-file: Q31120454.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111819161.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q57091323.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q111323596.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q31130320.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q60508508.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111323354.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q114925640.xml
+Log(xmlexporter.js): list of deleted char:   −−
+Log(xmlexporter.js): XML-file: Q35169242.xml
+Log(xmlexporter.js): list of deleted char:                
+Log(xmlexporter.js): XML-file: Q110625884.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q111140791.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q37414598.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35980681.xml
+Log(xmlexporter.js): list of deleted char:      χ   
+Log(xmlexporter.js): XML-file: Q113695560.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56450184.xml
+Log(xmlexporter.js): list of deleted char: ··········∙∙
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q111166379.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q101300525.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101128869.xml
+Log(xmlexporter.js): list of deleted char: −℃℃℃℃
+Log(xmlexporter.js): XML-file: Q51146360.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q101300594.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q90348614.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34171299.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q91191184.xml
+Log(xmlexporter.js): list of deleted char: ′−−
+Log(xmlexporter.js): XML-file: Q113056056.xml
+Log(xmlexporter.js): list of deleted char: ʻʻʻ
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28959140.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q114915700.xml
+Log(xmlexporter.js): list of deleted char: ‒
+Log(xmlexporter.js): XML-file: Q36064500.xml
+Log(xmlexporter.js): list of deleted char:               
+Log(xmlexporter.js): XML-file: Q44279786.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q114915700.xml
+Log(xmlexporter.js): list of deleted char: ‒
+Log(xmlexporter.js): XML-file: Q93185450.xml
+Log(xmlexporter.js): list of deleted char: ˂
+Log(xmlexporter.js): XML-file: Q41332288.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:    −  −  −
+Log(xmlexporter.js): XML-file: Q37452788.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146360.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q112462502.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q56381059.xml
+Log(xmlexporter.js): list of deleted char: ōʻŌʻ
+Log(xmlexporter.js): XML-file: Q55359585.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q103800261.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q59049244.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q59049244.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110862073.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q35077400.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q30431591.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q110625884.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q34427547.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q31172548.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q34637770.xml
+Log(xmlexporter.js): list of deleted char:      Ф           
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q113698063.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56948339.xml
+Log(xmlexporter.js): list of deleted char:           
+Log(xmlexporter.js): XML-file: Q31015402.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36900517.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q49913367.xml
+Log(xmlexporter.js): list of deleted char:  −−
+Log(xmlexporter.js): XML-file: Q36900517.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q113056103.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q101302811.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q102202028.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q36441468.xml
+Log(xmlexporter.js): list of deleted char:                                     
+Log(xmlexporter.js): XML-file: Q31172548.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q101402147.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q59607689.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56441374.xml
+Log(xmlexporter.js): list of deleted char: ź
+Log(xmlexporter.js): XML-file: Q111244800.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q110758971.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56384297.xml
+Log(xmlexporter.js): list of deleted char: †
+Log(xmlexporter.js): XML-file: Q34516922.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q112280642.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q63938015.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38638991.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q60508508.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38842047.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q38614968.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q42135824.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q97437032.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q111819161.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34805244.xml
+Log(xmlexporter.js): list of deleted char: ∶  ∶∶  
+Log(xmlexporter.js): XML-file: Q28603703.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166527.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q36118851.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35813850.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q41476205.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q111166527.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q58608172.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q55361455.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q64065315.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58579136.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q34109966.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35920437.xml
+Log(xmlexporter.js): list of deleted char:   ·   
+Log(xmlexporter.js): XML-file: Q33886668.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q55264123.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q30391452.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55264123.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q28608417.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111323354.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q113698063.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q56388414.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q59119389.xml
+Log(xmlexporter.js): list of deleted char: θθθ
+Log(xmlexporter.js): XML-file: Q56417126.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q39333054.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q111327429.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q63938015.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q31151203.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34235313.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q96430226.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q46249705.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110759232.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58579136.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111153657.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q114575095.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q36719252.xml
+Log(xmlexporter.js): list of deleted char: ≈≈
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111153657.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q62633338.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q31120454.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q114227381.xml
+Log(xmlexporter.js): XML-file: Q59043636.xml
+Log(xmlexporter.js): list of deleted char:      − −  − −  − −  − −   − −   − −   − −−−
+Log(xmlexporter.js): XML-file: Q111323596.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q54938102.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q112485710.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36390923.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q38614968.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q56388414.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q113692791.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q37414598.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q60534644.xml
+Log(xmlexporter.js): list of deleted char: ´
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110757772.xml
+Log(xmlexporter.js): list of deleted char: ǎ
+Log(xmlexporter.js): XML-file: Q35773998.xml
+Log(xmlexporter.js): list of deleted char: ´´
+Log(xmlexporter.js): XML-file: Q34722704.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q34427547.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q96430226.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q51160991.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q91298701.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q104579496.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q113698063.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q31000659.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q59461078.xml
+Log(xmlexporter.js): list of deleted char: œ
+Log(xmlexporter.js): XML-file: Q31130320.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q97077924.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q28959140.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146387.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q104613907.xml
+Log(xmlexporter.js): list of deleted char: țș
+Log(xmlexporter.js): XML-file: Q111320036.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q47125734.xml
+Log(xmlexporter.js): XML-file: Q90924773.xml
+Log(xmlexporter.js): list of deleted char:   ´
+Log(xmlexporter.js): XML-file: Q38838634.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q110756330.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q97077924.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q34793613.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q30431591.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q34047537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q102202028.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q51146391.xml
+Log(xmlexporter.js): list of deleted char: а
+Log(xmlexporter.js): XML-file: Q56555953.xml
+Log(xmlexporter.js): list of deleted char: ′
+Log(xmlexporter.js): XML-file: Q30431591.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q90066765.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q36615118.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q34722704.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q110760026.xml
+Log(xmlexporter.js): list of deleted char: «»«»«»«»«»
+Log(xmlexporter.js): XML-file: Q90924773.xml
+Log(xmlexporter.js): list of deleted char:   ´
+Log(xmlexporter.js): XML-file: Q111140800.xml
+Log(xmlexporter.js): list of deleted char:            
+Log(xmlexporter.js): XML-file: Q113243870.xml
+Log(xmlexporter.js): list of deleted char: đ
+Log(xmlexporter.js): XML-file: Q36178068.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q35579919.xml
+Log(xmlexporter.js): list of deleted char:               
+Log(xmlexporter.js): XML-file: Q42135824.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q31172548.xml
+Log(xmlexporter.js): list of deleted char: κ
+Log(xmlexporter.js): XML-file: Q97035125.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q55266647.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q58608172.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q33650238.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q51172180.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q110663878.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110862065.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q49787136.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q41476205.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q55426960.xml
+Log(xmlexporter.js): list of deleted char: ²
+Log(xmlexporter.js): XML-file: Q64095733.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q41145947.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101303237.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166527.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q35245902.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q57485234.xml
+Log(xmlexporter.js): list of deleted char:            
+Log(xmlexporter.js): XML-file: Q41476205.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q26247786.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56943224.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q114293562.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110744671.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q56395439.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q98188469.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q34927064.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q110744670.xml
+Log(xmlexporter.js): list of deleted char:                           
+Log(xmlexporter.js): XML-file: Q39742832.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q40862099.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q38842047.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q89475419.xml
+Log(xmlexporter.js): list of deleted char: − − 
+Log(xmlexporter.js): XML-file: Q36210519.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q42374838.xml
+Log(xmlexporter.js): list of deleted char:  − −
+Log(xmlexporter.js): XML-file: Q63246300.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q36097437.xml
+Log(xmlexporter.js): list of deleted char: ™™
+Log(xmlexporter.js): XML-file: Q59329675.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q36091353.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111152813.xml
+Log(xmlexporter.js): list of deleted char: χ
+Log(xmlexporter.js): XML-file: Q113697860.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q34158642.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q35084987.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q34158642.xml
+Log(xmlexporter.js): list of deleted char: ™
+Log(xmlexporter.js): XML-file: Q110759141.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q64254350.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q110812829.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q113696057.xml
+Log(xmlexporter.js): list of deleted char: ′′
+Log(xmlexporter.js): XML-file: Q104579390.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q97652056.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q36178068.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:    −  −  −
+Log(xmlexporter.js): XML-file: Q111172487.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q101128869.xml
+Log(xmlexporter.js): list of deleted char: −℃℃℃℃
+Log(xmlexporter.js): XML-file: Q54976164.xml
+Log(xmlexporter.js): list of deleted char: Ś
+Log(xmlexporter.js): XML-file: Q111154359.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−
+Log(xmlexporter.js): XML-file: Q57091323.xml
+Log(xmlexporter.js): list of deleted char: −−−−
+Log(xmlexporter.js): XML-file: Q42172702.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q56948339.xml
+Log(xmlexporter.js): list of deleted char:           
+Log(xmlexporter.js): XML-file: Q58608172.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q44279786.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q97093082.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q112765962.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q111166379.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q56419693.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111166358.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q112348370.xml
+Log(xmlexporter.js): list of deleted char: ∆
+Log(xmlexporter.js): XML-file: Q57485234.xml
+Log(xmlexporter.js): list of deleted char:            
+Log(xmlexporter.js): XML-file: Q102202028.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q96163460.xml
+Log(xmlexporter.js): XML-file: Q57208663.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:    −  −  −
+Log(xmlexporter.js): XML-file: Q56669703.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q70722887.xml
+Log(xmlexporter.js): list of deleted char: −−−−−−−−
+Log(xmlexporter.js): XML-file: Q110829173.xml
+Log(xmlexporter.js): list of deleted char:    − 
+Log(xmlexporter.js): XML-file: Q104613907.xml
+Log(xmlexporter.js): list of deleted char: țș
+Log(xmlexporter.js): XML-file: Q35058534.xml
+Log(xmlexporter.js): list of deleted char:         
+Log(xmlexporter.js): XML-file: Q61797581.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q104613907.xml
+Log(xmlexporter.js): list of deleted char: țș
+Log(xmlexporter.js): XML-file: Q111172487.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q97437032.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q34171299.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q97437032.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q30431591.xml
+Log(xmlexporter.js): list of deleted char:       
+Log(xmlexporter.js): XML-file: Q37414598.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q113692791.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q110663985.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q101128869.xml
+Log(xmlexporter.js): list of deleted char: −℃℃℃℃
+Log(xmlexporter.js): XML-file: Q38964150.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q110862073.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q110625963.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q111246819.xml
+Log(xmlexporter.js): list of deleted char: Е
+Log(xmlexporter.js): XML-file: Q111320229.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36910363.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q58608172.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q114728743.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q35992164.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111323535.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q59334797.xml
+Log(xmlexporter.js): list of deleted char: −−−
+Log(xmlexporter.js): XML-file: Q111172537.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q110756330.xml
+Log(xmlexporter.js): list of deleted char: −−
+Log(xmlexporter.js): XML-file: Q110625963.xml
+Log(xmlexporter.js): list of deleted char: ň
+Log(xmlexporter.js): XML-file: Q51146360.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111593734.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q57892938.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q108863149.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q56457860.xml
+Log(xmlexporter.js): list of deleted char: 
+Log(xmlexporter.js): XML-file: Q34637770.xml
+Log(xmlexporter.js): list of deleted char:      Ф           
+Log(xmlexporter.js): XML-file: Q55363711.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q35928436.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q112342110.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q90924773.xml
+Log(xmlexporter.js): list of deleted char:   ´
+Log(xmlexporter.js): XML-file: Q56396064.xml
+Log(xmlexporter.js): list of deleted char:   −
+Log(xmlexporter.js): XML-file: Q35061494.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q114912212.xml
+Log(xmlexporter.js): list of deleted char:     
+Log(xmlexporter.js): XML-file: Q101303237.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q114000131.xml
+Log(xmlexporter.js): list of deleted char: țșș
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q35594130.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q91298701.xml
+Log(xmlexporter.js): list of deleted char: −
+Log(xmlexporter.js): XML-file: Q42374838.xml
+Log(xmlexporter.js): list of deleted char:  − −
+Log(xmlexporter.js): XML-file: Q101635344.xml
+Log(xmlexporter.js): list of deleted char: Ο
+Log(xmlexporter.js): XML-file: Q90037950.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q28608417.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q36900517.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q37348401.xml
+Log(xmlexporter.js): list of deleted char:  
+Log(xmlexporter.js): XML-file: Q111343334.xml
+Log(xmlexporter.js): list of deleted char: ﻿
+Log(xmlexporter.js): XML-file: Q111168449.xml
+Log(xmlexporter.js): list of deleted char: ′
+Log(xmlexporter.js): XML-file: Q55361455.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q111489767.xml
+Log(xmlexporter.js): list of deleted char: șșȘ
+Log(xmlexporter.js): XML-file: Q28585810.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q55266647.xml
+Log(xmlexporter.js): list of deleted char:        
+Log(xmlexporter.js): XML-file: Q114911362.xml
+Log(xmlexporter.js): list of deleted char: іу
+Log(xmlexporter.js): XML-file: Q101300594.xml
+Log(xmlexporter.js): list of deleted char:  
