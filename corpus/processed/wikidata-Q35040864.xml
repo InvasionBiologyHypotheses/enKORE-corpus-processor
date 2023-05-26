@@ -4,7 +4,7 @@
   <dc:identifier>http://www.wikidata.org/entity/Q35040864</dc:identifier>
   <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314643</dc:identifier>
   <dc:identifier>doi:10.1038/SREP08195</dc:identifier>
-  <dc:title>Interferon -induced GTPase promotes invasion of Listeria monocytogenes into trophoblast giant cells</dc:title>
+  <dc:title>Interferon γ-induced GTPase promotes invasion of Listeria monocytogenes into trophoblast giant cells</dc:title>
   <dc:creator>Tachibana, Masato</dc:creator>
   <dc:creator>Hashino, Masanori</dc:creator>
   <dc:creator>Watanabe, Kenta</dc:creator>
@@ -17,5 +17,5 @@
   <dc:subject>Listeria monocytogenes</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
-  <dc:description>AbstractListeria monocytogenes is well known for having the ability to cross the placental barrier, leading to fetal infections and abortion. However, the mechanisms leading to infectious abortion are poorly understood. In this study, we demonstrate that interferon -induced GTPase (IGTP) contributes to the invasion of L. monocytogenes into trophoblast giant (TG) cells, which are placental immune cells. Knockdown of IGTP in TG cells decreased the relative efficiencies of L. monocytogenes invasion. Moreover, IGTP accumulated around infected L. monocytogenes in TG cells. Treatment of TG cells with phosphatidylinositol 3-kinase (PI3K)/Akt inhibitors also reduced bacterial invasion. PI3K/Akt inhibitor or IGTP knockdown reduced the amount of phosphorylated Akt. Monosialotetrahexosylganglioside (GM1) gangliosides, lipid raft markers, accumulated in the membrane of L. monocytogenes-containing vacuoles in TG cells. Furthermore, treatment with a lipid raft inhibitor reduced bacterial invasion. These results suggest that IGTP-induced activation of the PI3K/Akt signaling pathway promotes bacterial invasion into TG cells.</dc:description>
+  <dc:description>AbstractListeria monocytogenes is well known for having the ability to cross the placental barrier, leading to fetal infections and abortion. However, the mechanisms leading to infectious abortion are poorly understood. In this study, we demonstrate that interferon γ-induced GTPase (IGTP) contributes to the invasion of L. monocytogenes into trophoblast giant (TG) cells, which are placental immune cells. Knockdown of IGTP in TG cells decreased the relative efficiencies of L. monocytogenes invasion. Moreover, IGTP accumulated around infected L. monocytogenes in TG cells. Treatment of TG cells with phosphatidylinositol 3-kinase (PI3K)/Akt inhibitors also reduced bacterial invasion. PI3K/Akt inhibitor or IGTP knockdown reduced the amount of phosphorylated Akt. Monosialotetrahexosylganglioside (GM1) gangliosides, lipid raft markers, accumulated in the membrane of L. monocytogenes-containing vacuoles in TG cells. Furthermore, treatment with a lipid raft inhibitor reduced bacterial invasion. These results suggest that IGTP-induced activation of the PI3K/Akt signaling pathway promotes bacterial invasion into TG cells.</dc:description>
 </oai_dc:dc>
