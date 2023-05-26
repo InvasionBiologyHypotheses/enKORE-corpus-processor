@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q26764821</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q26764821</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735243</dc:identifier>
+  <dc:identifier>doi:10.1007/S10811-015-0601-X</dc:identifier>
+  <dc:title>On the use of the serial dilution culture method to enumerate viable phytoplankton in natural communities of plankton subjected to ballast water treatment</dc:title>
+  <dc:creator>Cullen, John J</dc:creator>
+  <dc:creator>MacIntyre, Hugh L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>plankton</dc:subject>
+  <dc:subject>phytoplankton</dc:subject>
+  <dc:subject>sailing ballast</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Discharge standards for ballast water treatment (BWT) systems are based on concentrations of living cells, for example, as determined with vital stains. Ultraviolet radiation (UV) stops the reproduction of microorganisms without killing them outright; they are living, but not viable, and ecologically as good as dead. Consequently, UV-treated discharge can be compliant with the intent of regulation while failing a live/dead test. An alternative evaluation of BWT can be proposed based on the assessment of viable, rather than living, cells in discharge water. In principle, the serial dilution culture-most probable number (SDC-MPN) method provides the appropriate measure for phytoplankton. But, the method has been criticized, particularly because it is thought that many phytoplankton species cannot be cultured. A review of the literature shows that although SDC-MPN has been used for more than 50years-generally to identify and count phytoplankton species that cannot be preserved-its application to enumerate total viable phytoplankton seems to be new, putting past criticisms of the method in a different light. Importantly, viable cells need to grow only enough to be detected, not to be brought into sustained culture, and competition between species in a dilution tube is irrelevant as long as the winner is detectable. Thorough consideration of sources of error leads to recommendations for minimizing and quantifying uncertainties by optimizing growth conditions and conducting systematic comparisons. We conclude that with careful evaluation, SDC-MPN is potentially an effective method for assessing the viability of phytoplankton after BWT.</dc:description>
+</oai_dc:dc>

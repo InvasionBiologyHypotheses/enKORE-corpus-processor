@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55870747</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55870747</dc:identifier>
+  <dc:identifier>doi:10.1094/PDIS.2003.87.8.999</dc:identifier>
+  <dc:title>Invasion Pathways of Karnal Bunt of Wheat into the United States</dc:title>
+  <dc:creator>Marshall, David</dc:creator>
+  <dc:creator>Work, Timothy T</dc:creator>
+  <dc:creator>Cavey, Joseph F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2003-08-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>United States of America</dc:subject>
+  <dc:subject>wheat</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Scientific Societies</dc:publisher>
+</oai_dc:dc>

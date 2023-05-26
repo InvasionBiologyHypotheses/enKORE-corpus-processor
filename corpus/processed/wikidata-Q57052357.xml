@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57052357</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q57052357</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PGEN.1007450</dc:identifier>
+  <dc:title>Mutation load dynamics during environmentally-driven range shifts</dc:title>
+  <dc:creator>Gilbert, Kimberly J</dc:creator>
+  <dc:creator>Peischl, Stephan</dc:creator>
+  <dc:creator>Excoffier, Laurent</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-28</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>cancer research</dc:subject>
+  <dc:subject>molecular biology</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The fitness of spatially expanding species has been shown to decrease over time and space, but specialist species tracking their changing environment and shifting their range accordingly have been little studied. We use individual-based simulations and analytical modeling to compare the impact of range expansions and range shifts on genetic diversity and fitness loss, as well as the ability to recover fitness after either a shift or expansion. We find that the speed of a shift has a strong impact on fitness evolution. Fastest shifts show the strongest fitness loss per generation, but intermediate shift speeds lead to the strongest fitness loss per geographic distance. Range shifting species lose fitness more slowly through time than expanding species, however, their fitness measured at equal geographic distances from the source of expansion can be considerably lower. These counter-intuitive results arise from the combination of time over which selection acts and mutations enter the system. Range shifts also exhibit reduced fitness recovery after a geographic shift and may result in extinction, whereas range expansions can persist from the core of the species range. The complexity of range expansions and range shifts highlights the potential for severe consequences of environmental change on species survival.</dc:description>
+</oai_dc:dc>

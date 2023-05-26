@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34038799</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34038799</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198921</dc:identifier>
+  <dc:identifier>doi:10.1186/1742-4682-8-36</dc:identifier>
+  <dc:title>Modeling invasion of metastasizing cancer cells to bone marrow utilizing ecological principles</dc:title>
+  <dc:creator>Chen, Kun-Wan</dc:creator>
+  <dc:creator>Pienta, Kenneth J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-10-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/2.0</dc:rights>
+  <dc:subject>bone marrow</dc:subject>
+  <dc:subject>metastasis</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>BackgroundThe invasion of a new species into an established ecosystem can be directly compared to the steps involved in cancer metastasis. Cancer must grow in a primary site, extravasate and survive in the circulation to then intravasate into target organ (invasive species survival in transport). Cancer cells often lay dormant at their metastatic site for a long period of time (lag period for invasive species) before proliferating (invasive spread). Proliferation in the new site has an impact on the target organ microenvironment (ecological impact) and eventually the human host (biosphere impact).ResultsTilman has described mathematical equations for the competition between invasive species in a structured habitat. These equations were adapted to study the invasion of cancer cells into the bone marrow microenvironment as a structured habitat. A large proportion of solid tumor metastases are bone metastases, known to usurp hematopoietic stem cells (HSC) homing pathways to establish footholds in the bone marrow. This required accounting for the fact that this is the natural home of hematopoietic stem cells and that they already occupy this structured space. The adapted Tilman model of invasion dynamics is especially valuable for modeling the lag period or dormancy of cancer cells.ConclusionsThe Tilman equations for modeling the invasion of two species into a defined space have been modified to study the invasion of cancer cells into the bone marrow microenvironment. These modified equations allow a more flexible way to model the space competition between the two cell species. The ability to model initial density, metastatic seeding into the bone marrow and growth once the cells are present, and movement of cells out of the bone marrow niche and apoptosis of cells are all aspects of the adapted equations. These equations are currently being applied to clinical data sets for verification and further refinement of the models.</dc:description>
+</oai_dc:dc>

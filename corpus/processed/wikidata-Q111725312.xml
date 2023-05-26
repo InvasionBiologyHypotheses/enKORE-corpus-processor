@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111725312</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111725312</dc:identifier>
+  <dc:identifier>http://dx.doi.org/10.21203/rs.3.rs-1461713/v1</dc:identifier>
+  <dc:identifier>doi:10.21203/RS.3.RS-1461713/V1</dc:identifier>
+  <dc:title>Niche shifts, low haplotype diversity and invasion potentials of invasive snail Lissachatina fulica (Gastropoda: Achatinidae)</dc:title>
+  <dc:creator>Ananthram, Aravind Neelavar</dc:creator>
+  <dc:creator>H.N., Poorna Bhat</dc:creator>
+  <dc:creator>Mahapatra, Biswa Bhusana</dc:creator>
+  <dc:type>text</dc:type>
+  <dc:date>2022-04-21</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Lissachatina fulica</dc:subject>
+  <dc:subject>Achatinidae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Research Square Platform LLC</dc:publisher>
+  <dc:description>Abstract
+        Invasive alien species are one of the greatest threats to biodiversity, ecosystems, human economy and human health. Future climate change may result in niche expansion, contraction or range shift leading to changes in their geographic distribution. The Giant African snail, Lissachatina fulica, is one of the 100 worst invaders. This study uses a species distribution modelling approach to assess current and future potential global distribution for this pest species under two climate change scenarios (SSP2 and SSP5). We tested the niche conservatism hypothesis for this pest species by comparing native niche versus invaded niche. We also quantified niche overlap and niche dynamics such as expansion, stable and unfilling between the native and introduced ranges using PCA-env. Our results show that potentially suitable niches in the present and future climate change scenarios increase significantly. The results suggest that Bio 13 and Annual Mean Temperature (Bio1) are the two most important drivers in determining the potential distribution of this invasive species. Furthermore, we found evidence for niche shifts due to niche expansion across the continents, thus occurring in climatically distinct regions. Finally, the study identified the areas of high invasibility which help in managing this invasive species. This study has implications for understanding the range dynamics of L. fulica across continents despite having low mitochondrial haplotype diversity in the invaded regions.</dc:description>
+</oai_dc:dc>

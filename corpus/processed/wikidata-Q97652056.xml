@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97652056</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q97652056</dc:identifier>
+  <dc:identifier>doi:10.1186/S12915-020-00820-5</dc:identifier>
+  <dc:title>The genome sequence of the grape phylloxera provides insights into the evolution, adaptation, and invasion routes of an iconic pest</dc:title>
+  <dc:creator>Rispe, Claude</dc:creator>
+  <dc:creator>Legeai, Fabrice</dc:creator>
+  <dc:creator>Nabity, Paul D</dc:creator>
+  <dc:creator>Fernández, Rosa</dc:creator>
+  <dc:creator>Arora, Arinder K</dc:creator>
+  <dc:creator>Baa-Puyoulet, Patrice</dc:creator>
+  <dc:creator>Banfill, Celeste R</dc:creator>
+  <dc:creator>Bao, Leticia</dc:creator>
+  <dc:creator>Barberà, Miquel</dc:creator>
+  <dc:creator>Bouallègue, Maryem</dc:creator>
+  <dc:creator>Bretaudeau, Anthony</dc:creator>
+  <dc:creator>Brisson, Jennifer A</dc:creator>
+  <dc:creator>Calevro, Federica</dc:creator>
+  <dc:creator>Capy, Pierre</dc:creator>
+  <dc:creator>Catrice, Olivier</dc:creator>
+  <dc:creator>Chertemps, Thomas</dc:creator>
+  <dc:creator>Couture, Carole</dc:creator>
+  <dc:creator>Delière, Laurent</dc:creator>
+  <dc:creator>Douglas, Angela E</dc:creator>
+  <dc:creator>Dufault-Thompson, Keith</dc:creator>
+  <dc:creator>Escuer, Paula</dc:creator>
+  <dc:creator>Feng, Honglin</dc:creator>
+  <dc:creator>Forneck, Astrid</dc:creator>
+  <dc:creator>Gabaldón, Toni</dc:creator>
+  <dc:creator>Guigó, Roderic</dc:creator>
+  <dc:creator>Hilliou, Frédérique</dc:creator>
+  <dc:creator>Hinojosa-Alvarez, Silvia</dc:creator>
+  <dc:creator>Hsiao, Yi-Min</dc:creator>
+  <dc:creator>Hudaverdian, Sylvie</dc:creator>
+  <dc:creator>Jacquin-Joly, Emmanuelle</dc:creator>
+  <dc:creator>James, Edward B</dc:creator>
+  <dc:creator>Johnston, Spencer</dc:creator>
+  <dc:creator>Joubard, Benjamin</dc:creator>
+  <dc:creator>Goff, Gaëlle Le</dc:creator>
+  <dc:creator>Trionnaire, Gaël Le</dc:creator>
+  <dc:creator>Librado, Pablo</dc:creator>
+  <dc:creator>Liu, Shanlin</dc:creator>
+  <dc:creator>Lombaert, Eric</dc:creator>
+  <dc:creator>Lu, Hsiao-Ling</dc:creator>
+  <dc:creator>Maïbèche, Martine</dc:creator>
+  <dc:creator>Makni, Mohamed</dc:creator>
+  <dc:creator>Marcet-Houben, Marina</dc:creator>
+  <dc:creator>Martínez-Torres, David</dc:creator>
+  <dc:creator>Meslin, Camille</dc:creator>
+  <dc:creator>Montagné, Nicolas</dc:creator>
+  <dc:creator>Moran, Nancy A</dc:creator>
+  <dc:creator>Papura, Daciana</dc:creator>
+  <dc:creator>Parisot, Nicolas</dc:creator>
+  <dc:creator>Rahbé, Yvan</dc:creator>
+  <dc:creator>Lopes, Mélanie Ribeiro</dc:creator>
+  <dc:creator>Ripoll-Cladellas, Aida</dc:creator>
+  <dc:creator>Roques, Céline</dc:creator>
+  <dc:creator>Roux, Pascale</dc:creator>
+  <dc:creator>Rozas, Julio</dc:creator>
+  <dc:creator>Sánchez-Gracia, Alejandro</dc:creator>
+  <dc:creator>Sánchez-Herrero, Jose F</dc:creator>
+  <dc:creator>Santesmasses, Didac</dc:creator>
+  <dc:creator>Scatoni, Iris</dc:creator>
+  <dc:creator>Serre, Rémy-Félix</dc:creator>
+  <dc:creator>Tang, Ming</dc:creator>
+  <dc:creator>Tian, Wenhua</dc:creator>
+  <dc:creator>Umina, Paul A</dc:creator>
+  <dc:creator>Munster, Manuella</dc:creator>
+  <dc:creator>Vincent-Monégat, Carole</dc:creator>
+  <dc:creator>Wemmer, Joshua</dc:creator>
+  <dc:creator>Wilson, Alex C C</dc:creator>
+  <dc:creator>Zhang, Ying</dc:creator>
+  <dc:creator>Zhao, Chaoyang</dc:creator>
+  <dc:creator>Zhao, Jing</dc:creator>
+  <dc:creator>Zhao, Serena</dc:creator>
+  <dc:creator>Zhou, Xin</dc:creator>
+  <dc:creator>Delmotte, François</dc:creator>
+  <dc:creator>Tagu, Denis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractBackgroundAlthough native to North America, the invasion of the aphid-like grape phylloxeraDaktulosphaira vitifoliaeacross the globe altered the course of grape cultivation. For the past 150years, viticulture relied on grafting-resistant North AmericanVitisspecies as rootstocks, thereby limiting genetic stocks tolerant to other stressors such as pathogens and climate change. Limited understanding of the insect genetics resulted in successive outbreaks across the globe when rootstocks failed. Here we report the 294-Mb genome ofD. vitifoliaeas a basic tool to understand host plant manipulation, nutritional endosymbiosis, and enhance global viticulture.ResultsUsing a combination of genome, RNA, and population resequencing, we found grape phylloxera showed high duplication rates since its common ancestor with aphids, but similarity in most metabolic genes, despite lacking obligate nutritional symbioses and feeding from parenchyma. Similarly, no enrichment occurred in development genes in relation to viviparity. However, phylloxera evolved &gt;2700 unique genes that resemble putative effectors and are active during feeding. Population sequencing revealed the global invasion began from the upper Mississippi River in North America, spread to Europe and from there to the rest of the world.ConclusionsThe grape phylloxera genome reveals genetic architecture relative to the evolution of nutritional endosymbiosis, viviparity, and herbivory. The extraordinary expansion in effector genes also suggests novel adaptations to plant feeding and how insects induce complex plant phenotypes, for instance galls. Finally, our understanding of the origin of this invasive species and its genome provide genetics resources to alleviate rootstock bottlenecks restricting the advancement of viticulture.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31172548</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31172548</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081808</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004207</dc:identifier>
+  <dc:title>Salmonella enterica Serovar Typhi conceals the invasion-associated type three secretion system from the innate immune system by gene regulation</dc:title>
+  <dc:creator>Winter, Sebastian E</dc:creator>
+  <dc:creator>Winter, Maria G</dc:creator>
+  <dc:creator>Poon, Victor</dc:creator>
+  <dc:creator>Keestra, A Marijke</dc:creator>
+  <dc:creator>Sterzenbach, Torsten</dc:creator>
+  <dc:creator>Faber, Franziska</dc:creator>
+  <dc:creator>Costa, Luciana F</dc:creator>
+  <dc:creator>Cassou, Fabiane</dc:creator>
+  <dc:creator>Costa, Erica A</dc:creator>
+  <dc:creator>Alves, Geraldo E S</dc:creator>
+  <dc:creator>Paixao, Tatiane</dc:creator>
+  <dc:creator>Santos, Renato L</dc:creator>
+  <dc:creator>Bäumler, Andreas J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-07-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Salmonella enterica</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Delivery of microbial products into the mammalian cell cytosol by bacterial secretion systems is a strong stimulus for triggering pro-inflammatory host responses. Here we show that Salmonella enterica serovar Typhi (S. Typhi), the causative agent of typhoid fever, tightly regulates expression of the invasion-associated type III secretion system (T3SS-1) and thus fails to activate these innate immune signaling pathways. The S. Typhi regulatory protein TviA rapidly repressed T3SS-1 expression, thereby preventing RAC1-dependent, RIP2-dependent activation of NF-B in epithelial cells. Heterologous expression of TviA in S. enterica serovar Typhimurium (S. Typhimurium) suppressed T3SS-1-dependent inflammatory responses generated early after infection in animal models of gastroenteritis. These results suggest that S. Typhi reduces intestinal inflammation by limiting the induction of pathogen-induced processes through regulation of virulence gene expression.</dc:description>
+</oai_dc:dc>

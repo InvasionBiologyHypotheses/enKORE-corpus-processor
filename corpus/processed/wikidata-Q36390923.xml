@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36390923</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36390923</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5456405</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0179075</dc:identifier>
+  <dc:title>Proteomic variation and diversity in clinical Streptococcus pneumoniae isolates from invasive and non-invasive sites</dc:title>
+  <dc:creator>Bittaye, Mustapha</dc:creator>
+  <dc:creator>Cash, Phil</dc:creator>
+  <dc:creator>Forbes, Ken</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-06-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptococcus pneumoniae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Streptococcus pneumoniae is responsible for a variety of invasive and non-invasive human infections. There are over 90 serotypes of S. pneumoniae differing in their ability to adapt to the different niches within the host. Two-dimensional gel electrophoresis was used to discriminate clinical S. pneumoniae isolates recovered from either blood cultures (invasive site isolates) or other sites, including sputum, tracheal aspirate, ear, eye and skin swabs (non-invasive site isolates). Global protein expression profiles for five invasive site and six non-invasive site isolates representing five different serotypes (serotypes 4, 6, 9, 14 and 23) were obtained for each isolate and combined into a single data set using Progenesis SameSpots software. One-hundred and eighty six protein spots (39% of the protein spots in the dataset) differed significantly (ANOVA, p</dc:description>
+</oai_dc:dc>

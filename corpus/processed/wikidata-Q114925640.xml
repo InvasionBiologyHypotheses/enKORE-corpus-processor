@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114925640</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114925640</dc:identifier>
+  <dc:identifier>doi:10.1186/S41938-022-00541-7</dc:identifier>
+  <dc:title>Impact of the fall armyworm, Spodoptera frugiperda (J. E. Smith) (Lepidoptera: Noctuidae), invasion on maize and the native Spodoptera litura (Fabricius) in East Java, Indonesia, and evaluation of the virulence of some indigenous entomopathogenic fungus isolates for controlling the pest</dc:title>
+  <dc:creator>Afandhi, Aminudin</dc:creator>
+  <dc:creator>Fernando, Ito</dc:creator>
+  <dc:creator>Widjayanti, Tita</dc:creator>
+  <dc:creator>Maulidi, Agrintya Kurnia</dc:creator>
+  <dc:creator>Radifan, Hirzi Ilman</dc:creator>
+  <dc:creator>Setiawan, Yogo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-04-30</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>Java</dc:subject>
+  <dc:subject>Spodoptera litura</dc:subject>
+  <dc:subject>Spodoptera frugiperda</dc:subject>
+  <dc:subject>Indonesia</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Abstract
+                Background
+                The fall armyworm, Spodoptera frugiperda (J. E. Smith) (Lepidoptera: Noctuidae), is an invasive alien species in Indonesia. This study aimed to assess the impact of its invasion in Indonesia by measuring the damaged area caused by the pest in maize fields located across East Java and simultaneously determine whether S. frugiperda outcompetes the native Asian armyworm Spodoptera litura (Fabricius). Secondly, the virulence of 14 entomopathogenic fungus (EPF) isolates against S. frugiperda larvae was evaluated in an effort to find effective biocontrol agent candidates.
+              
+                Results
+                The damaged area caused by S. frugiperda was generally higher than that caused by S. litura during the survey period from August 2019 to December 2021. It indicated that S. frugiperda may have dominated the native armyworm and become the primary key pest of maize in Indonesia. Based on a single-concentration assay (106conidiaml1), the tested EPF isolates displayed varying degrees of virulence against S. frugiperda larvae, causing larval mortality of 3.5 to 71% at 10-day post-treatment, with the highest mortality rates provided by Beauveria bassiana sensu lato and Trichoderma asperellum sensu lato. At a concentration of 108 conidia ml1, B. bassiana s.l. and T. asperellum s.l. elicited high larval mortality of 76 and 81%, respectively, at 10-day post-treatment. Nevertheless, the probit analysis based on a concentration–response assay revealed that T. asperellum s.l. had lower LC50 and LC90 values than B. bassiana s.l.
+              
+                Conclusions
+                The attack and invasion of S. frugiperda seem to be a continual threat to the maize agro-ecosystem in Indonesia. As a consequence, Indonesia should mitigate and be well-prepared for future outbreaks of S. frugiperda. Indigenous EPF isolates used in this study may act as promising biocontrol agents of S. frugiperda, especially T. asperellum s.l. This study also serves as the first report documenting the direct lethality of Trichoderma fungus on S. frugiperda larvae.
+
+              </dc:description>
+</oai_dc:dc>

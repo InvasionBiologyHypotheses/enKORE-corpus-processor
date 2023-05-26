@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36160327</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36160327</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5058334</dc:identifier>
+  <dc:identifier>doi:10.1038/SDATA.2016.91</dc:identifier>
+  <dc:title>Iberian fish records in the vertebrate collection of the Museum of Zoology of the University of Navarra</dc:title>
+  <dc:creator>Rodeles, Amaia A</dc:creator>
+  <dc:creator>Galicia, David</dc:creator>
+  <dc:creator>Miranda, Rafael</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-10-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>zoology</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe study of freshwater fish species biodiversity and community composition is essential for understanding river systems, the effects of human activities on rivers, and the changes these animals face. Conducting this type of research requires quantitative information on fish abundance, ideally with long-term series and fish body measurements. This Data Descriptor presents a collection of 12 datasets containing a total of 146,342 occurrence records of 41 freshwater fish species sampled in 233 localities of various Iberian river basins. The datasets also contain 148,749 measurement records (length and weight) for these fish. Data were collected in different sampling campaigns (from 1992 to 2015). Eleven datasets represent large projects conducted over several years, and another combines small sampling campaigns. The Iberian Peninsula contains high fish biodiversity, with numerous endemic species threatened by various menaces, such as water extraction and invasive species. These data may support the development of large biodiversity conservation studies.</dc:description>
+</oai_dc:dc>

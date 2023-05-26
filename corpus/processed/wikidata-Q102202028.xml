@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q102202028</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q102202028</dc:identifier>
+  <dc:identifier>doi:10.1093/GBE/EVAA190</dc:identifier>
+  <dc:title>Reconstructing the Invasion Route of the P-Element in Drosophila melanogaster Using Extant Population Samples</dc:title>
+  <dc:creator>Weilguny, Lukas</dc:creator>
+  <dc:creator>Vlachos, Christos</dc:creator>
+  <dc:creator>Selvaraju, Divya</dc:creator>
+  <dc:creator>Kofler, Robert</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-11-01</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>Drosophila melanogaster</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>AbstractThe P-element, one of the best understood eukaryotic transposable elements, spread in natural Drosophila melanogaster populations in the last century. It invaded American populations first and later spread to the Old World. Inferring this invasion route was made possible by a unique resource available in D.melanogaster: Many strains sampled from different locations over the course of the last century. Here, we test the hypothesis that the invasion route of the P-element may be reconstructed from extant population samples using internal deletions (IDs) as markers. These IDs arise at a high rate when DNA transposons, such as the P-element, are active. We suggest that inferring invasion routes is possible as: 1) the fraction of IDs increases in successively invaded populations, which also explains the striking differences in the ID content between American and European populations, and 2) successively invaded populations end up with similar sets of IDs. This approach allowed us to reconstruct the invasion route of the P-element with reasonable accuracy. Our approach also sheds light on the unknown timing of the invasion in African populations: We suggest that African populations were invaded after American but before European populations. Simulations of TE invasions in spatially distributed populations confirm that IDs may allow us to infer invasion routes. Our approach might be applicable to other DNA transposons in different host species.</dc:description>
+</oai_dc:dc>

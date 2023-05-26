@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q50846953</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q50846953</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.14.3435</dc:identifier>
+  <dc:title>Support for major hypotheses in invasion biology is uneven and declining</dc:title>
+  <dc:creator>Jeschke, Jonathan</dc:creator>
+  <dc:creator>Aparicio, Lorena Gómez</dc:creator>
+  <dc:creator>Haider, Sylvia</dc:creator>
+  <dc:creator>Heger, Tina</dc:creator>
+  <dc:creator>Lortie, Christopher</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Strayer, David</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-08-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>novel weapons hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q109996900</dc:subject>
+  <dc:subject>hypothesis:novel weapons hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q109996900</dc:subject>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>biotic resistance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>hypothesis</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+</oai_dc:dc>

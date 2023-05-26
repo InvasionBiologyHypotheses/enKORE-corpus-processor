@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28485254</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28485254</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553121</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0054393</dc:identifier>
+  <dc:title>Proteomic biomarkers associated with Streptococcus agalactiae invasive genogroups</dc:title>
+  <dc:creator>Lanotte, Philippe</dc:creator>
+  <dc:creator>Perivier, Marylise</dc:creator>
+  <dc:creator>Haguenoer, Eve</dc:creator>
+  <dc:creator>Mereghetti, Laurent</dc:creator>
+  <dc:creator>Burucoa, Christophe</dc:creator>
+  <dc:creator>Atanassov, Christo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biomarker</dc:subject>
+  <dc:subject>Streptococcus agalactiae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Group B streptococcus (GBS, Streptococcus agalactiae) is a leading cause of meningitis and sepsis in newborns and an etiological agent of meningitis, endocarditis, osteoarticular and soft tissue infections in adults. GBS isolates are routinely clustered in serotypes and in genotypes. At present one GBS sequence type (i.e. ST17) is considered to be closely associated with bacterial invasiveness and novel proteomic biomarkers could make a valuable contribution to currently available GBS typing data. For that purpose we analyzed the protein profiles of 170 genotyped GBS isolates by Surface-Enhanced Laser Desorption/Ionization Time-of-Flight Mass Spectrometry (SELDI). Univariate statistical analysis of the SELDI profiles identified four protein biomarkers significantly discriminating ST17 isolates from those of the other sequence types. Two of these biomarkers (MW of 7878 Da and 12200 Da) were overexpressed and the other two (MW of 6258 Da and 10463 Da) were underexpressed in ST17. The four proteins were isolated by mass spectrometry-assisted purification and their tryptic peptides analyzed by LC-MS/MS. They were thereby identified as the small subunit of exodeoxyribonuclease VII, the 50S ribosomal protein L7/L12, a CsbD-like protein and thioredoxin, respectively. In conclusion, we identified four candidate biomarkers of ST17 by SELDI for high-throughput screening. These markers may serve as a basis for further studies on the pathophysiology of GBS infection, and for the development of novel vaccines.</dc:description>
+</oai_dc:dc>

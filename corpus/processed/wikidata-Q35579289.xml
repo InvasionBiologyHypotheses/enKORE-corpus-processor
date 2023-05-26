@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35579289</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35579289</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364119</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0120732</dc:identifier>
+  <dc:title>Using Massive Parallel Sequencing for the development, validation, and application of population genetics markers in the invasive bivalve zebra mussel (Dreissena polymorpha).</dc:title>
+  <dc:creator>Peñarrubia, Luis</dc:creator>
+  <dc:creator>Sanz, Nuria</dc:creator>
+  <dc:creator>Pla, Carles</dc:creator>
+  <dc:creator>Vidal, Oriol</dc:creator>
+  <dc:creator>Viñas, Jordi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-03-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>zebra mussel</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The zebra mussel (Dreissena polymorpha, Pallas, 1771) is one of the most invasive species of freshwater bivalves, due to a combination of biological and anthropogenic factors. Once this species has been introduced to a new area, individuals form dense aggregations that are very difficult to remove, leading to many adverse socioeconomic and ecological consequences. In this study, we identified, tested, and validated a new set of polymorphic microsatellite loci (also known as SSRs, Single Sequence Repeats) using a Massive Parallel Sequencing (MPS) platform. After several pruning steps, 93 SSRs could potentially be amplified. Out of these SSRs, 14 were polymorphic, producing a polymorphic yield of 15.05%. These 14 polymorphic microsatellites were fully validated in a first approximation of the genetic population structure of D. polymorpha in the Iberian Peninsula. Based on this polymorphic yield, we propose a criterion for establishing the number of SSRs that require validation in similar species, depending on the final use of the markers. These results could be used to optimize MPS approaches in the development of microsatellites as genetic markers, which would reduce the cost of this process.</dc:description>
+</oai_dc:dc>
