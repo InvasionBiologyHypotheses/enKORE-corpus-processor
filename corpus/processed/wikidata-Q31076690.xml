@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31076690</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31076690</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3400595</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0041310</dc:identifier>
+  <dc:title>AFLP genome scan to detect genetic structure and candidate loci under selection for local adaptation of the invasive weed Mikania micrantha</dc:title>
+  <dc:creator>Wang, Ting</dc:creator>
+  <dc:creator>Chen, Guopei</dc:creator>
+  <dc:creator>Zan, Qijie</dc:creator>
+  <dc:creator>Wang, Chunbo</dc:creator>
+  <dc:creator>Su, Ying-juan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-07-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:subject>Mikania micrantha</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Why some species become successful invaders is an important issue in invasive biology. However, limited genomic resources make it very difficult for identifying candidate genes involved in invasiveness. Mikania micrantha H.B.K. (Asteraceae), one of the world's most invasive weeds, has adapted rapidly in response to novel environments since its introduction to southern China. In its genome, we expect to find outlier loci under selection for local adaptation, critical to dissecting the molecular mechanisms of invasiveness. An explorative amplified fragment length polymorphism (AFLP) genome scan was used to detect candidate loci under selection in 28 M. micrantha populations across its entire introduced range in southern China. We also estimated population genetic parameters, bottleneck signatures, and linkage disequilibrium. In binary characters, such as presence or absence of AFLP bands, if all four character combinations are present, it is referred to as a character incompatibility. Since character incompatibility is deemed to be rare in populations with extensive asexual reproduction, a character incompatibility analysis was also performed in order to infer the predominant mating system in the introduced M. micrantha populations. Out of 483 AFLP loci examined using stringent significance criteria, 14 highly credible outlier loci were identified by Dfdist and Bayescan. Moreover, remarkable genetic variation, multiple introductions, substantial bottlenecks and character compatibility were found to occur in M. micrantha. Thus local adaptation at the genome level indeed exists in M. micrantha, and may represent a major evolutionary mechanism of successful invasion. Interactions between genetic diversity, multiple introductions, and reproductive modes contribute to increase the capacity of adaptive evolution.</dc:description>
+</oai_dc:dc>

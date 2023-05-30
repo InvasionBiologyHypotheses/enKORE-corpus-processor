@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111327685</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111327685</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS10071473</dc:identifier>
+  <dc:title>Metabolomics Reveals the Allelopathic Potential of the Invasive Plant &lt;i&gt;Eupatorium adenophorum&lt;/i&gt;</dc:title>
+  <dc:creator>Zhu, Xunzhi</dc:creator>
+  <dc:creator>Yi, Yangmin</dc:creator>
+  <dc:creator>Huang, Ling</dc:creator>
+  <dc:creator>Zhang, Chi</dc:creator>
+  <dc:creator>Shao, Hua</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-07-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>allelopathy</dc:subject>
+  <dc:subject>Eupatorium adenophorum</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Phytotoxic chemicals produced by alien invasive plants exert inhibitory effects on native species to facilitate their invasiveness. The allelopathic process of invaders has been hypothesized as the “Novel Weapon Hypothesis”. However, this hypothesis has been controversial for decades due to lack of molecular evidence, and the underlying mechanism of allelopathy still remains ambiguous. Herein, we explore the allelopathic mechanisms of Eupatorium adenophorum, a world-widely spread noxious weed, by the methods of laboratory bioassay and metabolomics analyses in the recipient plant, Arabidopsis thaliana. The bioassay revealed significant phytotoxicity of E. adenophorum extracts. A total of 234 metabolites in A. thaliana were detected by Gas ChromatographicMass Spectrometric analysis. There were 48, 99 and 94 impacted metabolites in A. thaliana treated by 50, 25 and 12.5% aqueous extracts compared to control. When mapping all the impacted metabolites to the biological pathways in the KEGG (Kyoto Encyclopedia of Genes and Genomes) database, we found mineral absorption, ABC transporters, amino acid biosynthesis, metabolic pathways and biosynthesis of plant secondary metabolites were mainly impacted. Synthesized with partial least-squares discriminate analysis (PLS-DA) results of metabolic profiles in A. thaliana, we found that citrate cycle was suppressed, metabolism of amino acids was disordered and phosphate absorption was inhibited. Subsequent investigation demonstrated that the phosphorus content in A. thaliana tissues exposed in allelopathic extracts was much lower, indicating inhibition of phosphate uptake. Our study revealed by metabolomics approaches that E. adenophorum is an allelopathic species.</dc:description>
+</oai_dc:dc>

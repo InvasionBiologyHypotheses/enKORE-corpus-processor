@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114575095</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114575095</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.76.84268</dc:identifier>
+  <dc:title>Development and application of a multilingual electronic decision-support tool for risk screening non-native terrestrial animals under current and future climate conditions</dc:title>
+  <dc:creator>Vilizzi, Lorenzo</dc:creator>
+  <dc:creator>Piria, Marina</dc:creator>
+  <dc:creator>Pietraszewski, Dariusz</dc:creator>
+  <dc:creator>Kopecký, Oldřich</dc:creator>
+  <dc:creator>Špelić, Ivan</dc:creator>
+  <dc:creator>Radočaj, Tena</dc:creator>
+  <dc:creator>Šprem, Nikica</dc:creator>
+  <dc:creator>Ta, Kieu Anh T.</dc:creator>
+  <dc:creator>Tarkan, Ali Serhan</dc:creator>
+  <dc:creator>Weiperth, András</dc:creator>
+  <dc:creator>Yoğurtçuoğlu, Baran</dc:creator>
+  <dc:creator>Candan, Onur</dc:creator>
+  <dc:creator>Herczeg, Gábor</dc:creator>
+  <dc:creator>Killi, Nurçin</dc:creator>
+  <dc:creator>Lemic, Darija</dc:creator>
+  <dc:creator>Szajbert, Bettina</dc:creator>
+  <dc:creator>Almeida, David</dc:creator>
+  <dc:creator>Al-Wazzan, Zainab</dc:creator>
+  <dc:creator>Atique, Usman</dc:creator>
+  <dc:creator>Bakiu, Rigers</dc:creator>
+  <dc:creator>Chaichana, Ratcha</dc:creator>
+  <dc:creator>Dashinov, Dimitriy</dc:creator>
+  <dc:creator>Ferincz, Árpad</dc:creator>
+  <dc:creator>Flieller, Guillaume</dc:creator>
+  <dc:creator>Gilles, Allan S.</dc:creator>
+  <dc:creator>Goulletquer, Philippe</dc:creator>
+  <dc:creator>Interesova, Elena A</dc:creator>
+  <dc:creator>Iqbal, S</dc:creator>
+  <dc:creator>Koyama, Akihiko</dc:creator>
+  <dc:creator>Kristan, Petra</dc:creator>
+  <dc:creator>Li, Shan</dc:creator>
+  <dc:creator>Lukas, Juliane</dc:creator>
+  <dc:creator>Moghaddas, Seyed Daryoush</dc:creator>
+  <dc:creator>Monteiro, João G.</dc:creator>
+  <dc:creator>Mumladze, Levan</dc:creator>
+  <dc:creator>Olsson, Karin H</dc:creator>
+  <dc:creator>Paganelli, Daniele</dc:creator>
+  <dc:creator>Perdikaris, Costas</dc:creator>
+  <dc:creator>Pickholtz, Renanel</dc:creator>
+  <dc:creator>Preda, Cristina</dc:creator>
+  <dc:creator>Ristovska, Milica</dc:creator>
+  <dc:creator>Švolíková, Kristína Slovák</dc:creator>
+  <dc:creator>Števove, Barbora</dc:creator>
+  <dc:creator>Uzunova, Eliza</dc:creator>
+  <dc:creator>Vardakas, Leonidas</dc:creator>
+  <dc:creator>Verreycken, Hugo</dc:creator>
+  <dc:creator>Wei, Hui</dc:creator>
+  <dc:creator>Zięba, Grzegorz</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-10-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>ecological modeling</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Electronic decision-support tools are becoming an essential component of government strategies to tackle non-native species invasions. This study describes the development and application of a multilingual electronic decision-support tool for screening terrestrial animals under current and future climate conditions: the Terrestrial Animal Species Invasiveness Screening Kit (TAS-ISK). As an adaptation of the widely employed Aquatic Species Invasiveness Screening Kit (AS-ISK), the TAS-ISK question template inherits from the original Weed Risk Assessment (WRA) and related WRA-type toolkits and complies with the ‘minimum requirements’ for use with the recent European Regulation on invasive alien species of concern. The TAS-ISK consists of 49 basic questions on the species’ biogeographical/historical traits and its biological/ecological interactions, and of 6 additional questions to predict how climate change is likely to influence the risks of introduction, establishment, dispersal and impact of the screened species. Following a description of the main features of this decision-support tool as a turnkey software application and of its graphical user interface with support for 32 languages, sample screenings are provided in different risk assessment areas for one representative species of each of the main taxonomic groups of terrestrial animals supported by the toolkit: mammals, birds, reptiles, amphibians, annelids, insects, molluscs, nematodes, and platyhelminths. The highest-scoring species were the red earthworm Lumbricus rubellus for the Aegean region of Turkey and the New Zealand flatworm Arthurdendyus triangulatus for Croatia. It is anticipated that adoption of this toolkit will mirror that of the worldwide employed AS-ISK, hence allowing to share information and inform decisions for the prevention of entry and/or dispersal of (high-risk) non-native terrestrial animal species – a crucial step to implement early-stage control and eradication measures as part of rapid-response strategies to counteract biological invasions.</dc:description>
+</oai_dc:dc>

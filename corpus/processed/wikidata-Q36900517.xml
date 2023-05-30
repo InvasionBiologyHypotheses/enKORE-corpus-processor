@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36900517</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36900517</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671792</dc:identifier>
+  <dc:identifier>doi:10.1042/BJ20121694</dc:identifier>
+  <dc:title>Specific phosphorylation of the PfRh2b invasion ligand of Plasmodium falciparum</dc:title>
+  <dc:creator>Engelberg, Klemens</dc:creator>
+  <dc:creator>Paul, Aditya S</dc:creator>
+  <dc:creator>Prinz, Boris</dc:creator>
+  <dc:creator>Kono, Maya</dc:creator>
+  <dc:creator>Ching, Wilhelm</dc:creator>
+  <dc:creator>Heincke, Dorothee</dc:creator>
+  <dc:creator>Dobner, Thomas</dc:creator>
+  <dc:creator>Spielmann, Tobias</dc:creator>
+  <dc:creator>Duraisingh, Manoj T</dc:creator>
+  <dc:creator>Gilberger, Tim-Wolf</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-06-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>phosphorylation</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Portland Press Ltd.</dc:publisher>
+  <dc:description>Red blood cell invasion by the malaria parasite Plasmodium falciparum relies on a complex protein network that uses low and high affinity receptor–ligand interactions. Signal transduction through the action of specific kinases is a control mechanism for the orchestration of this process. In the present study we report on the phosphorylation of the CPD (cytoplasmic domain) of P. falciparum Rh2b (reticulocyte homologue protein 2b). First, we identified Ser3233 as the sole phospho-acceptor site in the CPD for invitro phosphorylation by parasite extract. We provide several lines of evidence that this phosphorylation is mediated by PfCK2 (P. falciparum casein kinase 2): phosphorylation is cAMP independent, utilizes ATP as well as GTP as phosphate donors, is inhibited by heparin and tetrabromocinnamic acid, and is mediated by purified PfCK2. We raised a phospho-specific antibody and showed that Ser3233 phosphorylation occurs in the parasite prior to host cell egress. We analysed the spatiotemporal aspects of this phosphorylation using immunoprecipitated endogenous Rh2b and minigenes expressing the CPD either at the plasma or rhoptry membrane. Phosphorylation of Rh2b is not spatially restricted to either the plasma or rhoptry membrane and most probably occurs before Rh2b is translocated from the rhoptry neck to the plasma membrane.</dc:description>
+</oai_dc:dc>

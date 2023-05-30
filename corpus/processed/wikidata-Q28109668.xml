@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28109668</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28109668</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0165682</dc:identifier>
+  <dc:title>Exploring the Distribution of the Spreading Lethal Salamander Chytrid Fungus in Its Invasive Range in Europe - A Macroecological Approach</dc:title>
+  <dc:creator>Feldmeier, Stephan</dc:creator>
+  <dc:creator>Schefczyk, Lukas</dc:creator>
+  <dc:creator>Wagner, Norman</dc:creator>
+  <dc:creator>Heinemann, Günther</dc:creator>
+  <dc:creator>Veith, Michael</dc:creator>
+  <dc:creator>Lötters, Stefan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>macroecology</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The chytrid fungus Batrachochytrium salamandrivorans (Bsal) is a dangerous pathogen to salamanders and newts. Apparently native to Asia, it has recently been detected in Western Europe where it is expected to spread and to have dramatic effects on naïve hosts. Since 2010, Bsal has led to some catastrophic population declines of urodeles in the Netherlands and Belgium. More recently, it has been discovered in additional, more distant sites including sites in Germany. With the purpose to contribute to a better understanding of Bsal, we modelled its potential distribution in its invasive European range to gain insights about the factors driving this distribution. We computed Bsal Maxent models for two predictor sets, which represent different temporal resolutions, using three different background extents to account for different invasion stage scenarios. Beside 'classical' bioclimate, we employed weather data, which allowed us to emphasize predictors in accordance with the known pathogen's biology. The most important predictors as well as spatial predictions varied between invasion scenarios and predictor sets. The most reasonable model was based on weather data and the scenario of a recent pathogen introduction. It identified temperature predictors, which represent optimal growing conditions and heat limiting conditions, as the most explaining drivers of the current distribution. This model also predicted large areas in the study region as suitable for Bsal. The other models predicted considerably less, but shared some areas which we interpreted as most likely high risk zones. Our results indicate that growth relevant temperatures measured under laboratory conditions might also be relevant on a macroecological scale, if predictors with a high temporal resolution and relevance are used. Additionally, the conditions in our study area support the possibility of a further Bsal spread, especially when considering that our models might tend to underestimate the potential distribution of Bsal.</dc:description>
+</oai_dc:dc>

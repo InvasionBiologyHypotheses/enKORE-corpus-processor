@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33876022</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33876022</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5498679</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-05025-5</dc:identifier>
+  <dc:title>Host age and expression of genes involved in red blood cell invasion in Plasmodium falciparum field isolates</dc:title>
+  <dc:creator>Valmaseda, Aida</dc:creator>
+  <dc:creator>Bassat, Quique</dc:creator>
+  <dc:creator>Aide, Pedro</dc:creator>
+  <dc:creator>Cisteró, Pau</dc:creator>
+  <dc:creator>Jiménez, Alfons</dc:creator>
+  <dc:creator>Casellas, Aina</dc:creator>
+  <dc:creator>Machevo, Sonia</dc:creator>
+  <dc:creator>Aguilar, Ruth</dc:creator>
+  <dc:creator>Sigaúque, Betuel</dc:creator>
+  <dc:creator>Chauhan, Virander S</dc:creator>
+  <dc:creator>Langer, Christine</dc:creator>
+  <dc:creator>Beeson, James</dc:creator>
+  <dc:creator>Chitnis, Chetan</dc:creator>
+  <dc:creator>Alonso, Pedro L</dc:creator>
+  <dc:creator>Gaur, Deepak</dc:creator>
+  <dc:creator>Mayor, Alfredo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractPlasmodium falciparum proteins involved in erythrocyte invasion are main targets of acquired immunity and important vaccine candidates. We hypothesized that anti-parasite immunity acquired upon exposure would limit invasion-related gene (IRG) expression and affect the clinical impact of the infection. 11 IRG transcript levels were measured in P. falciparum isolates by RT-PCR, and IgG/IgM against invasion ligands by Luminex®, in 50 Mozambican adults, 25 children with severe malaria (SM) and 25 with uncomplicated malaria (UM). IRG expression differences among groups and associations between IRG expression and clinical/immunologic parameters were assessed. IRG expression diversity was higher in parasites infecting children than adults (p=0.022). eba140 and ptramp expression decreased with age (p=0.003 and 0.007, respectively) whereas p41 expression increased (p=0.022). pfrh5 reduction in expression was abrupt early in life. Parasite density decreased with increasing pfrh5 expression (p&lt;0.001) and, only in children, parasite density increased with p41 expression (p=0.007), and decreased with eba175 (p=0.013). Antibody responses and IRG expression were not associated. In conclusion, IRG expression is associated with age and parasite density, but not with specific antibody responses in the acute phase of infection. Our results confirm the importance of multi-antigen vaccines development to avoid parasite immune escape when tested in malaria-exposed individuals.</dc:description>
+</oai_dc:dc>
