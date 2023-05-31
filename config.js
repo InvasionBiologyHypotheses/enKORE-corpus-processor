@@ -32,7 +32,7 @@ export const settings = {
   processing: {
 
     initialOffset: 0, // ##### Note: Initial offset to start extraction process
-    processingDelay: 100, // ##### Note: resting time between batches (in milliseconds)
+    processingDelay: 50, // ##### Note: resting time between batches (in milliseconds)
     batchSize: 1, // ##### Note: quantity of consecutive wikidataItem-URL-extraction without resting
 
   },
