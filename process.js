@@ -548,6 +548,17 @@ async function XMLvalidation_All() {
 
           }
 
+          // #########################
+          // ##### Save DOI list #####
+          // #########################
+          // ##### Note: Saving DOI list to Log to be further used for NLP processing
+          if (j > 1 && content_string2_j.includes("<dc:identifier>") && content_string2_j.includes("doi:") ) {
+    
+            let doi_string = content_string2_j.replace("<dc:identifier>", "").replace("doi:", "https://doi.org/").replace("</dc:identifier>", "").replaceAll(" ", ""); 
+            function_log('./logs/','Log_DOI_list.txt',`${doi_string}`);       
+
+          }
+
         }
 
         // ###########################
@@ -1040,20 +1051,21 @@ async function updateEndpoint() {
 async function main() {
 
   dl.debug(`Log(main): entering main() at Date-UTC: ${await function_DateNow()}`);
-  // ##### Note: Passing datestamp to logs
+  // ##### Note: Passing datestamp to logs during process start
   function_log('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_entries.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_entries.txt',`Process started at date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_XMLvalidation.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_XMLvalidation.txt',`Process started at date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_emptied_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_emptied_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_empty_files.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_empty_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_total_files.txt',`Date-UTC: ${await function_DateNow()}`);
-  
+  function_log('./logs/','Log_total_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
   function_log('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_invalid_characters.txt',`Date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_invalid_characters.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_DOI_list.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log('./logs/','Log_DOI_list.txt',`Process started at date-UTC: ${await function_DateNow()}`);
 
   dl.debug("Log(main): starting main()");
 
@@ -1130,6 +1142,15 @@ async function main() {
   // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
   dl.debug(`Log(main): processor finished at ${endTime}`);
   dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
+
+  // ##### Note: Passing datestamp to logs when complete
+  function_log('./logs/','Log_entries.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_XMLvalidation.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_emptied_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_empty_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_total_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_invalid_characters.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log('./logs/','Log_DOI_list.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
 
   dl.debug("Log(main): Main() is now finished! #####");
 
