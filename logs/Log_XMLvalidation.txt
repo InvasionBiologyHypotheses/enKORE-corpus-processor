@@ -1,10 +1,172 @@
 
 = = = = = = = = = = = = = = = = = = = =
-Process started at date-UTC: 2023-05-31T14:39:44.594Z
+Process started at date-UTC: 2023-06-02T10:33:57.651Z
  ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
  ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
  ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
  ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
  ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
  ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
-Process complete at date-UTC: 2023-05-31T14:39:54.076Z
+Process complete at date-UTC: 2023-06-02T10:34:07.292Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:23:20.607Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:23:29.769Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:30:48.079Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:30:56.970Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:35:49.942Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:35:59.085Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:40:35.754Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:40:45.812Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:43:48.799Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:43:57.896Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:47:28.505Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:47:37.560Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:49:17.192Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:49:26.313Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:50:01.786Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:50:11.593Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:52:41.403Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:52:50.290Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:54:12.596Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:54:21.380Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T07:55:20.859Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T07:55:29.464Z
+Process started at date-UTC: 2023-06-03T08:09:30.681Z
+= = = = = = = = = = = = = = = = = = = =
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:09:39.461Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T08:15:41.779Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:15:50.566Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T08:16:18.892Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:16:28.159Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T08:16:52.590Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:17:02.041Z
+Process started at date-UTC: 2023-06-03T08:24:15.930Z
+= = = = = = = = = = = = = = = = = = = =
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:24:34.231Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T08:29:59.373Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:30:08.610Z
+= = = = = = = = = = = = = = = = = = = =
+Process started at date-UTC: 2023-06-03T08:31:46.522Z
+ ./corpus/processed/wikidata-Q94479661.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q49027734.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q111153859.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q56767767.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q114729435.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+ ./corpus/processed/wikidata-Q33482830.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1 [Note: passed:1; failed:0]
+Process complete at date-UTC: 2023-06-03T08:31:57.204Z

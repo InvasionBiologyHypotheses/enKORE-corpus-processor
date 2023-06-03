@@ -42,7 +42,8 @@ import "@enkore/citationjs-plugin"; // #####
 import { function_DateNow } from "./lib/DateNow.js";
 
 // ##### Note: function to log in different files when needed
-import { function_log } from "./lib/log.js";
+import { function_log_new } from "./lib/log.js";
+import { function_log_append } from "./lib/log.js";
 
 // ##### Note: xmlexporter is imported to save contents to file(XML)
 import { generateXML } from "./lib/xmlexporter.js"; // ##### Note: get needed information and scripts from (xmlexporter.js)
@@ -200,7 +201,7 @@ async function processArgs(args) {
 // ##### Function to log (START) #####
 // ###################################
 // ##### Note: To write logs in independent files
-// async function function_log(dir,filename,c) {
+// async function function_log_append(dir,filename,c) {
 // }
 // #################################
 // ##### Function to log (END) #####
@@ -216,14 +217,14 @@ async function fetchURLEntries(url) {
 
   if (!url) {
 
-    function_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
+    function_log_append('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
     dl.error(`Log(fetchURLEntries): No url: ${url}. Exiting...`);  // ##### Note: ERROR-FETCH
     Deno.exit(1);
     return;
 
   }
   
-  function_log('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
+  function_log_append('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
   const entries = await readJSONFromURL(url); // ##### Note:  (await) To be used with asynchronous function
   dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
@@ -271,7 +272,7 @@ async function fetchFileEntries(file) {
 
   //let total_entries  = String(entries.length); // ##### Note: Total is not passing, but can be included in the string below.
  
-  function_log('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
+  function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
   dl.debug(`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`);
 
   return entries;
@@ -347,7 +348,7 @@ async function checkWikidataItem(items) {
 
       } else {
 
-        function_log('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
+        function_log_append('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
         dl.debug(`Log(checkWikidataItem): Emptying file: ${files_list_i}`);
 
       }
@@ -555,7 +556,7 @@ async function XMLvalidation_All() {
           if (j > 1 && content_string2_j.includes("<dc:identifier>") && content_string2_j.includes("doi:") ) {
     
             let doi_string = content_string2_j.replace("<dc:identifier>", "").replace("doi:", "https://doi.org/").replace("</dc:identifier>", "").replaceAll(" ", ""); 
-            function_log('./logs/','Log_DOI_list.txt',`${doi_string}`);       
+            function_log_append('./logs/','Log_DOI_list.txt',`${doi_string}`);       
 
           }
 
@@ -568,7 +569,7 @@ async function XMLvalidation_All() {
         
         dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
-        function_log('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
+        function_log_append('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
 
         let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
@@ -985,7 +986,7 @@ async function compute_content_empty_files() {
     if (item1.size == item2.size) { // ##### Note: Size must match size of the template
 
       total_empty++;
-      function_log('./logs/','Log_empty_files.txt',`Log(compute_content_empty_files): Empty file: ${files_list_i}`); // ##### Note: Write down name of all empty files
+      function_log_append('./logs/','Log_empty_files.txt',`Log(compute_content_empty_files): Empty file: ${files_list_i}`); // ##### Note: Write down name of all empty files
 
     } else {
 
@@ -997,7 +998,7 @@ async function compute_content_empty_files() {
 
   let total_content_empty = total_content + total_empty;
   
-  function_log('./logs/','Log_total_files.txt',`Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`); 
+  function_log_append('./logs/','Log_total_files.txt',`Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`); 
   dl.debug(`Log(compute_content_empty_files): Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`);
 
   return "COMPLETE"
@@ -1052,20 +1053,20 @@ async function main() {
 
   dl.debug(`Log(main): entering main() at Date-UTC: ${await function_DateNow()}`);
   // ##### Note: Passing datestamp to logs during process start
-  function_log('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_entries.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_XMLvalidation.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_emptied_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_empty_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_total_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_invalid_characters.txt',`Process started at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_DOI_list.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log('./logs/','Log_DOI_list.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_entries.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_XMLvalidation.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_emptied_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_empty_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_total_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_invalid_characters.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_DOI_list.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_DOI_list.txt',`Process started at date-UTC: ${await function_DateNow()}`);
 
   dl.debug("Log(main): starting main()");
 
@@ -1144,13 +1145,55 @@ async function main() {
   dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
 
   // ##### Note: Passing datestamp to logs when complete
-  function_log('./logs/','Log_entries.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_XMLvalidation.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_emptied_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_empty_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_total_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_invalid_characters.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log('./logs/','Log_DOI_list.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_entries.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_XMLvalidation.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_emptied_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_empty_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_total_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_invalid_characters.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_DOI_list.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
+
+
+  // ##### Note: Creating report.html at directory logs
+  const content = `
+  <!DOCTYPE html>
+  <head>
+  <title>enKORE report</title>
+  </head>
+  <style>
+  body {background-color: powderblue;}
+  h1 {color: red;}
+  p {color: blue;}
+  </style>
+  <body>
+  <h1>enKORE report</h1>
+  <p>
+  Process at date-UTC: ${await function_DateNow()}<br>
+  Line-2<br>
+  Line-3
+  </p>
+  </body>
+  </html>
+  `;
+
+  function_log_new('./logs/','report.html',content);
+
+  // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
+  const fs = require('fs');
+  try {
+
+    fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
+    dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
+ 
+  }
+  catch(err) {
+
+    dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
+
+  }
+  finally {
+    // ##### Note: n/a
+  }
 
   dl.debug("Log(main): Main() is now finished! #####");
 
