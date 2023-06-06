@@ -2,6 +2,12 @@
 # Note: All files provide a timestamp in which process was performed (in UTC)
 # Timestamp example: Date-UTC: 2023-05-13T14:31:50.285Z
 
+## File: report.html
+### Description: Contains a brief information about latest processing
+
+## File: Log_DOI_list.txt
+### Description: Contains list of DOI for futher text extraction and NLP processing
+
 ## File: Log_entries.txt
 ### Description: Contains the SPARQL query applied.
 
