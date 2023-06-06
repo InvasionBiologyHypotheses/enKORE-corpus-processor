@@ -18,4 +18,5 @@
   <dc:subject>invasive weed</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
   <dc:description>This paper introduces an expanded version of the Invasive Weed Optimization algorithm (exIWO) distinguished by the hybrid strategy of the search space exploration proposed by the authors. The algorithm is evaluated by solving three well-known optimization problems: minimization of numerical functions, feature selection, and the Mona Lisa TSP Challenge as one of the instances of the traveling salesman problem. The achieved results are compared with analogous outcomes produced by other optimization methods reported in the literature.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

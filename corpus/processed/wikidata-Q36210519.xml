@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q36210519</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q36210519</dc:identifier>
   <dc:identifier>doi:10.1002/EAP.1378</dc:identifier>
-  <dc:title>Residential yards as designer ecosystems: effects of yardmanagement on land snail species composition</dc:title>
+  <dc:title>Residential yards as designer ecosystems: effects of yard_management on land snail species composition</dc:title>
   <dc:creator>Bergey, Elizabeth A</dc:creator>
   <dc:creator>Figueroa, Laura L</dc:creator>
   <dc:type>journal article</dc:type>
@@ -14,4 +14,5 @@
   <dc:subject>ecosystem</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

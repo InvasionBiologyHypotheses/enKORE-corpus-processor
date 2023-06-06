@@ -10,6 +10,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2005-04-22</dc:date>
   <dc:language>en</dc:language>
+  <dc:subject>tens rule</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193431</dc:subject>
+  <dc:subject>hypothesis:tens rule</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193431</dc:subject>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
@@ -22,4 +26,5 @@
   <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

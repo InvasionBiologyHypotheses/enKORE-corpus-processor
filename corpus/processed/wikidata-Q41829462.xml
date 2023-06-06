@@ -16,4 +16,5 @@
   <dc:subject>invasive weed</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
   <dc:description>This paper proposes designing of Static Synchronous Series Compensator (SSSC) based damping controller to enhance the stability of a Single Machine Infinite Bus (SMIB) system by means of Invasive Weed Optimization (IWO) technique. Conventional PI controller is used as the SSSC damping controller which takes rotor speed deviation as the input. The damping controller parameters are tuned based on time integral of absolute error based cost function using IWO. Performance of IWO based controller is compared to that of Particle Swarm Optimization (PSO) based controller. Time domain based simulation results are presented and performance of the controllers under different loading conditions and fault scenarios is studied in order to illustrate the effectiveness of the IWO based design approach.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

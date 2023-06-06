@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q96308620</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q96308620</dc:identifier>
+  <dc:identifier>doi:10.2807/1560-7917.ES.2020.25.22.2000746</dc:identifier>
+  <dc:title>Genetic structure of SARS-CoV-2 reflects clonal superspreading and multiple independent introduction events, North-Rhine Westphalia, Germany, February and March 2020</dc:title>
+  <dc:creator>Walker, Andreas</dc:creator>
+  <dc:creator>Houwaart, Torsten</dc:creator>
+  <dc:creator>Wienemann, Tobias</dc:creator>
+  <dc:creator>Vasconcelos, Malte Kohns</dc:creator>
+  <dc:creator>Strelow, Daniel</dc:creator>
+  <dc:creator>Senff, Tina</dc:creator>
+  <dc:creator>Hülse, Lisanna</dc:creator>
+  <dc:creator>Adams, Ortwin</dc:creator>
+  <dc:creator>Andree, Marcel</dc:creator>
+  <dc:creator>Hauka, Sandra</dc:creator>
+  <dc:creator>Feldt, Torsten</dc:creator>
+  <dc:creator>Jensen, Björn-Erik</dc:creator>
+  <dc:creator>Keitel, Verena</dc:creator>
+  <dc:creator>Kindgen-Milles, Detlef</dc:creator>
+  <dc:creator>Timm, Jörg</dc:creator>
+  <dc:creator>Pfeffer, Klaus</dc:creator>
+  <dc:creator>Dilthey, Alexander T</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-06-01</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>SARS-CoV-2</dc:subject>
+  <dc:subject>super-spreading</dc:subject>
+  <dc:subject>Germany</dc:subject>
+  <dc:subject>introduction event</dc:subject>
+  <dc:publisher>European Centre for Disease Control and Prevention (ECDC)</dc:publisher>
+  <dc:description>We whole-genome sequenced 55 SARS-CoV-2 isolates from Germany to investigate SARS-CoV-2 outbreaks in 2020 in the Heinsberg district and Düsseldorf. While the genetic structure of the Heinsberg outbreak indicates a clonal origin, reflecting superspreading dynamics from mid-February during the carnival season, distinct viral strains were circulating in Düsseldorf in March, reflecting the city’s international links. Limited detection of Heinsberg strains in the Düsseldorf area despite geographical proximity may reflect efficient containment and contact-tracing efforts.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

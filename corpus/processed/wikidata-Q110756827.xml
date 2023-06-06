@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q110756827</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q110756827</dc:identifier>
   <dc:identifier>doi:10.1002/LDR.3904</dc:identifier>
-  <dc:title>Surface mines show little progress towards native species forest restoration following 35years of passive management after initial reclamation</dc:title>
+  <dc:title>Surface mines show little progress towards native species forest restoration following 35_years of passive management after initial reclamation</dc:title>
   <dc:creator>Ruggles, Thomas A.</dc:creator>
   <dc:creator>Gerrath, John A.</dc:creator>
   <dc:creator>Ruhm, Catherine T.</dc:creator>
@@ -18,4 +18,5 @@
   <dc:subject>forest restoration</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

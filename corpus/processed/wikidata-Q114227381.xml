@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q114227381</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114227381</dc:identifier>
   <dc:identifier>doi:10.1007/S10530-004-3972-5</dc:identifier>
-  <dc:title>Book Review: Invasive Species: Vectors and Management Strategies. By Gregory M. Ruiz and James T. Carlton, 2003, 518pp, Island Press, Washington, DC, US$40.00, ISBN 1-55963-903-4 (pbk.alk.paper) (acid-free).</dc:title>
+  <dc:title>Book Review: Invasive Species: Vectors and Management Strategies. By Gregory M. Ruiz and James T. Carlton, 2003, 518_pp, Island Press, Washington, DC, US$40.00, ISBN 1-55963-903-4 (pbk.alk.paper) (acid-free).</dc:title>
   <dc:creator>Drake, Sara</dc:creator>
   <dc:type>text</dc:type>
   <dc:date>2006-03-15</dc:date>
@@ -13,4 +13,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

@@ -10,6 +10,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2012-11-26</dc:date>
   <dc:language>en</dc:language>
+  <dc:subject>limiting similarity hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q111725287</dc:subject>
+  <dc:subject>hypothesis:limiting similarity hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q111725287</dc:subject>
   <dc:subject>disturbance hypothesis</dc:subject>
   <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
   <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
@@ -20,4 +24,5 @@
   <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
   <dc:subject>biotic resistance</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

@@ -10,6 +10,14 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-05-16</dc:date>
   <dc:language>en</dc:language>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>biotic resistance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
   <dc:subject>theme:invasion impact</dc:subject>
   <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>grassland</dc:subject>
@@ -19,4 +27,5 @@
   <dc:subject>invasion resistance</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q114097272</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114097272</dc:identifier>
   <dc:identifier>doi:10.1086/425818</dc:identifier>
-  <dc:title>&lt;i&gt;Invasive Species: Vectors and Management Strategies. &lt;i&gt;Based on a conference held in Edgewater, Maryland, 8–11 November 1999.&lt;/i&gt;&lt;/i&gt; &lt;i&gt;Edited by &lt;/i&gt;GregoryM Ruiz &lt;i&gt;and &lt;/i&gt;, JamesT Carlton. &lt;i&gt;Washington (DC): Island Press&lt;/i&gt;. $75.00 (hardcover); $40.00 (paper). xiii + 518 p; ill.; index. ISBN: 1–55963–902–4 (hc); 1–55963–903–2 (pb). 2003.</dc:title>
+  <dc:title>&lt;i&gt;Invasive Species: Vectors and Management Strategies. &lt;i&gt;Based on a conference held in Edgewater, Maryland, 8–11 November 1999.&lt;/i&gt;&lt;/i&gt; &lt;i&gt;Edited by &lt;/i&gt;Gregory_M_ Ruiz &lt;i&gt;and &lt;/i&gt;, James_T_ Carlton. &lt;i&gt;Washington (DC): Island Press&lt;/i&gt;. $75.00 (hardcover); $40.00 (paper). xiii + 518 p; ill.; index. ISBN: 1–55963–902–4 (hc); 1–55963–903–2 (pb). 2003.</dc:title>
   <dc:creator>Alpert, Peter</dc:creator>
   <dc:type>journal article</dc:type>
   <dc:date>2004-09-15</dc:date>
@@ -13,4 +13,5 @@
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>University of Chicago Press</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

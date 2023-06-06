@@ -33,4 +33,5 @@
           2. To elevate the pathway term from the Invasive Species Pathways extension to become a new Darwin Core term dwc:pathway maintained as part of the Darwin Core standard
           3. To adopt a new Darwin Core term dwc:degreeOfEstablishment with an associated controlled vocabulary
           These changes to the standard will allow users to clearly state whether an occurrence of a species is native to a location or not, how it got there (pathway), and to what extent the species has become a permanent feature of the location. By improving Darwin Core for capturing and sharing these data, we aim to improve the quality of occurrence and checklist data in general and to increase the number of potential uses of these data.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

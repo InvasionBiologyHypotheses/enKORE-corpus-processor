@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q92229540</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q92229540</dc:identifier>
   <dc:identifier>doi:10.1016/J.AJOG.2019.02.054</dc:identifier>
-  <dc:title>Evidence-based guidelines for the management of abnormallyinvasive placenta: recommendations from theInternational Society for Abnormally InvasivePlacenta</dc:title>
+  <dc:title>Evidence-based guidelines for the management of abnormally_invasive placenta: recommendations from the_International Society for Abnormally Invasive_Placenta</dc:title>
   <dc:creator>Collins, Sally L.</dc:creator>
   <dc:creator>Alemdar, Bahrin</dc:creator>
   <dc:creator>Beekhuizen, Heleen J</dc:creator>
@@ -43,4 +43,5 @@
   <dc:subject>placenta accreta</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

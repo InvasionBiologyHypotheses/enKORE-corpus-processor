@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q51146360</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51146360</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.17.5208</dc:identifier>
-  <dc:title>The role of eco-evolutionary experience ininvasionsuccess</dc:title>
+  <dc:title>The role of eco-evolutionary experience in_invasion_success</dc:title>
   <dc:creator>Saul, Wolf-Christian</dc:creator>
   <dc:creator>Jeschke, Jonathan</dc:creator>
   <dc:creator>Heger, Tina</dc:creator>
@@ -16,4 +16,5 @@
   <dc:subject>aquatic science</dc:subject>
   <dc:subject>invasion success</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

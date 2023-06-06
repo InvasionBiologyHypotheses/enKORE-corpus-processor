@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q51146387</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51146387</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.16.4351</dc:identifier>
-  <dc:title>Correlations between global and regional measures ofinvasiveness vary with region size</dc:title>
+  <dc:title>Correlations between global and regional measures of_invasiveness vary with region size</dc:title>
   <dc:creator>Dawson, Wayne</dc:creator>
   <dc:creator>Keser, Lidewij</dc:creator>
   <dc:creator>Winter, Marten</dc:creator>
@@ -20,4 +20,5 @@
   <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
   <dc:subject>aquatic science</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

@@ -25,5 +25,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:subject>listeriosis</dc:subject>
   <dc:publisher>European Centre for Disease Control and Prevention (ECDC)</dc:publisher>
-  <dc:description>Listeriosis patient isolates in Germany have shown a new identical pulsed-field gel electrophoresis (PFGE) pattern since 2012 (n=66). Almost all isolates (Listeria monocytogenes serotype 1/2a) belonged to cases living in southern Germany, indicating an outbreak with a so far unknown source. Case numbers in 2015 are high (n=28). No outbreak cases outside Germany have been reported. Next generation sequencing revealed the unique cluster type CT1248 and confirmed the outbreak. Investigations into the source are ongoing.</dc:description>
+  <dc:description>Listeriosis patient isolates in Germany have shown a new identical pulsed-field gel electrophoresis (PFGE) pattern since 2012 (n_=_66). Almost all isolates (Listeria monocytogenes serotype 1/2a) belonged to cases living in southern Germany, indicating an outbreak with a so far unknown source. Case numbers in 2015 are high (n_=_28). No outbreak cases outside Germany have been reported. Next generation sequencing revealed the unique cluster type CT1248 and confirmed the outbreak. Investigations into the source are ongoing.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

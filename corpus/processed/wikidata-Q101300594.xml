@@ -4,7 +4,7 @@
   <dc:identifier>http://www.wikidata.org/entity/Q101300594</dc:identifier>
   <dc:identifier>https://checklist.pensoft.net/lib/ajax_srv/article_elements_srv.php?action=download_pdf&amp;item_id=20205</dc:identifier>
   <dc:identifier>doi:10.15560/13.6.997</dc:identifier>
-  <dc:title>The invasive copepod Lernaea cyprinacea Linnaeus, 1758(Copepoda, Cyclopoida, Lernaeidae): first record for Neuquén River,Patagonia, Argentina</dc:title>
+  <dc:title>The invasive copepod Lernaea cyprinacea Linnaeus, 1758_(Copepoda, Cyclopoida, Lernaeidae): first record for Neuquén River,Patagonia, Argentina</dc:title>
   <dc:creator>Waicheim, Agustina</dc:creator>
   <dc:creator>Blasetti, Guillermo</dc:creator>
   <dc:creator>Cordero, Pedro</dc:creator>
@@ -20,4 +20,5 @@
   <dc:subject>invasive copepod</dc:subject>
   <dc:subject>Lernaea cyprinacea</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

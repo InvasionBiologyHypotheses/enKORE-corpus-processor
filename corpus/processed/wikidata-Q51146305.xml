@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q51146305</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q51146305</dc:identifier>
   <dc:identifier>doi:10.3897/NEOBIOTA.20.6163</dc:identifier>
-  <dc:title>The reproductive biology of Saccharum spontaneumL.: implications for management of this invasive weedinPanama</dc:title>
+  <dc:title>The reproductive biology of Saccharum spontaneum_L.: implications for management of this invasive weed_in_Panama</dc:title>
   <dc:creator>Bonnett, Graham</dc:creator>
   <dc:creator>Kushner, Josef</dc:creator>
   <dc:creator>Saltonstall, Kristin</dc:creator>
@@ -21,4 +21,5 @@
   <dc:subject>invasion management</dc:subject>
   <dc:subject>Panama</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

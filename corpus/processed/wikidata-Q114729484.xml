@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q114729484</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q114729484</dc:identifier>
   <dc:identifier>doi:10.3897/ITALIANBOTANIST.12.78010</dc:identifier>
-  <dc:title>Notulae to the Italian alien vascular flora: 12</dc:title>
+  <dc:title>_Notulae to the Italian alien vascular flora: 12</dc:title>
   <dc:creator>Galasso, Gabriele</dc:creator>
   <dc:creator>Domina, Gianniantonio</dc:creator>
   <dc:creator>Angiolini, Claudia</dc:creator>
@@ -82,4 +82,5 @@
   <dc:subject>invasion biology</dc:subject>
   <dc:publisher>Pensoft Publishers</dc:publisher>
   <dc:description>In this contribution, new data concerning the distribution of vascular flora alien to Italy are presented. It includes new records, confirmations, exclusions, and status changes for Italy or for Italian administrative regions. Nomenclatural and distribution updates published elsewhere are provided as Suppl. material 1.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

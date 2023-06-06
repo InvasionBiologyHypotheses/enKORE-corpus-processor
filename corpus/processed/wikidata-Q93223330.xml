@@ -13,7 +13,7 @@
   <dc:creator>Becker, Norbert</dc:creator>
   <dc:creator>Carrieri, Marco</dc:creator>
   <dc:creator>Di Luca, Marco</dc:creator>
-  <dc:creator>Fălcuă, Elena</dc:creator>
+  <dc:creator>Fălcu_ă, Elena</dc:creator>
   <dc:creator>Flacio, Eleonora</dc:creator>
   <dc:creator>Klobučar, Ana</dc:creator>
   <dc:creator>Lagneau, Christophe</dc:creator>
@@ -37,4 +37,5 @@
   <dc:subject>invasive mosquito species</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

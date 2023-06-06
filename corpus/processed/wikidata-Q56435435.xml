@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q56435435</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q56435435</dc:identifier>
   <dc:identifier>doi:10.1111/1442-1984.12049</dc:identifier>
-  <dc:title>Experimental management control ofOpuntia dilleniiHaw. andAgave americanaL. in Teno Rural Park, Canary Islands</dc:title>
+  <dc:title>Experimental management control ofOpuntia dillenii_Haw. andAgave americana_L. in Teno Rural Park, Canary Islands</dc:title>
   <dc:creator>Arévalo, José R.</dc:creator>
   <dc:creator>Fernández-Lugo, Silvia</dc:creator>
   <dc:creator>Mellado, Miguel</dc:creator>
@@ -14,4 +14,5 @@
   <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasion management</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>
