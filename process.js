@@ -47,6 +47,9 @@ import { function_log_append } from "./lib/log.js";
 
 // ##### Note: xmlexporter is imported to save contents to file(XML)
 import { generateXML } from "./lib/xmlexporter.js"; // ##### Note: get needed information and scripts from (xmlexporter.js)
+// ##### Note: xmlvalidator is imported to assess contents from file(XML)
+// import { XMLvalidation_All } from "./lib/xmlvalidator.js"; // ##### Note: requires adjustment of paths
+
 import get from "just-safe-get";
 import extend from "just-extend";
 import * as log from "deno-std-log";
@@ -404,24 +407,27 @@ async function checkWikidataItem(items) {
 // ##### IMPORTANT: It may be better emptying files not listed in the SPARQL-query, and then calling this function.
 // ##### REASON: Tthere is not need to spend more time checking a file which will be later emptied.
 async function XMLvalidation_All() {
+  // ##### Note: (dl.debug) were changed to (console.log), so that this function can be further transferred into /lib
+  // ##### Note: To send this function into ./lib requires internal paths' adjustments (for reading/deleting files from /processed etc)
+  // ##### Note: Also remember to change from (async) to (export), which is similar to function_log
   
   const fs = require('fs');
   const files_list = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
-  dl.debug("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
   console.log(files_list); // ##### Note: List of XML-files to be validated, and including the emptied ones.
-  dl.debug("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
   let total_files = files_list.length;
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
   for (let i = 0; i < files_list.length; i++) {
 
     const files_list_i = String(files_list[i]);
-    // dl.debug(files_list_i); // ##### Note: item already saved in directory (processed)
-    // dl.debug("============");
+    // console.log(files_list_i); // ##### Note: item already saved in directory (processed)
+    // console.log("============");
 
     const filename = `./corpus/processed/${files_list_i}`;
-    dl.debug("Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====");
-    dl.debug(`Log(XMLvalidation_All): ${filename}`);
+    console.log("Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====");
+    console.log(`Log(XMLvalidation_All): ${filename}`);
 
     // ##### Note: Temporary txt file to store  XML string content
     const filename_temp = './corpus/processed/TEMP.txt';
@@ -429,24 +435,29 @@ async function XMLvalidation_All() {
     fs.copyFile(filename, filename_temp, (err) => {
 
       if (err) throw err;
-      // dl.debug('Temporary file copied');
+      // console.log('Temporary file copied');
 
     });
 
     // ##### Note: Reading the string content from XML_converted_to_TXT
     const fs_p = require('fs').promises;
+
+    // ####################
     const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
+    // const content = fs_p.readFile(filename); // Note: To be used with synchronous function (also in export function)
+    // ####################
+
     const content_string = String(content);
-    // dl.debug("= = = = = =");
-    // dl.debug(content_string);
+    // console.log("= = = = = =");
+    // console.log(content_string);
 
     // ##### Note: Delete temporary file because XML-string is stored in variable (content_string)
     fs.unlink(filename_temp, (err) => {
       if (err) {
           // throw err;
-          // dl.debug("Delete file failed.");
+          // console.log("Delete file failed.");
       }
-      // dl.debug("Delete file successfully.");
+      // console.log("Delete file successfully.");
     });
 
     // ##### Note: String containing XML information is now created.
@@ -471,10 +482,10 @@ async function XMLvalidation_All() {
 
       if (content_string2.length > 1) { // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
 
-        dl.debug('Log(XMLvalidation_All): = = = = = =');
-        dl.debug('Log(XMLvalidation_All): XML-CONTENT-BELOW');
+        console.log('Log(XMLvalidation_All): = = = = = =');
+        console.log('Log(XMLvalidation_All): XML-CONTENT-BELOW');
         console.log(content_string2);
-        dl.debug('Log(XMLvalidation_All): = = = = = =');
+        console.log('Log(XMLvalidation_All): = = = = = =');
 
         // ##### Note: List of strings to be confirmed inside the XML-content
         const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
@@ -498,12 +509,12 @@ async function XMLvalidation_All() {
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_1)) {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
               XML_row_1_value++; // ##### Note: adding 1 because it is passed.
 
             } else {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
     
             }        
 
@@ -518,12 +529,12 @@ async function XMLvalidation_All() {
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_2)) {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
               XML_row_2_value++; // ##### Note: adding 1 because it is passed.
 
             } else {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
     
             }        
 
@@ -538,12 +549,12 @@ async function XMLvalidation_All() {
             // ##### Note: (includes) or (equal) may suit below. However, (equal) may complicate due to empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_end)) {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
               XML_row_end_value++; // ##### Note: adding 1 because it is passed.
 
             } else {
 
-              dl.debug("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
+              console.log("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
     
             }
 
@@ -567,7 +578,7 @@ async function XMLvalidation_All() {
         // ###########################
         const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
         
-        dl.debug(`Log(XMLvalidation_All): ${XML_result_write}`);
+        console.log(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
         function_log_append('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
 
@@ -606,15 +617,15 @@ async function XMLvalidation_All() {
       try {
 
         const jsdom = require("jsdom");
-        dl.debug('Log(XMLvalidation_All): PASSED: Module (jsdom) is available.');
+        console.log('Log(XMLvalidation_All): PASSED: Module (jsdom) is available.');
 
       } catch(err) {
       
-        dl.debug('Log(XMLvalidation_All): FAILED: You must install module (jsdom), which is currently missing.');
-        dl.debug('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
-        dl.debug('Log(XMLvalidation_All): Line: $ sudo apt install npm');
-        dl.debug('Log(XMLvalidation_All): Line: $ npm install jsdom');
-        dl.debug('Log(XMLvalidation_All): Line: $ npm install xmlhttprequest');
+        console.log('Log(XMLvalidation_All): FAILED: You must install module (jsdom), which is currently missing.');
+        console.log('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
+        console.log('Log(XMLvalidation_All): Line: $ sudo apt install npm');
+        console.log('Log(XMLvalidation_All): Line: $ npm install jsdom');
+        console.log('Log(XMLvalidation_All): Line: $ npm install xmlhttprequest');
 
       }
 
@@ -642,14 +653,14 @@ async function XMLvalidation_All() {
         let jObj = parser.parse(XMLdata);
         const builder = new XMLBuilder();
         const xmlContent = builder.build(jObj);
-        dl.debug('Log(XMLvalidation_All): PASSED: Module (fast-xml-parser) is available.');
+        console.log('Log(XMLvalidation_All): PASSED: Module (fast-xml-parser) is available.');
 
       } catch(err) {
       
-        dl.debug('Log(XMLvalidation_All): FAILED: You must install module (fast-xml-parser), which is currently missing.');
-        dl.debug('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
-        dl.debug('Log(XMLvalidation_All): Line: $ sudo apt install npm');
-        dl.debug('Log(XMLvalidation_All): Line: $ npm install fast-xml-parser');
+        console.log('Log(XMLvalidation_All): FAILED: You must install module (fast-xml-parser), which is currently missing.');
+        console.log('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
+        console.log('Log(XMLvalidation_All): Line: $ sudo apt install npm');
+        console.log('Log(XMLvalidation_All): Line: $ npm install fast-xml-parser');
 
       }
 
@@ -668,15 +679,15 @@ async function XMLvalidation_All() {
 
       // ##### Note: Passing function for validation.
       const XML_validation_result = XML_validator_option1(filename,content_string);
-      dl.debug(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
-      dl.debug(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
-      dl.debug(`\n`);
+      console.log(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
+      console.log(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
+      console.log(`\n`);
       // ##### Note: To write result into log here.
 
     } catch(err) {
 
-      dl.debug(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
-      dl.debug(`\n`);
+      console.log(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
+      console.log(`\n`);
 
     }
 
@@ -685,9 +696,9 @@ async function XMLvalidation_All() {
   return "COMPLETE" // ##### Note: This result is returned to main()
 
 }
-// ################################
+// ##############################
 // ##### Validade XML (END) #####
-// ################################
+// ##############################
 
 
 // #########################################################
@@ -1123,6 +1134,7 @@ async function main() {
   dl.debug("Log(main): ##########");
 
   const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
+
   dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
   dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
 
@@ -1168,9 +1180,8 @@ async function main() {
   <body>
   <h1>enKORE report</h1>
   <p>
-  Process at date-UTC: ${await function_DateNow()}<br>
-  Line-2<br>
-  Line-3
+  Last process at date-UTC: ${await function_DateNow()}<br>
+  Note:<br>
   </p>
   </body>
   </html>
