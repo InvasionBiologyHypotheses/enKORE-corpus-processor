@@ -14,50 +14,21 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58690085"
+          "value": "http://www.wikidata.org/entity/Q33482830"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "No Reproductive Interference from an Alien to a Native Species in Cerastium (Caryophyllaceae) at the Stage of Seed Production"
+          "value": "Bacterial thymidine kinase as a non-invasive imaging reporter for Mycobacterium tuberculosis in live animals"
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q42985020"
+          "value": "http://www.wikidata.org/entity/Q12204"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "invasion biology"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q14947546"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 3.0 Unported"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110829707"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Functional traits predict resident plant response to invasion in riparian and fallow communities in southern Poland"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112904976"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "functional trait"
+          "value": "tuberculosis"
         },
         "license": {
           "type": "uri",
@@ -72,21 +43,46 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q61816808"
+          "value": "http://www.wikidata.org/entity/Q33819769"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Invasion Dynamics of A Termite, Reticulitermes flavipes, at Different Spatial Scales in France"
+          "value": "Phylogenetic structure predicts capitular damage to Asteraceae better than origin or phylogenetic distance to natives"
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58941595"
+          "value": "http://www.wikidata.org/entity/Q85759287"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Social Insects"
+          "value": "enemy release hypothesis"
+        },
+        "topicLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "enemy release hypothesis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94479661"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Invasion and high-elevation acclimation of the red imported fire ant, Solenopsis invicta, in the southern Blue Ridge Escarpment region of North America"
+        },
+        "topic": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194382"
+        },
+        "topicLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Solenopsis invicta"
         },
         "license": {
           "type": "uri",
@@ -101,90 +97,32 @@
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111148834"
+          "value": "http://www.wikidata.org/entity/Q56767767"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sustainability as a Framework for Considering Gene Drive Mice for Invasive Rodent Eradication"
+          "value": "Fish movements: the introduction pathway for topmouth gudgeon Pseudoras bora parva and other non-native fishes in the UK"
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q111535375"
+          "value": "http://www.wikidata.org/entity/Q110620464"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "invasive rodent"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
+          "value": "propagule pressure hypothesis"
         }
       },
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q33273796"
+          "value": "http://www.wikidata.org/entity/Q35677524"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Rapid evolution in response to introduced predators II: the contribution of adaptive plasticity"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112076375"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "non-native predator"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q19125117"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 2.0 Generic"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110757117"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Impact of the invasive alien topmouth gudgeon (Pseudorasbora parva) and its associated parasite Sphaerothecum destruens on native fish species"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q112148709"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "invasion impact"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q108138420"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Towards an open, zoomable atlas for invasion science and beyond"
+          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
         },
         "topic": {
           "type": "uri",
@@ -195,63 +133,20 @@
           "type": "literal",
           "value": "invasive species"
         },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
+        "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q46228754"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Banking on the past: seed banks as a reservoir for rare and native species in restored vernal pools."
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q169480"
+          "value": "invasion biology"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "native species"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q14947546"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 3.0 Unported"
-        }
-      },
-      {
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q56380966"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Impacts of changing climate on the non-indigenous invertebrates in the northern Baltic Sea by end of the twenty-first century"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q125928"
+          "value": "niche overlap"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "climate change"
+          "value": "aquatic invasion"
         },
         "license": {
           "type": "uri",
@@ -263,24 +158,26 @@
           "value": "Creative Commons Attribution 4.0 International"
         }
       },
+
+
       {
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q43366420"
+          "value": "http://www.wikidata.org/entity/Q49027734"
         },
         "itemLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "eDNA for detection of five highly invasive molluscs. A case study in urban rivers from the Iberian Peninsula."
+          "value": "Cost-benefit analysis for invasive species control: the case of greater Canada goose Branta canadensis in Flanders (northern Belgium)."
         },
         "topic": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110987485"
+          "value": "http://www.wikidata.org/entity/Q942582"
         },
         "topicLabel": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "urban invasion"
+          "value": "cost–benefit analysis"
         },
         "license": {
           "type": "uri",
