@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q99549143</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q99549143</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS11090627</dc:identifier>
+  <dc:title>Tracking Red Palm Mite Damage in the Western Hemisphere Invasion with Landsat Remote Sensing Data</dc:title>
+  <dc:creator>Rodrigues, Jose Carlos Verle</dc:creator>
+  <dc:creator>Cosh, Michael H.</dc:creator>
+  <dc:creator>Hunt, E Raymond</dc:creator>
+  <dc:creator>Moraes, Gilberto J</dc:creator>
+  <dc:creator>Barroso, Geovanny</dc:creator>
+  <dc:creator>White, William A</dc:creator>
+  <dc:creator>Ochoa, Ronald</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-09-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>remote sensing</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Red palm mites (Raoiella indica Hirst, Acari: Tenuipalpidae) were first observed in the western hemisphere on the islands and countries surrounding the Caribbean Sea, infesting the coconut palm (Cocos nucifera L.). Detection of invasive pests usually relies upon changes in vegetation properties as result of the pest activity. These changes may be visible in time series of satellite data records, such as Landsat satellites, which have been available with a 16-day repeat cycle at a spatial resolution of 30 m since 1982. Typical red palm mite infestations result in the yellowing of the lower leaves of the palm crown; remote sensing model simulations have indicated that this feature may be better detected using the green normalized difference vegetation index (GNDVI). Using the Google Earth Engine programming environment, a time series of Landsat 5 Thematic Mapper, Landsat 7 Enhanced Thematic Mapper Plus and Landsat 8 Operational Land Imager data was generated for plantations in northern and northeast Brazil, El Salvador, and Trinidad-Tobago. Considering the available studied plantations, there were little or no differences of GNDVI before and after the dates when red palm mites were first revealed at each location. A discussion of possible alternative approaches are discussed related to the limitations of the current satellite platforms.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

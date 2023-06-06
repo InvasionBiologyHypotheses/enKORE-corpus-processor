@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90176601</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q90176601</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047128</dc:identifier>
+  <dc:identifier>doi:10.3389/FMICB.2020.00258</dc:identifier>
+  <dc:title>The Putative TCP-1 Chaperonin Is an Important Player Involved in Sialic Acid-Dependent Host Cell Invasion by Toxoplasma gondii</dc:title>
+  <dc:creator>Yang, Na</dc:creator>
+  <dc:creator>Xing, Mengen</dc:creator>
+  <dc:creator>Ding, Yingying</dc:creator>
+  <dc:creator>Wang, Dawei</dc:creator>
+  <dc:creator>Guo, Xiaogai</dc:creator>
+  <dc:creator>Sang, Xiaoyu</dc:creator>
+  <dc:creator>Li, Jiaqi</dc:creator>
+  <dc:creator>Li, Chenghuan</dc:creator>
+  <dc:creator>Wang, Yanhu</dc:creator>
+  <dc:creator>Feng, Ying</dc:creator>
+  <dc:creator>Chen, Ran</dc:creator>
+  <dc:creator>Wang, Xinyi</dc:creator>
+  <dc:creator>Jiang, Ning</dc:creator>
+  <dc:creator>Chen, Qijun</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-02-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Toxoplasma gondii</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Host cell invasion by Toxoplasma gondii is crucial for the survival and proliferation of parasite. The process of T. gondii tachyzoite invasion requires interaction between parasite proteins and receptors on the surface of host cells. Sialic acid is one of the important receptors for host cell invasion by T. gondii. However, the parasite-derived proteins interacting with sialic acid have not been well characterized. In this study, a novel protein named putative TCP-1 chaperonin (TGME49_318410) in T. gondii (TgTCP-1) was targeted and characterized. TgTCP-1 protein colocalized with MIC3 protein, which could be secreted from T. gondii tachyzoites, and this protein showed a specific binding activity to sialic acid, and DC and Vero cells in vitro. The binding of TgTCP-1 protein to DC and Vero cells were inhibited by either pre-incubation with free sialic acid or neuraminidase treatment of the cells. Moreover, a significant reduction of T. gondii invasion in Vero cells was observed after pre-incubation of the cells with recombinant TgTCP-1 protein. These results illustrated that TgTCP-1 is an important molecule involved in sialic acid-dependent host cell invasion by T. gondii.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

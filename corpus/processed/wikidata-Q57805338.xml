@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q57805338</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q57805338</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6211765</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0006555</dc:identifier>
+  <dc:title>Genetic diversity in two Plasmodium vivax protein ligands for reticulocyte invasion</dc:title>
+  <dc:creator>Roesch, Camille</dc:creator>
+  <dc:creator>Popovici, Jean</dc:creator>
+  <dc:creator>Bin, Sophalai</dc:creator>
+  <dc:creator>Run, Vorleak</dc:creator>
+  <dc:creator>Kim, Saorin</dc:creator>
+  <dc:creator>Rakotomalala, Emma</dc:creator>
+  <dc:creator>Rakotoarison, Rado Lalaina</dc:creator>
+  <dc:creator>Rasoloharimanana, Tsikiniaina</dc:creator>
+  <dc:creator>Andriamanantena, Zo</dc:creator>
+  <dc:creator>Kumar, Anuj</dc:creator>
+  <dc:creator>Guillotte-Blisnick, Micheline</dc:creator>
+  <dc:creator>Huon, Christèle</dc:creator>
+  <dc:creator>Serre, David</dc:creator>
+  <dc:creator>Chitnis, Chetan E</dc:creator>
+  <dc:creator>Vigan-Womas, Inès</dc:creator>
+  <dc:creator>Ménard, Didier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-10-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>duffy binding protein 2</dc:subject>
+  <dc:subject>duffy binding protein</dc:subject>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>Protein ligand</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>genetic diversity</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The interaction between Plasmodium vivax Duffy binding protein (PvDBP) and Duffy antigen receptor for chemokines (DARC) has been described as critical for the invasion of human reticulocytes, although increasing reports of P. vivax infections in Duffy-negative individuals questions its unique role. To investigate the genetic diversity of the two main protein ligands for reticulocyte invasion, PvDBP and P. vivax Erythrocyte Binding Protein (PvEBP), we analyzed 458 isolates collected in Cambodia and Madagascar from individuals genotyped as Duffy-positive. First, we observed a high proportion of isolates with multiple copies PvEBP from Madagascar (56%) where Duffy negative and positive individuals coexist compared to Cambodia (19%) where Duffy-negative population is virtually absent. Whether the gene amplification observed is responsible for alternate invasion pathways remains to be tested. Second, we found that the PvEBP gene was less diverse than PvDBP gene (12 vs. 33 alleles) but provided evidence for an excess of nonsynonymous mutations with the complete absence of synonymous mutations. This finding reveals that PvEBP is under strong diversifying selection, and confirms the importance of this protein ligand in the invasion process of the human reticulocytes and as a target of acquired immunity. These observations highlight how genomic changes in parasite ligands improve the fitness of P. vivax isolates in the face of immune pressure and receptor polymorphisms.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

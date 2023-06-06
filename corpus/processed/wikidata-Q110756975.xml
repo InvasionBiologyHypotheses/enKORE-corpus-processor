@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110756975</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110756975</dc:identifier>
+  <dc:identifier>doi:10.3390/D13100478</dc:identifier>
+  <dc:title>Predicting the Potential Distribution of Non-Native Mammalian Species Sold in the South African Pet Trade</dc:title>
+  <dc:creator>Shivambu, Ndivhuwo</dc:creator>
+  <dc:creator>Shivambu, Tinyiko C.</dc:creator>
+  <dc:creator>Downs, Colleen T.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-09-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>pet trade</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The pet trade is one of the main pathways of introduction of several mammals worldwide. In South Africa, non-native mammalian species are traded as pets, and so far, only four of these species are considered invasive. We used a list of 24 companion mammalian species compiled from a previous study. We selected a subset of 14 species for species distribution modeling (SDM) based on their trade popularity, invasion history and potential economic and socio-economic impacts. We aimed to estimate their potential distribution using their distribution records. Our SDM indicated that climate in South Africa was suitable for most traded species. However, commonly and easily available species had the broadest areas of suitable climates, such as house mice (Mus musculus) and Norwegian rats (Rattus norvegicus). In addition, the model with a human footprint suggested a high risk of invasion for Norwegian rats but less for house mice distribution. This assessment suggests the need of strict trade regulations and management strategies for pet mammals with broader suitability, which are already invasive, and most available for sale. In addition, our results provide a baseline approach that can be used to identify mammalian pet species with a potential risk of invasion so that urgent preventive measures can be implemented.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

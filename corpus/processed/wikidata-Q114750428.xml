@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114750428</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114750428</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.703935</dc:identifier>
+  <dc:title>Space and Species Interactions in Welfare Estimates for Invasive Species Policy</dc:title>
+  <dc:creator>Brockmann, Stephanie</dc:creator>
+  <dc:creator>Zhang, Hongyan</dc:creator>
+  <dc:creator>Mason, Doran M.</dc:creator>
+  <dc:creator>Rutherford, Edward S.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-11-16</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Aquatic invasive species (AIS) can cause catastrophic damages to lake ecosystems. Bigheaded carp are one such species that pose a current threat to Lake Michigan. Bigheaded carp are expected to have spatially differentiated impacts on other aquatic species in the metapopulation. Policymakers must decide how much to invest in mitigation or conservation policies, if at all, by understanding how invasions impact social welfare or social wellbeing. Estimates of social welfare implications, however, may be biased if important interactions between species and space are overly simplified or aggregated out of the model. In this analysis, a bioeconomic model that links an ecological model with an economic model of recreational fishing behavior is used to complete a comparative analysis of the social welfare implications across several different ecological specifications to demonstrate what biases exist if species interactions are neglected or if ecological characteristics are assumed to be homogenous across space. Results of the bigheaded carp case study suggest that social welfare losses from the invasion vary substantially if species interactions are excluded and vary less if space is treated homogeneously.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

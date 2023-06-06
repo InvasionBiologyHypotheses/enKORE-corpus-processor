@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q47125734</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q47125734</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5691159</dc:identifier>
+  <dc:identifier>doi:10.1038/S41467-017-01638-6</dc:identifier>
+  <dc:title>Human Cyclophilin B forms part of a multi-protein complex during erythrocyte invasion by Plasmodium falciparum.</dc:title>
+  <dc:creator>Prakash, Prem</dc:creator>
+  <dc:creator>Zeeshan, Mohammad</dc:creator>
+  <dc:creator>Saini, Ekta</dc:creator>
+  <dc:creator>Muneer, Azhar</dc:creator>
+  <dc:creator>Khurana, Sachin</dc:creator>
+  <dc:creator>Chourasia, Bishwanath Kumar</dc:creator>
+  <dc:creator>Deshmukh, Arunaditya</dc:creator>
+  <dc:creator>Kaur, Inderjeet</dc:creator>
+  <dc:creator>Dabral, Surabhi</dc:creator>
+  <dc:creator>Singh, Niharika</dc:creator>
+  <dc:creator>Anam, Zille</dc:creator>
+  <dc:creator>Chaurasiya, Ayushi</dc:creator>
+  <dc:creator>Kaushik, Shikha</dc:creator>
+  <dc:creator>Dahiya, Pradeep</dc:creator>
+  <dc:creator>Kalamuddin, Md</dc:creator>
+  <dc:creator>Thakur, Jitendra Kumar</dc:creator>
+  <dc:creator>Mohmmed, Asif</dc:creator>
+  <dc:creator>Ranganathan, Anand</dc:creator>
+  <dc:creator>Malhotra, Pawan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-11-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>reticulocyte binding protein homologue 5</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>high molecular weight rhoptry protein 3</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvasion of human erythrocytes by Plasmodium falciparum merozoites involves multiple interactions between host receptors and their merozoite ligands. Here we report human Cyclophilin B as a receptor for PfRhopH3 during merozoite invasion. Localization and binding studies show that Cyclophilin B is present on the erythrocytes and binds strongly to merozoites. We demonstrate that PfRhopH3 binds to the RBCs and their treatment with Cyclosporin A prevents merozoite invasion. We also show a multi-protein complex involving Cyclophilin B and Basigin, as well as PfRhopH3 and PfRh5 that aids the invasion. Furthermore, we report identification of a de novo peptide CDP3 that binds Cyclophilin B and blocks invasion by up to 80%. Collectively, our data provide evidence of compounded interactions between host receptors and merozoite surface proteins and paves the way for developing peptide and small-molecules that inhibit the protein−protein interactions, individually or in toto, leading to abrogation of the invasion process.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

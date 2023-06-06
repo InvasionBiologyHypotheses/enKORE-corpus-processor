@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111154786</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111154786</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2021.626516</dc:identifier>
+  <dc:title>Hyperspectral Imaging for Identification of an Invasive Plant Mikania micrantha Kunth</dc:title>
+  <dc:creator>Huang, Yiqi</dc:creator>
+  <dc:creator>Li, Jie</dc:creator>
+  <dc:creator>Yang, Rui</dc:creator>
+  <dc:creator>Wang, Fukuan</dc:creator>
+  <dc:creator>Li, Yanzhou</dc:creator>
+  <dc:creator>Zhang, Shuo</dc:creator>
+  <dc:creator>Wan, Fanghao</dc:creator>
+  <dc:creator>Qiao, Xi</dc:creator>
+  <dc:creator>Qian, Wanqiang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-04-30</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Mikania micrantha</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Mile-a-minute weed (Mikania micrantha Kunth) is considered as one of top 100 most dangerous invasive species in the world. A fast and accurate detection technology will be needed to identify M. micrantha. It will help to mitigate the extensive ecologic and economic damage on our ecosystems caused by this alien plant. Hyperspectral technology fulfills the above requirement. However, when working with hyperspectral images, preprocessing, dimension reduction, and classifier are fundamental to achieving reliable recognition accuracy and efficiency. The spectral data of M. micrantha were collected using hyperspectral imaging in the spectral range of 450–998 nm. A different combination of preprocessing methods, principal component analysis (for dimension reduction), and three classifiers were used to analyze the collected hyperspectral images. The results showed that a combination of Savitzky-Golay (SG) smoothing, principal component analysis (PCA), and random forest (RF) achieved an accuracy (A) of 88.71%, an average accuracy (AA) of 88.68%, and a Kappa of 0.7740 with an execution time of 9.647 ms. In contrast, the combination of SG, PCA and a support vector machine (SVM) resulted in a weaker performance in terms of A (84.68%), AA(84.66%), and Kappa (0.6934), but with less execution time (1.318 ms). According to the requirements for specific identification accuracy and time cost, SG-PCA-RF and SG-PCA-SVM might represent two promising methods for recognizing M. micrantha in the wild.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34285917</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34285917</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3386192</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002777</dc:identifier>
+  <dc:title>Candida albicans scavenges host zinc via Pra1 during endothelial invasion</dc:title>
+  <dc:creator>Citiulo, Francesco</dc:creator>
+  <dc:creator>Jacobsen, Ilse D</dc:creator>
+  <dc:creator>Miramón, Pedro</dc:creator>
+  <dc:creator>Schild, Lydia</dc:creator>
+  <dc:creator>Brunke, Sascha</dc:creator>
+  <dc:creator>Zipfel, Peter</dc:creator>
+  <dc:creator>Brock, Matthias</dc:creator>
+  <dc:creator>Hube, Bernhard</dc:creator>
+  <dc:creator>Wilson, Duncan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-06-28</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>endothelium</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The ability of pathogenic microorganisms to assimilate essential nutrients from their hosts is critical for pathogenesis. Here we report endothelial zinc sequestration by the major human fungal pathogen, Candida albicans. We hypothesised that, analogous to siderophore-mediated iron acquisition, C. albicans utilises an extracellular zinc scavenger for acquiring this essential metal. We postulated that such a "zincophore" system would consist of a secreted factor with zinc-binding properties, which can specifically reassociate with the fungal cell surface. In silico analysis of the C. albicans secretome for proteins with zinc binding motifs identified the pH-regulated antigen 1 (Pra1). Three-dimensional modelling of Pra1 indicated the presence of at least two zinc coordination sites. Indeed, recombinantly expressed Pra1 exhibited zinc binding properties in vitro. Deletion of PRA1 in C. albicans prevented fungal sequestration and utilisation of host zinc, and specifically blocked host cell damage in the absence of exogenous zinc. Phylogenetic analysis revealed that PRA1 arose in an ancient fungal lineage and developed synteny with ZRT1 (encoding a zinc transporter) before divergence of the Ascomycota and Basidiomycota. Structural modelling indicated physical interaction between Pra1 and Zrt1 and we confirmed this experimentally by demonstrating that Zrt1 was essential for binding of soluble Pra1 to the cell surface of C. albicans. Therefore, we have identified a novel metal acquisition system consisting of a secreted zinc scavenger ("zincophore"), which reassociates with the fungal cell. Furthermore, functional similarities with phylogenetically unrelated prokaryotic systems indicate that syntenic zinc acquisition loci have been independently selected during evolution.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

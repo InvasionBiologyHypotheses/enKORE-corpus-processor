@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60394822</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q60394822</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6194134</dc:identifier>
+  <dc:identifier>doi:10.1038/S41396-018-0202-1</dc:identifier>
+  <dc:title>Stochastic processes govern invasion success in microbial communities when the invader is phylogenetically close to resident bacteria</dc:title>
+  <dc:creator>Kinnunen, Marta</dc:creator>
+  <dc:creator>Kinnunen, Marta</dc:creator>
+  <dc:creator>Dechesne, Arnaud</dc:creator>
+  <dc:creator>Dechesne, Arnaud</dc:creator>
+  <dc:creator>Albrechtsen, Hans-Jørgen</dc:creator>
+  <dc:creator>Albrechtsen, Hans-Jørgen</dc:creator>
+  <dc:creator>Smets, Barth F</dc:creator>
+  <dc:creator>Smets, Barth F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>stochastic process</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

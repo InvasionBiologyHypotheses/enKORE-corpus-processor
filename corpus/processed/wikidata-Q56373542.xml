@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56373542</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56373542</dc:identifier>
+  <dc:identifier>doi:10.1016/J.ADHOC.2016.09.005</dc:identifier>
+  <dc:title>Design of a force-based controlled mobility on aerial vehicles for pest management</dc:title>
+  <dc:creator>Reynaud, Laurent</dc:creator>
+  <dc:creator>Guérin-Lassous, Isabelle</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

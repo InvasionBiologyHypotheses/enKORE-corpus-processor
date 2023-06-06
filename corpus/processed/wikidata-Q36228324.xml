@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36228324</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36228324</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5161360</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0168365</dc:identifier>
+  <dc:title>Do David and Goliath Play the Same Game? Explanation of the Abundance of Rare and Frequent Invasive Alien Plants in Urban Woodlands in Warsaw, Poland</dc:title>
+  <dc:creator>Obidziński, Artur</dc:creator>
+  <dc:creator>Mędrzycki, Piotr</dc:creator>
+  <dc:creator>Kołaczkowska, Ewa</dc:creator>
+  <dc:creator>Ciurzycki, Wojciech</dc:creator>
+  <dc:creator>Marciszewska, Katarzyna</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>urbanization</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
+  <dc:subject>Poland</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasive Alien Plants occur in numbers differing by orders of magnitude at subsequent invasion stages. Effective sampling and quantifying niches of rare invasive plants are quite problematic. The aim of this paper is an estimation of the influence of invasive plants frequency on the explanation of their local abundance. We attempted to achieve it through: (1) assessment of occurrence of self-regenerating invasive plants in urban woodlands, (2) comparison of Random Forest modelling results for frequent and rare species. We hypothesized that the abundance of frequent species would be explained better than that of rare ones and that both rare and frequent species share a common hierarchy of the most important determinants. We found 15 taxa in almost two thirds of 1040 plots with a total number of 1068 occurrences. There were recorded 6 taxa of high frequency-Prunus serotina, Quercus rubra, Acer negundo, Robinia pseudoacacia, Impatiens parviflora and Solidago spp.-and 9 taxa of low frequency: Acer saccharinum, Amelanchier spicata, Cornus spp., Fraxinus spp., Parthenocissus spp., Syringa vulgaris, Echinocystis lobata, Helianthus tuberosus, Reynoutria spp. Random Forest's models' quality grows with the number of occurrences of frequent taxa but not of the rare ones. Both frequent and rare taxa share a similar hierarchy of predictors' importance: Land use &gt; Tree stand &gt; Seed source and, for frequent taxa, Forest properties as well. We conclude that there is an 'explanation jump' at higher species frequencies, but rare species are surprisingly similar to frequent ones in their determinant's hierarchy, with differences conforming with their respective stages of invasion.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

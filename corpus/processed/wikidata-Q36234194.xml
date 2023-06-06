@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36234194</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36234194</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180588</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.2778</dc:identifier>
+  <dc:title>A review and meta-analysis of the enemy release hypothesis in plant-herbivorous insect systems</dc:title>
+  <dc:creator>Meijer, Kim</dc:creator>
+  <dc:creator>Schilthuizen, Menno</dc:creator>
+  <dc:creator>Beukeboom, Leo</dc:creator>
+  <dc:creator>Smit, Christian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>herbivory</dc:subject>
+  <dc:subject>meta-analysis</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>A suggested mechanism for the success of introduced non-native species is the enemy release hypothesis (ERH). Many studies have tested the predictions of the ERH using the community approach (native and non-native species studied in the same habitat) or the biogeographical approach (species studied in their native and non-native range), but results are highly variable, possibly due to large variety of study systems incorporated. We therefore focused on one specific system: plants and their herbivorous insects. We performed a systematic review and compiled a large number (68) of datasets from studies comparing herbivorous insects on native and non-native plants using the community or biogeographical approach. We performed a meta-analysis to test the predictions from the ERH for insect diversity (number of species), insect load (number of individuals) and level of herbivory for both the community and biogeographical approach. For both the community and biogeographical approach insect diversity was significantly higher on native than on non-native plants. Insect load tended to be higher on native than non-native plants at the community approach only. Herbivory was not different between native and non-native plants at the community approach, while there was too little data available for testing the biogeographical approach. Our meta-analysis generally supports the predictions from the ERH for both the community and biogeographical approach, but also shows that the outcome is importantly determined by the response measured and approach applied. So far, very few studies apply both approaches simultaneously in a reciprocal manner while this is arguably the best way for testing the ERH.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

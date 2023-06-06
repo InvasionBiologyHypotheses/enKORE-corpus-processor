@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30855115</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30855115</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177997</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0108428</dc:identifier>
+  <dc:title>Transient receptor potential is essential for high temperature tolerance in invasive Bemisia tabaci Middle East Asia minor 1 cryptic species</dc:title>
+  <dc:creator>Lü, Zhi-Chuang</dc:creator>
+  <dc:creator>Li, Qian</dc:creator>
+  <dc:creator>Liu, Wan-Xue</dc:creator>
+  <dc:creator>Wan, Fang-Hao</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Middle East</dc:subject>
+  <dc:subject>cryptic species complex</dc:subject>
+  <dc:subject>Silverleaf whitefly</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Temperature is an important factor in affecting population dynamics and diffusion distribution of organisms. Alien species can successfully invade and colonize to various temperature environments, and one of important reasons is that alien species have a strong resistance to stress temperature. Recently, researchers have focused on the mechanisms of temperature sensing to determine the sensing and regulation mechanisms of temperature adaptation. The transient receptor potential (TRP) is one of the key components of an organism's temperature perception system. TRP plays important roles in perceiving temperature, such as avoiding high temperature, low temperature and choosing the optimum temperature. To assess high temperature sensation and the heat resistance role of the TRP gene, we used 3' and 5' rapid-amplification of cDNA ends to isolate the full-length cDNA sequence of the TRP gene from Bemisia tabaci (Gennadius) MEAM1 (Middle East Asia Minor 1), examined the mRNA expression profile under various temperature conditions, and identified the heat tolerance function. This is the first study to characterize the TRP gene of invasive B. tabaci MEAM1 (MEAM1 BtTRP). The full-length cDNA of MEAM1 BtTRP was 3871 bp, and the open reading frames of BtTRP was 3501 bp, encoding 1166 amino acids. Additionally, the BtTRP mRNA expression level was significantly increased at 35°C. Furthermore, compared with control treatments, the survival rate of B. tabaci MEAM1 adults was significantly decreased under high temperature stress conditions after feeding with dsRNA BtTRP. Collectively, these results showed that MEAM1 BtTRP is a key element in sensing high temperature and plays an essential role in B. tabaci MEAM1 heat tolerance ability. Our data improved our understanding of the mechanism of temperature sensation in B. tabaci MEAM1 at the molecular level and could contribute to the understanding of the thermal biology of B. tabaci MEAM1 within the context of global climate change.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

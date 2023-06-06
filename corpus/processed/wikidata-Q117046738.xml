@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117046738</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117046738</dc:identifier>
+  <dc:identifier>doi:10.3390/LAND11112026</dc:identifier>
+  <dc:title>The Importance of Very-High-Resolution Imagery to Map Invasive Plant Species: Evidence from Galapagos</dc:title>
+  <dc:creator>Carrión-Klier, Carolina</dc:creator>
+  <dc:creator>Moity, Nicolas</dc:creator>
+  <dc:creator>Sevilla, Christian</dc:creator>
+  <dc:creator>Rueda, Danny</dc:creator>
+  <dc:creator>Jäger, Heinke</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-11-12</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive species are one of the main threats to biodiversity worldwide, and the Galapagos Islands are no exception. With the need to control many invasive plant species, accurate distribution maps of invasive plant species are crucial for cost-effective management actions. To guide the selection of appropriate multispectral satellite imagery for this, we evaluated the effects that spatial resolution has on the mapping accuracy of the most invasive plant species in Galapagos with different “growth forms”: (1) tall tree: Cuban cedar (Cedrela odorata), (2) medium tree: guava (Psidium guajava), and (3) shrub: blackberry (Rubus niveus). We developed a mapping methodology based on very high resolution (VHR, WorldView-2) imagery and visual interpretation from orthophotos obtained from unmanned aerial vehicles for training and validation. We then compared our VHR mapping results with medium resolution (MR, Landsat) mapping results and calculated the overall accuracy (OA) and Kappa from confusion matrices for each target species and resolution based on the visual interpretation of Google Earth imagery. The results showed that the OA of the maps produced with VHR was significantly higher than the ones produced with MR. The OA was higher for the tall tree growth form, followed by the shrub and the medium tree growth form. Kappa estimates of &lt;0.5 for MR for the medium tree and shrub growth forms demonstrated its unsuitability for accurate mapping. While MR may be sufficient for mapping the tall tree growth form, we concluded that VHR is indispensable for mapping the medium tree and shrub growth forms.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

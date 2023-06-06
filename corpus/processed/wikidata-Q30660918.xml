@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30660918</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30660918</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0066071</dc:identifier>
+  <dc:title>Pathogen-host associations and predicted range shifts of human monkeypox in response to climate change in central Africa</dc:title>
+  <dc:creator>Thomassen, Henri A</dc:creator>
+  <dc:creator>Fuller, Trevon</dc:creator>
+  <dc:creator>Asefi-Najafabady, Salvi</dc:creator>
+  <dc:creator>Shiplacoff, Julia A G</dc:creator>
+  <dc:creator>Mulembakani, Prime M</dc:creator>
+  <dc:creator>Blumberg, Seth</dc:creator>
+  <dc:creator>Johnston, Sara C</dc:creator>
+  <dc:creator>Kisalu, Neville K</dc:creator>
+  <dc:creator>Kinkela, Timothée L</dc:creator>
+  <dc:creator>Fair, Joseph N</dc:creator>
+  <dc:creator>Wolfe, Nathan D</dc:creator>
+  <dc:creator>Shongo, Robert L</dc:creator>
+  <dc:creator>LeBreton, Matthew</dc:creator>
+  <dc:creator>Meyer, Hermann</dc:creator>
+  <dc:creator>Wright, Linda L</dc:creator>
+  <dc:creator>Muyembe, Jean-Jacques</dc:creator>
+  <dc:creator>Buermann, Wolfgang</dc:creator>
+  <dc:creator>Okitolonda, Emile</dc:creator>
+  <dc:creator>Hensley, Lisa E</dc:creator>
+  <dc:creator>O Lloyd-Smith, James</dc:creator>
+  <dc:creator>Smith, Thomas B</dc:creator>
+  <dc:creator>Rimoin, Anne W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-07-31</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>climate mitigation</dc:subject>
+  <dc:subject>mpox</dc:subject>
+  <dc:subject>monkeypox virus</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Climate change is predicted to result in changes in the geographic ranges and local prevalence of infectious diseases, either through direct effects on the pathogen, or indirectly through range shifts in vector and reservoir species. To better understand the occurrence of monkeypox virus (MPXV), an emerging Orthopoxvirus in humans, under contemporary and future climate conditions, we used ecological niche modeling techniques in conjunction with climate and remote-sensing variables. We first created spatially explicit probability distributions of its candidate reservoir species in Africa's Congo Basin. Reservoir species distributions were subsequently used to model current and projected future distributions of human monkeypox (MPX). Results indicate that forest clearing and climate are significant driving factors of the transmission of MPX from wildlife to humans under current climate conditions. Models under contemporary climate conditions performed well, as indicated by high values for the area under the receiver operator curve (AUC), and tests on spatially randomly and non-randomly omitted test data. Future projections were made on IPCC 4(th) Assessment climate change scenarios for 2050 and 2080, ranging from more conservative to more aggressive, and representing the potential variation within which range shifts can be expected to occur. Future projections showed range shifts into regions where MPX has not been recorded previously. Increased suitability for MPX was predicted in eastern Democratic Republic of Congo. Models developed here are useful for identifying areas where environmental conditions may become more suitable for human MPX; targeting candidate reservoir species for future screening efforts; and prioritizing regions for future MPX surveillance efforts.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q90851797</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q90851797</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS8100424</dc:identifier>
+  <dc:title>Climatic Niche Shift during Azolla filiculoides Invasion and Its Potential Distribution under Future Scenarios</dc:title>
+  <dc:creator>Rodríguez-Merino, Argantonio</dc:creator>
+  <dc:creator>Fernández-Zamudio, Rocío</dc:creator>
+  <dc:creator>García-Murillo, Pablo</dc:creator>
+  <dc:creator>Muñoz, Jesús</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-10-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>niche shift</dc:subject>
+  <dc:subject>Azolla filiculoides</dc:subject>
+  <dc:subject>climatic niche</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>In order to prevent future biological invasions, it is crucial to know non-native species distributions. We evaluated the potential global distribution of Azolla filiculoides, a free-floating macrophyte native to the Americas by using species distribution models and niche equivalency tests to analyze the degree of niche overlap between the native and invaded ranges of the species. The models were projected under two future emission scenarios, three global circulation models and two time periods. Our results indicate a possible niche shift between the distribution ranges of the species, indicating that A. filiculoides can adapt to novel environmental conditions derived from climatic differences during the invasion process. Our models also show that the future potential distribution of A. filiculoides will decrease globally, although the species could colonize new vulnerable regions where it is currently absent. We highlight that species occurrence records in the invaded area are necessary to generate accurate models, which will, in turn, improve our ability to predict potential invasion risk areas.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

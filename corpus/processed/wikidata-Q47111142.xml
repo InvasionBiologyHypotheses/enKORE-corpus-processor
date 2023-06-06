@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q47111142</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q47111142</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5719419</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-17505-9</dc:identifier>
+  <dc:title>Profiling invasive Plasmodium falciparum merozoites using an integrated omics approach.</dc:title>
+  <dc:creator>Kumar, Krishan</dc:creator>
+  <dc:creator>Srinivasan, Prakash</dc:creator>
+  <dc:creator>Nold, Michael J</dc:creator>
+  <dc:creator>Moch, J Kathleen</dc:creator>
+  <dc:creator>Reiter, Karine</dc:creator>
+  <dc:creator>Sturdevant, Dan</dc:creator>
+  <dc:creator>Otto, Thomas D</dc:creator>
+  <dc:creator>Squires, R Burke</dc:creator>
+  <dc:creator>Herrera, Raul</dc:creator>
+  <dc:creator>Nagarajan, Vijayaraj</dc:creator>
+  <dc:creator>Rayner, Julian C</dc:creator>
+  <dc:creator>Porcella, Stephen F</dc:creator>
+  <dc:creator>Geromanos, Scott J</dc:creator>
+  <dc:creator>Haynes, J David</dc:creator>
+  <dc:creator>Narum, David L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-12-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe symptoms of malaria are brought about by blood-stage parasites, which are established when merozoites invade human erythrocytes. Our understanding of the molecular events that underpin erythrocyte invasion remains hampered by the short-period of time that merozoites are invasive. To address this challenge, a Plasmodium falciparum gamma-irradiated long-lived merozoite (LLM) line was developed and investigated. Purified LLMs invaded erythrocytes by an increase of 10–300 fold compared to wild-type (WT) merozoites. Using an integrated omics approach, we investigated the basis for the phenotypic difference. Only a few single nucleotide polymorphisms within the P. falciparum genome were identified and only marginal differences were observed in the merozoite transcriptomes. By contrast, using label-free quantitative mass-spectrometry, a significant change in protein abundance was noted, of which 200 were proteins of unknown function. We determined the relative molar abundance of over 1100 proteins in LLMs and further characterized the major merozoite surface protein complex. A unique processed MSP1 intermediate was identified in LLM but not observed in WT suggesting that delayed processing may be important for the observed phenotype. This integrated approach has demonstrated the significant role of the merozoite proteome during erythrocyte invasion, while identifying numerous unknown proteins likely to be involved in invasion.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

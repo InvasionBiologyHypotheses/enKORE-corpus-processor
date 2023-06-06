@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104690659</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104690659</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7751434</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.10237</dc:identifier>
+  <dc:title>Use of next generation sequencing to compare simple habitat and species level differences in the gut microbiota of an invasive and native freshwater fish species</dc:title>
+  <dc:creator>Gallo, Benjamin D</dc:creator>
+  <dc:creator>Farrell, John M</dc:creator>
+  <dc:creator>Leydet, Brian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Research on the gut microbiome of host organisms has rapidly advanced with next generation sequencing (NGS) and high-performance computing capabilities. Nonetheless, gut microbiome research has focused on mammalian organisms in laboratory settings, and investigations pertaining to wild fish gut microbiota remain in their infancy. We applied a procedure (available at https://github.com/bngallo1994) for sampling of the fish gut for use in NGS to describe microbial community structure. Our approach allowed for high bacterial OTU diversity coverage (&gt;99.7%, Good’s Coverage) that led to detection of differences in gut microbiota of an invasive (Round Goby) and native (Yellow Bullhead) fish species and collected from the upper St. Lawrence River, an environment where the gut microbiota of fish had not previously been tested. Additionally, results revealed habitat level differences in gut microbiota using two distance metrics (Unifrac, Bray–Curtis) between nearshore littoral and offshore profundal collections of Round Goby. Species and habitat level differences in intestinal microbiota may be of importance in understanding individual and species variation and its importance in regulating fish health and physiology.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

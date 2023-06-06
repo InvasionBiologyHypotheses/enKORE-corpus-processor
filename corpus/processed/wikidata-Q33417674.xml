@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33417674</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33417674</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652825</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0004823</dc:identifier>
+  <dc:title>Cage matching: head to head competition experiments of an invasive plant species from different regions as a means to test for differentiation</dc:title>
+  <dc:creator>Lortie, Christopher J</dc:creator>
+  <dc:creator>Munshaw, Michael</dc:creator>
+  <dc:creator>Zikovitz, Andrea</dc:creator>
+  <dc:creator>Hierro, Jose</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-03-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Many hypotheses are prevalent in the literature predicting why some plant species can become invasive. However, in some respects, we lack a standard approach to compare the breadth of various studies and differentiate between alternative explanations. Furthermore, most of these hypotheses rely on 'changes in density' of an introduced species to infer invasiveness. Here, we propose a simple method to screen invasive plant species for potential differences in density effects between novel regions. Studies of plant competition using density series are a fundamental tool applied to virtually every aspect of plant population ecology to better understand evolution. Hence, we use a simple density series with substitution contrasting the performance of Centaurea solstitialis in monoculture (from one region) to mixtures (seeds from two regions). All else being equal, if there is no difference between the introduced species in the two novel regions compared, Argentina and California, then there should be no competitive differences between intra and inter-regional competition series. Using a replicated regression design, seeds of each species were sown in the greenhouse at 5 densities in monoculture and mixed and grown till onset of flowering. Centaurea seeds from California had higher germination while seedlings had significantly greater survival than Argentina. There was no evidence for density dependence in any measure for the California region but negative density dependence was detected in the germination of seeds from Argentina. The relative differences in competition also differed between regions with no evidence of differential competitive effects of seeds from Argentina in mixture versus monoculture while seeds from California expressed a relative cost in germination and relative growth rate in mixtures with Argentina. In the former instance, lack of difference does not mean 'no ecological differences' but does suggest that local adaptation in competitive abilities has not occurred. Importantly, this method successfully detected differences in the response of an invasive species to changes in density between novel regions which suggests that it is a useful preliminary means to explore invasiveness.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

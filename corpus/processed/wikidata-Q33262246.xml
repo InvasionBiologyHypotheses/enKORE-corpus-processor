@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33262246</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33262246</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1629039</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PBIO.0040372</dc:identifier>
+  <dc:title>Phenotypic plasticity opposes species invasions by altering fitness surface</dc:title>
+  <dc:creator>Peacor, Scott D</dc:creator>
+  <dc:creator>Allesina, Stefano</dc:creator>
+  <dc:creator>Riolo, Rick L</dc:creator>
+  <dc:creator>Pascual, Mercedes</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-10-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>phenotypic plasticity</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding species invasion is a central problem in ecology because invasions of exotic species severely impact ecosystems, and because invasions underlie fundamental ecological processes. However, the influence on invasions of phenotypic plasticity, a key component of many species interactions, is unknown. We present a model in which phenotypic plasticity of a resident species increases its ability to oppose invaders, and plasticity of an invader increases its ability to displace residents. Whereas these effects are expected due to increased fitness associated with phenotypic plasticity, the model additionally reveals a new and unforeseen mechanism by which plasticity affects invasions: phenotypic plasticity increases the steepness of the fitness surface, thereby making invasion more difficult, even by phenotypically plastic invaders. Our results should apply to phenotypically plastic responses to any fluctuating environmental factors including predation risk, and to other factors that affect the fitness surface such as the generalism of predators. We extend the results to competition, and argue that phenotypic plasticity's effect on the fitness surface will destabilize coexistence at local scales, but stabilize coexistence at regional scales. Our study emphasizes the need to incorporate variable interaction strengths due to phenotypic plasticity into invasion biology and ecological theory on competition and coexistence in fragmented landscapes.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

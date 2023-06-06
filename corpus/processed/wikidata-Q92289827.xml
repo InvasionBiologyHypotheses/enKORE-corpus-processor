@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92289827</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92289827</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6934813</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-019-56421-Y</dc:identifier>
+  <dc:title>Integrated transcriptomic and functional immunological approach for assessing the invasiveness of bivalve alien species</dc:title>
+  <dc:creator>Romero, Alejandro</dc:creator>
+  <dc:creator>Aranguren, Raquel</dc:creator>
+  <dc:creator>Moreira, Rebeca</dc:creator>
+  <dc:creator>Novoa, Beatriz</dc:creator>
+  <dc:creator>Figueras, Antonio</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-12-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractBiological invasions started when humans moved species beyond their normal geographic limits. Bivalves are the most notoriously invasive species in subtidal aquatic environments. Next-generation sequencing technologies are applied to understand the molecular mechanisms involved in the invasion. The ecological immunology focuses on the role of immunity in invasion, and its magnitude could help to predict the invasiveness of alien species. A remarkable case of invasion has been reported in the Ría de Vigo (Spain) by the black pygmy mussel Xenostrobus securis. In Galicia, the Mediterranean mussel Mytilus galloprovincialis is the predominant cultured bivalve species. Can we predict the invasiveness of alien bivalve species by analyzing their immune response? Can X. securis represent a risk for the autochthonous mussel? We evaluated the suitability of the immune-related hypotheses in our model by using an integrated transcriptomic and functional immunological approach. Our analysis suggests lower immune capabilities in X. securis compared to M. galloprovincialis, probably due to the relocation of energetic resources from the immune response to vital physiological processes to cope with salinity stress. This multidisciplinary approach will help us understand how the immune response can be influenced by the adaptive process and how this immune response can influence the invasion process.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

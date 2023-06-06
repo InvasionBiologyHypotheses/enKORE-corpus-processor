@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64065238</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64065238</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456608</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-019-41947-Y</dc:identifier>
+  <dc:title>The effect of autophagy on the survival and invasive activity of Eimeria tenella sporozoites</dc:title>
+  <dc:creator>Qi, Nanshan</dc:creator>
+  <dc:creator>Liao, Shenquan</dc:creator>
+  <dc:creator>Abuzeid, Asmaa M I</dc:creator>
+  <dc:creator>Li, Juan</dc:creator>
+  <dc:creator>Wu, Caiyan</dc:creator>
+  <dc:creator>Lv, Minna</dc:creator>
+  <dc:creator>Lin, Xuhui</dc:creator>
+  <dc:creator>Hu, Junjing</dc:creator>
+  <dc:creator>Yu, Linzeng</dc:creator>
+  <dc:creator>Xiao, Wenwan</dc:creator>
+  <dc:creator>Sun, Mingfei</dc:creator>
+  <dc:creator>Li, Guoqing</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-04-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>autophagy</dc:subject>
+  <dc:subject>Eimeria tenella</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractAutophagy is a cellular process that is vital for the maintenance of homeostasis in eukaryotic cells. Currently, autophagy-related genes (atgs) in the Eimeria tenella genome database have been reported, but very little is known about the effects of autophagy on the survival and invasive activity of this protozoan. In this study, we investigated the autophagy in E. tenella sporozoites under starvation and autophagy-modulators treatments and evaluated the autophagy influence on cellular adenosine triphosphate (ATP) levels, the survival rate and the invasive activity of the sporozoites. The results showed that the autophagy could be induced in the sporozoites by starvation or inducer rapamycin (RP), but it could be inhibited by 3-methyladenine (3-MA) treatment. The sporozoites after starvation and RP-treatment displayed punctate signals of EtATG8 and formed autophagosomes. The survival rate of the sporozoites under starvation was significantly lower than that in the control group, whereas the ATP levels in sporozoite were far greater than those in the control. The quantitative real-time reverse transcriptase polymerase chain reaction (qRT-PCR) showed that the invasive activity of the sporozoites was up- and down-regulated by RP and 3-MA induction, respectively. Our results indicate that autophagy has effects on the survival and invasive activity of E. tenella sporozoites, which may provide new insights into anti-coccidial drugs.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

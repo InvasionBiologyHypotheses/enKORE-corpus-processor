@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30009080</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30009080</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP15688</dc:identifier>
+  <dc:title>TGF-β2 induces Grb2 to recruit PI3-K to TGF-RII that activates JNK/AP-1-signaling and augments invasiveness of Theileria-transformed macrophages</dc:title>
+  <dc:creator>Haidar, Malak</dc:creator>
+  <dc:creator>Whitworth, Jessie</dc:creator>
+  <dc:creator>Noé, Gaelle</dc:creator>
+  <dc:creator>Liu, Wang Qing</dc:creator>
+  <dc:creator>Vidal, Michel</dc:creator>
+  <dc:creator>Langsley, Gordon</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-10-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>macrophage</dc:subject>
+  <dc:subject>invasiveness</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractTheileria-infected macrophages display many features of cancer cells such as heightened invasive capacity; however, the tumor-like phenotype is reversible by killing the parasite. Moreover, virulent macrophages can be attenuated by multiple in vitro passages and so provide a powerful model to elucidate mechanisms related to transformed macrophage virulence. Here, we demonstrate that in two independent Theileria-transformed macrophage cell lines Grb2 expression is down-regulated concomitant with loss of tumor virulence. Using peptidimer-c to ablate SH2 and SH3 interactions of Grb2 we identify TGF-receptor II and the p85 subunit of PI3-K, as Grb2 partners in virulent macrophages. Ablation of Grb2 interactions reduces PI3-K recruitment to TGF-RII and decreases PIP3 production and dampens JNK phosphorylation and AP-1-driven transcriptional activity down to levels characteristic of attenuated macrophages. Loss of TGF-R&gt;PI3-K&gt;JNK&gt;AP-1 signaling negatively impacts on virulence traits such as reduced JAM-L/ITG4A and Fos-B/MMP9 expression that contribute to virulent macrophage adhesion and invasiveness.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

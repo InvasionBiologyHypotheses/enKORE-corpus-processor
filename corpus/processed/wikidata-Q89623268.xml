@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q89623268</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q89623268</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6985037</dc:identifier>
+  <dc:identifier>doi:10.3389/FBIOE.2019.00454</dc:identifier>
+  <dc:title>Regulation of GM Organisms for Invasive Species Control</dc:title>
+  <dc:creator>Mitchell, Heidi J</dc:creator>
+  <dc:creator>Bartsch, Detlef</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Invasive species can cause significant harm to the environment, agriculture, and human health, but there are often very limited tools available to control their populations. Gene drives (GD) have been proposed as a new tool which could be used to control or eliminate such species. Here, GD describes a variety of molecular biology applications which all enable the introduction of genetic elements at a higher than expected frequency. These elements can change the genotypes in target populations rapidly with consequences either for (intrinsic) fitness or host-parasite interaction, or both. Beneficial applications are foreseen for human and animal health, agriculture, or nature conservation. This rapidly developing technology is likely to have major impacts in the fight against various diseases, pests, and invasive species. The majority of GD applications involve genetic engineering and novel traits. Therefore, applicants and GMO regulators need to interact to achieve the benefits in innovation while cautiously avoiding unacceptable risks. The release into the environment may include transboundary movement and replacement of target populations, with potential impact on human/animal health and the environment. This article summarizes knowledge-based discussions to identify information gaps and analyzes scenarios for responsible introduction of GD organisms into the environment. It aims to connect the latest scientific developments with regulatory approaches and decision-making.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

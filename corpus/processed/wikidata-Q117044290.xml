@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117044290</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117044290</dc:identifier>
+  <dc:identifier>doi:10.1017/EXT.2023.1</dc:identifier>
+  <dc:title>Invasive species eradication: How do we declare success?</dc:title>
+  <dc:creator>Ramsey, David S L</dc:creator>
+  <dc:creator>Anderson, P.</dc:creator>
+  <dc:creator>Gormley, Andrew M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-07-02</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
+  <dc:description>Abstract
+	  Deciding whether or not eradication of an invasive species has been successful is one of the main dilemmas facing managers of eradication programmes. When the species is no longer being detected, a decision must be made about when to stop the eradication programme and declare success. In practice, this decision is usually based on ad hoc rules, which may be inefficient. Since surveillance undertaken to confirm species absence is imperfect, any declaration of eradication success must consider the risk and the consequences of being wrong. If surveillance is insufficient, then eradication may be falsely declared (a Type I error), whereas continuation of surveillance when eradication has already occurred wastes resources (a Type II error). We review the various methods that have been developed for quantifying these errors and incorporating them into the decision-making process. We conclude with an overview of future developments likely to improve the practice of determining invasive species eradication success.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

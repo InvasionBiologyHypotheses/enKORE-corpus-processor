@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35922373</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35922373</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4752494</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1005450</dc:identifier>
+  <dc:title>Resistance to Bacillus thuringiensis Mediated by an ABC Transporter Mutation Increases Susceptibility to Toxins from Other Bacteria in an Invasive Insect</dc:title>
+  <dc:creator>Xiao, Yutao</dc:creator>
+  <dc:creator>Liu, Kaiyu</dc:creator>
+  <dc:creator>Zhang, Dandan</dc:creator>
+  <dc:creator>Gong, Lingling</dc:creator>
+  <dc:creator>He, Fei</dc:creator>
+  <dc:creator>Soberón, Mario</dc:creator>
+  <dc:creator>Bravo, Alejandra</dc:creator>
+  <dc:creator>Tabashnik, Bruce E</dc:creator>
+  <dc:creator>Wu, Kongming</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Bacillus thuringiensis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive insect</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Evolution of pest resistance reduces the efficacy of insecticidal proteins from the gram-positive bacterium Bacillus thuringiensis (Bt) used widely in sprays and transgenic crops. Recent efforts to delay pest adaptation to Bt crops focus primarily on combinations of two or more Bt toxins that kill the same pest, but this approach is often compromised because resistance to one Bt toxin causes cross-resistance to others. Thus, integration of Bt toxins with alternative controls that do not exhibit such cross-resistance is urgently needed. The ideal scenario of negative cross-resistance, where selection for resistance to a Bt toxin increases susceptibility to alternative controls, has been elusive. Here we discovered that selection of the global crop pest, Helicoverpa armigera, for &gt;1000-fold resistance to Bt toxin Cry1Ac increased susceptibility to abamectin and spineotram, insecticides derived from the soil bacteria Streptomyces avermitilis and Saccharopolyspora spinosa, respectively. Resistance to Cry1Ac did not affect susceptibility to the cyclodiene, organophospate, or pyrethroid insecticides tested. Whereas previous work demonstrated that the resistance to Cry1Ac in the strain analyzed here is conferred by a mutation disrupting an ATP-binding cassette protein named ABCC2, the new results show that increased susceptibility to abamectin is genetically linked with the same mutation. Moreover, RNAi silencing of HaABCC2 not only decreased susceptibility to Cry1Ac, it also increased susceptibility to abamectin. The mutation disrupting ABCC2 reduced removal of abamectin in live larvae and in transfected Hi5 cells. The results imply that negative cross-resistance occurs because the wild type ABCC2 protein plays a key role in conferring susceptibility to Cry1Ac and in decreasing susceptibility to abamectin. The negative cross-resistance between a Bt toxin and other bacterial insecticides reported here may facilitate more sustainable pest control.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

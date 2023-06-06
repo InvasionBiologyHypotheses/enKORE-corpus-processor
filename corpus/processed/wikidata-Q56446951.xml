@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56446951</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56446951</dc:identifier>
+  <dc:identifier>doi:10.1111/JVS.12199</dc:identifier>
+  <dc:title>Patterns of phylogenetic diversity are linked to invasion impacts, not invasion resistance, in a native grassland</dc:title>
+  <dc:creator>Bennett, Jonathan A.</dc:creator>
+  <dc:creator>Stotz, Gisela C.</dc:creator>
+  <dc:creator>Cahill, James F.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-05-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>biotic resistance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>grassland</dc:subject>
+  <dc:subject>phylogenetics</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>invasion resistance</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35431470</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35431470</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398364</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PBIO.1002130</dc:identifier>
+  <dc:title>Classification of non-indigenous species based on their impacts: considerations for application in marine management</dc:title>
+  <dc:creator>Ojaveer, Henn</dc:creator>
+  <dc:creator>Galil, Bella S</dc:creator>
+  <dc:creator>Campbell, Marnie L</dc:creator>
+  <dc:creator>Carlton, James T</dc:creator>
+  <dc:creator>Canning-Clode, João</dc:creator>
+  <dc:creator>Cook, Elizabeth J</dc:creator>
+  <dc:creator>Davidson, Alisha D</dc:creator>
+  <dc:creator>Hewitt, Chad L</dc:creator>
+  <dc:creator>Jelmert, Anders</dc:creator>
+  <dc:creator>Marchini, Agnese</dc:creator>
+  <dc:creator>McKenzie, Cynthia H</dc:creator>
+  <dc:creator>Minchin, Dan</dc:creator>
+  <dc:creator>Occhipinti-Ambrogi, Anna</dc:creator>
+  <dc:creator>Olenin, Sergej</dc:creator>
+  <dc:creator>Ruiz, Gregory M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Assessment of the ecological and economic/societal impacts of the introduction of non-indigenous species (NIS) is one of the primary focus areas of bioinvasion science in terrestrial and aquatic environments, and is considered essential to management. A classification system of NIS, based on the magnitude of their environmental impacts, was recently proposed to assist management. Here, we consider the potential application of this classification scheme to the marine environment, and offer a complementary framework focussing on value sets in order to explicitly address marine management concerns. Since existing data on marine NIS impacts are scarce and successful marine removals are rare, we propose that management of marine NIS adopt a precautionary approach, which not only would emphasise preventing new incursions through pre-border and at-border controls but also should influence the categorisation of impacts. The study of marine invasion impacts requires urgent attention and significant investment, since we lack the luxury of waiting for the knowledge base to be acquired before the window of opportunity closes for feasible management.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

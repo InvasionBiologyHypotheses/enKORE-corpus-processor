@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27230072</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27230072</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1630708</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.0020117</dc:identifier>
+  <dc:title>Falstatin, a cysteine protease inhibitor of Plasmodium falciparum, facilitates erythrocyte invasion</dc:title>
+  <dc:creator>Pandey, Kailash C</dc:creator>
+  <dc:creator>Singh, Naresh</dc:creator>
+  <dc:creator>Arastu-Kapur, Shirin</dc:creator>
+  <dc:creator>Bogyo, Matthew</dc:creator>
+  <dc:creator>Rosenthal, Philip J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>falstatin</dc:subject>
+  <dc:subject>inhibitor of cysteine proteases</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Erythrocytic malaria parasites utilize proteases for a number of cellular processes, including hydrolysis of hemoglobin, rupture of erythrocytes by mature schizonts, and subsequent invasion of erythrocytes by free merozoites. However, mechanisms used by malaria parasites to control protease activity have not been established. We report here the identification of an endogenous cysteine protease inhibitor of Plasmodium falciparum, falstatin, based on modest homology with the Trypanosoma cruzi cysteine protease inhibitor chagasin. Falstatin, expressed in Escherichia coli, was a potent reversible inhibitor of the P. falciparum cysteine proteases falcipain-2 and falcipain-3, as well as other parasite- and nonparasite-derived cysteine proteases, but it was a relatively weak inhibitor of the P. falciparum cysteine proteases falcipain-1 and dipeptidyl aminopeptidase 1. Falstatin is present in schizonts, merozoites, and rings, but not in trophozoites, the stage at which the cysteine protease activity of P. falciparum is maximal. Falstatin localizes to the periphery of rings and early schizonts, is diffusely expressed in late schizonts and merozoites, and is released upon the rupture of mature schizonts. Treatment of late schizionts with antibodies that blocked the inhibitory activity of falstatin against native and recombinant falcipain-2 and falcipain-3 dose-dependently decreased the subsequent invasion of erythrocytes by merozoites. These results suggest that P. falciparum requires expression of falstatin to limit proteolysis by certain host or parasite cysteine proteases during erythrocyte invasion. This mechanism of regulation of proteolysis suggests new strategies for the development of antimalarial agents that specifically disrupt erythrocyte invasion.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

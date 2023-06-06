@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q41620260</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q41620260</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5585233</dc:identifier>
+  <dc:identifier>doi:10.1038/S41467-017-00626-0</dc:identifier>
+  <dc:title>Lineage overwhelms environmental conditions in determining rhizosphere bacterial community structure in a cosmopolitan invasive plant.</dc:title>
+  <dc:creator>Bowen, Jennifer L</dc:creator>
+  <dc:creator>Kearns, Patrick J</dc:creator>
+  <dc:creator>Byrnes, Jarrett E K</dc:creator>
+  <dc:creator>Wigginton, Sara</dc:creator>
+  <dc:creator>Allen, Warwick J</dc:creator>
+  <dc:creator>Greenwood, Michael</dc:creator>
+  <dc:creator>Tran, Khang</dc:creator>
+  <dc:creator>Yu, Jennifer</dc:creator>
+  <dc:creator>Cronin, James T</dc:creator>
+  <dc:creator>Meyerson, Laura A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-09-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>rhizosphere</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractPlant–microbe interactions play crucial roles in species invasions but are rarely investigated at the intraspecific level. Here, we study these interactions in three lineages of a globally distributed plant, Phragmites australis. We use field surveys and a common garden experiment to analyze bacterial communities in the rhizosphere of P. australis stands from native, introduced, and Gulf lineages to determine lineage-specific controls on rhizosphere bacteria. We show that within-lineage bacterial communities are similar, but are distinct among lineages, which is consistent with our results in a complementary common garden experiment. Introduced P. australis rhizosphere bacterial communities have lower abundances of pathways involved in antimicrobial biosynthesis and degradation, suggesting a lower exposure to enemy attack than native and Gulf lineages. However, lineage and not rhizosphere bacterial communities dictate individual plant growth in the common garden experiment. We conclude that lineage is crucial for determination of both rhizosphere bacterial communities and plant fitness.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

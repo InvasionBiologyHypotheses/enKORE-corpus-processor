@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36384456</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36384456</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493472</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002991</dc:identifier>
+  <dc:title>Enhancing blockade of Plasmodium falciparum erythrocyte invasion: assessing combinations of antibodies against PfRH5 and other merozoite antigens</dc:title>
+  <dc:creator>Williams, Andrew R</dc:creator>
+  <dc:creator>Douglas, Alexander D</dc:creator>
+  <dc:creator>Miura, Kazutoyo</dc:creator>
+  <dc:creator>Illingworth, Joseph J</dc:creator>
+  <dc:creator>Choudhary, Prateek</dc:creator>
+  <dc:creator>Murungi, Linda M</dc:creator>
+  <dc:creator>Furze, Julie M</dc:creator>
+  <dc:creator>Diouf, Ababacar</dc:creator>
+  <dc:creator>Miotto, Olivo</dc:creator>
+  <dc:creator>Crosnier, Cécile</dc:creator>
+  <dc:creator>Wright, Gavin J</dc:creator>
+  <dc:creator>Kwiatkowski, Dominic P.</dc:creator>
+  <dc:creator>Fairhurst, Rick M</dc:creator>
+  <dc:creator>Long, Carole A</dc:creator>
+  <dc:creator>Draper, Simon J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-11-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>No vaccine has yet proven effective against the blood-stages of Plasmodium falciparum, which cause the symptoms and severe manifestations of malaria. We recently found that PfRH5, a P. falciparum-specific protein expressed in merozoites, is efficiently targeted by broadly-neutralizing, vaccine-induced antibodies. Here we show that antibodies against PfRH5 efficiently inhibit the in vitro growth of short-term-adapted parasite isolates from Cambodia, and that the EC(50) values of antigen-specific antibodies against PfRH5 are lower than those against PfAMA1. Since antibody responses elicited by multiple antigens are speculated to improve the efficacy of blood-stage vaccines, we conducted detailed assessments of parasite growth inhibition by antibodies against PfRH5 in combination with antibodies against seven other merozoite antigens. We found that antibodies against PfRH5 act synergistically with antibodies against certain other merozoite antigens, most notably with antibodies against other erythrocyte-binding antigens such as PfRH4, to inhibit the growth of a homologous P. falciparum clone. A combination of antibodies against PfRH4 and basigin, the erythrocyte receptor for PfRH5, also potently inhibited parasite growth. This methodology provides the first quantitative evidence that polyclonal vaccine-induced antibodies can act synergistically against P. falciparum antigens and should help to guide the rational development of future multi-antigen vaccines.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

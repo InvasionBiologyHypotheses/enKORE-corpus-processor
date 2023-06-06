@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114918369</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114918369</dc:identifier>
+  <dc:identifier>doi:10.3390/AGRICULTURE12111759</dc:identifier>
+  <dc:title>Potential Global Distribution of Invasive Alien Species, Anthonomus Grandis Boheman, under Current and Future Climate Using Optimal MaxEnt Model</dc:title>
+  <dc:creator>Jin, Zhenan</dc:creator>
+  <dc:creator>Yu, Wentao</dc:creator>
+  <dc:creator>Zhao, Haoxiang</dc:creator>
+  <dc:creator>Xian, Xiaoqing</dc:creator>
+  <dc:creator>Jing, Kaiting</dc:creator>
+  <dc:creator>Yang, Nianwan</dc:creator>
+  <dc:creator>Lu, Xinmin</dc:creator>
+  <dc:creator>Liu, Wanxue</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-10-25</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Boll weevil</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The boll weevil, Anthonomus grandis Boheman (Coleoptera: Curculionidae), is an invasive alien species that can damage cotton plants and cause huge economic losses in the cotton industry. Currently, A. grandis is mainly distributed in the American continent. However, few studies have indicated the distribution and modification of its suitable global habitats after undergoing climate change. Based on the 339 distribution records of A. grandis and eight bioclimatic variables, we used the optimal MaxEnt model to predict the potential global distribution of A. grandis under the current (1970–2000) and future climatic scenarios (SSP5-8.5). The annual mean temperature (bio1) and isothermality (bio3) were the two most important bioclimatic variables, which indicates that the survival of A. grandis is extremely sensitive to temperature fluctuations. Under the current scenario, the highly suitable habitats were mainly distributed in America (the USA, Mexico, Brazil, Argentina, Paraguay, and Uruguay), Africa (South Africa, Ethiopia, and Mozambique), Asia (Pakistan, India, Thailand, Burma, and China), and Oceania (Australia). In future scenarios (SSP5-8.5), the potential suitable global habitats reached the highest level in America, Africa, Asia, and Oceania in the 2090s. Our study provides a meaningful reference for researchers, quarantine officers, and governments to devise suitable management control strategies for A. grandis.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

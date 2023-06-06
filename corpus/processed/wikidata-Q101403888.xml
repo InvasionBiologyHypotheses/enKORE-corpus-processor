@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101403888</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q101403888</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7590826</dc:identifier>
+  <dc:identifier>doi:10.3389/FCIMB.2020.579833</dc:identifier>
+  <dc:title>The Growth of Eimeria tenella: Characterization and Application of Quantitative Methods to Assess Sporozoite Invasion and Endogenous Development in Cell Culture</dc:title>
+  <dc:creator>Marugan-Hernandez, Virginia</dc:creator>
+  <dc:creator>Jeremiah, Georgia</dc:creator>
+  <dc:creator>Aguiar-Martins, Kelsilandia</dc:creator>
+  <dc:creator>Burrell, Alana</dc:creator>
+  <dc:creator>Vaughan, Sue</dc:creator>
+  <dc:creator>Xia, Dong</dc:creator>
+  <dc:creator>Randle, Nadine</dc:creator>
+  <dc:creator>Tomley, Fiona</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Eimeria tenella</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>In vitro development of the complete life cycle of Eimeria species has been achieved in primary cultures of avian epithelial cells with low efficiency. The use of immortalized cell lines simplifies procedures but only allows partial development through one round of parasite invasion and intracellular replication. We have assessed the suitability of Madin-Darby Bovine Kidney (MDBK) cells to support qualitative and quantitative studies on sporozoite invasion and intracellular development of Eimeria tenella. Analysis of parasite ultrastructure by transmission electron microscopy and serial block face-scanning electron microscopy proved the suitability of the system to generate good quality schizonts and first-generation merozoites. Parasite protein expression profiles elucidated by mass spectrometry corroborated previous findings occurring during the development of the parasite such as the presence of alternative types of surface antigen at different stages and increased abundance of proteins from secretory organelles during invasion and endogenous development. Quantitative PCR (qPCR) allowed the tracking of development by detecting DNA division, whereas reverse transcription qPCR of sporozoite- and merozoite-specific genes could detect early changes before cell division and after merozoite formation, respectively. These results correlated with the analysis of development using ImageJ semi-automated image analysis of fluorescent parasites, demonstrating the suitability and reproducibility of the MDBK culture system. This systems also allowed the evaluation of the effects on invasion and development when sporozoites were pre-incubated with anticoccidial drugs, showing similar effects to those reported before. We have described through this study a series of methods and assays for the further application of this in vitro culture model to more complex studies of Eimeria including basic research on parasite cell biology and host-parasite interactions and for screening anticoccidial drugs.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

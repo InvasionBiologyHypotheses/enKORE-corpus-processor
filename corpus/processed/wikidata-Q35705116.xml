@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35705116</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35705116</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4511736</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0130965</dc:identifier>
+  <dc:title>Development and Validation of Environmental DNA (eDNA) Markers for Detection of Freshwater Turtles</dc:title>
+  <dc:creator>Davy, Christina M</dc:creator>
+  <dc:creator>Kidd, Anne G</dc:creator>
+  <dc:creator>Wilson, Chris C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-07-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>fresh water</dc:subject>
+  <dc:subject>environmental DNA</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Environmental DNA (eDNA) is a potentially powerful tool for detection and monitoring of rare species, including threatened native species and recently arrived invasive species. Here, we develop DNA primers for a suite of nine sympatric freshwater turtles, and use it to test whether turtle eDNA can be successfully detected in samples from aquaria and an outdoor pond. We also conduct a cost comparison between eDNA detection and detection through traditional survey methods, using data from field surveys at two sites in our target area. We find that eDNA from turtles can be detected using both conventional polymerase chain reaction (PCR) and quantitative PCR (qPCR), and that the cost of detection through traditional survey methods is 2-10X higher than eDNA detection for the species in our study range. We summarize necessary future steps for application of eDNA surveys to turtle monitoring and conservation and propose specific cases in which the application of eDNA could further the conservation of threatened turtle species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

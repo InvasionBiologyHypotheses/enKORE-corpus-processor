@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31159557</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31159557</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2409072</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0002441</dc:identifier>
+  <dc:title>Shifting global invasive potential of European plants with climate change</dc:title>
+  <dc:creator>Peterson, A Townsend</dc:creator>
+  <dc:creator>Stewart, Aimee</dc:creator>
+  <dc:creator>Mohamed, Kamal I</dc:creator>
+  <dc:creator>Araújo, Miguel B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-06-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Global climate change and invasions by nonnative species rank among the top concerns for agents of biological loss in coming decades. Although each of these themes has seen considerable attention in the modeling and forecasting communities, their joint effects remain little explored and poorly understood. We developed ecological niche models for 1804 species from the European flora, which we projected globally to identify areas of potential distribution, both at present and across 4 scenarios of future (2055) climates. As expected from previous studies, projections based on the CGCM1 climate model were more extreme than those based on the HadCM3 model, and projections based on the a2 emissions scenario were more extreme than those based on the b2 emissions scenario. However, less expected were the highly nonlinear and contrasting projected changes in distributional areas among continents: increases in distributional potential in Europe often corresponded with decreases on other continents, and species seeing expanding potential on one continent often saw contracting potential on others. In conclusion, global climate change will have complex effects on invasive potential of plant species. The shifts and changes identified in this study suggest strongly that biological communities will see dramatic reorganizations in coming decades owing to shifting invasive potential by nonnative species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

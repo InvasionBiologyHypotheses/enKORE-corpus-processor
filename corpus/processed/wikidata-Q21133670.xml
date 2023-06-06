@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21133670</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q21133670</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579942</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0056812</dc:identifier>
+  <dc:title>Climate and pH predict the potential range of the invasive apple snail (Pomacea insularum) in the southeastern United States</dc:title>
+  <dc:creator>Byers, James E</dc:creator>
+  <dc:creator>McDowell, William G</dc:creator>
+  <dc:creator>Dodd, Shelley R</dc:creator>
+  <dc:creator>Haynie, Rebecca S</dc:creator>
+  <dc:creator>Pintor, Lauren M</dc:creator>
+  <dc:creator>Wilde, Susan B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Pomacea insularum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Predicting the potential range of invasive species is essential for risk assessment, monitoring, and management, and it can also inform us about a species' overall potential invasiveness. However, modeling the distribution of invasive species that have not reached their equilibrium distribution can be problematic for many predictive approaches. We apply the modeling approach of maximum entropy (MaxEnt) that is effective with incomplete, presence-only datasets to predict the distribution of the invasive island apple snail, Pomacea insularum. This freshwater snail is native to South America and has been spreading in the USA over the last decade from its initial introductions in Texas and Florida. It has now been documented throughout eight southeastern states. The snail's extensive consumption of aquatic vegetation and ability to accumulate and transmit algal toxins through the food web heighten concerns about its spread. Our model shows that under current climate conditions the snail should remain mostly confined to the coastal plain of the southeastern USA where it is limited by minimum temperature in the coldest month and precipitation in the warmest quarter. Furthermore, low pH waters (pH </dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

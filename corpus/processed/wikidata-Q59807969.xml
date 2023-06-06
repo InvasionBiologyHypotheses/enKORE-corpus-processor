@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59807969</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q59807969</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258513</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0205591</dc:identifier>
+  <dc:title>A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal</dc:title>
+  <dc:creator>Butikofer, Luca</dc:creator>
+  <dc:creator>Jones, Beatrix</dc:creator>
+  <dc:creator>Sacchi, Roberto</dc:creator>
+  <dc:creator>Mangiacotti, Marco</dc:creator>
+  <dc:creator>Ji, Weihong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Biological invasions are one of the major causes of biodiversity loss worldwide. In spite of human aided (anthropogenic) dispersal being the key element in the spread of invasive species, no framework published so far accounts for its peculiar characteristics, such as very rapid dispersal and independence from the existing species distribution. We present a new method for modelling biological invasions using historical spatio-temporal records. This method first discriminates between data points of anthropogenic origin and those originating from natural dispersal, then estimates the natural dispersal kernel. We use the expectation-maximisation algorithm for the first step; we then use Ripley's K-function as a spatial similarity metric to estimate the dispersal kernel. This is done accounting for habitat suitability and providing estimates of the inference precision. Tests on simulated data show good accuracy and precision for this method, even in the presence of challenging, but realistic, limitations of data in the invasion time series, such as gaps in the survey times and low number of records. We also provide a real case application of our method using the case of Litoria frogs in New Zealand. This method is widely applicable across the field of biological invasions, epidemics and climate change induced range shifts and provides a valuable contribution to the management of such issues. Functions to implement this methodology are made available as the R package Biolinv (https://cran.r-project.org/package=Biolinv).</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

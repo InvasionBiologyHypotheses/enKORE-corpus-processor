@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35664429</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35664429</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4469326</dc:identifier>
+  <dc:identifier>doi:10.1186/S12864-015-1667-1</dc:identifier>
+  <dc:title>De novo assembly of the Carcinus maenas transcriptome and characterization of innate immune system pathways</dc:title>
+  <dc:creator>Verbruggen, Bas</dc:creator>
+  <dc:creator>Bickley, Lisa K</dc:creator>
+  <dc:creator>Santos, Eduarda M</dc:creator>
+  <dc:creator>Tyler, Charles R</dc:creator>
+  <dc:creator>Stentiford, Grant D</dc:creator>
+  <dc:creator>Bateman, Kelly S</dc:creator>
+  <dc:creator>Aerle, Ronny</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-06-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>Carcinus maenas</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>BackgroundThe European shore crab, Carcinus maenas, is used widely in biomonitoring, ecotoxicology and for studies into host-pathogen interactions. It is also an important invasive species in numerous global locations. However, the genomic resources for this organism are still sparse, limiting research progress in these fields. To address this resource shortfall we produced a C. maenas transcriptome, enabled by the progress in next-generation sequencing technologies, and applied this to assemble information on the innate immune system in this species.ResultsWe isolated and pooled RNA for twelve different tissues and organs from C. maenas individuals and sequenced the RNA using next generation sequencing on an Illumina HiSeq 2500 platform. After de novo assembly a transcriptome was generated encompassing 212,427 transcripts (153,699 loci). The transcripts were filtered, annotated and characterised using a variety of tools (including BLAST, MEGAN and RSEM) and databases (including NCBI, Gene Ontology and KEGG). There were differential patterns of expression for between 1,223 and 2,741 transcripts across tissues and organs with over-represented Gene Ontology terms relating to their specific function. Based on sequence homology to immune system components in other organisms, we show both the presence of transcripts for a series of known pathogen recognition receptors and response proteins that form part of the innate immune system, and transcripts representing the RNAi, Toll-like receptor signalling, IMD and JAK/STAT pathways.ConclusionsWe have produced an assembled transcriptome for C. maenas that provides a significant molecular resource for wide ranging studies in this species. Analysis of the transcriptome has revealed the presence of a series of known targets and functional pathways that form part of their innate immune system and illustrate tissue specific differences in their expression patterns.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

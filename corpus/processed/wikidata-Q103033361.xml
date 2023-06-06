@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q103033361</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q103033361</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042742</dc:identifier>
+  <dc:identifier>doi:10.1093/MOLBEV/MSAA306</dc:identifier>
+  <dc:title>The evolutionary dynamics of genetic incompatibilities introduced by duplicated genes in Arabidopsis thaliana</dc:title>
+  <dc:creator>Jiao, Wen-Biao</dc:creator>
+  <dc:creator>Patel, Vipul</dc:creator>
+  <dc:creator>Klasen, Jonas</dc:creator>
+  <dc:creator>Liu, Fang</dc:creator>
+  <dc:creator>Pecinkova, Petra</dc:creator>
+  <dc:creator>Ferrand, Marina</dc:creator>
+  <dc:creator>Gy, Isabelle</dc:creator>
+  <dc:creator>Camilleri, Christine</dc:creator>
+  <dc:creator>Effgen, Sigi</dc:creator>
+  <dc:creator>Koornneef, Maarten</dc:creator>
+  <dc:creator>Pecinka, Ales</dc:creator>
+  <dc:creator>Loudet, Olivier</dc:creator>
+  <dc:creator>Schneeberger, Korbinian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-11-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Arabidopsis thaliana</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>Abstract
+               Although gene duplications provide genetic backup and allow genomic changes under relaxed selection, they may potentially limit gene flow. When different copies of a duplicated gene are pseudofunctionalized in different genotypes, genetic incompatibilities can arise in their hybrid offspring. Although such cases have been reported after manual crosses, it remains unclear whether they occur in nature and how they affect natural populations. Here, we identified four duplicated-gene based incompatibilities including one previously not reported within an artificial Arabidopsis intercross population. Unexpectedly, however, for each of the genetic incompatibilities we also identified the incompatible alleles in natural populations based on the genomes of 1,135 Arabidopsis accessions published by the 1001 Genomes Project. Using the presence of incompatible allele combinations as phenotypes for GWAS, we mapped genomic regions that included additional gene copies which likely rescue the genetic incompatibility. Reconstructing the geographic origins and evolutionary trajectories of the individual alleles suggested that incompatible alleles frequently coexist, even in geographically closed regions, and that their effects can be overcome by additional gene copies collectively shaping the evolutionary dynamics of duplicated genes during population history.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27972930</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27972930</dc:identifier>
+  <dc:identifier>doi:10.1074/JBC.M115.637694</dc:identifier>
+  <dc:title>The Plasmodium Class XIV Myosin, MyoB, Has a Distinct Subcellular Location in Invasive and Motile Stages of the Malaria Parasite and an Unusual Light Chain</dc:title>
+  <dc:creator>Yusuf, Noor A</dc:creator>
+  <dc:creator>Green, Judith L</dc:creator>
+  <dc:creator>Wall, Richard J</dc:creator>
+  <dc:creator>Knuepfer, Ellen</dc:creator>
+  <dc:creator>Moon, Robert W</dc:creator>
+  <dc:creator>Schulte-Huxel, Christina</dc:creator>
+  <dc:creator>Stanway, Rebecca R</dc:creator>
+  <dc:creator>Martin, Stephen R</dc:creator>
+  <dc:creator>Howell, Steven A</dc:creator>
+  <dc:creator>Douse, Christopher H</dc:creator>
+  <dc:creator>Cota, Ernesto</dc:creator>
+  <dc:creator>Tate, Edward W</dc:creator>
+  <dc:creator>Tewari, Rita</dc:creator>
+  <dc:creator>Holder, Anthony A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-05-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>cell biology</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject>glideosome-associated protein 50</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject>glideosome-associated protein 45</dc:subject>
+  <dc:subject>myosin A</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin light chain B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>myosin B</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

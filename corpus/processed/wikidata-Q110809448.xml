@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110809448</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110809448</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS12050443</dc:identifier>
+  <dc:title>Ensemble Models Predict Invasive Bee Habitat Suitability Will Expand under Future Climate Scenarios in Hawai'i</dc:title>
+  <dc:creator>Tabor, Jesse A</dc:creator>
+  <dc:creator>Koch, Jonathan B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-05-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive bee</dc:subject>
+  <dc:subject>habitat suitability</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>future climate scenario</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Climate change is predicted to increase the risk of biological invasions by increasing the availability of climatically suitable regions for invasive species. Endemic species on oceanic islands are particularly sensitive to the impact of invasive species due to increased competition for shared resources and disease spread. In our study, we used an ensemble of species distribution models (SDM) to predict habitat suitability for invasive bees under current and future climate scenarios in Hawai’i. SDMs projected on the invasive range were better predicted by georeferenced records from the invasive range in comparison to invasive SDMs predicted by records from the native range. SDMs estimated that climatically suitable regions for the eight invasive bees explored in this study will expand by ~934.8% (±3.4% SE). Hotspots for the invasive bees are predicted to expand toward higher elevation regions, although suitable habitat is expected to only progress up to 500 m in elevation in 2070. Given our results, it is unlikely that invasive bees will interact directly with endemic bees found at &gt;500 m in elevation in the future. Management and conservation plans for endemic bees may be improved by understanding how climate change may exacerbate negative interactions between invasive and endemic bee species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

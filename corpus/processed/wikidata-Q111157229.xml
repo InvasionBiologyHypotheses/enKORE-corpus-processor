@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111157229</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111157229</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.759496</dc:identifier>
+  <dc:title>Population Genetic Structure of the Invasive Spotted Alfalfa Aphid Therioaphis trifolii (Hemiptera: Aphididae) in China Inferred From Complete Mitochondrial Genomes</dc:title>
+  <dc:creator>Liu, Xinzhi</dc:creator>
+  <dc:creator>Wei, Shuhua</dc:creator>
+  <dc:creator>Du, Zhenyong</dc:creator>
+  <dc:creator>He, Jia</dc:creator>
+  <dc:creator>Zhang, Xinyue</dc:creator>
+  <dc:creator>Li, Hu</dc:creator>
+  <dc:creator>Zhang, Rong</dc:creator>
+  <dc:creator>Cai, Wanzhi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-10-01</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Therioaphis trifolii</dc:subject>
+  <dc:subject>population genetics</dc:subject>
+  <dc:subject>Hemiptera</dc:subject>
+  <dc:subject>Aphididae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Biological invasions represent a natural rapid evolutionary process in which invasive species may present a major threat to biodiversity and ecosystem integrity. Analyzing the genetic structure and demographic history of invaded populations is critical for the effective management of invasive species. The spotted alfalfa aphid (SAA) Therioaphis trifolii is indigenous in the Mediterranean region of Europe and Africa and has invaded China, causing severe damages to the alfalfa industry. However, little is known about its genetic structure and invasion history. In this study, we obtained 167 complete mitochondrial genome sequences from 23 SAA populations across China based on high-throughput sequencing and performed population genetic and phylogenomic analyses. High haplotype diversity and low nucleotide diversity were found in SAA populations in China with distinct genetic structures, i.e., all populations diverged into three phylogenetic lineages. Demographic history analyses showed a recent expansion of the SAA population, consistent with the recent invasion history. Our study indicated that SAA may have invaded through multiple introduction events during commercial trades of alfalfa, although this needs further validation by nuclear markers.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

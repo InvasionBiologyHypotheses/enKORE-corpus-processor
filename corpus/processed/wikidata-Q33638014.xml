@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33638014</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33638014</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5417638</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0177018</dc:identifier>
+  <dc:title>Modelling seasonal habitat suitability for wide-ranging species: Invasive wild pigs in northern Australia</dc:title>
+  <dc:creator>Froese, Jens G</dc:creator>
+  <dc:creator>Smith, Carl</dc:creator>
+  <dc:creator>Smith, Carl S</dc:creator>
+  <dc:creator>Durr, Peter A</dc:creator>
+  <dc:creator>McAlpine, Clive</dc:creator>
+  <dc:creator>Klinken, Rieks D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>habitat</dc:subject>
+  <dc:subject>Australia</dc:subject>
+  <dc:subject>habitat suitability</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasive wildlife often causes serious damage to the economy and agriculture as well as environmental, human and animal health. Habitat models can fill knowledge gaps about species distributions and assist planning to mitigate impacts. Yet, model accuracy and utility may be compromised by small study areas and limited integration of species ecology or temporal variability. Here we modelled seasonal habitat suitability for wild pigs, a widespread and harmful invader, in northern Australia. We developed a resource-based, spatially-explicit and regional-scale approach using Bayesian networks and spatial pattern suitability analysis. We integrated important ecological factors such as variability in environmental conditions, breeding requirements and home range movements. The habitat model was parameterized during a structured, iterative expert elicitation process and applied to a wet season and a dry season scenario. Model performance and uncertainty was evaluated against independent distributional data sets. Validation results showed that an expert-averaged model accurately predicted empirical wild pig presences in northern Australia for both seasonal scenarios. Model uncertainty was largely associated with different expert assumptions about wild pigs' resource-seeking home range movements. Habitat suitability varied considerably between seasons, retracting to resource-abundant rainforest, wetland and agricultural refuge areas during the dry season and expanding widely into surrounding grassland floodplains, savanna woodlands and coastal shrubs during the wet season. Overall, our model suggested that suitable wild pig habitat is less widely available in northern Australia than previously thought. Mapped results may be used to quantify impacts, assess risks, justify management investments and target control activities. Our methods are applicable to other wide-ranging species, especially in data-poor situations.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36065675</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36065675</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4924124</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.2158</dc:identifier>
+  <dc:title>Stochasticity in space, persistence in time: genetic heterogeneity in harbour populations of the introduced ascidian Styela plicata</dc:title>
+  <dc:creator>Pineda, Mari-Carmen</dc:creator>
+  <dc:creator>Lorente, Beatriz</dc:creator>
+  <dc:creator>López-Legentil, Susanna</dc:creator>
+  <dc:creator>Palacín, Creu</dc:creator>
+  <dc:creator>Turon, Xavier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-06-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>heterogeneity</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>Styela plicata</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Spatio-temporal changes in genetic structure among populations provide crucial information on the dynamics of secondary spread for introduced marine species. However, temporal components have rarely been taken into consideration when studying the population genetics of non-indigenous species. This study analysed the genetic structure ofStyela plicata,a solitary ascidian introduced in harbours and marinas of tropical and temperate waters, across spatial and temporal scales. A fragment of the mitochondrial gene Cytochrome Oxidase subunit I (COI) was sequenced from 395 individuals collected at 9 harbours along the NW Mediterranean coast and adjacent Atlantic waters (&gt; 1,200 km range) at two time points 5 years apart (2009 and 2014). The levels of gene diversity were relatively low for all 9 locations in both years. Analyses of genetic differentiation and distribution of molecular variance revealed strong genetic structure, with significant differences among many populations, but no significant differences among years. A weak and marginally significant correlation between geographic distance and gene differentiation was found. Our results revealed spatial structure and temporal genetic homogeneity inS. plicata, suggesting a limited role of recurrent, vessel-mediated transport of organisms among small to medium-size harbours. Our study area is representative of many highly urbanized coasts with dense harbours. In these environments, the episodic chance arrival of colonisers appears to determine the genetic structure of harbour populations and the genetic composition of these early colonising individuals persists in the respective harbours, at least over moderate time frames (five years) that encompass ca. 20 generations ofS. plicata.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

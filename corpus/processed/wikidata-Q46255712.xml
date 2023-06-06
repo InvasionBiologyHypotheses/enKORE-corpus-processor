@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46255712</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q46255712</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700193</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-16376-4</dc:identifier>
+  <dc:title>High-density native-range species affects the invasive plant Chromolaena odorata more strongly than species from its invasive range.</dc:title>
+  <dc:creator>Zheng, Yulong</dc:creator>
+  <dc:creator>Liao, Zhiyong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-11-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Chromolaena odorata</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>native range</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvasive plant species often form dense mono-dominant stands in areas they have invaded, while having only sparse distribution in their native ranges, and the reasons behind this phenomenon are a key point of research in invasive species biology. Differences in species composition between native and invasive ranges may contribute to the difference in distribution status. In this study, we found that the high-density condition had a more negative effect on C. odorata than the low-density condition when co-grown with neighbor plants from its native range in Mexico, while this pattern was not in evidence when it was grown with neighbors from its invasive range in China. Different competitive ability and coevolutionary history with C. odorata between native-range neighbors and invasive-range neighbors may lead to the inconsistent patterns.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

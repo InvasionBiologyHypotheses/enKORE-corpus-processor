@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q102068102</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q102068102</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.10271</dc:identifier>
+  <dc:title>The invasive red-eared slider turtle is more successful than the native Chinese three-keeled pond turtle: evidence from the gut microbiota</dc:title>
+  <dc:creator>Qu, Yan-Fu</dc:creator>
+  <dc:creator>Wu, Yan-Qing</dc:creator>
+  <dc:creator>Zhao, Yu-Tian</dc:creator>
+  <dc:creator>Lin, Long-Hui</dc:creator>
+  <dc:creator>Du, Yu</dc:creator>
+  <dc:creator>Li, Peng</dc:creator>
+  <dc:creator>Li, Hong</dc:creator>
+  <dc:creator>Ji, Xiang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>
+               Background
+               The mutualistic symbiosis between the gut microbial communities (microbiota) and their host animals has attracted much attention. Many factors potentially affect the gut microbiota, which also varies among host animals. The native Chinese three-keeled pond turtle (Chinemys reevesii) and the invasive red-eared slider turtle (Trachemys scripta elegans) are two common farm-raised species in China, with the latter generally considered a more successful species. However, supporting evidence from the gut microbiota has yet to be collected.
+            
+            
+               Methods
+               We collected feces samples from these two turtle species raised in a farm under identical conditions, and analyzed the composition and relative abundance of the gut microbes using bacterial 16S rRNA sequencing on the Roach/454 platform.
+            
+            
+               Results
+               The gut microbiota was mainly composed of Bacteroidetes and Firmicutes at the phylum level, and Porphyromonadaceae, Bacteroidaceae and Lachnospiraceae at the family level in both species. The relative abundance of the microbes and gene functions in the gut microbiota differed between the two species, whereas alpha or beta diversity did not. Microbes of the families Bacteroidaceae, Clostridiaceae and Lachnospiraceae were comparatively more abundant in C. reevesii, whereas those of the families Porphyromonadaceae and Fusobacteriaceae were comparatively more abundant in T. s. elegans. In both species the gut microbiota had functional roles in enhancing metabolism, genetic information processing and environmental information processing according to the Kyoto Encyclopedia of Genes and Genomes database. The potential to gain mass is greater in T. s. elegans than in C. reevesii, as revealed by the fact that the Firmicutes/Bacteroidetes ratio was lower in the former species. The percentage of human disease-related functional genes was lower in T. s. elegans than in C. reevesii, presumably suggesting an enhanced potential to colonize new habitats in the former species.
+            </dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

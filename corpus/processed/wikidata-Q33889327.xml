@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33889327</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33889327</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3082523</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0014806</dc:identifier>
+  <dc:title>Temperature tolerance and stress proteins as mechanisms of invasive species success</dc:title>
+  <dc:creator>Zerebecki, Robyn A</dc:creator>
+  <dc:creator>Sorte, Cascade J B</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-04-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasive species are predicted to be more successful than natives as temperatures increase with climate change. However, few studies have examined the physiological mechanisms that theoretically underlie this differential success. Because correlative evidence suggests that invasiveness is related to the width of a species' latitudinal range, it has been assumed--but largely untested--that range width predicts breadth of habitat temperatures and physiological thermotolerances. In this study, we use empirical data from a marine community as a case study to address the hypotheses that (1) geographic temperature range attributes are related to temperature tolerance, leading to greater eurythermality in invasive species, and (2) stress protein expression is a subcellular mechanism that could contribute to differences in thermotolerance. We examined three native and six invasive species common in the subtidal epibenthic communities of California, USA. We assessed thermotolerance by exposing individuals to temperatures between 14°C and 31°C and determining the temperature lethal to 50% of individuals (LT(50)) after a 24 hour exposure. We found a strong positive relationship between the LT(50) and both maximum habitat temperatures and the breadth of temperatures experience across the species' ranges. In addition, of the species in our study, invasives tended to inhabit broader habitat temperature ranges and higher maximum temperatures. Stress protein expression may contribute to these differences: the more thermotolerant, invasive species Diplosoma listerianum expressed higher levels of a 70-kDa heat-shock protein than the less thermotolerant, native Distaplia occidentalis for which levels declined sharply above the LT(50). Our data highlight differences between native and invasive species with respect to organismal and cellular temperature tolerances. Future studies should address, across a broader phylogenetic and ecosystem scope, whether this physiological mechanism has facilitated the current success of invasive species and could lead to greater success of invasives than native species as global warming continues.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

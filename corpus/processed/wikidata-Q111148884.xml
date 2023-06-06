@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111148884</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111148884</dc:identifier>
+  <dc:identifier>doi:10.3390/RS13173503</dc:identifier>
+  <dc:title>Comparing Interpretation of High-Resolution Aerial Imagery by Humans and Artificial Intelligence to Detect an Invasive Tree Species</dc:title>
+  <dc:creator>Rodriguez, Roberto</dc:creator>
+  <dc:creator>Perroy, Ryan L</dc:creator>
+  <dc:creator>Leary, James</dc:creator>
+  <dc:creator>Jenkins, Daniel M</dc:creator>
+  <dc:creator>Panoff, Max</dc:creator>
+  <dc:creator>Mandel, Travis</dc:creator>
+  <dc:creator>Perez, Patricia</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-09-06</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>artificial intelligence</dc:subject>
+  <dc:subject>invasive tree</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Timely, accurate maps of invasive plant species are critical for making appropriate management decisions to eliminate emerging target populations or contain infestations. High-resolution aerial imagery is routinely used to map, monitor, and detect invasive plant populations. While conventional image interpretation involving human analysts is straightforward, it can require high demands for time and resources to produce useful intelligence. We compared the performance of human analysts with a custom Retinanet-based deep convolutional neural network (DNN) for detecting individual miconia (Miconia calvescens DC) plants, using high-resolution unmanned aerial system (UAS) imagery collected over lowland tropical forests in Hawai’i. Human analysts (n = 38) examined imagery at three linear scrolling speeds (100, 200 and 300 px/s), achieving miconia detection recalls of 74 ± 3%, 60 ± 3%, and 50 ± 3%, respectively. The DNN achieved 83 ± 3% recall and completed the image analysis in 1% of the time of the fastest scrolling speed tested. Human analysts could discriminate large miconia leaf clusters better than isolated individual leaves, while the DNN detection efficacy was independent of leaf cluster size. Optically, the contrast in the red and green color channels and all three (i.e., red, green, and blue) signal to clutter ratios (SCR) were significant factors for human detection, while only the red channel contrast, and the red and green SCRs were significant factors for the DNN. A linear cost analysis estimated the operational use of a DNN to be more cost effective than human photo interpretation when the cumulative search area exceeds a minimum area. For invasive species like miconia, which can stochastically spread propagules across thousands of ha, the DNN provides a more efficient option for detecting incipient, immature miconia across large expanses of forested canopy. Increasing operational capacity for large-scale surveillance with a DNN-based image analysis workflow can provide more rapid comprehension of invasive plant abundance and distribution in forested watersheds and may become strategically vital to containing these invasions.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

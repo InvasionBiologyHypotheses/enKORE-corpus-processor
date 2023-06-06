@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114116161</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114116161</dc:identifier>
+  <dc:identifier>doi:10.3390/CLI9020031</dc:identifier>
+  <dc:title>Long-Term Changes of Aquatic Invasive Plants and Implications for Future Distribution: A Case Study Using a Tank Cascade System in Sri Lanka</dc:title>
+  <dc:creator>Kariyawasam, Champika S</dc:creator>
+  <dc:creator>Kumar, Lalit</dc:creator>
+  <dc:creator>Kogo, Benjamin Kipkemboi</dc:creator>
+  <dc:creator>Ratnayake, Sujith S.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-02-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>Sri Lanka</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Climate variability can influence the dynamics of aquatic invasive alien plants (AIAPs) that exert tremendous pressure on aquatic systems, leading to loss of biodiversity, agricultural wealth, and ecosystem services. However, the magnitude of these impacts remains poorly known. The current study aims to analyse the long-term changes in the spatio-temporal distribution of AIAPs under the influence of climate variability in a heavily infested tank cascade system (TCS) in Sri Lanka. The changes in coverage of various features in the TCS were analysed using the supervised maximum likelihood classification of ten Landsat images over a 27-year period, from 1992 to 2019 using ENVI remote sensing software. The non-parametric Mann–Kendall trend test and Sen’s slope estimate were used to analyse the trend of annual rainfall and temperature. We observed a positive trend of temperature that was statistically significant (p value &lt; 0.05) and a positive trend of rainfall that was not statistically significant (p values &gt; 0.05) over the time period. Our results showed fluctuations in the distribution of AIAPs in the short term; however, the coverage of AIAPs showed an increasing trend in the study area over the longer term. Thus, this study suggests that the AIAPs are likely to increase under climate variability in the study area.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

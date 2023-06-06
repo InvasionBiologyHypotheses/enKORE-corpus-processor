@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38157412</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q38157412</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5542702</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0005799</dc:identifier>
+  <dc:title>Insecticide resistance is mediated by multiple mechanisms in recently introduced Aedes aegypti from Madeira Island (Portugal).</dc:title>
+  <dc:creator>Seixas, Gonçalo</dc:creator>
+  <dc:creator>Grigoraki, Linda</dc:creator>
+  <dc:creator>Weetman, David</dc:creator>
+  <dc:creator>Vicente, José Luís</dc:creator>
+  <dc:creator>Silva, Ana Clara</dc:creator>
+  <dc:creator>Pinto, Joao</dc:creator>
+  <dc:creator>Vontas, John</dc:creator>
+  <dc:creator>Sousa, Carla Alexandra</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-07-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>insecticide</dc:subject>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>Chikungunya virus</dc:subject>
+  <dc:subject>Portugal</dc:subject>
+  <dc:subject>insecticide resistance</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundAedes aegypti is a major mosquito vector of arboviruses, including dengue, chikungunya and Zika. In 2005, Ae. aegypti was identified for the first time in Madeira Island. Despite an initial insecticide-based vector control program, the species expanded throughout the Southern coast of the island, suggesting the presence of insecticide resistance. Here, we characterized the insecticide resistance status and the underlying mechanisms of two populations of Ae. aegypti from Madeira Island, Funchal and Paúl do Mar.Methodology/principal findingsWHO susceptibility bioassays indicated resistance to cyfluthrin, permethrin, fenitrothion and bendiocarb. Use of synergists significantly increased mortality rates, and biochemical assays indicated elevated activities of detoxification enzymes, suggesting the importance of metabolic resistance. Microarray-based transcriptome analysis detected significant upregulation in both populations of nine cytochrome P450 oxidase genes (including four known pyrethroid metabolizing enzymes), the organophosphate metabolizer CCEae3a, Glutathione-S-transferases, and multiple putative cuticle proteins. Genotyping of knockdown resistance loci linked to pyrethroid resistance revealed fixation of the 1534C mutation, and presence with moderate frequencies of the V1016I mutation in each population.Conclusions/significanceSignificant resistance to three major insecticide classes (pyrethroid, carbamate and organophosphate) is present in Ae. aegypti from Madeira Island, and appears to be mediated by multiple mechanisms. Implementation of appropriate resistance management strategies including rotation of insecticides with alternative modes of action, and methods other than chemical-based vector control are strongly advised to delay or reverse the spread of resistance and achieve efficient control.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

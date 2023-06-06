@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111322491</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111322491</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS10122670</dc:identifier>
+  <dc:title>Natura 2000 Areas, Road, Railway, Water, and Ecological Networks May Provide Pathways for Biological Invasion: A Country Scale Analysis</dc:title>
+  <dc:creator>Szilassi, Peter</dc:creator>
+  <dc:creator>Soóky, Anna</dc:creator>
+  <dc:creator>Bátori, Zoltán</dc:creator>
+  <dc:creator>Hábenczyus, Alida Anna</dc:creator>
+  <dc:creator>Frei, Kata</dc:creator>
+  <dc:creator>Tölgyesi, Csaba</dc:creator>
+  <dc:creator>Leeuwen, Boudewijn</dc:creator>
+  <dc:creator>Tobak, Zalán</dc:creator>
+  <dc:creator>Csikós, Nándor</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-12-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive species are a major threat to biodiversity worldwide. Controlling their rapid spread can only be effective if we consider the geographical factors that influence their occurrence. For instance, roads, railway networks, green and blue infrastructure, and elements of ecological networks (e.g., ecological corridors) can facilitate the spread of invasive species. In our study, we mapped the occurrence of five invasive plant taxa (tree of heaven, common milkweed, Russian olive, black locust, and goldenrods) in Hungary, using field photos from the EUROSTAT Land Use and Coverage Area Frame Survey (LUCAS) database from the year 2015. Species point occurrence data were compared with the spatial characteristics of linear transport infrastructure and with the green and blue infrastructure. We found that the occurrence of tree of heaven and Russian olive was strongly related to the road and railway network. The average Euclidean distance of LUCAS points infected with these species from railway embankments and roads was much smaller than that of uninfected points. However, black locust and goldenrods were more common only along the road network. According to our results, the occurrence of some investigated invasive plants was over-represented in the HEN and within Natura 2000 areas of Hungary compared to non-infected points. Our results may provide important information for predicting the rate of invasion and for applying targeted management within the HEN, and Natura 2000 protected areas.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

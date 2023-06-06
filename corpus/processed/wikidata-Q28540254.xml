@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28540254</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28540254</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0090176</dc:identifier>
+  <dc:title>Voriconazole or amphotericin B as primary therapy yields distinct early serum galactomannan trends related to outcomes in invasive aspergillosis</dc:title>
+  <dc:creator>Chai, Louis Yi Ann</dc:creator>
+  <dc:creator>Kullberg, Bart Jan</dc:creator>
+  <dc:creator>Earnest, Arul</dc:creator>
+  <dc:creator>Johnson, Elizabeth M</dc:creator>
+  <dc:creator>Teerenstra, Steven</dc:creator>
+  <dc:creator>Vonk, Alieke G</dc:creator>
+  <dc:creator>Schlamm, Haran T</dc:creator>
+  <dc:creator>Herbrecht, Raoul</dc:creator>
+  <dc:creator>Netea, Mihai G</dc:creator>
+  <dc:creator>Troke, Peter F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>invasive aspergillosis</dc:subject>
+  <dc:subject>amphotericin B</dc:subject>
+  <dc:subject>voriconazole</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>An improved number of anti-fungal drugs are currently available for the treatment of invasive aspergillosis (IA). While serial galactomannan index (GMI) measurement can be used to monitor response to treatment, the extent to which different anti-fungal regimens can affect galactomannan levels is unknown. In 147 IA patients receiving either voriconazole (VCZ) or conventional amphotericin B (CAB) in a multicentre clinical trial, we performed post-hoc analyses of GMI trends in relation to outcomes. The generalized estimation equations approach was used to estimate changes in the effect size for GMI over time within patients. Patients who received VCZ primary therapy and had good treatment response 12 weeks later showed earlier decreases in GMI values at Week 1 and Week 2 (p = 0.001 and 0.046 respectively) as compared to patients who only received CAB. At end-of-randomized therapy (EORT), which was a pre-set secondary assessment point for all patients who switched from randomized primary (CAB or VCZ) to an alternative anti-fungal drug, treatment failure was associated with increasing GMI at Weeks 1 and 2 in CAB-primary treated patients (p = 0.022 and 0.046 respectively). These distinct trends highlight the variations in GMI kinetics with the use of different anti-fungal drugs and their implications in relation to IA treatment response.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

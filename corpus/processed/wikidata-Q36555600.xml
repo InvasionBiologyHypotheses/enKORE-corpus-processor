@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36555600</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36555600</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745086</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP20685</dc:identifier>
+  <dc:title>Multi-tissue transcriptomics for construction of a comprehensive gene resource for the terrestrial snail Theba pisana</dc:title>
+  <dc:creator>Zhao, Min</dc:creator>
+  <dc:creator>Wang, T</dc:creator>
+  <dc:creator>Adamson, K J</dc:creator>
+  <dc:creator>Storey, K B</dc:creator>
+  <dc:creator>Cummins, Scott F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>transcriptomics</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>Theba pisana</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe land snail Theba pisana is native to the Mediterranean region but has become one of the most abundant invasive species worldwide. Here, we present three transcriptomes of this agriculture pest derived from three tissues: the central nervous system, hepatopancreas (digestive gland), and foot muscle. Sequencing of the three tissues produced 339,479,092 high quality reads and a global de novo assembly generated a total of 250,848 unique transcripts (unigenes). BLAST analysis mapped 52,590 unigenes to NCBI non-redundant protein databases and further functional analysis annotated 21,849 unigenes with gene ontology. We report that T. pisana transcripts have representatives in all functional classes and a comparison of differentially expressed transcripts amongst all three tissues demonstrates enormous differences in their potential metabolic activities. The genes differentially expressed include those with sequence similarity to those genes associated with multiple bacterial diseases and neurological diseases. To provide a valuable resource that will assist functional genomics study, we have implemented a user-friendly web interface, ThebaDB (http://thebadb.bioinfo-minzhao.org/). This online database allows for complex text queries, sequence searches, and data browsing by enriched functional terms and KEGG mapping.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

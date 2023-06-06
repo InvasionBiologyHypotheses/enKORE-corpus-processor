@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51149212</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q51149212</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5841641</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0189733</dc:identifier>
+  <dc:title>Doublethink and scale mismatch polarize policies for an invasive tree.</dc:title>
+  <dc:creator>Roberts, Caleb P</dc:creator>
+  <dc:creator>Uden, Daniel R</dc:creator>
+  <dc:creator>Allen, Craig R</dc:creator>
+  <dc:creator>Twidwell, Dirac</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-03-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>invasive tree</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Mismatches between invasive species management policies and ecological knowledge can lead to profound societal consequences. For this reason, natural resource agencies have adopted the scientifically-based density-impact invasive species curve to guide invasive species management. We use the density-impact model to evaluate how well management policies for a native invader (Juniperus virginiana) match scientific guidelines. Juniperus virginiana invasion is causing a sub-continental regime shift from grasslands to woodlands in central North America, and its impacts span collapses in endemic diversity, heightened wildfire risk, and crashes in grazing land profitability. We (1) use land cover data to identify the stage of Juniperus virginiana invasion for three ecoregions within Nebraska, USA, (2) determine the range of invasion stages at individual land parcel extents within each ecoregion based on the density-impact model, and (3) determine policy alignment and mismatches relative to the density-impact model in order to assess their potential to meet sustainability targets and avoid societal impacts as Juniperus virginiana abundance increases. We found that nearly all policies evidenced doublethink and policy-ecology mismatches, for instance, promoting spread of Juniperus virginiana regardless of invasion stage while simultaneously managing it as a native invader in the same ecoregion. Like other invasive species, theory and literature for this native invader indicate that the consequences of invasion are unlikely to be prevented if policies fail to prioritize management at incipient invasion stages. Theory suggests a more realistic approach would be to align policy with the stage of invasion at local and ecoregion management scales. There is a need for scientists, policy makers, and ecosystem managers to move past ideologies governing native versus non-native invader classification and toward a framework that accounts for the uniqueness of native species invasions, their anthropogenic drivers, and their impacts on ecosystem services.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

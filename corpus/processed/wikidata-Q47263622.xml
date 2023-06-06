@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q47263622</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q47263622</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-17852-7</dc:identifier>
+  <dc:title>Inferring evolutionary responses of Anolis carolinensis introduced into the Ogasawara archipelago using whole genome sequence data.</dc:title>
+  <dc:creator>Tamate, Satoshi</dc:creator>
+  <dc:creator>Iwasaki, Watal M</dc:creator>
+  <dc:creator>Krysko, Kenneth L</dc:creator>
+  <dc:creator>Camposano, Brian J</dc:creator>
+  <dc:creator>Mori, Hideaki</dc:creator>
+  <dc:creator>Funayama, Ryo</dc:creator>
+  <dc:creator>Nakayama, Keiko</dc:creator>
+  <dc:creator>Makino, Takashi</dc:creator>
+  <dc:creator>Kawata, Masakado</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-12-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Anolis carolinensis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvaded species often can rapidly expand and establish in novel environments through adaptive evolution, resulting in devastating effects on native communities. However, it is unclear if genetic variation at whole-genomic levels is actually reduced in the introduced populations and which genetic changes have occurred responding to adaptation to new environments. In the 1960s, Anolis carolinensis was introduced onto one of the Ogasawara Islands, Japan, and subsequently expanded its range rapidly throughout two of the islands. Morphological comparison showed that lower hindlimb length in the introduced populations tended to be longer than those in its native Florida populations. Using re-sequenced whole genomic data, we estimated that the effective population size at the time of introduction was actually small (less than 50). We also inferred putative genomic regions subject to natural selection after this introduction event using SweeD and a method based on Tajima’s D, _ and F
+                  ST
+                . Five candidate genes that were potentially subject to selection were estimated by both methods. The results suggest that there were standing variations that could potentially contribute to adaptation to nonnative environments despite the founder population being small.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

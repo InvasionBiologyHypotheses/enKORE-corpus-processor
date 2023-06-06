@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q95824850</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q95824850</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7288112</dc:identifier>
+  <dc:identifier>doi:10.3390/MOLECULES25102384</dc:identifier>
+  <dc:title>Discovery of a Natural Product That Binds to the Mycobacterium tuberculosis Protein Rv1466 Using Native Mass Spectrometry</dc:title>
+  <dc:creator>Elnaas, Ali R</dc:creator>
+  <dc:creator>Grice, Darren</dc:creator>
+  <dc:creator>Han, Jianying</dc:creator>
+  <dc:creator>Feng, Yunjiang</dc:creator>
+  <dc:creator>Di Capua, Angela</dc:creator>
+  <dc:creator>Mak, Tin</dc:creator>
+  <dc:creator>Laureanti, Joseph A</dc:creator>
+  <dc:creator>Buchko, Garry W</dc:creator>
+  <dc:creator>Myler, Peter J</dc:creator>
+  <dc:creator>Cook, Gregory M</dc:creator>
+  <dc:creator>Quinn, Ronald J.</dc:creator>
+  <dc:creator>Liu, Miaomiao</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Mycobacterium tuberculosis</dc:subject>
+  <dc:subject>natural product</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Elucidation of the mechanism of action of compounds with cellular bioactivity is important for progressing compounds into future drug development. In recent years, phenotype-based drug discovery has become the dominant approach to drug discovery over target-based drug discovery, which relies on the knowledge of a specific drug target of a disease. Still, when targeting an infectious disease via a high throughput phenotypic assay it is highly advantageous to identifying the compound’s cellular activity. A fraction derived from the plant Polyalthia sp. showed activity against Mycobacterium tuberculosis at 62.5 μge/μL. A known compound, altholactone, was identified from this fraction that showed activity towards M. tuberculosis at an minimum inhibitory concentration (MIC) of 64 μM. Retrospective analysis of a target-based screen against a TB proteome panel using native mass spectrometry established that the active fraction was bound to the mycobacterial protein Rv1466 with an estimated pseudo-Kd of 42.0 ± 6.1 _M. Our findings established Rv1466 as the potential molecular target of altholactone, which is responsible for the observed in vivo toxicity towards M. tuberculosis.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

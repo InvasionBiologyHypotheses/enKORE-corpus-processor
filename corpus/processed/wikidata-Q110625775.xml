@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110625775</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110625775</dc:identifier>
+  <dc:identifier>doi:10.3390/D12070263</dc:identifier>
+  <dc:title>The Importance of Genomics for Deciphering the Invasion Success of the Seagrass Halophila stipulacea in the Changing Mediterranean Sea</dc:title>
+  <dc:creator>Tsakogiannis, Alexandros</dc:creator>
+  <dc:creator>Manousaki, Tereza</dc:creator>
+  <dc:creator>Anagnostopoulou, Vasileia</dc:creator>
+  <dc:creator>Stavroulaki, Melanthia</dc:creator>
+  <dc:creator>Apostolaki, Eugenia T.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-06-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>Mediterranean Sea</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The Mediterranean Sea is subject to pressures from biological invasion due to coastal anthropic activities and global warming, which potentially modify its biogeography. The Red Sea tropical seagrass Halophila stipulacea entered the Eastern Mediterranean over a century ago, and its occurrence is expanding towards the northwest. Here, we highlight the importance of genomics for deciphering the evolutionary and ecological procedures taking place during the invasion process of H. stipulacea and review the relatively sparse genetic information available for the species to date. We report the first draft whole-genome sequencing of a H. stipulacea individual from Greece, based on Illumina Sequencing technology. A comparison of the Internal Transcribed Spacer (ITS) regions revealed a high divergence of the herein sequenced individual compared to Mediterranean populations sequenced two decades ago, rendering further questions on the evolutionary processes taking place during H. stipulacea adaptation in the invaded Mediterranean Sea. Our work sets the baseline for a future analysis of the invasion genomic of the focal species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

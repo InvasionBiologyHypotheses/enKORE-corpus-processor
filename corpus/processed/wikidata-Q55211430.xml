@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55211430</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55211430</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.4932</dc:identifier>
+  <dc:title>Literature-based latitudinal distribution and possible range shifts of two US east coast dune grass species (Uniola paniculata and Ammophila breviligulata).</dc:title>
+  <dc:creator>Goldstein, Evan B.</dc:creator>
+  <dc:creator>Mullins, Elsemarie V</dc:creator>
+  <dc:creator>Moore, Laura J</dc:creator>
+  <dc:creator>Biel, Reuben G</dc:creator>
+  <dc:creator>Brown, Joseph K</dc:creator>
+  <dc:creator>Hacker, Sally D</dc:creator>
+  <dc:creator>Jay, Katya R</dc:creator>
+  <dc:creator>Mostow, Rebecca S</dc:creator>
+  <dc:creator>Ruggiero, Peter</dc:creator>
+  <dc:creator>Zinnert, Julie C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-06-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Ammophila breviligulata</dc:subject>
+  <dc:subject>Uniola paniculata</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:subject>coastal invasion</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Previous work on the US Atlantic coast has generally shown that coastal foredunes are dominated by two dune grass species,Ammophila breviligulata(American beachgrass) andUniola paniculata(sea oats). From Virginia northward,A. breviligulatadominates, whileU. paniculatais the dominant grass south of Virginia. Previous work suggests that these grasses influence the shape of coastal foredunes in species-specific ways, and that they respond differently to environmental stressors; thus, it is important to know which species dominates a given dune system. The range boundaries of these two species remains unclear given the lack of comprehensive surveys. In an attempt to determine these boundaries, we conducted a literature survey of 98 studies that either stated the range limits and/or included field-based studies/observations of the two grass species. We then produced an interactive map that summarizes the locations of the surveyed papers and books. The literature review suggests that the current southern range limit forA. breviligulatais Cape Fear, NC, and the northern range limit forU. paniculatais Assateague Island, on the Maryland and Virginia border. Our data suggest a northward expansion ofU. paniculata,possibly associated with warming trends observed near the northern range limit in Painter, VA. In contrast, the data regarding a range shift forA. breviligulataremain inconclusive. We also compare our literature-based map with geolocated records from the Global Biodiversity Information Facility and iNaturalist research grade crowd-sourced observations. We intend for our literature-based map to aid coastal researchers who are interested in the dynamics of these two species and the potential for their ranges to shift as a result of climate change.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

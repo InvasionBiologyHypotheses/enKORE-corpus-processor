@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q52594078</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q52594078</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5887998</dc:identifier>
+  <dc:identifier>doi:10.1590/0074-02760170421</dc:identifier>
+  <dc:title>Reactive oxygen species generation mediated by NADPH oxidase and PI3K/Akt pathways contribute to invasion of Streptococcus agalactiae in human endothelial cells</dc:title>
+  <dc:creator>Oliveira, Jessica Silva Santos</dc:creator>
+  <dc:creator>Silva Santos, Gabriela</dc:creator>
+  <dc:creator>Moraes, João Alfredo</dc:creator>
+  <dc:creator>Saliba, Alessandra Mattos</dc:creator>
+  <dc:creator>Barja-Fidalgo, Thereza Christina</dc:creator>
+  <dc:creator>Mattos-Guaraldi, Ana Luíza</dc:creator>
+  <dc:creator>Nagao, Prescilla</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-04-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>reactive oxygen species</dc:subject>
+  <dc:subject>Streptococcus agalactiae</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>FapUNIFESP (SciELO)</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64119051</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64119051</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6479022</dc:identifier>
+  <dc:identifier>doi:10.1093/AOBPLA/PLZ010</dc:identifier>
+  <dc:title>Parallel functional differentiation of an invasive annual plant on two continents</dc:title>
+  <dc:creator>Latimer, Andrew M</dc:creator>
+  <dc:creator>Jacobs, Brooke S</dc:creator>
+  <dc:creator>Gianoli, Ernesto</dc:creator>
+  <dc:creator>Heger, Tina</dc:creator>
+  <dc:creator>Salgado-Luarte, Cristian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Erodium cicutarium</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>phenotypic plasticity</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>Rapid local adaptation frequently occurs during the spread of invading species. It remains unclear, however, how consistent, and therefore potentially predictable, such patterns of local adaptation are. One approach to this question is to measure patterns of local differentiation in functional traits and plasticity levels in invasive species in multiple regions. Finding consistent patterns of local differentiation in replicate regions suggests that these patterns are adaptive. Further, this outcome indicates that the invading species likely responds predictably to selection along environmental gradients, even though standing genetic variation is likely to have been reduced during introduction. We studied local differentiation in the invasive annual plant Erodium cicutarium in two invaded regions, California and Chile. We collected seeds from across strong gradients in precipitation and temperature in Mediterranean-climate parts of the two regions (10 populations per region). We grew seeds from maternal families from these populations through two generations and exposed the second generation to contrasting levels of water and nutrient availability. We measured growth, flowering time and leaf functional traits across these treatments to obtain trait means and plasticity measures. We found strong differentiation among populations in all traits. Plants from drier environments flowered earlier, were less plastic in flowering time and reached greater size in all treatments. Correlations among traits within regions suggested a coordinated evolutionary response along environmental gradients associated with growing season length. There was little divergence in traits and trait intercorrelations between regions, but strongly parallel divergence in traits within regions. Similar, statistically consistent patterns of local trait differentiation across two regions suggest that local adaptation to environmental gradients has aided the spread of this invasive species, and that the formation of ecotypes in newly invaded environments has been relatively consistent and predictable.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

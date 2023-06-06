@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36233842</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36233842</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627925</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.1357</dc:identifier>
+  <dc:title>Combining environmental suitability and population abundances to evaluate the invasive potential of the tunicate Ciona intestinalis along the temperate South American coast</dc:title>
+  <dc:creator>Januario, Stella M</dc:creator>
+  <dc:creator>Estay, Sergio A</dc:creator>
+  <dc:creator>Labra, Fabio A</dc:creator>
+  <dc:creator>Lima, Mauricio</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-10-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Ciona intestinalis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>coastal invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>The tunicateCiona intestinalisis an opportunistic invader with high potential for causing economic losses in aquaculture centers. Recent phylogenetic and population genetic analysis support the existence of a genetic complex described asC. intestinaliswith two main dominant species (sp A and B) occurring worldwide. In Chile, the species has been observed around 30°S of latitude, but no official reports exist for the presence ofC. intestinalisin southern regions (above 40°S), where most of the mollusk aquaculture centers are located. Here, we used occurrences from multiple invaded regions and extensive field sampling to model and validate the environmental conditions that allow the species to persist and to find the geographic areas with the most suitable environmental conditions for the spread ofC. intestinalisin the Chilean coast. By studying the potential expansion ofC. intestinalissouthward in the Chilean Coast, we aimed to provide valuable information that might help the development of control plans before the species becomes a significant problem, especially above 40°S. Our results highlight that, by using portions of the habitat that are apparently distinguishable, the species seem to be not only genetically distinct, but ecologically distinct as well. The two regional models fitted for sp A and for sp B showed disagreement on which sections of Chilean coastline are considered more suitable for these species. While the model for sp A identifies moderately to highly suitable areas between 30° and 40°S, the model for sp B classifies the areas around 45°S as the most appropriate. Data from field sampling show a positive linear relationship between density ofC. intestinalisand the index of suitability for sp A in aquaculture centers. Understanding the relation of the distinct species with the surrounding environment provided valuable insights about probable routes of dispersion in Chile, especially into those areas considered suitable for aquaculture activities but where the species has not yet been recorded. We discuss the implications of our findings as a useful tool to anticipate the invasion of such harmful invasive species with regard to the most relevant environmental variables.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

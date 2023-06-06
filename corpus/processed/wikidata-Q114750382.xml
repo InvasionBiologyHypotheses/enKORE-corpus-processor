@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114750382</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114750382</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2022.856453</dc:identifier>
+  <dc:title>Traces of Genetic but Not Epigenetic Adaptation in the Invasive Goldenrod Solidago canadensis Despite the Absence of Population Structure</dc:title>
+  <dc:creator>Eckert, Silvia</dc:creator>
+  <dc:creator>Herden, Jasmin</dc:creator>
+  <dc:creator>Stift, Marc</dc:creator>
+  <dc:creator>Durka, Walter</dc:creator>
+  <dc:creator>Kleunen, Mark</dc:creator>
+  <dc:creator>Joshi, Jasmin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-04-29</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Solidago canadensis</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Biological invasions may result from multiple introductions, which might compensate for reduced gene pools caused by bottleneck events, but could also dilute adaptive processes. A previous common-garden experiment showed heritable latitudinal clines in fitness-related traits in the invasive goldenrod Solidago canadensis in Central Europe. These latitudinal clines remained stable even in plants chemically treated with zebularine to reduce epigenetic variation. However, despite the heritability of traits investigated, genetic isolation-by-distance was non-significant. Utilizing the same specimens, we applied a molecular analysis of (epi)genetic differentiation with standard and methylation-sensitive (MSAP) AFLPs. We tested whether this variation was spatially structured among populations and whether zebularine had altered epigenetic variation. Additionally, we used genome scans to mine for putative outlier loci susceptible to selection processes in the invaded range. Despite the absence of isolation-by-distance, we found spatial genetic neighborhoods among populations and two AFLP clusters differentiating northern and southern Solidago populations. Genetic and epigenetic diversity were significantly correlated, but not linked to phenotypic variation. Hence, no spatial epigenetic patterns were detected along the latitudinal gradient sampled. Applying genome-scan approaches (BAYESCAN, BAYESCENV, RDA, and LFMM), we found 51 genetic and epigenetic loci putatively responding to selection. One of these genetic loci was significantly more frequent in populations at the northern range. Also, one epigenetic locus was more frequent in populations in the southern range, but this pattern was lost under zebularine treatment. Our results point to some genetic, but not epigenetic adaptation processes along a large-scale latitudinal gradient of S. canadensis in its invasive range.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64933388</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64933388</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6522068</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0007334</dc:identifier>
+  <dc:title>Arboviral screening of invasive Aedes species in northeastern Turkey: West Nile virus circulation and detection of insect-only viruses.</dc:title>
+  <dc:creator>Akıner, Mustafa M</dc:creator>
+  <dc:creator>Öztürk, Murat</dc:creator>
+  <dc:creator>Başer, Aykut Buğra</dc:creator>
+  <dc:creator>Günay, Filiz</dc:creator>
+  <dc:creator>Hacıoğlu, Sabri</dc:creator>
+  <dc:creator>Brinkmann, Annika</dc:creator>
+  <dc:creator>Emanet, Nergis</dc:creator>
+  <dc:creator>Alten, Bülent</dc:creator>
+  <dc:creator>Özkul, Aykut</dc:creator>
+  <dc:creator>Nitsche, Andreas</dc:creator>
+  <dc:creator>Linton, Yvonne-Marie</dc:creator>
+  <dc:creator>Linton, Yvonne-Marie</dc:creator>
+  <dc:creator>Ergünay, Koray</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-05-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>West Nile virus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundThe recent reports of Aedes aegypti and Ae. albopictus populations in Turkey, in parallel with the territorial expansion identified in several surrounding countries, have raised concerns about the establishment and re-establishment of these invasive Aedes mosquitoes in Turkey. This cross-sectional study was performed to detect Aedes aegypti and Ae. albopictus in regions of recent incursions, and screen for viral pathogens known to be transmitted elsewhere by these species.MethodologyMosquitoes were collected at several locations in Artvin, Rize and Trabzon provinces of the Black Sea region during 2016-2017, identified morphologically, pooled and analyzed via generic or specific nucleic acid amplification assays. Viruses in positive pools were identified by product sequencing, cell culture inoculation and next generation sequencing (NGS) in selected specimens.Principal findingsThe study group comprised 791 specimens. Aedes albopictus was the most abundant species in all locations (89.6%), followed by Ae. aegypti (7.8%) and Culex pipiens (2.5%). Mosquitoes were screened for viruses in 65 pools where fifteen (23.1%) were reactive. The infecting strains was identified as West Nile virus (WNV) in 5 pools (7.7%) with Ae. albopictus or Cx. pipiens mosquitoes. The obtained WNV sequences phylogenetically grouped with local and global lineage 1 clade 1a viruses. In 4 (6.2%) and 6 (9.2%) pools, respectively, cell fusing agent virus (CFAV) and Aedes flavivirus (AEFV) sequences were characterized. NGS provided a near-complete AEFV genome in a pool of Ae. albopictus. The strain is provisionally called "AEFV-Turkey", and functional analysis of the genome revealed several conserved motifs and regions associated with virus replication. Merida-like virus Turkey (MERDLVT), a recently-described novel rhabdovirus, was also co-detected in a Cx. pipiens pool also positive for WNV.Conclusions/significanceInvasive Aedes mosquitoes are established in certain locations of northeastern Turkey. Herein we conclusively show the role of these species in WNV circulation in the region. Biosurveillance is imperative to monitor the spread of these species further into Asia Minor and to detect possible introduction of pathogens.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

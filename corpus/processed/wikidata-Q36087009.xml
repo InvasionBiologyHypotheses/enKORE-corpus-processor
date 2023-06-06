@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36087009</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36087009</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963087</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0159403</dc:identifier>
+  <dc:title>A Spatially Explicit Dual-Isotope Approach to Map Regions of Plant-Plant Interaction after Exotic Plant Invasion</dc:title>
+  <dc:creator>Hellmann, Christine</dc:creator>
+  <dc:creator>Werner, Christiane</dc:creator>
+  <dc:creator>Oldeland, Jens</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-07-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding interactions between native and invasive plant species in field settings and quantifying the impact of invaders in heterogeneous native ecosystems requires resolving the spatial scale on which these processes take place. Therefore, functional tracers are needed that enable resolving the alterations induced by exotic plant invasion in contrast to natural variation in a spatially explicit way. 15N isoscapes, i.e., spatially referenced representations of stable nitrogen isotopic signatures, have recently provided such a tracer. However, different processes, e.g. water, nitrogen or carbon cycles, may be affected at different spatial scales. Thus multi-isotope studies, by using different functional tracers, can potentially return a more integrated picture of invader impact. This is particularly true when isoscapes are submitted to statistical methods suitable to find homogeneous subgroups in multivariate data such as cluster analysis. Here, we used model-based clustering of spatially explicit foliar δ15N and δ13C isoscapes together with N concentration of a native indicator species, Corema album, to map regions of influence in a Portuguese dune ecosystem invaded by the N2-fixing Acacia longifolia. Cluster analysis identified regions with pronounced alterations in N budget and water use efficiency in the native species, with a more than twofold increase in foliar N, and δ13C and δ15N enrichment of up to 2‰ and 8‰ closer to the invader, respectively. Furthermore, clusters of multiple functional tracers indicated a spatial shift from facilitation through N addition in the proximity of the invader to competition for resources other than N in close contact. Finding homogeneous subgroups in multi-isotope data by means of model-based cluster analysis provided an effective tool for detecting spatial structure in processes affecting plant physiology and performance. The proposed method can give an objective measure of the spatial extent of influence of plant-plant interactions, thus improving our understanding of spatial pattern and interactions in plant communities.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

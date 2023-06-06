@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101217409</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q101217409</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593150</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.6811</dc:identifier>
+  <dc:title>Differences in rhizosphere microbial communities between native and non-native Phragmites australis may depend on stand density</dc:title>
+  <dc:creator>Bickford, Wesley</dc:creator>
+  <dc:creator>Zak, Donald R</dc:creator>
+  <dc:creator>Kowalski, Kurt P</dc:creator>
+  <dc:creator>Goldberg, Deborah E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-09-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>rhizosphere</dc:subject>
+  <dc:subject>Phragmites australis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Microorganisms surrounding plant roots may benefit invasive species through enhanced mutualism or decreased antagonism, when compared to surrounding native species. We surveyed the rhizosphere soil microbiome of a prominent invasive plant, Phragmites australis, and its co-occurring native subspecies for evidence of microbial drivers of invasiveness. If the rhizosphere microbial community is important in driving plant invasions, we hypothesized that non-native Phragmites would cultivate a different microbiome from native Phragmites, containing fewer pathogens, more mutualists, or both. We surveyed populations of native and non-native Phragmites across Michigan and Ohio USA, and we described rhizosphere microbial communities using culture-independent next-generation sequencing. We found little evidence that native and non-native Phragmites cultivate distinct bacterial, fungal, or oomycete rhizosphere communities. Microbial community differences in our Michigan survey were not associated with plant lineage but were mainly driven by environmental factors, such as soil saturation and nutrient concentrations. Intensive sampling along transects consisting of dense monocultures of each lineage and mixed zones revealed bacterial community differences between lineages in dense monoculture, but not in mixture. We found no evidence of functional differences in the microbial communities surrounding each lineage. We extrapolate that the invasiveness of non-native Phragmites, when compared to its native congener, does not result from the differential cultivation of beneficial or antagonistic rhizosphere microorganisms.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114027733</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114027733</dc:identifier>
+  <dc:identifier>doi:10.3390/MICROORGANISMS10091807</dc:identifier>
+  <dc:title>Impacts of Japanese Larch Invasion on Soil Bacterial Communities of the Giant Panda Habitat in the Qinling Mountains</dc:title>
+  <dc:creator>Zhuang, Yuqi</dc:creator>
+  <dc:creator>Xu, Yadong</dc:creator>
+  <dc:creator>Yang, Meiling</dc:creator>
+  <dc:creator>Zhao, Huiru</dc:creator>
+  <dc:creator>Ye, Xinping</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-09-09</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Japanese larch (Larix kaempferi), a non-native tree species, has been widely planted in the Qinling Mountains since the last century, but it does not meet the habitat needs of giant pandas (Ailuropoda melanoleuca), mainly because of food, further causing habitat degradation and fragmentation. However, how soil microorganisms, considered as predictors of the soil environment, respond to Japanese larch remains poorly explored, especially compared with native forests. Here, we collected 40 soil samples from plantation, bamboo, and natural (excluding bamboo) forests in the Changqing Nature Reserve and Foping Nature Reserve in Qinling to compare soil bacterial community composition and diversity using high-throughput sequencing of bacterial 16S rRNA genes. The soil chemical properties and bacterial communities differed noticeably under forest-type classification patterns. The soil of the Japanese larch planted forests underwent substantial degradation, with higher acidity, lower alpha diversity, and more significant enrichment in the oligotrophic bacteria Acidobacteria and Verrucomicrobia, in contrast to the other two primary forests with elevated soil nutrient levels. The application of PICRUSt2 indicated the down-regulation of amino acid-related metabolism in planted forests. Moreover, pH was the primary factor determining the whole bacterial community structures. To avoid the uncertainty of a single sampling region, we chose different sampling sites that could be considered as geographical factors, possibly due to environmental heterogeneity or dispersal limitations, which also explained the specific community patterns of microorganisms. Overall, this paper may help provide a scientific basis for future revegetation in giant panda habitats, highlighting the urgent need for ecological restoration and sustainable forestry management.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

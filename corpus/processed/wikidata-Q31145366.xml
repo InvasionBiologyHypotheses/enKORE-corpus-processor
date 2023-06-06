@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31145366</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31145366</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5192426</dc:identifier>
+  <dc:identifier>doi:10.3390/BIOLOGY5040046</dc:identifier>
+  <dc:title>Thermal Resilience of Feeding Kinematics May Contribute to the Spread of Invasive Fishes in Light of Climate Change</dc:title>
+  <dc:creator>Turingan, Ralph</dc:creator>
+  <dc:creator>Sloan, Tyler</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-11-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive fish</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>As a consequence of global warming, tropical invasive species are expected to expand their range pole-ward, extending their negative impacts to previously undisturbed, high-latitude ecosystems. Investigating the physiological responses of invasive species to environmental temperature is important because the coupled effects of climate change and species invasion on ecosystems could be more alarming than the effects of each phenomenon independently. Especially in poikilotherms, the rate of motion in muscle-driven biomechanical systems is expected to double for every 10 °C increase in temperature. In this study, we address the question, "How does temperature affect the speed of jaw-movement during prey-capture in invasive fishes?" Kinematic analysis of invasive-fish prey-capture behavior revealed that (1) movement velocities of key components of the feeding mechanism did not double as water temperature increased from 20 °C to 30 °C; and (2) thermal sensitivity (Q10 values) for gape, hyoid, lower-jaw rotation, and cranial rotation velocities at 20 °C and 30 °C ranged from 0.56 to 1.44 in all three species. With the exception of lower-jaw rotation, Q10 values were significantly less than the expected Q10 = 2.0, indicating that feeding kinematics remains consistent despite the change in environmental temperature. It is conceivable that the ability to maintain peak performance at different temperatures helps facilitate the spread of invasive fishes globally.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

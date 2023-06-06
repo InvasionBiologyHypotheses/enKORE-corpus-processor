@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110990276</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110990276</dc:identifier>
+  <dc:identifier>doi:10.3390/RS12213493</dc:identifier>
+  <dc:title>Detecting Plant Invasion in Urban Parks with Aerial Image Time Series and Residual Neural Network</dc:title>
+  <dc:creator>Dutta, Dipanwita</dc:creator>
+  <dc:creator>Chen, Gang</dc:creator>
+  <dc:creator>Chen, Chen</dc:creator>
+  <dc:creator>Gagné, Sara A.</dc:creator>
+  <dc:creator>Li, Changlin</dc:creator>
+  <dc:creator>Rogers, Christa</dc:creator>
+  <dc:creator>Matthews, Christopher</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive plants are a major agent threatening biodiversity conservation and directly affecting our living environment. This study aims to evaluate the potential of deep learning, one of the fastest-growing trends in machine learning, to detect plant invasion in urban parks using high-resolution (0.1 m) aerial image time series. Capitalizing on a state-of-the-art, popular architecture residual neural network (ResNet), we examined key challenges applying deep learning to detect plant invasion: relatively limited training sample size (invasion often confirmed in the field) and high forest contextual variation in space (from one invaded park to another) and over time (caused by varying stages of invasion and the difference in illumination condition). To do so, our evaluations focused on a widespread exotic plant, autumn olive (Elaeagnus umbellate), that has invaded 20 urban parks across Mecklenburg County (1410 km2) in North Carolina, USA. The results demonstrate a promising spatial and temporal generalization capacity of deep learning to detect urban invasive plants. In particular, the performance of ResNet was consistently over 96.2% using training samples from 8 (out of 20) or more parks. The model trained by samples from only four parks still achieved an accuracy of 77.4%. ResNet was further found tolerant of high contextual variation caused by autumn olive’s progressive invasion and the difference in illumination condition over the years. Our findings shed light on prioritized mitigation actions for effectively managing urban invasive plants.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

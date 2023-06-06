@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q41264246</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q41264246</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545080</dc:identifier>
+  <dc:identifier>doi:10.1093/GIGASCIENCE/GIX052</dc:identifier>
+  <dc:title>A single mini-barcode test to screen for Australian mammalian predators from environmental samples.</dc:title>
+  <dc:creator>Modave, Elodie</dc:creator>
+  <dc:creator>MacDonald, Anna J</dc:creator>
+  <dc:creator>Sarre, Stephen D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-08-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>predation</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>Identification of species from trace samples is now possible through the comparison of diagnostic DNA fragments against reference DNA sequence databases. DNA detection of animals from non-invasive samples, such as predator faeces (scats) that contain traces of DNA from their species of origin, has proved to be a valuable tool for the management of elusive wildlife. However, application of this approach can be limited by the availability of appropriate genetic markers. Scat DNA is often degraded, meaning that longer DNA sequences, including standard DNA barcoding markers, are difficult to recover. Instead, targeted short diagnostic markers are required to serve as diagnostic mini-barcodes. The mitochondrial genome is a useful source of such trace DNA markers because it provides good resolution at the species level and occurs in high copy numbers per cell. We developed a mini-barcode based on a short (178 bp) fragment of the conserved 12S ribosomal ribonucleic acid mitochondrial gene sequence, with the goal of discriminating amongst the scats of large mammalian predators of Australia. We tested the sensitivity and specificity of our primers and can accurately detect and discriminate amongst quolls, cats, dogs, foxes, and devils from trace DNA samples. Our approach provides a cost-effective, time-efficient, and non-invasive tool that enables identification of all 8 medium-large mammal predators in Australia, including native and introduced species, using a single test. With modification, this approach is likely to be of broad applicability elsewhere.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

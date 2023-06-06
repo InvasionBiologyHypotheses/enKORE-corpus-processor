@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114030842</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114030842</dc:identifier>
+  <dc:identifier>doi:10.3390/F12070940</dc:identifier>
+  <dc:title>Climate Connectivity of European Forests for Species Range Shifts</dc:title>
+  <dc:creator>Han, Qiyao</dc:creator>
+  <dc:creator>Keeffe, Greg</dc:creator>
+  <dc:creator>Cullen, Sean</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-07-17</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Forest connectivity is important for the range shifts and long-term persistence of forest-dependent species, especially in the context of climate change. This study assessed the climate connectivity of European forests for species to track suitable climate conditions as the climate warms. Here, climate connectivity was calculated as the temperature difference between each forest patch and the coolest patch that can be reached along temperature gradients. We found that, overall, about 36% of the total forested area in Europe has achieved successful climate connectivity under the moderate emission scenario (SSP245), whereby species range shifts could circumvent the impact of climate warming. The percentage is much lower under the highest emission scenario (SSP585), which is only 12%. To identify forest areas of high importance for climate connectivity, we further evaluated the potential of each forest patch to serve as a stepping stone for species range shifts. Our results showed that about 94% of the European forested area is expected to experience species range shifts. Our study identified sites of high conservation value for improving and sustaining forest connectivity to facilitate climate-driven range shifts and thus could provide information for climate-smart management of European forests.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

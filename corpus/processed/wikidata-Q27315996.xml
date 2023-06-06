@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27315996</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27315996</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1000746</dc:identifier>
+  <dc:title>Distinct external signals trigger sequential release of apical organelles during erythrocyte invasion by malaria parasites</dc:title>
+  <dc:creator>Singh, Shailja</dc:creator>
+  <dc:creator>Alam, Mahmood</dc:creator>
+  <dc:creator>Pal-Bhowmick, Ipsita</dc:creator>
+  <dc:creator>Brzostowski, Joseph A</dc:creator>
+  <dc:creator>Chitnis, Chetan E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>malaria</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The invasion of erythrocytes by Plasmodium merozoites requires specific interactions between host receptors and parasite ligands. Parasite proteins that bind erythrocyte receptors during invasion are localized in apical organelles called micronemes and rhoptries. The regulated secretion of microneme and rhoptry proteins to the merozoite surface to enable receptor binding is a critical step in the invasion process. The sequence of these secretion events and the external signals that trigger release are not known. We have used time-lapse video microscopy to study changes in intracellular calcium levels in Plasmodium falciparum merozoites during erythrocyte invasion. In addition, we have developed flow cytometry based methods to measure relative levels of cytosolic calcium and study surface expression of apical organelle proteins in P. falciparum merozoites in response to different external signals. We demonstrate that exposure of P. falciparum merozoites to low potassium ion concentrations as found in blood plasma leads to a rise in cytosolic calcium levels through a phospholipase C mediated pathway. Rise in cytosolic calcium triggers secretion of microneme proteins such as the 175 kD erythrocyte binding antigen (EBA175) and apical membrane antigen-1 (AMA-1) to the merozoite surface. Subsequently, interaction of EBA175 with glycophorin A (glyA), its receptor on erythrocytes, restores basal cytosolic calcium levels and triggers release of rhoptry proteins. Our results identify for the first time the external signals responsible for the sequential release of microneme and rhoptry proteins during erythrocyte invasion and provide a starting point for the dissection of signal transduction pathways involved in regulated exocytosis of these key apical organelles. Signaling pathway components involved in apical organelle discharge may serve as novel targets for drug development since inhibition of microneme and rhoptry secretion can block invasion and limit blood-stage parasite growth.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

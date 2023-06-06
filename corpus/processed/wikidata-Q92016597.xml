@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92016597</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92016597</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190178</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1008509</dc:identifier>
+  <dc:title>Matrix metalloproteinase 9 facilitates Zika virus invasion of the testis by modulating the integrity of the blood-testis barrier</dc:title>
+  <dc:creator>Hui, Lixia</dc:creator>
+  <dc:creator>Nie, Yiwen</dc:creator>
+  <dc:creator>Li, Shihua</dc:creator>
+  <dc:creator>Guo, Moujian</dc:creator>
+  <dc:creator>Yang, Wei</dc:creator>
+  <dc:creator>Huang, Rui</dc:creator>
+  <dc:creator>Chen, Junsen</dc:creator>
+  <dc:creator>Liu, Yingxia</dc:creator>
+  <dc:creator>Lu, Xuancheng</dc:creator>
+  <dc:creator>Chen, Zhen</dc:creator>
+  <dc:creator>Yang, Qingyu</dc:creator>
+  <dc:creator>Wu, Ying</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Zika virus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Zika virus (ZIKV) is a unique flavivirus with high tropism to the testes. ZIKV can persist in human semen for months and can cause testicular damage in male mice. However, the mechanisms through which ZIKV enters the testes remain unclear. In this study, we revealed that matrix metalloproteinase 9 (MMP9) was upregulated by ZIKV infection in cell culture and in A129 mice. Furthermore, using an in vitro Sertoli cell barrier model and MMP9-/- mice, we found that ZIKV infection directly affected the permeability of the blood-testis barrier (BTB), and knockout or inhibition of MMP9 reduced the effects of ZIKV on the Sertoli cell BTB, highlighting its role in ZIKV-induced disruption of the BTB. Interestingly, the protein levels of MMP9 were elevated by ZIKV nonstructural protein 1 (NS1) in primary mouse Sertoli cells (mSCs) and other cell lines. Moreover, the interaction between NS1 and MMP9 induced the K63-linked polyubiquitination of MMP9, which enhanced the stability of MMP9. The upregulated MMP9 level led to the degradation of essential proteins involved in the maintenance of the BTB, such as tight junction proteins (TJPs) and type Ⅳ collagens. Collectively, we concluded that ZIKV infection promoted the expression of MMP9 which was further stabilized by NS1 induced K63-linked polyubiquitination to affect the TJPs/ type Ⅳ collagen network, thereby disrupting the BTB and facilitating ZIKV entry into the testes.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

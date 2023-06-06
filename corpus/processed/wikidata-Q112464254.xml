@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q112464254</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q112464254</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0262721</dc:identifier>
+  <dc:title>Evaluating the effectiveness of drones for quantifying invasive upside-down jellyfish (Cassiopea sp.) in Lake Macquarie, Australia</dc:title>
+  <dc:creator>Rowe, Claire E.</dc:creator>
+  <dc:creator>Figueira, Will</dc:creator>
+  <dc:creator>Kelaher, Brendan P.</dc:creator>
+  <dc:creator>Giles, Anna</dc:creator>
+  <dc:creator>Mamo, Lea T.</dc:creator>
+  <dc:creator>Ahyong, Shane T.</dc:creator>
+  <dc:creator>Keable, Stephen J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-01-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Upside-down jellyfish (Cassiopea sp.) are mostly sedentary, benthic jellyfish that have invaded estuarine ecosystems around the world. Monitoring the spread of this invasive jellyfish must contend with high spatial and temporal variability in abundance of individuals, especially around their invasion front. Here, we evaluated the utility of drones to survey invasive Cassiopea in a coastal lake on the east coast of Australia. To assess the efficacy of a drone-based methodology, we compared the densities and counts of Cassiopea from drone observations to conventional boat-based observations and evaluated cost and time efficiency of these methods. We showed that there was no significant difference in Cassiopea density measured by drones compared to boat-based methods along the same transects. However, abundance estimates of Cassiopea derived from scaling-up transect densities were over-inflated by 319% for drones and 178% for boats, compared to drone-based counts of the whole site. Although conventional boat-based survey techniques were cost-efficient in the short-term, we recommend doing whole-of-site counts using drones. This is because it provides a time-saving and precise technique for long-term monitoring of the spatio-temporally dynamic invasion front of Cassiopea in coastal lakes and other sheltered marine habitats with relatively clear water.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

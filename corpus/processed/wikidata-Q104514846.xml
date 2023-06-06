@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104514846</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104514846</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0243375</dc:identifier>
+  <dc:title>Genomic surveillance of Neisseria meningitidis serogroup B invasive strains: Diversity of vaccine antigen types, Brazil, 2016-2018</dc:title>
+  <dc:creator>Lemos, Ana Paula Silva</dc:creator>
+  <dc:creator>Sacchi, Claudio Tavares</dc:creator>
+  <dc:creator>Gonçalves, Claudia Regina</dc:creator>
+  <dc:creator>Camargo, Carlos Henrique</dc:creator>
+  <dc:creator>Andrade, Ana Lúcia</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-21</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Neisseria meningitidis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>
+Background
+Neisseria meningitidis serogroup B remains a prominent cause of invasive meningococcal disease (IMD) in Brazil. Because two novel protein-based vaccines against serogroup B are available, the main purpose of this study was to provide data on the diversity and distribution of meningococcal vaccine antigen types circulating in Brazil.
+
+
+Methodology
+Genetic lineages, vaccine antigen types, and allele types of antimicrobial-associated resistance genes based on whole-genome sequencing of a collection of 145 Neisseria meningitidis serogroup B invasive strains recovered in Brazil from 2016 to 2018 were collected.
+
+
+Results
+A total of 11 clonal complexes (ccs) were identified among the 145 isolates, four of which were predominant, namely, cc461, cc35, cc32, and cc213, accounting for 72.0% of isolates. The most prevalent fHbp peptides were 24 (subfamily A/variant 2), 47 (subfamily A/variant 3), 1 (subfamily B/variant 1) and 45 (subfamily A/variant 3), which were predominantly associated with cc35, cc461, cc32, and cc213, respectively. The NadA peptide was detected in only 26.2% of the isolates. The most frequent NadA peptide 1 was found almost exclusively in cc32. We found seven NHBA peptides that accounted for 74.5% of isolates, and the newly described peptide 1390 was the most prevalent peptide exclusively associated with cc461. Mutated penA alleles were detected in 56.5% of the isolates, whereas no rpoB and gyrA mutant alleles were found.
+
+
+Conclusion
+During the study period, changes in the clonal structure of circulating strains were observed, without a predominance of a single hyperinvasive lineage, indicating that an epidemiologic shift has occurred that led to a diversity of vaccine antigen types in recent years in Brazil.
+</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

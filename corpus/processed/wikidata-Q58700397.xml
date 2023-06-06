@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q58700397</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q58700397</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-32728-0</dc:identifier>
+  <dc:title>Intermediate predator naïveté and sex-skewed vulnerability predict the impact of an invasive higher predator</dc:title>
+  <dc:creator>Cuthbert, Ross N</dc:creator>
+  <dc:creator>Dalu, Tatenda</dc:creator>
+  <dc:creator>Wasserman, Ryan J</dc:creator>
+  <dc:creator>Dick, Jaimie T A</dc:creator>
+  <dc:creator>Mofu, Lubabalo</dc:creator>
+  <dc:creator>Callaghan, Amanda</dc:creator>
+  <dc:creator>Weyl, Olaf L. F.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe spread of invasive species continues to reduce biodiversity across all regions and habitat types globally. However, invader impact prediction can be nebulous, and approaches often fail to integrate coupled direct and indirect invader effects. Here, we examine the ecological impacts of an invasive higher predator on lower trophic groups, further developing methodologies to more holistically quantify invader impact. We employ functional response (FR, resource use under different densities) and prey switching experiments to examine the trait- and density-mediated impacts of the invasive mosquitofish Gambusia affinis on an endemic intermediate predator Lovenula raynerae (Copepoda). Lovenula raynerae effectively consumed larval mosquitoes, but was naïve to mosquitofish cues, with attack rates and handling times of the intermediate predator unaffected by mosquitofish cue-treated water. Mosquitofish did not switch between male and female prey, consistently displaying a strong preference for female copepods. We thus demonstrate a lack of risk-reduction activity in the presence of invasive fish by L. raynerae and, in turn, high susceptibility of such intermediate trophic groups to invader impact. Further, we show that mosquitofish demonstrate sex-skewed predator selectivity towards intermediate predators of mosquito larvae, which may affect predator population demographics and, perversely, increase disease vector proliferations. We advocate the utility of FRs and prey switching combined to holistically quantify invasive species impact potential on native organisms at multiple trophic levels.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

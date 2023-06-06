@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34440806</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34440806</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467266</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0043366</dc:identifier>
+  <dc:title>A suite of models to support the quantitative assessment of spread in pest risk analysis</dc:title>
+  <dc:creator>Robinet, Christelle</dc:creator>
+  <dc:creator>Kehlenbeck, Hella</dc:creator>
+  <dc:creator>Kriticos, Darren J</dc:creator>
+  <dc:creator>Baker, Richard H A</dc:creator>
+  <dc:creator>Battisti, Andrea</dc:creator>
+  <dc:creator>Brunel, Sarah</dc:creator>
+  <dc:creator>Dupin, Maxime</dc:creator>
+  <dc:creator>Eyre, Dominic</dc:creator>
+  <dc:creator>Faccoli, Massimo</dc:creator>
+  <dc:creator>Ilieva, Zhenya</dc:creator>
+  <dc:creator>Kenis, Marc</dc:creator>
+  <dc:creator>Knight, Jon</dc:creator>
+  <dc:creator>Reynaud, Philippe</dc:creator>
+  <dc:creator>Yart, Annie</dc:creator>
+  <dc:creator>Werf, Wopke</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-10-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>risk analysis</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Pest Risk Analyses (PRAs) are conducted worldwide to decide whether and how exotic plant pests should be regulated to prevent invasion. There is an increasing demand for science-based risk mapping in PRA. Spread plays a key role in determining the potential distribution of pests, but there is no suitable spread modelling tool available for pest risk analysts. Existing models are species specific, biologically and technically complex, and data hungry. Here we present a set of four simple and generic spread models that can be parameterised with limited data. Simulations with these models generate maps of the potential expansion of an invasive species at continental scale. The models have one to three biological parameters. They differ in whether they treat spatial processes implicitly or explicitly, and in whether they consider pest density or pest presence/absence only. The four models represent four complementary perspectives on the process of invasion and, because they have different initial conditions, they can be considered as alternative scenarios. All models take into account habitat distribution and climate. We present an application of each of the four models to the western corn rootworm, Diabrotica virgifera virgifera, using historic data on its spread in Europe. Further tests as proof of concept were conducted with a broad range of taxa (insects, nematodes, plants, and plant pathogens). Pest risk analysts, the intended model users, found the model outputs to be generally credible and useful. The estimation of parameters from data requires insights into population dynamics theory, and this requires guidance. If used appropriately, these generic spread models provide a transparent and objective tool for evaluating the potential spread of pests in PRAs. Further work is needed to validate models, build familiarity in the user community and create a database of species parameters to help realize their potential in PRA practice.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

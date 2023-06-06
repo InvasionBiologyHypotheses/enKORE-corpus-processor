@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37181802</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q37181802</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677973</dc:identifier>
+  <dc:identifier>doi:10.1016/J.CHOM.2008.06.001</dc:identifier>
+  <dc:title>Erythrocyte binding protein PfRH5 polymorphisms determine species-specific pathways of Plasmodium falciparum invasion</dc:title>
+  <dc:creator>Hayton, Karen</dc:creator>
+  <dc:creator>Gaur, Deepak</dc:creator>
+  <dc:creator>Liu, Anna</dc:creator>
+  <dc:creator>Takahashi, Jonathan</dc:creator>
+  <dc:creator>Henschen, Bruce</dc:creator>
+  <dc:creator>Singh, Subhash</dc:creator>
+  <dc:creator>Lambert, Lynn</dc:creator>
+  <dc:creator>Furuya, Tetsuya</dc:creator>
+  <dc:creator>Bouttenot, Rachel</dc:creator>
+  <dc:creator>Doll, Michelle</dc:creator>
+  <dc:creator>Nawaz, Fatima</dc:creator>
+  <dc:creator>Mu, Jianbing</dc:creator>
+  <dc:creator>Jiang, Lubin</dc:creator>
+  <dc:creator>Miller, Louis H</dc:creator>
+  <dc:creator>Wellems, Thomas E</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-07-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

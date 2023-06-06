@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34984583</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34984583</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3762713</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0073935</dc:identifier>
+  <dc:title>Evaluating detection limits of next-generation sequencing for the surveillance and monitoring of international marine pests</dc:title>
+  <dc:creator>Pochon, Xavier</dc:creator>
+  <dc:creator>Bott, Nathan J</dc:creator>
+  <dc:creator>Smith, Kirsty F</dc:creator>
+  <dc:creator>Wood, Susanna A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-09-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>marine invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Most surveillance programmes for marine invasive species (MIS) require considerable taxonomic expertise, are laborious, and are unable to identify species at larval or juvenile stages. Therefore, marine pests may go undetected at the initial stages of incursions when population densities are low. In this study, we evaluated the ability of the benchtop GS Junior™ 454 pyrosequencing system to detect the presence of MIS in complex sample matrices. An initial in-silico evaluation of the mitochondrial cytochrome c oxidase subunit I (COI) and the nuclear small subunit ribosomal DNA (SSU) genes, found that multiple primer sets (targeting a ca. 400 base pair region) would be required to obtain species level identification within the COI gene. In contrast a single universal primer set was designed to target the V1-V3 region of SSU, allowing simultaneous PCR amplification of a wide taxonomic range of MIS. To evaluate the limits of detection of this method, artificial contrived communities (10 species from 5 taxonomic groups) were created using varying concentrations of known DNA samples and PCR products. Environmental samples (water and sediment) spiked with one or five 160 hr old Asterias amurensis larvae were also examined. Pyrosequencing was able to recover DNA/PCR products of individual species present at greater than 0.64% abundance from all tested contrived communities. Additionally, single A. amurensis larvae were detected from both water and sediment samples despite the co-occurrence of a large array of environmental eukaryotes, indicating an equivalent sensitivity to quantitative PCR. NGS technology has tremendous potential for the early detection of marine invasive species worldwide.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

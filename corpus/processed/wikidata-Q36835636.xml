@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36835636</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36835636</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4845012</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP24610</dc:identifier>
+  <dc:title>Unique behavior of Trypanosoma cruzi mevalonate kinase: A conserved glycosomal enzyme involved in host cell invasion and signaling</dc:title>
+  <dc:creator>Ferreira, Éden Ramalho</dc:creator>
+  <dc:creator>Horjales, Eduardo</dc:creator>
+  <dc:creator>Bonfim-Melo, Alexis</dc:creator>
+  <dc:creator>Cortez, Cristian</dc:creator>
+  <dc:creator>Silva, Claudio Vieira</dc:creator>
+  <dc:creator>De Groote, Michel</dc:creator>
+  <dc:creator>Sobreira, Tiago José Paschoal</dc:creator>
+  <dc:creator>Cruz, Mário Costa</dc:creator>
+  <dc:creator>Lima, Fabio Mitsuo</dc:creator>
+  <dc:creator>Cordero, Esteban Mauricio</dc:creator>
+  <dc:creator>Yoshida, Nobuko</dc:creator>
+  <dc:creator>Silveira, José Franco</dc:creator>
+  <dc:creator>Mortara, Renato Arruda</dc:creator>
+  <dc:creator>Bahia, Diana</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-04-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractMevalonate kinase (MVK) is an essential enzyme acting in early steps of sterol isoprenoids biosynthesis, such as cholesterol in humans or ergosterol in trypanosomatids. MVK is conserved from bacteria to mammals and localizes to glycosomes in trypanosomatids. During the course of T. cruzi MVK characterization, we found that, in addition to glycosomes, this enzyme may be secreted and modulate cell invasion. To evaluate the role of TcMVK in parasite-host cell interactions, TcMVK recombinant protein was produced and anti-TcMVK antibodies were raised in mice. TcMVK protein was detected in the supernatant of cultures of metacyclic trypomastigotes (MTs) and extracellular amastigotes (EAs) by Western blot analysis, confirming its secretion into extracellular medium. Recombinant TcMVK bound in a non-saturable dose-dependent manner to HeLa cells and positively modulated internalization of T. cruzi EAs but inhibited invasion by MTs. In HeLa cells, TcMVK induced phosphorylation of MAPK pathway components and proteins related to actin cytoskeleton modifications. We hypothesized that TcMVK is a bifunctional enzyme that in addition to playing a classical role in isoprenoid synthesis in glycosomes, it is secreted and may modulate host cell signaling required for T. cruzi invasion.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

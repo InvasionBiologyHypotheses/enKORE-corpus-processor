@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56891974</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56891974</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081720</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0102400</dc:identifier>
+  <dc:title>Modeling Hawaiian ecosystem degradation due to invasive plants under current and future climates</dc:title>
+  <dc:creator>Vorsino, Adam E</dc:creator>
+  <dc:creator>Fortini, Lucas B</dc:creator>
+  <dc:creator>Amidon, Fred A</dc:creator>
+  <dc:creator>Miller, Stephen E</dc:creator>
+  <dc:creator>Jacobi, James D</dc:creator>
+  <dc:creator>Price, Jonathan P</dc:creator>
+  <dc:creator>Gon, Sam 'Ohukani'ohi'a</dc:creator>
+  <dc:creator>Koob, Gregory A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Occupation of native ecosystems by invasive plant species alters their structure and/or function. In Hawaii, a subset of introduced plants is regarded as extremely harmful due to competitive ability, ecosystem modification, and biogeochemical habitat degradation. By controlling this subset of highly invasive ecosystem modifiers, conservation managers could significantly reduce native ecosystem degradation. To assess the invasibility of vulnerable native ecosystems, we selected a proxy subset of these invasive plants and developed robust ensemble species distribution models to define their respective potential distributions. The combinations of all species models using both binary and continuous habitat suitability projections resulted in estimates of species richness and diversity that were subsequently used to define an invasibility metric. The invasibility metric was defined from species distribution models with 0.8; True Skill Statistic &gt;0.75) as evaluated per species. Invasibility was further projected onto a 2100 Hawaii regional climate change scenario to assess the change in potential habitat degradation. The distribution defined by the invasibility metric delineates areas of known and potential invasibility under current climate conditions and, when projected into the future, estimates potential reductions in native ecosystem extent due to climate-driven invasive incursion. We have provided the code used to develop these metrics to facilitate their wider use (Code S1). This work will help determine the vulnerability of native-dominated ecosystems to the combined threats of climate change and invasive species, and thus help prioritize ecosystem and species management actions.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

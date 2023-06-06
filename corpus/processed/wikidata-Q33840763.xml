@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33840763</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33840763</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046117</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0017102</dc:identifier>
+  <dc:title>Plasmodium falciparum reticulocyte binding-like homologue protein 2 (PfRH2) is a key adhesive molecule involved in erythrocyte invasion</dc:title>
+  <dc:creator>Sahar, Tajali</dc:creator>
+  <dc:creator>Reddy, K Sony</dc:creator>
+  <dc:creator>Bharadwaj, Mitasha</dc:creator>
+  <dc:creator>Pandey, Alok K</dc:creator>
+  <dc:creator>Singh, Shailja</dc:creator>
+  <dc:creator>Chitnis, Chetan E</dc:creator>
+  <dc:creator>Gaur, Deepak</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-02-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue b</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue a</dc:subject>
+  <dc:subject>reticulocyte binding protein 2 homologue b</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Erythrocyte invasion by Plasmodium merozoites is a complex, multistep process that is mediated by a number of parasite ligand-erythrocyte receptor interactions. One such family of parasite ligands includes the P. falciparum reticulocyte binding homologue (PfRH) proteins that are homologous with the P. vivax reticulocyte binding proteins and have been shown to play a role in erythrocyte invasion. There are five functional PfRH proteins of which only PfRH2a/2b have not yet been demonstrated to bind erythrocytes. In this study, we demonstrated that native PfRH2a/2b is processed near the N-terminus yielding fragments of 220 kDa and 80 kDa that exhibit differential erythrocyte binding specificities. The erythrocyte binding specificity of the 220 kDa processed fragment of native PfRH2a/2b was sialic acid-independent, trypsin resistant and chymotrypsin sensitive. This specific binding phenotype is consistent with previous studies that disrupted the PfRH2a/2b genes and demonstrated that PfRH2b is involved in a sialic acid independent, trypsin resistant, chymotrypsin sensitive invasion pathway. Interestingly, we found that the smaller 80 kDa PfRH2a/2b fragment is processed from the larger 220 kDa fragment and binds erythrocytes in a sialic acid dependent, trypsin resistant and chymotrypsin sensitive manner. Thus, the two processed fragments of PfRH2a/2b differed with respect to their dependence on sialic acids for erythrocyte binding. Further, we mapped the erythrocyte binding domain of PfRH2a/2b to a conserved 40 kDa N-terminal region (rPfRH2(40)) in the ectodomain that is common to both PfRH2a and PfRH2b. We demonstrated that recombinant rPfRH2(40) bound human erythrocytes with the same specificity as the native 220 kDa processed protein. Moreover, antibodies generated against rPfRH2(40) blocked erythrocyte invasion by P. falciparum through a sialic acid independent pathway. PfRH2a/2b thus plays a key role in erythrocyte invasion and its conserved receptor-binding domain deserves attention as a promising candidate for inclusion in a blood-stage malaria vaccine.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

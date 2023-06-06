@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34984670</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34984670</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0074326</dc:identifier>
+  <dc:title>Characterization of specific immune responses to different Aspergillus antigens during the course of invasive Aspergillosis in hematologic patients</dc:title>
+  <dc:creator>Potenza, Leonardo</dc:creator>
+  <dc:creator>Vallerini, Daniela</dc:creator>
+  <dc:creator>Barozzi, Patrizia</dc:creator>
+  <dc:creator>Riva, Giovanni</dc:creator>
+  <dc:creator>Forghieri, Fabio</dc:creator>
+  <dc:creator>Beauvais, Anne</dc:creator>
+  <dc:creator>Beau, Remi</dc:creator>
+  <dc:creator>Candoni, Anna</dc:creator>
+  <dc:creator>Maertens, Johan</dc:creator>
+  <dc:creator>Rossi, Giulio</dc:creator>
+  <dc:creator>Rossi, Antonio</dc:creator>
+  <dc:creator>Morselli, Monica</dc:creator>
+  <dc:creator>Zanetti, Eleonora</dc:creator>
+  <dc:creator>Quadrelli, Chiara</dc:creator>
+  <dc:creator>Codeluppi, Mauro</dc:creator>
+  <dc:creator>Guaraldi, Giovanni</dc:creator>
+  <dc:creator>Pagano, Livio</dc:creator>
+  <dc:creator>Caira, Morena</dc:creator>
+  <dc:creator>Del Giovane, Cinzia</dc:creator>
+  <dc:creator>Maccaferri, Monica</dc:creator>
+  <dc:creator>Stefani, Alessandro</dc:creator>
+  <dc:creator>Morandi, Uliano</dc:creator>
+  <dc:creator>Tazzioli, Giovanni</dc:creator>
+  <dc:creator>Girardis, Massimo</dc:creator>
+  <dc:creator>Delia, Mario</dc:creator>
+  <dc:creator>Specchia, Giorgina</dc:creator>
+  <dc:creator>Longo, Giuseppe</dc:creator>
+  <dc:creator>Marasca, Roberto</dc:creator>
+  <dc:creator>Narni, Franco</dc:creator>
+  <dc:creator>Merli, Francesco</dc:creator>
+  <dc:creator>Imovilli, Annalisa</dc:creator>
+  <dc:creator>Apolone, Giovanni</dc:creator>
+  <dc:creator>Carvalho, Agostinho</dc:creator>
+  <dc:creator>Comoli, Patrizia</dc:creator>
+  <dc:creator>Romani, Luigina</dc:creator>
+  <dc:creator>Latgè, Jean Paul</dc:creator>
+  <dc:creator>Luppi, Mario</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-09-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>Cell wall glucanase</dc:subject>
+  <dc:subject>1</dc:subject>
+  <dc:subject>3-beta-glucanosyltransferase with a role in elongation of 1</dc:subject>
+  <dc:subject>3-beta-glucan chains</dc:subject>
+  <dc:subject>Cu/Zn superoxide dismutase</dc:subject>
+  <dc:subject>Putative extracellular aspartic endopeptidase</dc:subject>
+  <dc:subject>invasive aspergillosis</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Several studies in mouse model of invasive aspergillosis (IA) and in healthy donors have shown that different Aspergillus antigens may stimulate different adaptive immune responses. However, the occurrence of Aspergillus-specific T cells have not yet been reported in patients with the disease. In patients with IA, we have investigated during the infection: a) whether and how specific T-cell responses to different Aspergillus antigens occur and develop; b) which antigens elicit the highest frequencies of protective immune responses and, c) whether such protective T cells could be expanded ex-vivo. Forty hematologic patients have been studied, including 22 patients with IA and 18 controls. Specific T cells producing IL-10, IFN-γ, IL-4 and IL-17A have been characterized through enzyme linked immunospot and cytokine secretion assays on 88 peripheral blood (PB) samples, by using the following recombinant antigens: GEL1p, CRF1p, PEP1p, SOD1p, α1-3glucan, β1-3glucan, galactomannan. Specific T cells were expanded through short term culture. Aspergillus-specific T cells producing non-protective interleukin-10 (IL-10) and protective interferon-gamma (IFN-γ) have been detected to all the antigens only in IA patients. Lower numbers of specific T cells producing IL-4 and IL-17A have also been shown. Protective T cells targeted predominantly Aspergillus cell wall antigens, tended to increase during the IA course and to be associated with a better clinical outcome. Aspergillus-specific T cells could be successfully generated from the PB of 8 out of 8 patients with IA and included cytotoxic subsets able to lyse Aspergillus hyphae. Aspergillus specific T-cell responses contribute to the clearance of the pathogen in immunosuppressed patients with IA and Aspergillus cell wall antigens are those mainly targeted by protective immune responses. Cytotoxic specific T cells can be expanded from immunosuppressed patients even during the infection by using the above mentioned antigens. These findings may be exploited for immunotherapeutic purposes in patients with IA.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

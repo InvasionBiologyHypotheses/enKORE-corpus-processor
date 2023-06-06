@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30043024</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30043024</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2193530</dc:identifier>
+  <dc:identifier>doi:10.1084/JEM.194.11.1571</dc:identifier>
+  <dc:title>A Plasmodium falciparum homologue of Plasmodium vivax reticulocyte binding protein (PvRBP1) defines a trypsin-resistant erythrocyte invasion pathway</dc:title>
+  <dc:creator>Rayner, J C</dc:creator>
+  <dc:creator>Vargas-Serrato, E</dc:creator>
+  <dc:creator>Huber, C S</dc:creator>
+  <dc:creator>Galinski, R</dc:creator>
+  <dc:creator>Barnwell, J W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2001-12-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>Plasmodium vivax</dc:subject>
+  <dc:subject>reticulocyte binding protein homologue 1</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Rockefeller University Press</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

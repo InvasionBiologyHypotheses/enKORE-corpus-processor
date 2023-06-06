@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q73113541</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q73113541</dc:identifier>
+  <dc:identifier>doi:10.2807/ESM.05.03.00024-EN</dc:identifier>
+  <dc:title>European Antimicrobial Resistance Surveillance System (EARSS): susceptibility testing of invasive Staphylococcus aureus</dc:title>
+  <dc:creator>Veldhuijzen, I</dc:creator>
+  <dc:creator>Bronzwaer, S.L.A.M.</dc:creator>
+  <dc:creator>Degener, J</dc:creator>
+  <dc:creator>Kool, J.L.</dc:creator>
+  <dc:creator>De EARSS / EARSS Participants, Les Participants</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2000-03-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Staphylococcus aureus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>European Centre for Disease Control and Prevention (ECDC)</dc:publisher>
+  <dc:description>Over 400 laboratories participate in EARSS (European Antimicrobial Resistance Surveillance System) and send data to the National Institute of Public Health and the Environment (RIVM) in The Netherlands. Data on about 14 000 isolates of Staphylococcus aure</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

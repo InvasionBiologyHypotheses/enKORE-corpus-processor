@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q115582787</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q115582787</dc:identifier>
+  <dc:identifier>doi:10.3390/ANTIBIOTICS11111595</dc:identifier>
+  <dc:title>Valorization of Invasive Plant Extracts against the Bispecies Biofilm Staphylococcus aureus–Candida albicans by a Bioguided Molecular Networking Screening</dc:title>
+  <dc:creator>Hamion, Guillaume</dc:creator>
+  <dc:creator>Aucher, Willy</dc:creator>
+  <dc:creator>Tardif, Charles</dc:creator>
+  <dc:creator>Miranda, Julie</dc:creator>
+  <dc:creator>Rouger, Caroline</dc:creator>
+  <dc:creator>Imbert, Christine</dc:creator>
+  <dc:creator>Girardot, Marion</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-11-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>Candida albicans</dc:subject>
+  <dc:subject>molecular networking screening</dc:subject>
+  <dc:subject>biofilm</dc:subject>
+  <dc:subject>plant extract</dc:subject>
+  <dc:subject>Staphylococcus aureus</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive plants efficiently colonize non-native territories, suggesting a great production of bioactive metabolites which could be effective antibiofilm weapons. Our study aimed to look for original molecules able to inhibit bispecies biofilm formed by S. aureus and C. albicans. Extracts from five invasive macrophytes (Ludwigia peploides, Ludwigia grandiflora, Myriophyllum aquaticum, Lagarosiphon major and Egeria densa) were prepared and tested in vitro against 24 h old bispecies biofilms using a crystal violet staining (CVS) assay. The activities of the extracts reducing the biofilm total biomass by 50% or more were comparatively analyzed against each microbial species forming the biofilm by flow cytometry (FCM) and scanning electron microscopy. Extracts active against both species were fractionated. Obtained fractions were analyzed by UHPLC-MS/MS and evaluated by the CVS assay. Chemical and biological data were combined into a bioactivity-based molecular networking (BBMN) to identify active compounds. The aerial stem extract of L. grandiflora showed the highest antibiofilm activity (&gt;50% inhibition at 50 _g∙mL−1). The biological, chemical and BBMN investigations of its fractions highlighted nine ions correlated with the antibiofilm activity. The most correlated compound, identified as betulinic acid (BA), inhibited bispecies biofilms regardless of the three tested couples of strains (ATCC strains: &gt;40% inhibition, clinical isolates: ≈27% inhibition), confirming its antibiofilm interest.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

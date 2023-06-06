@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27349443</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27349443</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002120</dc:identifier>
+  <dc:title>A Salmonella small non-coding RNA facilitates bacterial invasion and intracellular replication by modulating the expression of virulence factors</dc:title>
+  <dc:creator>Gong, Hao</dc:creator>
+  <dc:creator>Vu, Gia-Phong</dc:creator>
+  <dc:creator>Bai, Yong</dc:creator>
+  <dc:creator>Chan, Elton</dc:creator>
+  <dc:creator>Wu, Ruobin</dc:creator>
+  <dc:creator>Yang, Edward</dc:creator>
+  <dc:creator>Liu, Fenyong</dc:creator>
+  <dc:creator>Lu, Sangwei</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>virulence</dc:subject>
+  <dc:subject>non-coding RNA</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Small non-coding RNAs (sRNAs) that act as regulators of gene expression have been identified in all kingdoms of life, including microRNA (miRNA) and small interfering RNA (siRNA) in eukaryotic cells. Numerous sRNAs identified in Salmonella are encoded by genes located at Salmonella pathogenicity islands (SPIs) that are commonly found in pathogenic strains. Whether these sRNAs are important for Salmonella pathogenesis and virulence in animals has not been reported. In this study, we provide the first direct evidence that a pathogenicity island-encoded sRNA, IsrM, is important for Salmonella invasion of epithelial cells, intracellular replication inside macrophages, and virulence and colonization in mice. IsrM RNA is expressed in vitro under conditions resembling those during infection in the gastrointestinal tract. Furthermore, IsrM is found to be differentially expressed in vivo, with higher expression in the ileum than in the spleen. IsrM targets the mRNAs coding for SopA, a SPI-1 effector, and HilE, a global regulator of the expression of SPI-1 proteins, which are major virulence factors essential for bacterial invasion. Mutations in IsrM result in disregulation of expression of HilE and SopA, as well as other SPI-1 genes whose expression is regulated by HilE. Salmonella with deletion of isrM is defective in bacteria invasion of epithelial cells and intracellular replication/survival in macrophages. Moreover, Salmonella with mutations in isrM is attenuated in killing animals and defective in growth in the ileum and spleen in mice. Our study has shown that IsrM sRNA functions as a pathogenicity island-encoded sRNA directly involved in Salmonella pathogenesis in animals. Our results also suggest that sRNAs may represent a distinct class of virulence factors that are important for bacterial infection in vivo.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

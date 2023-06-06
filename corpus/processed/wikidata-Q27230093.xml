@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27230093</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27230093</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2386256</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0002287</dc:identifier>
+  <dc:title>The transmembrane isoform of Plasmodium falciparum MAEBL is essential for the invasion of Anopheles salivary glands</dc:title>
+  <dc:creator>Saenz, Fabian E</dc:creator>
+  <dc:creator>Balu, Bharath</dc:creator>
+  <dc:creator>Smith, Jonah</dc:creator>
+  <dc:creator>Mendonca, Sarita R</dc:creator>
+  <dc:creator>Adams, John H</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>membrane associated erythrocyte binding-like protein</dc:subject>
+  <dc:subject>membrane associated erythrocyte binding-like protein</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>transmembrane protein</dc:subject>
+  <dc:subject>membrane associated erythrocyte binding-like protein</dc:subject>
+  <dc:subject>membrane associated erythrocyte binding-like protein</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Malaria transmission depends on infective stages in the mosquito salivary glands. Plasmodium sporozoites that mature in midgut oocysts must traverse the hemocoel and invade the mosquito salivary glands in a process thought to be mediated by parasite ligands. MAEBL, a homologue of the transmembrane EBP ligands essential in merozoite invasion, is expressed abundantly in midgut sporozoites. Alternative splicing generates different MAEBL isoforms and so it is unclear what form is functionally essential. To identify the MAEBL isoform required for P. falciparum (NF54) sporozoite invasion of salivary glands, we created knockout and allelic replacements each carrying CDS of a single MAEBL isoform. Only the transmembrane form of MAEBL is essential and is the first P. falciparum ligand validated as essential for invasion of Anopheles salivary glands. MAEBL is the first P. falciparum ligand experimentally determined to be essential for this important step in the life cycle where the vector becomes infectious for transmitting sporozoites to people. With an increasing emphasis on advancing vector-based transgenic methods for suppression of malaria, it is important that this type of study, using modern molecular genetic tools, is done with the agent of the human disease. Understanding what P. falciparum sporozoite ligands are critical for mosquito transmission will help validate targets for vector-based transmission-blocking strategies.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111158420</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111158420</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2020.577635</dc:identifier>
+  <dc:title>Genomic Analyses of Phenotypic Differences Between Native and Invasive Populations of Diffuse Knapweed (Centaurea diffusa)</dc:title>
+  <dc:creator>Turner, Kathryn G.</dc:creator>
+  <dc:creator>Ostevik, Kate L.</dc:creator>
+  <dc:creator>Grassa, Christopher J.</dc:creator>
+  <dc:creator>Rieseberg, Loren H.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-01-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Centaurea diffusa</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Invasive species represent excellent opportunities to study the evolutionary potential of traits important to success in novel environments. Although some ecologically important traits have been identified in invasive species, little is typically known about the genetic mechanisms that underlie invasion success in non-model species. Here, we use a genome-wide association (GWAS) approach to identify the genetic basis of trait variation in the non-model, invasive, diffuse knapweed [Centaurea diffusa Lam. (Asteraceae)]. To assist with this analysis, we have assembled the first draft genome reference and fully annotated plastome assembly for this species, and one of the first from this large, weedy, genus, which is of major ecological and economic importance. We collected phenotype data from 372 individuals from four native and four invasive populations of C. diffusa grown in a common environment. Using these individuals, we produced reduced-representation genotype-by-sequencing (GBS) libraries and identified 7,058 SNPs. We identify two SNPs associated with leaf width in these populations, a trait which significantly varies between native and invasive populations. In this rosette forming species, increased leaf width is a major component of increased biomass, a common trait in invasive plants correlated with increased fitness. Finally, we use annotations from Arabidopsis thaliana to identify 98 candidate genes that are near the associated SNPs and highlight several good candidates for leaf width variation.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

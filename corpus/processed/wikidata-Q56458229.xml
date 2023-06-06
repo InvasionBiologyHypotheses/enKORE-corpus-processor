@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56458229</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56458229</dc:identifier>
+  <dc:identifier>doi:10.1155/2014/548384</dc:identifier>
+  <dc:title>The Bifurcation and Control of a Single-Species Fish Population Logistic Model with the Invasion of Alien Species</dc:title>
+  <dc:creator>Zhang, Yi</dc:creator>
+  <dc:creator>Zhang, Qiaoling</dc:creator>
+  <dc:creator>Li, Jinghao</dc:creator>
+  <dc:creator>Zhang, Qingling</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Hindawi Limited</dc:publisher>
+  <dc:description>The objective of this paper is to study systematically the bifurcation and control of a single-species fish population logistic model with the invasion of alien species based on the theory of singular system and bifurcation. It regardsSpartina anglicaas an invasive species, which invades the fisheries and aquaculture. Firstly, the stabilities of equilibria in this model are discussed. Moreover, the sufficient conditions for existence of the trans-critical bifurcation and the singularity induced bifurcation are obtained. Secondly, the state feedback controller is designed to eliminate the unexpected singularity induced bifurcation by combining harvested effort with the purification capacity. It obviously inhibits the switch of population and makes the system stable. Finally, the numerical simulation is proposed to show the practical significance of the bifurcation and control from the biological point of view.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

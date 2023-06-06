@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56395505</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56395505</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-29517-0</dc:identifier>
+  <dc:title>Warming neutralizes host-specific competitive advantages between a native and invasive herbivore</dc:title>
+  <dc:creator>Lin, Zheng-Hong</dc:creator>
+  <dc:creator>Wu, Chung-Huey</dc:creator>
+  <dc:creator>Ho, Chuan-Kai</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>herbivory</dc:subject>
+  <dc:subject>herbivore</dc:subject>
+  <dc:subject>invasive herbivore</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractAlthough native-invasive species interactions have become a common mechanism shaping ecosystems, whether these interactions shift under warming remains unclear. To investigate how warming may affect native and invasive species separately and together (intraspecific and interspecific competition, respectively) and whether any warming impact is resource dependent, we examined the performance of two competing herbivores (native Pieris canidia and invasive P. rapae) on two common host plants under three temperature settings (control, 3_°C, and 6_°C warming using environmental chambers). The results revealed that warming benefited the development and growth of both Pieris under intraspecific competition, but the benefits were host-plant dependent. Notably, the native or invasive Pieris gained an advantage from interspecific competition (host-plant dependent), but warming neutralized the competitive advantages of either Pieris species. These findings raise the possibility that warming-induced shifts in competitive status may become a crucial mechanism shaping ecosystems worldwide, because most ecosystems are challenged by species invasion and warming. Moreover, this study revealed a discrepancy in species thermal_performance between intra- and interspecific competition. Therefore, to predict native-invasive species competition under warming, current thermal performance applications should use species performance curves derived from interspecific rather than intraspecific competition studies (although the latter is more readily available).</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

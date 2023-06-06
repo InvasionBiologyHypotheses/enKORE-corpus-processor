@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q89896679</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q89896679</dc:identifier>
+  <dc:identifier>doi:10.3390/JCM9020610</dc:identifier>
+  <dc:title>A Mortality Prediction Rule for Hematology Patients with Invasive Aspergillosis Based on Serum Galactomannan Kinetics</dc:title>
+  <dc:creator>Mercier, Toine</dc:creator>
+  <dc:creator>Wera, Joachim</dc:creator>
+  <dc:creator>Chai, Louis Y A</dc:creator>
+  <dc:creator>Lagrou, Katrien</dc:creator>
+  <dc:creator>Maertens, Johan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-02-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive aspergillosis</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>In invasive aspergillosis (IA), an early and adequate assessment of the response to the initial antifungal therapy remains problematic. We retrospectively analyzed 206 hematology patients with proven or probable IA, and collected serial serum galactomannan (sGM) values and survival status through week 6 and week 12. We created a model for survival at week 6 based on the sGM taken at baseline and on early sGM kinetics. This resulted in a rule predicting that patients with a baseline sGM index &gt;1.4, who failed to lower that index to &lt;0.5 after one week, had a mortality rate of 48.1% at week 6. Conversely, patients presenting with a baseline sGM index ≤1.4 that obtained a negative sGM (&lt;0.5) after one week, had a mortality that was almost five times lower at only 10.1% by week 6. These findings were confirmed in an external cohort from an independent prospective study. In conclusion, sGM kinetics correlate well with treatment outcomes in hematology patients with IA. We present a rule which is easy to use at the bedside and has good accuracy in predicting week 6 survival.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

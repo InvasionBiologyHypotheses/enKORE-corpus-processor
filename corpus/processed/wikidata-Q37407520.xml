@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37407520</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q37407520</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5104352</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0166142</dc:identifier>
+  <dc:title>Global Potential Distribution of Bactrocera carambolae and the Risks for Fruit Production in Brazil</dc:title>
+  <dc:creator>Marchioro, Cesar A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-11-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Brazil</dc:subject>
+  <dc:subject>Bactrocera carambolae</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The carambola fruit fly, Bactrocera carambolae, is a tephritid native to Asia that has invaded South America through small-scale trade of fruits from Indonesia. The economic losses associated with biological invasions of other fruit flies around the world and the polyphagous behaviour of B. carambolae have prompted much concern among government agencies and farmers with the potential spread of this pest. Here, ecological niche models were employed to identify suitable environments available to B. carambolae in a global scale and assess the extent of the fruit acreage that may be at risk of attack in Brazil. Overall, 30 MaxEnt models built with different combinations of environmental predictors and settings were evaluated for predicting the potential distribution of the carambola fruit fly. The best model was selected based on threshold-independent and threshold-dependent metrics. Climatically suitable areas were identified in tropical and subtropical regions of Central and South America, Sub-Saharan Africa, west and east coast of India and northern Australia. The suitability map of B. carambola was intersected against maps of fruit acreage in Brazil. The acreage under potential risk of attack varied widely among fruit species, which is expected because the production areas are concentrated in different regions of the country. The production of cashew is the one that is at higher risk, with almost 90% of its acreage within the suitable range of B. carambolae, followed by papaya (78%), tangerine (51%), guava (38%), lemon (30%), orange (29%), mango (24%) and avocado (20%). This study provides an important contribution to the knowledge of the ecology of B. carambolae, and the information generated here can be used by government agencies as a decision-making tool to prevent the carambola fruit fly spread across the world.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

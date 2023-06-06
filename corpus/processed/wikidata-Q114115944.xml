@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114115944</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114115944</dc:identifier>
+  <dc:identifier>doi:10.3390/D14060467</dc:identifier>
+  <dc:title>How Will the Distributions of Native and Invasive Species Be Affected by Climate Change? Insights from Giant South American Land Snails</dc:title>
+  <dc:creator>Teles, Wanderson Siqueira</dc:creator>
+  <dc:creator>Silva, Daniel P.</dc:creator>
+  <dc:creator>Vilela, Bruno</dc:creator>
+  <dc:creator>Lima-Junior, Dilermando Pereira</dc:creator>
+  <dc:creator>Pires-Oliveira, João Carlos</dc:creator>
+  <dc:creator>Miranda, Marcel Sabino</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-06-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>phenotypic plasticity hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193364</dc:subject>
+  <dc:subject>hypothesis:phenotypic plasticity hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193364</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Climate change and invasive species are critical factors affecting native land snail diversity. In South America, the introduced Giant African Snail (Lissachatina fulica) has spread significantly in recent decades into the habitat of the threatened native giant snails of the genus Megalobulimus. We applied species distribution modeling (SDM), using the maximum entropy method (Maxent) and environmental niche analysis, to understand the ecological relationships between these species in a climate change scenario. We compiled a dataset of occurrences of L. fulica and 10 Megalobulimus species in South America and predicted the distribution of the species in current and future scenarios (2040–2060). We found that L. fulica has a broader environmental niche and potential distribution than the South American Megalobulimus species. The distribution of six Megalobulimus species will have their suitable areas decreased, whereas the distribution of the invasive species L. fulica will not change significantly in the near future. A correlation between the spread of L. fulica and the decline of native Megalobulimus species in South America was found due to habitat alteration from climate change, but this relationship does not seem to be related to a robust competitive interaction between the invasive and native species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

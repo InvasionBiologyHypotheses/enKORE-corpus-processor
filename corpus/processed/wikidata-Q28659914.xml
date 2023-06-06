@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28659914</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28659914</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3990620</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0095053</dc:identifier>
+  <dc:title>The trajectory of dispersal research in conservation biology. Systematic review</dc:title>
+  <dc:creator>Driscoll, Don A</dc:creator>
+  <dc:creator>Banks, Sam C</dc:creator>
+  <dc:creator>Barton, Philip S</dc:creator>
+  <dc:creator>Ikin, Karen</dc:creator>
+  <dc:creator>Lentini, Pia</dc:creator>
+  <dc:creator>Lindenmayer, David B</dc:creator>
+  <dc:creator>Smith, Annabel L</dc:creator>
+  <dc:creator>Berry, Laurence E</dc:creator>
+  <dc:creator>Burns, Emma L</dc:creator>
+  <dc:creator>Edworthy, Amanda</dc:creator>
+  <dc:creator>Evans, Maldwyn J</dc:creator>
+  <dc:creator>Gibson, Rebecca</dc:creator>
+  <dc:creator>Heinsohn, Rob</dc:creator>
+  <dc:creator>Howland, Brett</dc:creator>
+  <dc:creator>Kay, Geoff</dc:creator>
+  <dc:creator>Munro, Nicola</dc:creator>
+  <dc:creator>Scheele, Ben C</dc:creator>
+  <dc:creator>Stirnemann, Ingrid</dc:creator>
+  <dc:creator>Stojanovic, Dejan</dc:creator>
+  <dc:creator>Sweaney, Nici</dc:creator>
+  <dc:creator>Villaseñor, Nélida R</dc:creator>
+  <dc:creator>Westgate, Martin J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-04-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>systematic review</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Dispersal knowledge is essential for conservation management, and demand is growing. But are we accumulating dispersal knowledge at a pace that can meet the demand? To answer this question we tested for changes in dispersal data collection and use over time. Our systematic review of 655 conservation-related publications compared five topics: climate change, habitat restoration, population viability analysis, land planning (systematic conservation planning) and invasive species. We analysed temporal changes in the: (i) questions asked by dispersal-related research; (ii) methods used to study dispersal; (iii) the quality of dispersal data; (iv) extent that dispersal knowledge is lacking, and; (v) likely consequences of limited dispersal knowledge. Research questions have changed little over time; the same problems examined in the 1990s are still being addressed. The most common methods used to study dispersal were occupancy data, expert opinion and modelling, which often provided indirect, low quality information about dispersal. Although use of genetics for estimating dispersal has increased, new ecological and genetic methods for measuring dispersal are not yet widely adopted. Almost half of the papers identified knowledge gaps related to dispersal. Limited dispersal knowledge often made it impossible to discover ecological processes or compromised conservation outcomes. The quality of dispersal data used in climate change research has increased since the 1990s. In comparison, restoration ecology inadequately addresses large-scale process, whilst the gap between knowledge accumulation and growth in applications may be increasing in land planning. To overcome apparent stagnation in collection and use of dispersal knowledge, researchers need to: (i) improve the quality of available data using new approaches; (ii) understand the complementarities of different methods and; (iii) define the value of different kinds of dispersal information for supporting management decisions. Ambitious, multi-disciplinary research programs studying many species are critical for advancing dispersal research.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

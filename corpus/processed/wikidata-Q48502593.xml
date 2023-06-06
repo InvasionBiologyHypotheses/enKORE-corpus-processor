@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q48502593</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q48502593</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5787348</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.4157</dc:identifier>
+  <dc:title>Species identification by conservation practitioners using online images: accuracy and agreement between experts.</dc:title>
+  <dc:creator>Austen, Gail E</dc:creator>
+  <dc:creator>Bindemann, Markus</dc:creator>
+  <dc:creator>Griffiths, Richard A</dc:creator>
+  <dc:creator>Roberts, David L</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-01-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Validation.</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>Emerging technologies have led to an increase in species observations being recorded via digital images. Such visual records are easily shared, and are often uploaded to online communities when help is required to identify or validate species. Although this is common practice, little is known about the accuracy of species identification from such images. Using online images of newts that are native and non-native to the UK, this study asked holders of great crested newt (Triturus cristatus) licences (issued by UK authorities to permit surveying for this species) to sort these images into groups, and to assign species names to those groups. All of these experts identified the native species, but agreement among these participants was low, with some being cautious in committing to definitive identifications. Individuals’ accuracy was also independent of both their experience and self-assessed ability. Furthermore, mean accuracy was not uniform across species (69–96%). These findings demonstrate the difficulty of accurate identification of newts from a single image, and that expert judgements are variable, even within the same knowledgeable community. We suggest that identification decisions should be made on multiple images and verified by more than one expert, which could improve the reliability of species data.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

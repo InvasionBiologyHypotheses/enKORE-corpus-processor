@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64936894</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64936894</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6562490</dc:identifier>
+  <dc:identifier>doi:10.3390/MD17050277</dc:identifier>
+  <dc:title>Cytotoxic, Anti-Migration, and Anti-Invasion Activities on Breast Cancer Cells of Angucycline Glycosides Isolated from a Marine-Derived Streptomyces sp</dc:title>
+  <dc:creator>Qu, Xin-Ying</dc:creator>
+  <dc:creator>Ren, Jin-Wei</dc:creator>
+  <dc:creator>Peng, Ai-Hong</dc:creator>
+  <dc:creator>Lin, Shi-Qi</dc:creator>
+  <dc:creator>Lu, Dan-Dan</dc:creator>
+  <dc:creator>Du, Qian-Qian</dc:creator>
+  <dc:creator>Liu, Ling</dc:creator>
+  <dc:creator>Li, Xia</dc:creator>
+  <dc:creator>Li, Er-Wei</dc:creator>
+  <dc:creator>Xie, Wei-Dong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-05-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Streptomyces nodosus</dc:subject>
+  <dc:subject>Streptomyces</dc:subject>
+  <dc:subject>Streptomyces lusitanus</dc:subject>
+  <dc:subject>(3R)-3</dc:subject>
+  <dc:subject>5</dc:subject>
+  <dc:subject>10-trihydroxy-3-methyl-9-[(2R</dc:subject>
+  <dc:subject>5S</dc:subject>
+  <dc:subject>6R)-6-methyl-5-[(2R</dc:subject>
+  <dc:subject>6S)-6-methyl-5-oxo-2H-pyran-2-yl]oxan-2-yl]-2</dc:subject>
+  <dc:subject>4-dihydrotetracene-1</dc:subject>
+  <dc:subject>6</dc:subject>
+  <dc:subject>11-trione</dc:subject>
+  <dc:subject>saquayamycin B</dc:subject>
+  <dc:subject>Saquayamycin B1</dc:subject>
+  <dc:subject>(3R)-4-[6-[(1R</dc:subject>
+  <dc:subject>3R</dc:subject>
+  <dc:subject>5S</dc:subject>
+  <dc:subject>8S</dc:subject>
+  <dc:subject>10R</dc:subject>
+  <dc:subject>12R</dc:subject>
+  <dc:subject>14R)-5</dc:subject>
+  <dc:subject>14-dimethyl-6-oxo-2</dc:subject>
+  <dc:subject>4</dc:subject>
+  <dc:subject>9</dc:subject>
+  <dc:subject>13-tetraoxatricyclo[8.4.0.03</dc:subject>
+  <dc:subject>8]tetradecan-12-yl]-1</dc:subject>
+  <dc:subject>5-dihydroxy-9</dc:subject>
+  <dc:subject>10-dioxoanthracen-2-yl]-3-hydroxy-3-methylbutanoic acid</dc:subject>
+  <dc:subject>Vineomycin F</dc:subject>
+  <dc:subject>Vineomycin E</dc:subject>
+  <dc:subject>moromycin B</dc:subject>
+  <dc:subject>Fridamycin A</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Four angucycline glycosides were previously characterized from marine-derived Streptomyces sp. OC1610.4. Further investigation of this strain cultured on different fermentation media from that used previously resulted in the isolation of two new angucycline glycosides, vineomycins E and F (1–2), and five known homologues, grincamycin L (3), vineomycinone B2 (4), fridamycin D (5), moromycin B (7), and saquayamycin B1 (8). Vineomycin F (2) contains an unusual ring-cleavage deoxy sugar. All the angucycline glycosides isolated from Streptomyces sp. OC1610.4 were evaluated for their cytotoxic activity against breast cancer cells MCF-7, MDA-MB-231, and BT-474. Moromycin B (7), saquayamycin B1 (8), and saquayamycin B (9) displayed potent anti-proliferation against the tested cell lines, with IC50 values ranging from 0.16 to 0.67 μM. Saquayamycin B (9) inhibited the migration and invasion of MDA-MB-231 cells in a dose-dependent manner, as detected by Transwell and wound-healing assays.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

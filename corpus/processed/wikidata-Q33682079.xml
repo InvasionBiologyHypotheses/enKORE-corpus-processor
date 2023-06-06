@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33682079</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33682079</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430674</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-01313-2</dc:identifier>
+  <dc:title>Accessible areas in ecological niche comparisons of invasive species: Recognized but still overlooked</dc:title>
+  <dc:creator>Qiao, Huijie</dc:creator>
+  <dc:creator>Escobar, Luis E</dc:creator>
+  <dc:creator>Peterson, A Townsend</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-04-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>oversight</dc:subject>
+  <dc:subject>ecological niche</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractUnderstanding biological invasions is crucial for their control and prevention. Specially, establishing whether invasive species operate within the constraint of conservative ecological niches, or if niche shifts occur at all commonly as part of the invasion process, is indispensable to identifying and anticipating potential areas of invasion. Ecological niche modeling (ENM) has been used to address such questions, but improvements and debate in study design, model evaluation, and methods are still needed to mature this field. We reanalyze data for Gray Squirrels (Sciurus carolinensis), native to North America, but invasive in Europe. Our main finding was that, when the analysis extent is established carefully based on analogous sets of environmental conditions, all evidence of niche shifts disappears, suggesting that previous reports of niche shifts for this species are artifacts of methods and interpretation, rather than biological reality. Niche conservatism should be tested only within appropriate, similar, environmental spaces that are accessible to both species or populations being compared, thus avoiding model extrapolation related to model transfers. Testing for environmental similarity between native and invaded areas is critical to identifying niche shifts during species invasion robustly, but also in applications of ENM to understanding temporal dimensions of niche dynamics.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

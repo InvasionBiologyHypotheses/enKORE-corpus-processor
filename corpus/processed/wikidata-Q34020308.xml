@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34020308</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34020308</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126666</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0103409</dc:identifier>
+  <dc:title>Spatial assortment of mixed propagules explains the acceleration of range expansion</dc:title>
+  <dc:creator>Ramanantoanina, Andriamihaja</dc:creator>
+  <dc:creator>Ouhinou, Aziz</dc:creator>
+  <dc:creator>Hui, Cang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-08-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>range expansion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Range expansion of spreading organisms has been found to follow three types: (i) linear expansion with a constant rate of spread; (ii) bi-phase expansion with a faster linear expansion following a slower linear expansion; and (iii) accelerating expansion with a continuously increasing rate of spread. To date, no overarching formula exists that can be applied to all three types of range expansion. We investigated how propagule pressure, i.e., the initial number of individuals and their composition in terms of dispersal ability, affects the spread of a population. A system of integrodifference equations was then used to model the spatiotemporal dynamics of the population. We studied the dynamics of dispersal ability as well as the instantaneous and asymptotic rate of spread. We found that individuals with different dispersal abilities were spatially sorted with the stronger dispersers situated at the expanding range front, causing the velocity of expansion to accelerate. The instantaneous rate of spread was found to be fully determined by the growth and dispersal abilities of the population at the advancing edge of the invasion. We derived a formula for the asymptotic rate of spread under different scenarios of propagule pressure. The results suggest that data collected from the core of the invasion may underestimate the spreading rate of the population. Aside from better managing of invasive species, the derived formula could conceivably also be applied to conservation management of relocated, endangered or extra-limital species.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

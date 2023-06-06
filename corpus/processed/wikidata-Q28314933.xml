@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28314933</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28314933</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5095580</dc:identifier>
+  <dc:identifier>doi:10.1038/NCOMMS13313</dc:identifier>
+  <dc:title>Plants capable of selfing are more likely to become naturalized</dc:title>
+  <dc:creator>Razanajatovo, Mialy</dc:creator>
+  <dc:creator>Maurel, Noëlie</dc:creator>
+  <dc:creator>Dawson, Wayne</dc:creator>
+  <dc:creator>Essl, Franz</dc:creator>
+  <dc:creator>Kreft, Holger</dc:creator>
+  <dc:creator>Pergl, Jan</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Weigelt, Patrick</dc:creator>
+  <dc:creator>Winter, Marten</dc:creator>
+  <dc:creator>Kleunen, Mark</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-10-31</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>naturalization</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractMany plant species have established self-sustaining populations outside their natural range because of human activities. Plants with selfing ability should be more likely to establish outside their historical range because they can reproduce from a single individual when mates or pollinators are not available. Here, we compile a global breeding-system database of 1,752 angiosperm species and use phylogenetic generalized linear models and path analyses to test relationships between selfing ability, life history, native range size and global naturalization status. Selfing ability is associated with annual or biennial life history and a large native range, which both positively correlate with the probability of naturalization. Path analysis suggests that a high selfing ability directly increases the number of regions where a species is naturalized. Our results provide robust evidence across flowering plants at the global scale that high selfing ability fosters alien plant naturalization both directly and indirectly.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

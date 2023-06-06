@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104468329</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104468329</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7769614</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1009019</dc:identifier>
+  <dc:title>S100A4+ macrophages facilitate zika virus invasion and persistence in the seminiferous tubules via interferon-gamma mediation</dc:title>
+  <dc:creator>Yang, Wei</dc:creator>
+  <dc:creator>Wu, Yan-Hua</dc:creator>
+  <dc:creator>Liu, Shuang-Qing</dc:creator>
+  <dc:creator>Sheng, Zi-Yang</dc:creator>
+  <dc:creator>Zhen, Zi-Da</dc:creator>
+  <dc:creator>Gao, Rui-Qi</dc:creator>
+  <dc:creator>Cui, Xiao-Yun</dc:creator>
+  <dc:creator>Fan, Dong-Ying</dc:creator>
+  <dc:creator>Qin, Zhi-Hai</dc:creator>
+  <dc:creator>Zheng, Ai-Hua</dc:creator>
+  <dc:creator>Wang, Peigang</dc:creator>
+  <dc:creator>An, Jing</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Zika virus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Testicular invasion and persistence are features of Zika virus (ZIKV), but their mechanisms are still unknown. Here, we showed that S100A4+ macrophages, a myeloid macrophage subpopulation with susceptibility to ZIKV infection, facilitated ZIKV invasion and persistence in the seminiferous tubules. In ZIKV-infected mice, S100A4+ macrophages were specifically recruited into the interstitial space of testes and differentiated into interferon-γ-expressing M1 macrophages. With interferon-γ mediation, S100A4+ macrophages down-regulated Claudin-1 expression and induced its redistribution from the cytosol to nucleus, thus increasing the permeability of the blood-testis barrier which facilitated S100A4+ macrophages invasion into the seminiferous tubules. Intraluminal S100A4+ macrophages were segregated from CD8+ T cells and consequently helped ZIKV evade cellular immunity. As a result, ZIKV continued to replicate in intraluminal S100A4+ macrophages even when the spermatogenic cells disappeared. Deficiencies in S100A4 or interferon-γ signaling both reduced ZIKV infection in the seminiferous tubules. These results demonstrated crucial roles of S100A4+ macrophages in ZIKV infection in testes.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

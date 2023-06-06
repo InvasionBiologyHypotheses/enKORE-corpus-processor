@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34131008</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34131008</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256222</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0030069</dc:identifier>
+  <dc:title>Polar invasion and translocation of Neisseria meningitidis and Streptococcus suis in a novel human model of the blood-cerebrospinal fluid barrier</dc:title>
+  <dc:creator>Schwerk, Christian</dc:creator>
+  <dc:creator>Papandreou, Thalia</dc:creator>
+  <dc:creator>Schuhmann, Daniel</dc:creator>
+  <dc:creator>Nickol, Laura</dc:creator>
+  <dc:creator>Borkowski, Julia</dc:creator>
+  <dc:creator>Steinmann, Ulrike</dc:creator>
+  <dc:creator>Quednau, Natascha</dc:creator>
+  <dc:creator>Stump, Carolin</dc:creator>
+  <dc:creator>Weiss, Christel</dc:creator>
+  <dc:creator>Berger, Jürgen</dc:creator>
+  <dc:creator>Wolburg, Hartwig</dc:creator>
+  <dc:creator>Claus, Heike</dc:creator>
+  <dc:creator>Vogel, Ulrich</dc:creator>
+  <dc:creator>Ishikawa, Hiroshi</dc:creator>
+  <dc:creator>Tenenbaum, Tobias</dc:creator>
+  <dc:creator>Schroten, Horst</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-01-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>cerebrospinal fluid</dc:subject>
+  <dc:subject>Neisseria meningitidis</dc:subject>
+  <dc:subject>blood-cerebrospinal fluid barrier</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Streptococcus suis</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Acute bacterial meningitis is a life-threatening disease in humans. Discussed as entry sites for pathogens into the brain are the blood-brain and the blood-cerebrospinal fluid barrier (BCSFB). Although human brain microvascular endothelial cells (HBMEC) constitute a well established human in vitro model for the blood-brain barrier, until now no reliable human system presenting the BCSFB has been developed. Here, we describe for the first time a functional human BCSFB model based on human choroid plexus papilloma cells (HIBCPP), which display typical hallmarks of a BCSFB as the expression of junctional proteins and formation of tight junctions, a high electrical resistance and minimal levels of macromolecular flux when grown on transwell filters. Importantly, when challenged with the zoonotic pathogen Streptococcus suis or the human pathogenic bacterium Neisseria meningitidis the HIBCPP show polar bacterial invasion only from the physiologically relevant basolateral side. Meningococcal invasion is attenuated by the presence of a capsule and translocated N. meningitidis form microcolonies on the apical side of HIBCPP opposite of sites of entry. As a functionally relevant human model of the BCSFB the HIBCPP offer a wide range of options for analysis of disease-related mechanisms at the choroid plexus epithelium, especially involving human pathogens.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

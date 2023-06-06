@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34635567</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34635567</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0059884</dc:identifier>
+  <dc:title>Characterization and comparative profiling of miRNAs in invasive Bemisia tabaci (Gennadius) B and Q</dc:title>
+  <dc:creator>Guo, Qiang</dc:creator>
+  <dc:creator>Tao, Yun-Li</dc:creator>
+  <dc:creator>Chu, Dong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-03-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Silverleaf whitefly</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundMicroRNAs (miRNAs) are small, conserved, non-coding RNAs that post-transcriptionally regulate gene expression. Bemisia tabaci (Gennadius) B and Q are two invasive and dominant whiteflies, and B. tabaci Q has been displacing B in China. Differences in biological traits (fecundity, host range, resistance to insecticides, etc.) as affected by miRNAs might be involved in the displacement. In this study, we performed high-throughput sequencing to identify miRNAs in B. tabaci B and Q.ResultsWe identified 170 conserved miRNAs and 15 novel candidates, and found significant differences in the expression of miRNAs between B. tabaci B and Q.ConclusionExpression levels of miRNAs differ in B. tabaci B vs. Q. Additional research is needed to determine whether these differences are related to differences in the biology of B. tabaci B and Q, and whether these differences help explain why B. tabaci Q is displacing B in China.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

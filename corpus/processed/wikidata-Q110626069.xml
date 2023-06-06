@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110626069</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110626069</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.575599</dc:identifier>
+  <dc:title>Using Genomics to Link Populations of an Invasive Species to Its Potential Sources</dc:title>
+  <dc:creator>Resh, Carlee A.</dc:creator>
+  <dc:creator>Galaska, Matthew P.</dc:creator>
+  <dc:creator>Benesh, Kasey C.</dc:creator>
+  <dc:creator>Gardner, Jonathan P. A.</dc:creator>
+  <dc:creator>Wei, Kai-Jian</dc:creator>
+  <dc:creator>Yan, Ruo-Jin</dc:creator>
+  <dc:creator>Mahon, Andrew R.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-02-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>The introduction and subsequent range expansion of the Northern snakehead (Channa argus: Channidae, Anabantiformes) is one of a growing number of problematic biological invasions in the United States. This harmful aquatic invasive species is a predatory freshwater fish native to northeastern Asia that, following deliberate introduction, has established itself in multiple water basins in the eastern United States, as well as expanding its range into the Midwest. Previous work assessed the population structure and estimated the long-term effective population sizes of the populations present in the United States, but the source of the initial introduction(s) to the U.S. remains unidentified. Building on earlier work, we used whole genome scans (2b-RAD genomic sequencing) to analyze single nucleotide polymorphisms (SNPs) from C. argus to screen the genomes of these invasive fish from United States waters and from three sites in their native range in China. We recovered 2,822 SNP loci from genomic DNA extracted from 164 fish sampled from the eastern United States and Arkansas (Mississippi River basin), plus 30 fish sampled from three regions of the Yangtze River basin in China (n = 10 individuals per basin). Our results provide evidence supporting the Yangtze River basin in China, specifically the Bohu and/or Liangzi lakes, is a likely source of the C. argus introductions in multiple regions of the U.S., including the Lower Hudson River basin, Upper Hudson River basin and Philadelphia (Lower Delaware River basin). This information, in conjunction with additional sampling from the native range, will help to determine the source(s) of introduction for the other U.S. populations. Additionally, this work will provide valuable information for management to help prevent and manage future introductions into United States waterways, as well as aid in the development of more targeted strategies to regulate established populations and inhibit further spread.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39515040</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q39515040</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC97373</dc:identifier>
+  <dc:identifier>doi:10.1128/IAI.68.4.1964-1966.2000</dc:identifier>
+  <dc:title>Antibodies against the Plasmodium falciparum receptor binding domain of EBA-175 block invasion pathways that do not involve sialic acids</dc:title>
+  <dc:creator>Narum, David L.</dc:creator>
+  <dc:creator>Narum, D L</dc:creator>
+  <dc:creator>Haynes, J D</dc:creator>
+  <dc:creator>Fuhrmann, S</dc:creator>
+  <dc:creator>Moch, K</dc:creator>
+  <dc:creator>Liang, H</dc:creator>
+  <dc:creator>Hoffman, S L</dc:creator>
+  <dc:creator>Sim, B K</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2000-04-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Microbiology</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

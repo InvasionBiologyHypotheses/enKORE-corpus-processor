@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35907311</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35907311</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731558</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0147082</dc:identifier>
+  <dc:title>The Story of a Hitchhiker: Population Genetic Patterns in the Invasive Barnacle Balanus(Amphibalanus) improvisus Darwin 1854.</dc:title>
+  <dc:creator>Wrange, Anna-Lisa</dc:creator>
+  <dc:creator>Charrier, Gregory</dc:creator>
+  <dc:creator>Thonig, Anne</dc:creator>
+  <dc:creator>Rosenblad, Magnus Alm</dc:creator>
+  <dc:creator>Blomberg, Anders</dc:creator>
+  <dc:creator>Havenhand, Jonathan N</dc:creator>
+  <dc:creator>Jonsson, Per R</dc:creator>
+  <dc:creator>André, Carl</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>population genetics</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Understanding the ecological and evolutionary forces that determine the genetic structure and spread of invasive species is a key component of invasion biology. The bay barnacle, Balanus improvisus (= Amphibalanus improvisus), is one of the most successful aquatic invaders worldwide, and is characterised by broad environmental tolerance. Although the species can spread through natural larval dispersal, human-mediated transport through (primarily) shipping has almost certainly contributed to the current global distribution of this species. Despite its worldwide distribution, little is known about the phylogeography of this species. Here, we characterize the population genetic structure and model dispersal dynamics of the barnacle B. improvisus, and describe how human-mediated spreading via shipping as well as natural larval dispersal may have contributed to observed genetic variation. We used both mitochondrial DNA (cytochrome c oxidase subunit I: COI) and nuclear microsatellites to characterize the genetic structure in 14 populations of B. improvisus on a global and regional scale (Baltic Sea). Genetic diversity was high in most populations, and many haplotypes were shared among populations on a global scale, indicating that long-distance dispersal (presumably through shipping and other anthropogenic activities) has played an important role in shaping the population genetic structure of this cosmopolitan species. We could not clearly confirm prior claims that B. improvisus originates from the western margins of the Atlantic coasts; although there were indications that Argentina could be part of a native region. In addition to dispersal via shipping, we show that natural larval dispersal may play an important role for further colonisation following initial introduction.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104742736</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104742736</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS10010069</dc:identifier>
+  <dc:title>Antioxidant, Anti-tyrosinase, Anti-α-amylase, and Cytotoxic Potentials of the Invasive Weed &lt;i&gt;Andropogon virginicus&lt;/i&gt;</dc:title>
+  <dc:creator>Van Quan, Nguyen</dc:creator>
+  <dc:creator>Lam, Vu Quang</dc:creator>
+  <dc:creator>Iuchi, Yu</dc:creator>
+  <dc:creator>Takami, Akiyoshi</dc:creator>
+  <dc:creator>Teschke, Rolf</dc:creator>
+  <dc:creator>Xuan, Tran Dang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-31</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:subject>Andropogon virginicus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Andropogon virginicus is an invasive weed that seriously threatens agricultural production and economics worldwide. In this research, dried aerial parts of A. virginicus were extracted, applying Soxhlet and liquid-liquid phase methods to acquire the total crude (T-Anvi), hexane (H-Anvi), ethyl acetate (E-Anvi), butanol (B-Anvi), and water (W-Anvi) extracts, respectively. In which, T-Anvi contains the highest total phenolic and flavonoid contents (24.80 mg gallic acid and 37.40 mg rutin equivalents per g dry weight, respectively). Via anti-radical (ABTS and DPPH), and reducing power assays, E-Anvi exhibits the most potent activities (IC50 = 13.96, 43.59 and 124.11 _g/mL, respectively), stronger than butylated hydroxytoluene (BHT), a standard antioxidant, while the lipid peroxidation inhibitory effect of E-Anvi (LPI = 90.85% at the concentration of 500 _g/mL) is close to BHT. E-Anvi shows the most substantial inhibition (IC50 = 2.58 mg/mL) on tyrosinase. Notably, α-amylase is significantly suppressed by H-Anvi (IC50 = 0.72 mg/mL), over twice stronger than the positive control, palmitic acid. In the cytotoxic assay, E-Anvi is the strongest extract inhibiting K562 cells (IC50 = 112.01 _g/mL). Meanwhile, T-Anvi shows the highest prevention on Meg-01 expansion (IC50 = 91.40 _g/mL). Dominant compounds detected in E-Anvi by high-performance liquid chromatography-electrospray ionization-tandem mass spectrometry (HPLC-ESI-MS/MS) are identified as flavonoids. However, among four major compounds identified in H-Anvi by gas chromatography-mass spectrometry (GC-MS), palmitic acid and phytol are the most abundant compounds with peak areas of 27.97% and 16.42%, respectively. In essence, this is the first report describing that A. virginicus is a potential natural source of antioxidants, tyrosinase and α-amylase inhibitors, and anti-chronic myeloid leukemia (CML) agents which may be useful in future therapeutics as promising alternative medicines.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

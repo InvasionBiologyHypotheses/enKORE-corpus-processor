@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q101575522</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q101575522</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593257</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2020.570001</dc:identifier>
+  <dc:title>Experimental Warming Changes Phenology and Shortens Growing Season of the Dominant Invasive Plant Bromus tectorum (Cheatgrass)</dc:title>
+  <dc:creator>Howell, Armin</dc:creator>
+  <dc:creator>Winkler, Daniel E</dc:creator>
+  <dc:creator>Phillips, Michala L</dc:creator>
+  <dc:creator>McNellis, Brandon</dc:creator>
+  <dc:creator>Reed, Sasha C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Bromus tectorum</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>phenology</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Bromus tectorum (cheatgrass) has successfully invaded and established throughout the western United States. Bromus tectorum grows early in the season and this early growth allows B. tectorum to outcompete native species, which has led to dramatic shifts in ecosystem function and plant community composition after B. tectorum invades. If the phenology of native species is unable to track changing climate as effectively as B. tectorum's phenology then climate change may facilitate further invasion. To better understand how B. tectorum phenology will respond to future climate, we tracked the timing of B. tectorum germination, flowering, and senescence over a decade in three in situ climate manipulation experiments with treatments that increased temperatures (2°C and 4°C above ambient), altered precipitation regimes, or applied a combination of each. Linear mixed-effects models were used to analyze treatment effects on the timing of germination, flowering, senescence, and on the length of the vegetative growing season (time from germination to flowering) in each experiment. Altered precipitation treatments were only applied in early years of the study and neither precipitation treatments nor the treatments' legacies significantly affected B. tectorum phenology. The timing of germination did not significantly vary between any warming treatments and their respective ambient plots. However, plots that were warmed had advances in the timing of B. tectorum flowering and senescence, as well as shorter vegetative growing seasons. The phenological advances caused by warming increased with increasing degrees of experimental warming. The greatest differences between warmed and ambient plots were seen in the length of the vegetative growing season, which was shortened by approximately 12 and 7 days in the +4°C and +2°C warming levels, respectively. The effects of experimental warming were small compared to the effects of interannual climate variation, suggesting that interactive controls and the timing of multiple climatic factors are important in determining B. tectorum phenology. Taken together, these results help elucidate how B. tectorum phenology may respond to future climate, increasing our predictive capacity for estimating when to time B. tectorum control efforts and how to more effectively manage this exotic annual grass.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

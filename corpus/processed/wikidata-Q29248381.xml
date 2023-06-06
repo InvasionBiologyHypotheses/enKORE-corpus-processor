@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q29248381</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q29248381</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341439</dc:identifier>
+  <dc:identifier>doi:10.1186/S12951-017-0253-X</dc:identifier>
+  <dc:title>Non-invasive continuous monitoring of pro-oxidant effects of engineered nanoparticles on aquatic microorganisms</dc:title>
+  <dc:creator>Santschi, Christian</dc:creator>
+  <dc:creator>Moos, Nadia R</dc:creator>
+  <dc:creator>Koman, Volodymyr B</dc:creator>
+  <dc:creator>Slaveykova, Vera I</dc:creator>
+  <dc:creator>Bowen, Paul</dc:creator>
+  <dc:creator>Martin, Olivier J.F.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>biomedical investigative technique</dc:subject>
+  <dc:subject>manufactured product</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+  <dc:subject>inorganic compound</dc:subject>
+  <dc:subject>biosensor</dc:subject>
+  <dc:subject>chemical water pollutants</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

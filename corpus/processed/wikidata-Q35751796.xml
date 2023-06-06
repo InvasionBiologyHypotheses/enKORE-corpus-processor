@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35751796</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35751796</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989474</dc:identifier>
+  <dc:identifier>doi:10.1111/ELE.12493</dc:identifier>
+  <dc:title>The role of life history traits in mammalian invasion success</dc:title>
+  <dc:creator>Capellini, Isabella</dc:creator>
+  <dc:creator>Baker, Joanna</dc:creator>
+  <dc:creator>Allen, William L</dc:creator>
+  <dc:creator>Street, Sally E</dc:creator>
+  <dc:creator>Venditti, Chris</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-08-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>life-history trait</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Why some organisms become invasive when introduced into novel regions while others fail to even establish is a fundamental question in ecology. Barriers to success are expected to filter species at each stage along the invasion pathway. No study to date, however, has investigated how species traits associate with success from introduction to spread at a large spatial scale in any group. Using the largest data set of mammalian introductions at the global scale and recently developed phylogenetic comparative methods, we show that human-mediated introductions considerably bias which species have the opportunity to become invasive, as highly productive mammals with longer reproductive lifespans are far more likely to be introduced. Subsequently, greater reproductive output and higher introduction effort are associated with success at both the establishment and spread stages. High productivity thus supports population growth and invasion success, with barriers at each invasion stage filtering species with progressively greater fecundity.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

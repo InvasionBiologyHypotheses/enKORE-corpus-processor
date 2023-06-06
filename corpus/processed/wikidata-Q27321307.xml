@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27321307</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27321307</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344246</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1004670</dc:identifier>
+  <dc:title>Revealing the sequence and resulting cellular morphology of receptor-ligand interactions during Plasmodium falciparum invasion of erythrocytes</dc:title>
+  <dc:creator>Weiss, Greta E</dc:creator>
+  <dc:creator>Gilson, Paul R</dc:creator>
+  <dc:creator>Taechalertpaisarn, Tana</dc:creator>
+  <dc:creator>Tham, Wai-Hong</dc:creator>
+  <dc:creator>Jong, Nienke W M</dc:creator>
+  <dc:creator>Harvey, Katherine L</dc:creator>
+  <dc:creator>Fowkes, Freya J I</dc:creator>
+  <dc:creator>Barlow, Paul N</dc:creator>
+  <dc:creator>Rayner, Julian</dc:creator>
+  <dc:creator>Wright, Gavin J</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:creator>Crabb, Brendan S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>cell morphology</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>During blood stage Plasmodium falciparum infection, merozoites invade uninfected erythrocytes via a complex, multistep process involving a series of distinct receptor-ligand binding events. Understanding each element in this process increases the potential to block the parasite's life cycle via drugs or vaccines. To investigate specific receptor-ligand interactions, they were systematically blocked using a combination of genetic deletion, enzymatic receptor cleavage and inhibition of binding via antibodies, peptides and small molecules, and the resulting temporal changes in invasion and morphological effects on erythrocytes were filmed using live cell imaging. Analysis of the videos have shown receptor-ligand interactions occur in the following sequence with the following cellular morphologies; 1) an early heparin-blockable interaction which weakly deforms the erythrocyte, 2) EBA and PfRh ligands which strongly deform the erythrocyte, a process dependant on the merozoite's actin-myosin motor, 3) a PfRh5-basigin binding step which results in a pore or opening between parasite and host through which it appears small molecules and possibly invasion components can flow and 4) an AMA1-RON2 interaction that mediates tight junction formation, which acts as an anchor point for internalization. In addition to enhancing general knowledge of apicomplexan biology, this work provides a rational basis to combine sequentially acting merozoite vaccine candidates in a single multi-receptor-blocking vaccine.</dc:description>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>

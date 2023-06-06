@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q39517083</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q39517083</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC97756</dc:identifier>
+  <dc:identifier>doi:10.1128/IAI.68.12.6602-6610.2000</dc:identifier>
+  <dc:title>Dual role of signaling pathways leading to Ca(2+) and cyclic AMP elevation in host cell invasion by Trypanosoma cruzi</dc:title>
+  <dc:creator>Caler, E V</dc:creator>
+  <dc:creator>Morty, R E</dc:creator>
+  <dc:creator>Burleigh, B A</dc:creator>
+  <dc:creator>Andrews, N W</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2000-12-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Microbiology</dc:publisher>
+  <dc:coverage>n/a</dc:coverage>
+</oai_dc:dc>
