@@ -150,20 +150,30 @@ async function processArgs(args) {
     }
 
   }
-
-  // ##### Note: Passing Wikidata elements from items list
-  let items = entries?.results?.bindings?.map((x) => x?.item?.value) || []; // ##### Note: defining entries
   // #############################################################
   // ##### Pull from Url or Read from file the entries (END) #####
   // #############################################################
 
+  // ##### Note: Below we remove redundancies from entries, and reduce the number of required queries #####
+  // ##### Note: An original list of entries may contain repetitions due to (1) themes, (2) hypothesis or maybe other information.
+  // ##### Note: Creating list of unique URLs from Wikidata
+  let items = [];
+
   if (parsedArgs.items) {
 
     items = [...items, ...parsedArgs?.items?.split("|")];
+    dl.debug("Log(processArgs): Extracting entries from parsedArgs.items");
+
+  } else {
+
+    items = entries?.results?.bindings?.map((x) => x?.item?.value) || [];
+    dl.debug("Log(processArgs): Extracting entries from file");
 
   }
+  
+  dl.debug(`Log(processArgs): List of URLs for processing: ${items}`); // ##### Note: Repetitions inside json are now removed, and only unique URLs are given.
 
-  dl.debug(`Log(processArgs): Total items for processing = ${items.length}`);
+  dl.debug(`Log(processArgs): Total URLs for processing = ${items.length}`);
 
   // ##### Note: (items) contains an Array of WikidataItems-URLs extracted from entries.json
   // ##### Example: ["http://www.wikidata.org/entity/Q33482830","http://www.wikidata.org/entity/Q56450031",...,"http://www.wikidata.org/entity/Q110745069"]
@@ -1115,13 +1125,27 @@ async function main() {
       count + size > items.length ? items.length : count + size,
     );
 
+    // ##### Note: Percentage
+    let count_percentage = Math.round(100*count/items.length);
+
+    let count_percentage_done = count_percentage/100;
+    let count_percentage_todo = 1 - count_percentage_done;
+
     // cl.info(`Log(main): Processing ${size} entries from ${count}`);
-    dl.debug("= = = = = = = = = =");
-    dl.debug({ count });
-    dl.debug("Log(main): BATCH:");
-    dl.debug(batch);
-    dl.debug("= = = = = = = = = =");
-    // dl.debug(batch);
+    console.log("");
+    console.log("= = = = = = = = = =");
+    dl.debug(`Log(main): Extracted ${count} items from ${items.length} items`);
+
+    let percentage_done = ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+    let percentage_todo = "__________________________________________________";
+    let percentage_print = percentage_done.slice(0, Math.round(count_percentage_done*(percentage_done.length))) + percentage_todo.slice(0, Math.round(count_percentage_todo*(percentage_todo.length)));
+
+    dl.debug(`Log(main): ${percentage_print} [${count_percentage}%]`);
+
+    dl.debug("Log(main): NEXT BATCH:");
+    dl.debug(`Log(main): ${batch}`);
+    console.log("= = = = = = = = = =");
+    console.log("");
     await getItemData(batch); // ##### Note:  (await) To be used with asynchronous function
     dl.debug("Log(main): start sleeping");
     await sleep(delay); // ##### Note:  (await) To be used with asynchronous function
