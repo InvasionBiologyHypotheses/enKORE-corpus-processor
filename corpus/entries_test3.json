@@ -59,6 +59,11 @@
           "type": "literal",
           "value": "enemy release hypothesis"
         },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Phylogenetic structure predicts capitular damage to Asteraceae better than origin or phylogenetic distance to natives"
+        },
         "topic": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q116193385"
@@ -137,6 +142,20 @@
           "type": "literal",
           "value": "invasive species"
         },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
+        },
         "topic": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q42985020"
@@ -146,6 +165,20 @@
           "type": "literal",
           "value": "invasion biology"
         },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
+        },
         "topic": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q110527597"
@@ -154,6 +187,20 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "niche overlap"
+        },
+        "license": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20007257"
+        },
+        "licenseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Creative Commons Attribution 4.0 International"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
         },
         "topic": {
           "type": "uri",
