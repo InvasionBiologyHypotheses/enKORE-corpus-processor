@@ -1281,7 +1281,7 @@ async function main() {
   dl.debug("Log(main): main()_getItemData()_IN");
   dl.debug("Log(main): ##########");
 
-  async function runBatch() {
+  async function runBatches() {
 
     for (let count = offset; count < items.length; count += size) {
 
@@ -1328,6 +1328,7 @@ async function main() {
 
   }
 
+  // ##### Note: Function to call additional function that are mostly related to quality control.
   async function runExtraFunction() {
 
     const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
@@ -1356,7 +1357,6 @@ async function main() {
     function_log_append('./logs/','Log_total_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_invalid_characters.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_DOI_list.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-
 
     // ##### Note: Creating report.html at directory logs
     const content = `
@@ -1404,8 +1404,10 @@ async function main() {
 
   }
 
-  var runBatch_result = runBatch();
+  // ##### Note: To run over list of URL list and save XML files in folder (processed).
+  var runBatch_result = runBatches();
 
+  // ##### Note: Function to wait all XML files to be written, and then to check results.
   async function RunBatches_ThenExtraFunctions() {
 
     await runBatch_result.then((data) => {
@@ -1418,10 +1420,11 @@ async function main() {
     dl.debug("Log(main): Waiting 10 seconds for remaning files to be saved from xmlexporter inside folder (processed).");
     dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
     console.log("\n\n");
-    setTimeout(() => {runExtraFunction(); }, 10000)
+    setTimeout(() => {runExtraFunction(); }, 10000); // ##### Note: Waiting some seconds to write last chunck of the batch.
     
   }
 
+  // ##### Note: To call extra functions, which are mostly related to control of results
   RunBatches_ThenExtraFunctions();
 
 }
