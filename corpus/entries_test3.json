@@ -1,253 +1,40 @@
 {
-  "head": {
-    "vars": [
-      "item",
-      "itemLabel",
-      "license",
-      "licenseLabel",
-      "topic",
-      "topicLabel"
-    ]
-  },
   "results": {
     "bindings": [
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q33482830"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Bacterial thymidine kinase as a non-invasive imaging reporter for Mycobacterium tuberculosis in live animals"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q12204"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "tuberculosis"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
         }
       },
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q33819769"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Phylogenetic structure predicts capitular damage to Asteraceae better than origin or phylogenetic distance to natives"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q85759287"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "enemy release hypothesis"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Phylogenetic structure predicts capitular damage to Asteraceae better than origin or phylogenetic distance to natives"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q116193385"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Darwin's naturalization hypothesis"
         }
       },
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q94479661"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Invasion and high-elevation acclimation of the red imported fire ant, Solenopsis invicta, in the southern Blue Ridge Escarpment region of North America"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1194382"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Solenopsis invicta"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
         }
       },
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q56767767"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Fish movements: the introduction pathway for topmouth gudgeon Pseudoras bora parva and other non-native fishes in the UK"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110620464"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "propagule pressure hypothesis"
         }
       },
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q35677524"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q183368"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "invasive species"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q42985020"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "invasion biology"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110527597"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "niche overlap"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Aggressiveness overcomes body-size effects in fights staged between invasive and native fish species with overlapping niches"
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q110758984"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "aquatic invasion"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
         }
       },
       {
         "item": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q49027734"
-        },
-        "itemLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Cost-benefit analysis for invasive species control: the case of greater Canada goose Branta canadensis in Flanders (northern Belgium)."
-        },
-        "topic": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q942582"
-        },
-        "topicLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "cost–benefit analysis"
-        },
-        "license": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20007257"
-        },
-        "licenseLabel": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Creative Commons Attribution 4.0 International"
         }
       }
     ]
