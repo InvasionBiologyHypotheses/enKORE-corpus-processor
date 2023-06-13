@@ -154,9 +154,164 @@ async function processArgs(args) {
   // ##### Pull from Url or Read from file the entries (END) #####
   // #############################################################
 
-  // ##### Note: Below we remove redundancies from entries, and reduce the number of required queries #####
-  // ##### Note: An original list of entries may contain repetitions due to (1) themes, (2) hypothesis or maybe other information.
-  // ##### Note: Creating list of unique URLs from Wikidata
+
+  // #################################################
+  // ##### Re-processing list of entries (START) #####
+  // #################################################
+  const reduce_entries = 999;
+
+  if (reduce_entries == 1) {
+
+    // #############################################
+    // ##### Note:Generating reduced file
+    const entries_json_obj = await readJSON("./corpus/entries_test1.json").catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
+
+      dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
+      Deno.exit(1);
+  
+    });
+
+    // ##### Note: Obtaining header and results objects
+    let json_head_obj = entries_json_obj.head;
+    let json_results_obj = entries_json_obj.results;
+
+    // ##### Note: Obtaining header and results strings
+    let json_head_string = '"head":' + JSON.stringify(json_head_obj);
+    let json_results_string = '"results":' + JSON.stringify(json_results_obj);
+    // dl.debug('{' + json_head_string + "," + json_results_string + '}'); // ##### Note: checking merged json-strings
+    let jsonAllObj_new = JSON.parse('{ "results":{"bindings":[]} }'); // ##### Note: Creating an empty object to be appended with unique elements
+    // dl.debug(``);
+    // dl.debug(`${JSON.stringify(jsonAllObj_new)}`);
+
+    let ii = 0; // ##### Note: index for the buiding jsonAllObj_new
+
+    for (let i = 0; i < entries_json_obj.results.bindings.length; i++) {
+
+      dl.debug(`Object-index obtained from original file of entries: [${i}]`); // ##### Note: index for the jsonAllObj_old
+
+      if (i == 0) {
+
+        ii++; // ##### Note: First element must be unique! Therefore, no checkig condition required.
+        // ##### Note: Below we append the information (only the URL is needed)
+        // let url2check = entries_json_obj.results.bindings[i].item;
+        // jsonAllObj_new.results.bindings[ii-1] = url2check;
+        const obj1 = JSON.parse('{ "item": ' + JSON.stringify(entries_json_obj.results.bindings[i].item) + ' }');
+        jsonAllObj_new.results.bindings[ii-1] = obj1;
+        
+        // dl.debug(`Log(processArgs): url2check: ${JSON.stringify(url2check)}`); // ##### Note: This line can be removed, but visually better to keep.
+
+      } else if(i > 0) {
+
+        let jsonAllObj_old = entries_json_obj.results.bindings[i];
+        let url2check = jsonAllObj_old.item.value; // ##### Note: element to compare across growing-jsonAllOjb
+
+        dl.debug(`Log(processArgs): URL (i.e. url2check): ${JSON.stringify(url2check)}`);
+
+        if (JSON.stringify(jsonAllObj_new).includes(url2check)) {
+
+          // ##### NOTE: IMPORTANT!
+          // ##### NOTE: PIECE BELOW CAN BE ADJUSTED TO WRITE A NEW FILE CONTAINING INFORMATION WITHOUT REPETITIONS OF URLs
+          // ##### NOTE: HOWEVER, THE NEW FILE WOULD CONTAIN REPETITIONS OF KEYS CONTAINING SAME AND DIFFERENT VALUES
+
+          dl.debug(`Log(processArgs): URL (i.e. url2check) exists: No URL to be appended.`); // ##### Note: Append only contents that are missing
+
+          // ##### Note: Finding the item inside jsonAllObj_new that contains url2check so it can be appended with extra missig information
+          // ##### Note: You cannot append the same URL twice to avoid redownloading it.
+          for (let j = 0; j < jsonAllObj_new.results.bindings.length; j++) {          
+
+            if (JSON.stringify(jsonAllObj_new.results.bindings[j]).includes(url2check)) { // ##### Note: here we define index of jsonAllObj_new containing url2check
+
+              let Obj1 = jsonAllObj_new.results.bindings[j]; // ##### Note: Assign as an object
+              let Obj2 = jsonAllObj_old; // ##### Note: Retransmitting the object
+              delete Obj2.item; // ##### Note: Removing only the URL from retransmitted object
+              // ##### Note (ERROR): let Obj3 = Object.assign(Obj1, Obj2); Dos not preserve same key with different values. Therefore, working with strings.
+
+              let Obj1_str = JSON.stringify(Obj1); // ##### Note: Convert to string for a merge
+              let Obj2_str = JSON.stringify(Obj2); // ##### Note: Convert to string for a merge
+
+              let Obj3_str = (Obj1_str.slice(0, -1) + "," + Obj2_str.slice(1, Obj2_str.length)).replace(/\\/g, '').replace(/"/g, ""); // ##### Note: removing some characters
+              // ##### Note (ERROR) let Obj3 = JSON.parse(Obj3_str); it  deletes identical keys that contain same values and different values
+
+              let Obj3 = {
+
+                Obj3_str
+
+              };
+
+              // ##### Note: Line below are just for checking merged information into new appended object
+              // console.log(``);
+              // console.log(`OBJECT-1 (objnew): ${JSON.stringify(Obj1)}`);
+              // console.log(``);
+              // console.log(`OBJECT-2 (objold): ${JSON.stringify(Obj2)}`);
+              // console.log(``);
+              // console.log(`OBJECT-3 (merged): ${Obj3_str}`);
+              // console.log(``);
+              // console.log(`OBJECT-3 (merged): ${JSON.stringify(Obj3)}`);
+              // jsonAllObj_new.results.bindings[j] = Obj3; // ##### Note: To replace results with appended new result
+
+            }
+
+          }        
+
+        } else {
+
+          dl.debug(`Log(processArgs): URL (i.e. url2check) does not exist in buiding entries.json (here defined as jsonAllObj_new): Appending URL from (jsonAllObj_old) to (jsonAllObj_new).`); // ##### Note: Append all contents
+          ii++;
+          // ##### Note: Below we append the information (only the URL is needed)
+          // jsonAllObj_new.results.bindings[ii-1] = entries_json_obj.results.bindings[i].item;
+          const obj1 = JSON.parse('{ "item": ' + JSON.stringify(entries_json_obj.results.bindings[i].item) + ' }');
+          jsonAllObj_new.results.bindings[ii-1] = obj1;
+
+        }
+
+      }  
+
+      dl.debug(``);
+      dl.debug(`Given index number for the new reduced file of entries: [${ii}]`);
+      dl.debug(``);
+      dl.debug(`(jsonAllObj_new) total URLs is: ${JSON.stringify(jsonAllObj_new.results.bindings.length)}`); 
+      dl.debug(``); 
+
+    }
+
+    // Note: var/const jsonAllObj_new_str = JSON.stringify(jsonAllObj_new); does not allow beaultify json (Ctrl+Shift+I)
+    let jsonAllObj_new_str = JSON.stringify(jsonAllObj_new); // ##### Note: var 
+    dl.debug(`Log(processArgs): New temporary reduced list of entries is:`);
+    dl.debug(`${jsonAllObj_new_str}`);
+
+    // ##### Note: To confirm that string to be saved is a valid json
+    async function IfJson_ThenWrite(str) { 
+
+      try { 
+        
+        JSON.parse(str); 
+        await function_log_new('./corpus/','reduced_entries.json',str);
+      
+      } catch (e) { 
+        
+        return false; 
+      
+      } return true; 
+
+    }
+
+    IfJson_ThenWrite(jsonAllObj_new_str);
+
+    // #################################################
+    // ##### Note: Reading entries from new reduced file
+    function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`); 
+    // ##### Note: You must await here otherwise new file is not considered
+    // ##### Note (DO NOT USE): const read = fetchFileEntries("./corpus/entries_test3.json");
+    const read = await fetchFileEntries("./corpus/reduced_entries.json"); // ##### Note: To pass reduced file here (e.g. reduced_entries.json).
+    extend(entries, read);
+
+  }
+  // ###############################################
+  // ##### Re-processing list of entries (END) #####
+  // ###############################################
+
+
+  // ##### Note: Below we will display URLs to be accessed (repetitions can occur depending on which entries.json is used) #####
   let items = [];
 
   if (parsedArgs.items) {
@@ -171,15 +326,10 @@ async function processArgs(args) {
 
   }
   
-  dl.debug(`Log(processArgs): List of URLs for processing: ${items}`); // ##### Note: Repetitions inside json are now removed, and only unique URLs are given.
-
-  dl.debug(`Log(processArgs): Total URLs for processing = ${items.length}`);
-
-  // ##### Note: (items) contains an Array of WikidataItems-URLs extracted from entries.json
-  // ##### Example: ["http://www.wikidata.org/entity/Q33482830","http://www.wikidata.org/entity/Q56450031",...,"http://www.wikidata.org/entity/Q110745069"]
-  // dl.debug("Log(processArgs): items(URLs) for processing are:");
-  // dl.debug(`Log(processArgs): ${items}`); // ##### Note: If you wish to check, then uncomment this line
-
+  // ##### Note: The repetitions of some URLs are not displayed in the total below. 
+  // ##### Note: There may be repetitions depending on the entries.json
+  dl.debug(`Log(processArgs): List of URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used): ${items}`);
+  dl.debug(`Log(processArgs): Total URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used) = ${items.length}`); 
 
   // #################################################################
   // ##### To empty files of WikidataItems not in SPARQL (START) #####
@@ -423,17 +573,20 @@ async function XMLvalidation_All() {
   
   const fs = require('fs');
   const files_list = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  console.log("");
   console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
   console.log(files_list); // ##### Note: List of XML-files to be validated, and including the emptied ones.
   console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log("");
   let total_files = files_list.length;
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
   for (let i = 0; i < files_list.length; i++) {
 
     const files_list_i = String(files_list[i]);
-    // console.log(files_list_i); // ##### Note: item already saved in directory (processed)
-    // console.log("============");
+    console.log("============ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+    console.log(files_list_i); // ##### Note: item already saved in directory (processed)
+    console.log("============");
 
     const filename = `./corpus/processed/${files_list_i}`;
     console.log("Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====");
@@ -494,7 +647,7 @@ async function XMLvalidation_All() {
 
         console.log('Log(XMLvalidation_All): = = = = = =');
         console.log('Log(XMLvalidation_All): XML-CONTENT-BELOW');
-        console.log(content_string2);
+        // console.log(content_string2);
         console.log('Log(XMLvalidation_All): = = = = = =');
 
         // ##### Note: List of strings to be confirmed inside the XML-content
@@ -575,9 +728,13 @@ async function XMLvalidation_All() {
           // #########################
           // ##### Note: Saving DOI list to Log to be further used for NLP processing
           if (j > 1 && content_string2_j.includes("<dc:identifier>") && content_string2_j.includes("doi:") ) {
-    
+
             let doi_string = content_string2_j.replace("<dc:identifier>", "").replace("doi:", "https://doi.org/").replace("</dc:identifier>", "").replaceAll(" ", ""); 
-            function_log_append('./logs/','Log_DOI_list.txt',`${doi_string}`);       
+            function_log_append('./logs/','Log_DOI_list.txt',`${doi_string}`); 
+
+          } else {
+
+            // console.log("Doi not found inside XML-file");
 
           }
 
@@ -586,7 +743,7 @@ async function XMLvalidation_All() {
         // ###########################
         // ##### To write result #####
         // ###########################
-        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value} [Note: passed:1; failed:0]`
+        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value}`
         
         console.log(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
@@ -1072,22 +1229,28 @@ async function updateEndpoint() {
 // ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
 
-  dl.debug(`Log(main): entering main() at Date-UTC: ${await function_DateNow()}`);
+  dl.debug(`Log(main): entering main() at Date-UTC: ${function_DateNow()}`);
   // ##### Note: Passing datestamp to logs during process start
   function_log_append('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_entries.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_entries.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_XMLvalidation.txt',`# Note: Indication of list of entries considered for harvesting information.`);
   function_log_append('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_XMLvalidation.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_XMLvalidation.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_XMLvalidation.txt',`# Note: Quality check results are: passed|failed`);
   function_log_append('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_emptied_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_emptied_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_emptied_files.txt',`# Note: List of files that have just been empitied during this process.`);
   function_log_append('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_empty_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_empty_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_empty_files.txt',`# Note: List of files that are empty.`);
   function_log_append('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_total_files.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_total_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_total_files.txt',`# Note: Indication of total files which have content or not (i.e. empty).`);
   function_log_append('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_invalid_characters.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_invalid_characters.txt',`# Process started at date-UTC: ${function_DateNow()}`);
   function_log_append('./logs/','Log_DOI_list.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_DOI_list.txt',`Process started at date-UTC: ${await function_DateNow()}`);
+  function_log_append('./logs/','Log_DOI_list.txt',`# Process started at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_DOI_list.txt',`# Note: List of DOI obtained from non-empty XML files.`);
 
   dl.debug("Log(main): starting main()");
 
@@ -1118,119 +1281,148 @@ async function main() {
   dl.debug("Log(main): main()_getItemData()_IN");
   dl.debug("Log(main): ##########");
 
-  for (let count = offset; count < items.length; count += size) {
+  async function runBatch() {
 
-    const batch = items.slice(
-      count,
-      count + size > items.length ? items.length : count + size,
-    );
+    for (let count = offset; count < items.length; count += size) {
 
-    // ##### Note: Percentage
-    let count_percentage = Math.round(100*count/items.length);
+      const batch = items.slice(
+        count,
+        count + size > items.length ? items.length : count + size,
+      );
+  
+      // ##### Note: Percentage
+      let count_percentage = Math.round(100*count/items.length);
+  
+      let count_percentage_done = count_percentage/100;
+      let count_percentage_todo = 1 - count_percentage_done;
+  
+      // cl.info(`Log(main): Processing ${size} entries from ${count}`);
+      console.log("");
+      console.log("= = = = = = = = = =");
+      dl.debug(`Log(main): Extracted ${count} items from ${items.length} items`);
+  
+      let percentage_done = ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+      let percentage_todo = "__________________________________________________";
+      let percentage_print = percentage_done.slice(0, Math.round(count_percentage_done*(percentage_done.length))) + percentage_todo.slice(0, Math.round(count_percentage_todo*(percentage_todo.length)));
+  
+      dl.debug(``);
+      dl.debug(`Log(main): ${percentage_print} [${count_percentage}%]`);
+      dl.debug(``);
+  
+      dl.debug("Log(main): NEXT BATCH:");
+      dl.debug(`Log(main): ${batch}`);
+      console.log("= = = = = = = = = =");
+      console.log("");
+      await getItemData(batch); // ##### Note:  (await) To be used with asynchronous function
+      dl.debug("Log(main): start sleeping");
+      await sleep(delay); // ##### Note:  (await) To be used with asynchronous function
+      dl.debug("Log(main): stop sleeping");
+  
+    }
 
-    let count_percentage_done = count_percentage/100;
-    let count_percentage_todo = 1 - count_percentage_done;
+    dl.debug("Log(main): ##########");
+    dl.debug("Log(main): main()_getItemData()_OUT");
+    dl.debug("Log(main): ##########");
 
-    // cl.info(`Log(main): Processing ${size} entries from ${count}`);
-    console.log("");
-    console.log("= = = = = = = = = =");
-    dl.debug(`Log(main): Extracted ${count} items from ${items.length} items`);
+    return "Processing of batches complete!"
 
-    let percentage_done = ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
-    let percentage_todo = "__________________________________________________";
-    let percentage_print = percentage_done.slice(0, Math.round(count_percentage_done*(percentage_done.length))) + percentage_todo.slice(0, Math.round(count_percentage_todo*(percentage_todo.length)));
+  }
 
-    dl.debug(`Log(main): ${percentage_print} [${count_percentage}%]`);
+  async function runExtraFunction() {
 
-    dl.debug("Log(main): NEXT BATCH:");
-    dl.debug(`Log(main): ${batch}`);
-    console.log("= = = = = = = = = =");
-    console.log("");
-    await getItemData(batch); // ##### Note:  (await) To be used with asynchronous function
-    dl.debug("Log(main): start sleeping");
-    await sleep(delay); // ##### Note:  (await) To be used with asynchronous function
-    dl.debug("Log(main): stop sleeping");
+    const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
+
+    dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
+    dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
+  
+    dl.debug(`Log(main): Computing files: non-empty and empty.`);
+    const computed_files = await compute_content_empty_files();
+    dl.debug(`Log(main): Computing files: Task ${computed_files}!`);
+
+    const endTime = new Date();
+    const milisec1 = 1000;
+    // cl.info(`Log(main): processor finished at ${endTime}`);
+    // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
+    dl.debug(`Log(main): processor finished at ${endTime}`);
+    dl.debug(``);
+    dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
+    dl.debug(``);
+
+    // ##### Note: Passing datestamp to logs when complete
+    function_log_append('./logs/','Log_entries.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_XMLvalidation.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_emptied_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_empty_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_total_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_invalid_characters.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+    function_log_append('./logs/','Log_DOI_list.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+
+
+    // ##### Note: Creating report.html at directory logs
+    const content = `
+    <!DOCTYPE html>
+    <head>
+    <title>enKORE report</title>
+    </head>
+    <style>
+    body {background-color: powderblue;}
+    h1 {color: red;}
+    p {color: blue;}
+    </style>
+    <body>
+    <h1>enKORE report</h1>
+    <p>
+    Last process at date-UTC: ${function_DateNow()}<br>
+    Note:<br>
+    </p>
+    </body>
+    </html>
+    `;
+
+    function_log_new('./logs/','report.html',content);
+
+    // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
+    const fs = require('fs');
+    try {
+
+      fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
+      dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
+  
+    }
+    catch(err) {
+
+      dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
+
+    }
+    finally {
+      // ##### Note: n/a
+    }
+
+    dl.debug("Log(main): Extra function in Main() are now finished! #####");
+
+    return 0
 
   }
 
-  dl.debug("Log(main): ##########");
-  dl.debug("Log(main): main()_getItemData()_OUT");
-  dl.debug("Log(main): ##########");
+  var runBatch_result = runBatch();
 
-  const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
+  async function RunBatches_ThenExtraFunctions() {
 
-  dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
-  dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
+    await runBatch_result.then((data) => {
 
-  dl.debug(`Log(main): Computing files: non-empty and empty.`);
-  const computed_files = await compute_content_empty_files();
-  dl.debug(`Log(main): Computing files: Task ${computed_files}!`);
+      dl.debug("Log(main): " + data);
 
-  //
-  //
-  // ##### Note: to implement a function that updates the EndPoint here
-  // updateEndpoint_test(); // ##### not yet using this function
-  //
-  //
+    })
 
-  const endTime = new Date();
-  const milisec1 = 1000;
-  // cl.info(`Log(main): processor finished at ${endTime}`);
-  // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
-  dl.debug(`Log(main): processor finished at ${endTime}`);
-  dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
-
-  // ##### Note: Passing datestamp to logs when complete
-  function_log_append('./logs/','Log_entries.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_XMLvalidation.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_emptied_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_empty_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_total_files.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_invalid_characters.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-  function_log_append('./logs/','Log_DOI_list.txt',`Process complete at date-UTC: ${await function_DateNow()}`);
-
-
-  // ##### Note: Creating report.html at directory logs
-  const content = `
-  <!DOCTYPE html>
-  <head>
-  <title>enKORE report</title>
-  </head>
-  <style>
-  body {background-color: powderblue;}
-  h1 {color: red;}
-  p {color: blue;}
-  </style>
-  <body>
-  <h1>enKORE report</h1>
-  <p>
-  Last process at date-UTC: ${await function_DateNow()}<br>
-  Note:<br>
-  </p>
-  </body>
-  </html>
-  `;
-
-  function_log_new('./logs/','report.html',content);
-
-  // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
-  const fs = require('fs');
-  try {
-
-    fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
-    dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
- 
-  }
-  catch(err) {
-
-    dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
-
-  }
-  finally {
-    // ##### Note: n/a
+    console.log("\n\n");
+    dl.debug("Log(main): Waiting 10 seconds for remaning files to be saved from xmlexporter inside folder (processed).");
+    dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
+    console.log("\n\n");
+    setTimeout(() => {runExtraFunction(); }, 10000)
+    
   }
 
-  dl.debug("Log(main): Main() is now finished! #####");
+  RunBatches_ThenExtraFunctions();
 
 }
 // ####################################
