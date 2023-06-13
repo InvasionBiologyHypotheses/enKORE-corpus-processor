@@ -1,4 +1,12 @@
 
 = = = = = = = = = = = = = = = = = = = =
-Process started at date-UTC: 2023-06-06T07:26:02.771Z
-Process complete at date-UTC: 2023-06-06T11:15:27.412Z
+# Process started at date-UTC: 2023-06-13T12:14:51.339Z
+# Note: List of files that have just been empitied during this process.
+# Process complete at date-UTC: 2023-06-13T12:15:09.641Z
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-06-13T12:17:20.647Z
+# Note: List of files that have just been empitied during this process.
+Log(checkWikidataItem): Emptying file: wikidata-Q35677524 (copy).xml
+Log(checkWikidataItem): Emptying file: wikidata-Q33482830 (copy).xml
+Log(checkWikidataItem): Emptying file: wikidata-Q33819769 (copy).xml
+# Process complete at date-UTC: 2023-06-13T12:17:38.364Z
