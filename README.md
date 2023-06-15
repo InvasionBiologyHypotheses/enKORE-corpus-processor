@@ -17,3 +17,6 @@ To run the corpus locally, clone this repo, install deno and run:
 There are various flags that can be used to control the processor.
 
 `deno run -A --unstable ./process.js -f ./corpus/entries.json`
+
+## Wiki-manual
+https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor/wiki
