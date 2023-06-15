@@ -7,7 +7,7 @@
 // ##### Comment about meta and source of input data
 // ##### Name: process.js
 // ##### Purpose: Create a corpus for the EndPoint source BASE (https://www.base-search.net/about/en/about_sources_data.php)
-// ##### Author: Steph et al. (https://github.com/bootsa)
+// ##### Author: Steph Tyszka et al. (https://github.com/bootsa)
 // ##### Version: unknown and in progress
 // ##### Version-date: 00/00/0000
 // ##### Additional comments: This conductor manages other scripts collecting information from three main sources, listed as:
@@ -158,7 +158,7 @@ async function processArgs(args) {
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
-  const reduce_entries = 999;
+  const reduce_entries = 1;
 
   if (reduce_entries == 1) {
 
@@ -302,7 +302,7 @@ async function processArgs(args) {
     function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`); 
     // ##### Note: You must await here otherwise new file is not considered
     // ##### Note (DO NOT USE): const read = fetchFileEntries("./corpus/entries_test3.json");
-    const read = await fetchFileEntries("./corpus/reduced_entries.json"); // ##### Note: To pass reduced file here (e.g. reduced_entries.json).
+    const read = await fetchFileEntries("./corpus/entries_test3.json"); // ##### Note: To pass reduced file here (e.g. reduced_entries.json).
     extend(entries, read);
 
   }
