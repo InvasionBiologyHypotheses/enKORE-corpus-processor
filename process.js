@@ -1,5 +1,5 @@
 // ##### ==============================================================================
-// ##### This script is the main conductor for the branch (enKORE-corpus-processor-main)
+// ##### This script is the main conductor for the branch (https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 // ##### This branch is under the umbrella of enKORE-project
 // ##### As the main outcome, XML files are generated for publications sourced from a
 // ##### a SPARQL submitted to Wikidata
@@ -1023,7 +1023,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   // ##### Note: wikidataItem to save structure (START) #####
   // ########################################################
   // const wikidataItem_target = `Q35745846`; // ##### Note: optional for whatever ${anything_required}
-  const wikidataItem_target = 'Q35745846';
+  const wikidataItem_target = 'Q112116359';
   
   // ##### Note: piece to target specific object contents
   if (wikidataItem_id_string.includes(wikidataItem_target)) {
@@ -1038,8 +1038,11 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
       // ######################################################################################################################
       // ##### Note: Uncomment line below to save the strucutre of a required WikidataItem
       //
+      const save_Struct_wikidataItem = 0;
 
-      // await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
+      if (save_Struct_wikidataItem == 1) {
+        await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
+      }
 
       //
       // ######################################################################################################################
