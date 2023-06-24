@@ -16,5 +16,4 @@
   <dc:subject>invasive weed</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
   <dc:description>Synthesis of phase-only reconfigurable array aims at finding a common amplitude distribution and different phase distributions for the array to form different patterns. In this paper, the synthesis problem is formulated as a multiobjective optimization problem and solved by a new proposed algorithm MOEA/D-IWO. First, novel strategies are introduced in invasive weed optimization (IWO) to make original IWO fit for solving multiobjective optimization problems; then, the modified IWO is integrated into the framework of the recently well proved competitive multiobjective optimization algorithm MOEA/D to form a new competitive MOEA/D-IWO algorithm. At last, two sets of experiments are carried out to illustrate the effectiveness of MOEA/D-IWO. In addition, MOEA/D-IWO is compared with MOEA/D-DE, a new version of MOEA/D. The comparing results show the superiority of MOEA/D-IWO and indicate its potential for solving the antenna array synthesis problems.</dc:description>
-  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

@@ -1,5 +1,5 @@
 // ##### ==============================================================================
-// ##### This script is the main conductor for the branch (enKORE-corpus-processor-main)
+// ##### This script is the main conductor for the branch (https://github.com/InvasionBiologyHypotheses/enKORE-corpus-processor)
 // ##### This branch is under the umbrella of enKORE-project
 // ##### As the main outcome, XML files are generated for publications sourced from a
 // ##### a SPARQL submitted to Wikidata
@@ -7,7 +7,7 @@
 // ##### Comment about meta and source of input data
 // ##### Name: process.js
 // ##### Purpose: Create a corpus for the EndPoint source BASE (https://www.base-search.net/about/en/about_sources_data.php)
-// ##### Author: Steph et al. (https://github.com/bootsa)
+// ##### Author: Steph Tyszka et al. (https://github.com/bootsa)
 // ##### Version: unknown and in progress
 // ##### Version-date: 00/00/0000
 // ##### Additional comments: This conductor manages other scripts collecting information from three main sources, listed as:
@@ -75,6 +75,7 @@ import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.t
 const filename_this = "Log(process.js): "; // ##### Note: not needed because process.js is currently using dl.debug("string"), you may see config.js for details;
 
 const sleep = (time = 1000) =>
+
   new Promise((resolve) => setTimeout(resolve, time));
 
 // #####################################################
@@ -124,6 +125,7 @@ async function processArgs(args) {
   // ##### Pull from Url or Read from file the entries (START) #####
   // ###############################################################
   let entries = {};
+
   if (parsedArgs.pull) { // ##### Note: If true use get entries from Wikidata with fetchURLEntries
 
     dl.debug("Log(processArgs): Pulling entries from URL");
@@ -158,13 +160,32 @@ async function processArgs(args) {
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
-  const reduce_entries = 999;
+  const reduce_entries = 0;
 
-  if (reduce_entries == 1) {
+  // ##### Note: Use this piece for testing over files!      if (reduce_entries == 1) {
+  // ##### Note: Use this piece for SPARQLs!      if (reduce_entries == 1 && parsedArgs.pull) {
+
+  if (reduce_entries == 1) { // if (reduce_entries == 1 && parsedArgs.pull) {
 
     // #############################################
     // ##### Note:Generating reduced file
-    const entries_json_obj = await readJSON("./corpus/entries_test1.json").catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
+
+    // let file2reduce = "";
+
+    // if (parsedArgs.pull) {
+
+    //   let file2reduce = "./corpus/entries_log2.json";
+
+    // } else if (parsedArgs.file) {
+
+    //   let file2reduce = "./corpus/entries_log2.json";
+
+    // }
+
+    let file2reduce = "./corpus/entries_log1.json";
+
+
+    let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
 
       dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
       Deno.exit(1);
@@ -280,29 +301,16 @@ async function processArgs(args) {
     dl.debug(`${jsonAllObj_new_str}`);
 
     // ##### Note: To confirm that string to be saved is a valid json
-    async function IfJson_ThenWrite(str) { 
-
-      try { 
-        
-        JSON.parse(str); 
-        await function_log_new('./corpus/','reduced_entries.json',str);
-      
-      } catch (e) { 
-        
-        return false; 
-      
-      } return true; 
-
-    }
-
-    IfJson_ThenWrite(jsonAllObj_new_str);
+    // function_log_new('./corpus/','reduced_entries.json',jsonAllObj_new_str);
+    const fs = require('fs/promises');
+    await fs.writeFile('./corpus/reduced_entries.json', jsonAllObj_new_str); // ##### Note (IMPORTANT): You must await here for file to be written!!!
 
     // #################################################
     // ##### Note: Reading entries from new reduced file
     function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`); 
     // ##### Note: You must await here otherwise new file is not considered
-    // ##### Note (DO NOT USE): const read = fetchFileEntries("./corpus/entries_test3.json");
     const read = await fetchFileEntries("./corpus/reduced_entries.json"); // ##### Note: To pass reduced file here (e.g. reduced_entries.json).
+    
     extend(entries, read);
 
   }
@@ -1023,12 +1031,14 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   // ##### Note: wikidataItem to save structure (START) #####
   // ########################################################
   // const wikidataItem_target = `Q35745846`; // ##### Note: optional for whatever ${anything_required}
-  const wikidataItem_target = 'Q35745846';
+  const wikidataItem_target = 'Q112116359';
   
   // ##### Note: piece to target specific object contents
+
   if (wikidataItem_id_string.includes(wikidataItem_target)) {
   
     // ##### Note: Saving structure for wikidataItem
+
     try {
 
       const filename = `${wikidataItem.id}_Struct_wikidataItem.json`;
@@ -1038,8 +1048,11 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
       // ######################################################################################################################
       // ##### Note: Uncomment line below to save the strucutre of a required WikidataItem
       //
+      const save_Struct_wikidataItem = 0;
 
-      // await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
+      if (save_Struct_wikidataItem == 1) {
+        await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
+      }
 
       //
       // ######################################################################################################################
@@ -1274,6 +1287,7 @@ async function main() {
 
   // dl.debug(items);
   const startTime = new Date();
+
   dl.debug("Log(main): ##########");
   dl.debug("Log(main): Main() has just started! #####");
   // cl.info(`Log(main): processor started at ${startTime}`);
@@ -1342,6 +1356,7 @@ async function main() {
 
     const endTime = new Date();
     const milisec1 = 1000;
+
     // cl.info(`Log(main): processor finished at ${endTime}`);
     // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
     dl.debug(`Log(main): processor finished at ${endTime}`);
@@ -1383,6 +1398,7 @@ async function main() {
 
     // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
     const fs = require('fs');
+
     try {
 
       fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');

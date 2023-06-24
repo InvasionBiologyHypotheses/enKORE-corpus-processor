@@ -13,5 +13,4 @@
   <dc:subject>aquatic invasion</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
   <dc:description>Managing invasive species in rivers can be assisted by appropriate adjustment of flow rates. Using a partial differential equation (PDE) model representing an invasive population in a river, we investigate controlling the water discharge rate as a management strategy. Our goal is to see how controlling the water discharge rate will affect the invasive population, and more specifically how water discharges may force the invasive population downstream. We complete the analysis of a flow control problem, which seeks to minimize the invasive population upstream while minimizing the cost of this management. Using an optimality system, consisting of our population PDE, an adjoint PDE, and corresponding optimal control characterization, we illustrate some numerical simulations in which parameters are varied to determine how far upstream the invasive population reaches. We also change the river’s cross-sectional area to investigate its impact on the optimal control.</dc:description>
-  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

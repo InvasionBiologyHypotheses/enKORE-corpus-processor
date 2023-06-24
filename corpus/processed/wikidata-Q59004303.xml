@@ -15,5 +15,4 @@
   <dc:subject>invasive weed</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
   <dc:description>In view of the traditional numerical method to solve the nonlinear equations exist is sensitive to initial value and the higher accuracy of defects. This paper presents an invasive weed optimization (IWO) algorithm which has population diversity with the heuristic global search of differential evolution (DE) algorithm. In the iterative process, the global exploration ability of invasive weed optimization algorithm provides effective search area for differential evolution; at the same time, the heuristic search ability of differential evolution algorithm provides a reliable guide for invasive weed optimization. Based on the test of several typical nonlinear equations and a circle packing problem, the results show that the differential evolution invasive weed optimization (DEIWO) algorithm has a higher accuracy and speed of convergence, which is an efficient and feasible algorithm for solving nonlinear systems of equations.</dc:description>
-  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>

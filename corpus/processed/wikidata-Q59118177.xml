@@ -16,5 +16,4 @@
   <dc:subject>invasive weed</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
   <dc:description>This study presents a novel optimization algorithm based on invasive weed optimization (IWO) for reduction of the maximum side lobe level (SLL) with specific half power beam width (HPBW) of thinned large multiple concentric circular arrays of uniformly excited isotropic elements. IWO is a powerful optimization technique for many continuous problems. But, for discrete problems, it does not work well. In this paper, the authors propose an improved binary IWO (IBIWO) for pattern synthesis of thinned circular array. The thinning percentage of the array is kept equal to or more than 50% and the HPBW is attempted to be equal to or less than that of a fully populated, uniformly excited, and half wavelength spaced concentric circular array of the same number of elements and rings. Simulation results are compared with previous published results of DE, MPSO, and BBO to verify the effectiveness of the proposed method for concentric circular arrays.</dc:description>
-  <dc:coverage>n/a</dc:coverage>
 </oai_dc:dc>
