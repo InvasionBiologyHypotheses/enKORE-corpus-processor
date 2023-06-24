@@ -160,30 +160,14 @@ async function processArgs(args) {
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
-  const reduce_entries = 0;
+  const reduce_entries = 1;
 
-  // ##### Note: Use this piece for testing over files!      if (reduce_entries == 1) {
-  // ##### Note: Use this piece for SPARQLs!      if (reduce_entries == 1 && parsedArgs.pull) {
-
-  if (reduce_entries == 1) { // if (reduce_entries == 1 && parsedArgs.pull) {
+  if (parsedArgs.file && reduce_entries == 1) {
 
     // #############################################
     // ##### Note:Generating reduced file
 
-    // let file2reduce = "";
-
-    // if (parsedArgs.pull) {
-
-    //   let file2reduce = "./corpus/entries_log2.json";
-
-    // } else if (parsedArgs.file) {
-
-    //   let file2reduce = "./corpus/entries_log2.json";
-
-    // }
-
-    let file2reduce = "./corpus/entries_log1.json";
-
+    let file2reduce = "./corpus/entries_test1.json";
 
     let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
 
