@@ -1,9 +1,7 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-13T12:14:51.339Z
+# Process started at date-UTC: 2023-06-23T17:56:16.801Z
 Log(fetchFileEntries): Fetching entries retrieved from file: ./corpus/entries_test1.json
-# Process complete at date-UTC: 2023-06-13T12:15:09.641Z
-= = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-13T12:17:20.647Z
-Log(fetchFileEntries): Fetching entries retrieved from file: ./corpus/entries_test1.json
-# Process complete at date-UTC: 2023-06-13T12:17:38.364Z
+Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below
+Log(fetchFileEntries): Fetching entries retrieved from file: ./corpus/reduced_entries.json
+# Process complete at date-UTC: 2023-06-23T19:45:00.049Z

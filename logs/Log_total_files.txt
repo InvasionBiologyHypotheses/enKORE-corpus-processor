@@ -1,11 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-13T12:14:51.340Z
 # Note: Indication of total files which have content or not (i.e. empty).
-Total files: 6; Total content: 6; Total empty: 0
-# Process complete at date-UTC: 2023-06-13T12:15:09.641Z
-= = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-13T12:17:20.647Z
-# Note: Indication of total files which have content or not (i.e. empty).
-Total files: 9; Total content: 6; Total empty: 3
-# Process complete at date-UTC: 2023-06-13T12:17:38.364Z
+# Process started at date-UTC: 2023-06-23T17:56:16.802Z
+Total files: 9161; Total content: 8893; Total empty: 268
+# Process complete at date-UTC: 2023-06-23T19:45:00.049Z
