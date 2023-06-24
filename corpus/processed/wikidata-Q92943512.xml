@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92943512</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92943512</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6403900</dc:identifier>
+  <dc:identifier>doi:10.3390/POLYM10091043</dc:identifier>
+  <dc:title>PBN11-8, a Cytotoxic Polypeptide Purified from Marine Bacillus, Suppresses Invasion and Migration of Human Hepatocellular Carcinoma Cells by Targeting Focal Adhesion Kinase Pathways</dc:title>
+  <dc:creator>Zheng, Lanhong</dc:creator>
+  <dc:creator>Zhu, Xiangjie</dc:creator>
+  <dc:creator>Yang, Kangli</dc:creator>
+  <dc:creator>Zhu, Meihong</dc:creator>
+  <dc:creator>Farooqi, Ammad Ahmad</dc:creator>
+  <dc:creator>Kang, Daole</dc:creator>
+  <dc:creator>Sun, Mi</dc:creator>
+  <dc:creator>Xu, Yixin</dc:creator>
+  <dc:creator>Lin, Xiukun</dc:creator>
+  <dc:creator>Feng, Yingang</dc:creator>
+  <dc:creator>Liang, Fangfang</dc:creator>
+  <dc:creator>Zhang, Fuming</dc:creator>
+  <dc:creator>Linhardt, Robert J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The development of antitumor drugs has attracted cancer researchers and the identification of novel antitumor lead compounds is certainly of great interest. The fermentation broth of Bacillus sp. N11-8, which was isolated from the Antarctic waters, showed cytotoxicity towards different cells. A cytotoxic polypeptide, PBN11-8, was purified from the fermentation broth of Bacillus sp. N11-8 using ultrafiltration, ammonium sulfate precipitation, anion exchange liquid chromatography and high performance liquid chromatography (HPLC). Cloning and sequence analysis showed that PBN11-8 polypeptide (MW: ~19 kDa by the electrospray-ionization (ESI)) displayed high similarity with peptidase M84 from Bacillus pumilus. PBN11-8 possessed moderate cytotoxicity towards several cancer cell lines with IC50 values of 1.56, 1.80, 1.57, and 1.73 _g/mL against human hepatocellular carcinoma cell line BEL-7402, human renal clear cell adenocarcinoma cell line 786-0, human hepatocellular carcinoma cell line HepG2, and human pancreatic cancer cell line Panc-28, respectively. Moreover, the polypeptide displayed weak cytotoxicity towards normal cell line renal tubular epithelial cell line HK2 and human normal liver cell line L02 cells. Wound healing migration and Transwell experiments demonstrate that PBN11-8 could inhibit the migration and invasion of BEL-7402. Further investigation revealed that PBN11-8 suppresses focal adhesion kinase (FAK)-mediated adhesion, migration, and invasion by disturbing FAK/extracellular regulated protein kinases (ERK) signaling and matrix metalloproteinase-2(MMP-2) and matrix metalloproteinase-9 (MMP-9) in BEL-7402 cells. Thus, PBN11-8 represents a potential novel anti-cancer lead compound.</dc:description>
+</oai_dc:dc>

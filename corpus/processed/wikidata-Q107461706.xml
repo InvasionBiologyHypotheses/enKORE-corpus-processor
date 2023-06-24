@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107461706</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q107461706</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.48.34222</dc:identifier>
+  <dc:title>Assessing the ecological and societal impacts of alien parrots in Europe using a transparent and inclusive evidence-mapping scheme</dc:title>
+  <dc:creator>White, Rachel L.</dc:creator>
+  <dc:creator>Strubbe, Diederik</dc:creator>
+  <dc:creator>Dallimer, Martin</dc:creator>
+  <dc:creator>Davies, Zoe G.</dc:creator>
+  <dc:creator>Davis, Amy J.S.</dc:creator>
+  <dc:creator>Edelaar, Pim</dc:creator>
+  <dc:creator>Groombridge, Jim</dc:creator>
+  <dc:creator>Jackson, Hazel A.</dc:creator>
+  <dc:creator>Menchetti, Mattia</dc:creator>
+  <dc:creator>Mori, Emiliano</dc:creator>
+  <dc:creator>Nikolov, Boris P.</dc:creator>
+  <dc:creator>Pârâu, Liviu G.</dc:creator>
+  <dc:creator>Pečnikar, Živa F.</dc:creator>
+  <dc:creator>Pett, Tristan J.</dc:creator>
+  <dc:creator>Reino, Luís</dc:creator>
+  <dc:creator>Tollington, Simon</dc:creator>
+  <dc:creator>Turbé, Anne</dc:creator>
+  <dc:creator>Shwartz, Assaf</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-07-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Globally, the number of invasive alien species (IAS) continues to increase and management and policy responses typically need to be adopted before conclusive empirical evidence on their environmental and socioeconomic impacts are available. Consequently, numerous protocols exist for assessing IAS impacts and differ considerably in which evidence they include. However, inclusive strategies for building a transparent evidence base underlying IAS impact assessments are lacking, potentially affecting our ability to reliably identify priority IAS. Using alien parrots in Europe as a case study, here we apply an evidence-mapping scheme to classify impact evidence and evaluate the consequences of accepting different subsets of available evidence on impact assessment outcomes. We collected environmental and socioeconomic impact data in multiple languages using a “wiki-review” process, comprising a systematic evidence search and an online editing and consultation phase. Evidence was classified by parrot species, impact category (e.g. infrastructure), geographical area (e.g. native range), source type (e.g. peer-review), study design (e.g. experimental) and impact direction (deleterious, beneficial and no impact). Our comprehensive database comprised 386 impact entries from 233 sources. Most evidence was anecdotal (50%). A total of 42% of entries reported damage to agriculture (mainly in native ranges), while within Europe most entries concerned interspecific competition (39%). We demonstrate that the types of evidence included in assessments can strongly influence impact severity scores. For example, including evidence from the native range or anecdotal evidence resulted in an overall switch from minimal-moderate to moderate-major overall impact scores. We advise using such an evidence-mapping approach to create an inclusive and updatable database as the foundation for more transparent IAS impact assessments. When openly shared, such evidence-mapping can help better inform IAS research, management and policy.</dc:description>
+</oai_dc:dc>

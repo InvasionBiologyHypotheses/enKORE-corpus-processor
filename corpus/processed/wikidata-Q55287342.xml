@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55287342</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55287342</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5935705</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-25543-0</dc:identifier>
+  <dc:title>Fractal features of soil particle size distributions and their potential as an indicator of Robinia pseudoacacia invasion1.</dc:title>
+  <dc:creator>Li, Kun</dc:creator>
+  <dc:creator>Yang, Huanxiang</dc:creator>
+  <dc:creator>Han, Xu</dc:creator>
+  <dc:creator>Xue, Lingyu</dc:creator>
+  <dc:creator>Lv, Yang</dc:creator>
+  <dc:creator>Li, Jinhua</dc:creator>
+  <dc:creator>Fu, Zhanyong</dc:creator>
+  <dc:creator>Li, Chuanrong</dc:creator>
+  <dc:creator>Shen, Weixing</dc:creator>
+  <dc:creator>Guo, Huiling</dc:creator>
+  <dc:creator>Zhang, Yikun</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-05-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>black locust</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractTo study the fractal dimensions of the soil particle size distributions (PSDs) within different plantations (of Pinus densiflora, Quercus acutissima, Robinia pseudoacacia, and Larix kaempferi) and evaluate PSDs as an indicator of the likelihood of Robinia pseudoacacia invasion, the soil porosity of 0–20_cm soil layers was measured at different plantations in the Yaoxiang Forest Farm, Shandong Province, China. The results showed that the fractal dimension (Dm) values varied from 2.59 to 2.70 among the different plantations and were significantly negatively correlated to sand content and positively correlated to silt content and clay content. Significant negative correlations were observed between Dm and both soil organic matter (SOM) (P_&lt;_0.05) and available phosphorus (P_&lt;_0.01). The multifractal entropy dimension (D1) and entropy dimension/capacity dimension (D1/D0) parameters were not significantly correlated with SOM, although significant correlations were found between SOM and each of D0, Δα, and Δf(α). Compared with the other plantations, the Robinia pseudoacacia plantation had higher nutrient contents, higher D0 and D1 values and lower Dm values. Based on principal component analysis (PCA) ordination, we concluded that Robinia pseudoacacia and Pinus densiflora shared a similar habitat and that Robinia pseudoacacia is more likely to invade Pinus densiflora plantations for soil.</dc:description>
+</oai_dc:dc>

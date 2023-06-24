@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q100242160</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q100242160</dc:identifier>
+  <dc:identifier>doi:10.1038/S41558-020-0768-2</dc:identifier>
+  <dc:title>Adjusting the lens of invasion biology to focus on the impacts of climate-driven range shifts</dc:title>
+  <dc:creator>Wallingford, Piper D.</dc:creator>
+  <dc:creator>Morelli, Toni Lyn</dc:creator>
+  <dc:creator>Allen, Jenica M.</dc:creator>
+  <dc:creator>Beaury, Evelyn M.</dc:creator>
+  <dc:creator>Blumenthal, Dana M.</dc:creator>
+  <dc:creator>Bradley, Bethany A.</dc:creator>
+  <dc:creator>Dukes, Jeffrey S.</dc:creator>
+  <dc:creator>Early, Regan</dc:creator>
+  <dc:creator>Fusco, Emily J.</dc:creator>
+  <dc:creator>Goldberg, Deborah E.</dc:creator>
+  <dc:creator>Ibáñez, Inés</dc:creator>
+  <dc:creator>Laginhas, Brittany B.</dc:creator>
+  <dc:creator>Vilà, Montserrat</dc:creator>
+  <dc:creator>Sorte, Cascade J. B.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

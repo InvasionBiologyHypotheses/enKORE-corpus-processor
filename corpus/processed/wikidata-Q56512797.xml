@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56512797</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56512797</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-012-0332-8</dc:identifier>
+  <dc:title>Ecological impacts of an invasive predator explained and predicted by comparative functional responses</dc:title>
+  <dc:creator>Dick, Jaimie T. A.</dc:creator>
+  <dc:creator>Gallagher, Kevin</dc:creator>
+  <dc:creator>Avlijas, Suncica</dc:creator>
+  <dc:creator>Clarke, Hazel C.</dc:creator>
+  <dc:creator>Lewis, Susan E.</dc:creator>
+  <dc:creator>Leung, Sally</dc:creator>
+  <dc:creator>Minchin, Dan</dc:creator>
+  <dc:creator>Caffrey, Joe</dc:creator>
+  <dc:creator>Alexander, Mhairi E.</dc:creator>
+  <dc:creator>Maguire, Cathy</dc:creator>
+  <dc:creator>Harrod, Chris</dc:creator>
+  <dc:creator>Reid, Neil</dc:creator>
+  <dc:creator>Haddaway, Neal R.</dc:creator>
+  <dc:creator>Farnsworth, Keith D.</dc:creator>
+  <dc:creator>Penk, Marcin</dc:creator>
+  <dc:creator>Ricciardi, Anthony</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-09-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive predator</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

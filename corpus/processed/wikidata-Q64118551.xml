@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64118551</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64118551</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.4817</dc:identifier>
+  <dc:title>Chimerism and population dieback alter genetic inference related to invasion pathways and connectivity of biofouling populations on artificial substrata</dc:title>
+  <dc:creator>Watts, Ashleigh Marie</dc:creator>
+  <dc:creator>Hopkins, Grant A</dc:creator>
+  <dc:creator>Goldstien, Sharyn Jane</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-02-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Didemnum vexillum</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Disentangling pathways by which nonindigenous species expand and spread regionally remains challenging. Molecular ecology tools are often employed to determine the origins and spread of introduced species, but the complexities of some organisms may be reducing the efficacy of these tools. Some colonial species exhibit complexities by way of chimerism and winter colony regression, which may alter the genetic diversity of populations and mask the connectivity occurring among them. This study uses nuclear microsatellite data and simple GIS-based modeling to investigate the influence of chimerism and winter regression on the genetic diversity and patterns of genetic population connectivity among colonies of Didemnum vexillum on artificial substrates. Colonies sampled in summer were shown to form a metapopulation, with high levels of admixture, extreme outcrossing, and some substructure. These patterns were consistent within the subsampled winter colonies and with the inclusion of chimeric data. However, allelic richness and diversity were significantly different between winter and summer samples, altering interpretations relating to population connectivity and pelagic larval duration. This study demonstrates the importance of including seasonal sampling and imperative life history traits in genetic studies for clear interpretations and the successful management of introduced species.</dc:description>
+</oai_dc:dc>

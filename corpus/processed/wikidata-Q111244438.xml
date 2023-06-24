@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111244438</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111244438</dc:identifier>
+  <dc:identifier>doi:10.3390/RS14041040</dc:identifier>
+  <dc:title>Integrated Fire Management as a Renewing Agent of Native Vegetation and Inhibitor of Invasive Plants in Vereda Habitats: Diagnosis by Remotely Piloted Aircraft Systems</dc:title>
+  <dc:creator>Nascente, Jéssika Cristina</dc:creator>
+  <dc:creator>Ferreira, Manuel Eduardo</dc:creator>
+  <dc:creator>Nunes, Gustavo Manzon</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-02-22</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The Cerrado biome is being gradually reduced. Remote sensing has been widely used to investigate spatio-temporal changes in the landscape, which are frequently limited to mapping with orbital sensors, while the Remotely Piloted Aircraft System (RPAS) proved to be advantageous in terms of spatial resolution and the application of advanced digital processing techniques. In this study, we investigated a vereda (humid area) of a conservation unit in the state of Mato Grosso, Brazil. Object-Based Image Analysis (OBIA) was applied to images obtained by RPAS to distinguish the phytophysiognomies of plant strata from the vereda and to diagnose the recovery of native and invasive vegetation after prescribed burning. The study was carried out in the following five stages: biomass collection; quality analysis of the land cover; phytosociological survey; collection of control points using a GNSS receiver (type L1/L2); and the capture of aerial images with an RGB camera coupled to a DJI Phantom 4 Pro, which was performed through overflights in three different periods. Object–Based Image Analysis was subsequently performed using the Nearest Neighbor classifier combined with Feature Space Optimization, obtaining classifications with accuracy and Kappa indexes greater than 80% and 0.80, respectively. The results of image processing allowed us to infer that fire acted as a renewing agent for native vegetation and as an inhibiting agent for invasive vegetation. The classification analyses combined with the phytosociological analysis allowed us to infer that the vereda is in the process of maturation. Therefore, the study demonstrated the potential of data obtained by RPAS for the diagnosis and analysis of vegetation dynamics in small wetlands submitted to Integrated Fire Management (IFM).</dc:description>
+</oai_dc:dc>

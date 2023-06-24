@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q118117646</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q118117646</dc:identifier>
+  <dc:identifier>doi:10.5194/ISPRS-ARCHIVES-XLII-3-W12-2020-521-2020</dc:identifier>
+  <dc:title>VEGETATION INDEX BASED IN UNMANNED AERIAL VEHICLE (UAV) TO IMPROVE THE MANAGEMENT OF INVASIVE PLANTS IN PROTECTED AREAS, SOUTHERN BRAZIL</dc:title>
+  <dc:creator>Mallmann, C. L.</dc:creator>
+  <dc:creator>Zaninni, A. F.</dc:creator>
+  <dc:creator>Filho, W. Pereira</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-11-06</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Copernicus GmbH</dc:publisher>
+  <dc:description>Abstract. The biological invasion is considered the second largest global threat to the maintenance and conservation of natural ecosystems biodiversity. Strategies and actions that guide the control and monitoring of invasive species in protected areas are still a challenge on the management of these areas. Remote sensing is potential tool to detect and monitoring these species, gaining a timeline scale and allowing the adoption of more effective control methods. In this study, search to evaluate the vegetation index potential by using multispectral images acquired by UAV as a support on detection and monitoring of invasive plants in Quarta Colônia State Park located on the Brazil’s southern region. A sampling area with a density of invasive plants above 80% was evaluated, with predominance of Psidium guajava and Ligustrum lucidum, generating a large data set from the extracted indexes. Among the evaluated index, the ones that showed the most potential in this study were Green Normalized Difference Vegetation Index (GNDVI), Plant Senescence Reflectance Index (PSRI) and Red Green Ratio Index (RGRI). Believe us that the use of UAVs platforms will be an important tool for the management of invasive species in protected areas.
+                    </dc:description>
+</oai_dc:dc>

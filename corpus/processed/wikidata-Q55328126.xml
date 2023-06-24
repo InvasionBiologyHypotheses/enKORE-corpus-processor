@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55328126</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55328126</dc:identifier>
+  <dc:identifier>doi:10.1093/BIOSCI/BIW160</dc:identifier>
+  <dc:title>Scientific and Normative Foundations for the Valuation of Alien-Species Impacts: Thirteen Core Principles</dc:title>
+  <dc:creator>Essl, Franz</dc:creator>
+  <dc:creator>Hulme, Philip E.</dc:creator>
+  <dc:creator>Jeschke, Jonathan M.</dc:creator>
+  <dc:creator>Keller, Reuben</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Richardson, David M.</dc:creator>
+  <dc:creator>Saul, Wolf-Christian</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:creator>Dullinger, Stefan</dc:creator>
+  <dc:creator>Estévez, Rodrigo A.</dc:creator>
+  <dc:creator>Kueffer, Christoph</dc:creator>
+  <dc:creator>Roy, Helen E.</dc:creator>
+  <dc:creator>Seebens, Hanno</dc:creator>
+  <dc:creator>Rabitsch, Wolfgang</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-12-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+</oai_dc:dc>

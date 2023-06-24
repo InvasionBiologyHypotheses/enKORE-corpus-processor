@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35034171</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35034171</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812002</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1003642</dc:identifier>
+  <dc:title>Are we there yet? Recent progress in the molecular diagnosis and novel antifungal targeting of Aspergillus fumigatus and invasive aspergillosis</dc:title>
+  <dc:creator>Steinbach, William J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-10-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aspergillus fumigatus</dc:subject>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>C2H2-type zinc finger transcription factor involved in calcium ion homeostasis</dc:subject>
+  <dc:subject>Putative golgi apparatus Ca2+/Mn2+ P-type ATPase</dc:subject>
+  <dc:subject>Putative calcineurin binding protein</dc:subject>
+  <dc:subject>calcineurin a catalytic subunit</dc:subject>
+  <dc:subject>Calcineurin regulatory subunit</dc:subject>
+  <dc:subject>invasive pulmonary aspergillosis</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+  <dc:subject>molecular pathology</dc:subject>
+  <dc:subject>drug delivery system</dc:subject>
+  <dc:subject>genetics</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+</oai_dc:dc>
