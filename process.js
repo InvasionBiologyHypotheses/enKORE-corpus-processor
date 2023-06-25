@@ -162,12 +162,21 @@ async function processArgs(args) {
   // #################################################
   const reduce_entries = 1;
 
-  if (parsedArgs.file && reduce_entries == 1) {
+  if (reduce_entries == 1) {
 
     // #############################################
     // ##### Note:Generating reduced file
 
+    // let file2reduce = "./corpus/entries_log1.json";
     let file2reduce = "./corpus/entries_test1.json";
+
+    if (parsedArgs.pull) {
+
+      let total_sleep1 = Math.round(Number(`${entries?.results?.bindings?.length}`)/1000);
+      dl.debug(`Waiting [${total_sleep1}] seconds to write file: ${file2reduce}`);
+      await sleep(total_sleep1*1000);
+
+    }
 
     let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
 
@@ -1417,10 +1426,11 @@ async function main() {
     })
 
     console.log("\n\n");
-    dl.debug("Log(main): Waiting 10 seconds for remaning files to be saved from xmlexporter inside folder (processed).");
+    let total_sleep2 = 4*Number(size);
+    dl.debug(`Log(main): Waiting ${total_sleep2} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
     dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
     console.log("\n\n");
-    setTimeout(() => {runExtraFunction(); }, 10000); // ##### Note: Waiting some seconds to write last chunck of the batch.
+    setTimeout(() => {runExtraFunction(); }, total_sleep2*1000); // ##### Note: Waiting some seconds to write last chunck of the batch. It can be adjusted to batch-size
     
   }
 
