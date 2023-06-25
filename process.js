@@ -99,6 +99,7 @@ async function processArgs(args) {
       offset: "o",
       size: "s",
       delay: "d",
+      reduce: "r",
 
     },
 
@@ -112,11 +113,12 @@ async function processArgs(args) {
       offset: settings?.processing?.initialOffset || 0,
       size: settings?.processing?.batchSize || 10,
       delay: settings?.processing?.processingDelay || 5000,
+      reduce: settings?.data?.reduce || false,
 
     },
 
-    boolean: ["pull", "read"],
-    negatable: ["pull", "read"],
+    boolean: ["pull", "read", "reduce"],
+    negatable: ["pull", "read", "reduce"],
 
   });
 
@@ -160,9 +162,10 @@ async function processArgs(args) {
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
-  const reduce_entries = 1;
+  // let reduce_entries = parsedArgs.reduce;
+  let reduce_entries = true
 
-  if (reduce_entries == 1) {
+  if (reduce_entries == true) {
 
     // #############################################
     // ##### Note:Generating reduced file
@@ -172,9 +175,9 @@ async function processArgs(args) {
 
     if (parsedArgs.pull) {
 
-      let total_sleep1 = Math.round(Number(`${entries?.results?.bindings?.length}`)/1000);
-      dl.debug(`Waiting [${total_sleep1}] seconds to write file: ${file2reduce}`);
-      await sleep(total_sleep1*1000);
+      let total_sleep = Math.round(Number(`${entries?.results?.bindings?.length}`)/1000);
+      dl.debug(`Waiting [${total_sleep}] seconds to write file: ${file2reduce}`);
+      await sleep(total_sleep*1000);
 
     }
 
@@ -1041,9 +1044,9 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
       // ######################################################################################################################
       // ##### Note: Uncomment line below to save the strucutre of a required WikidataItem
       //
-      const save_Struct_wikidataItem = 0;
+      let save_Struct_wikidataItem = false;
 
-      if (save_Struct_wikidataItem == 1) {
+      if (save_Struct_wikidataItem == true) {
         await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
       }
 
@@ -1426,11 +1429,11 @@ async function main() {
     })
 
     console.log("\n\n");
-    let total_sleep2 = 4*Number(size);
-    dl.debug(`Log(main): Waiting ${total_sleep2} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
+    let total_sleep = 4*Number(size);
+    dl.debug(`Log(main): Waiting ${total_sleep} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
     dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
     console.log("\n\n");
-    setTimeout(() => {runExtraFunction(); }, total_sleep2*1000); // ##### Note: Waiting some seconds to write last chunck of the batch. It can be adjusted to batch-size
+    setTimeout(() => {runExtraFunction(); }, total_sleep*1000); // ##### Note: Waiting some seconds to write last chunck of the batch. It can be adjusted to batch-size
     
   }
 
