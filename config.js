@@ -26,6 +26,7 @@ export const settings = {
     // ##### Note: if filename to save entries.json is not provided inside (deno.jsonc), then 
     // the code will consider the name given below.
     file: "./corpus/entries_log2.json", // ##### Note: filename to save entries, if not provided inside (deno.jsonc)
+    reduce: true,
 
   },
 
