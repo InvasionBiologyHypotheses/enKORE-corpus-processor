@@ -1370,23 +1370,30 @@ async function main() {
     function_log_append('./logs/','Log_DOI_list.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
 
     // ##### Note: Creating report.html at directory logs
+    const content_log0 = `<p> Lastest process at date-UTC: ${function_DateNow()}</p> <br>`
+    const content_log1 = `<p> Total processing time: ` + `N` + ` hours </p> <br>`;
+    const content_log2 = `<p> Processing with file reduction: ` + `true` + ` </p> <br>`;
+    const content_log3 = `<p> Total XLM files: ` + `N` + ` </p> <br>`;
+    const content_log4 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
+    const content_log5 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
+    const content_log6 = `<p> Total XLM files non-empty: ` + `N` + ` </p> <br>`;
+    const content_log7 = `<p> Total XLM files empty: ` + `N` + ` </p> <br>`;
+    const content_log8 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
+
     const content = `
     <!DOCTYPE html>
     <head>
     <title>enKORE report</title>
     </head>
     <style>
-    body {background-color: powderblue;}
-    h1 {color: red;}
-    p {color: blue;}
+    body {background-color:#06a94d; background-image:linear-gradient(to bottom, #06a94d, #07da63, #06a94d);background-attachment: fixed;}
+    h1 {color: #fff;}
+    p {color: #fff;}
     </style>
     <body>
-    <h1>enKORE report</h1>
-    <p>
-    Last process at date-UTC: ${function_DateNow()}<br>
-    Note:<br>
-    </p>
-    </body>
+    <h1>enKORE report</h1>`
+    + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + content_log7 + content_log8 +
+    `</body>
     </html>
     `;
 
