@@ -1282,12 +1282,12 @@ async function main() {
   dl.debug("Log(main): main()_processArgs()_OUT");
 
   // dl.debug(items);
-  const startTime = new Date();
+  const process_time_start = new Date();
 
   dl.debug("Log(main): ##########");
   dl.debug("Log(main): Main() has just started! #####");
-  // cl.info(`Log(main): processor started at ${startTime}`);
-  dl.debug(`Log(main): processor started at ${startTime}`);
+  // cl.info(`Log(main): processor started at ${process_time_start}`);
+  dl.debug(`Log(main): processor started at ${process_time_start}`);
   dl.debug("Log(main): main()_getItemData()_IN");
   dl.debug("Log(main): ##########");
 
@@ -1350,14 +1350,36 @@ async function main() {
     const computed_files = await compute_content_empty_files();
     dl.debug(`Log(main): Computing files: Task ${computed_files}!`);
 
-    const endTime = new Date();
+    const process_time_end = new Date();
     const milisec1 = 1000;
+    const process_time_total_seconds = (process_time_end - process_time_start) / milisec1;
+    const process_time_total_minutes = process_time_total_seconds/60;
+    const process_time_total_hours = process_time_total_seconds/3600;
 
-    // cl.info(`Log(main): processor finished at ${endTime}`);
-    // cl.info(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
-    dl.debug(`Log(main): processor finished at ${endTime}`);
+    // ##### Note: thresholds to monitor time
+    const t1 = 300;
+    const t2 = 3600;
+
+    // cl.info(`Log(main): processor finished at ${process_time_end}`);
+    // cl.info(`Log(main): processor took ${(process_time_end - process_time_start) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
+    dl.debug(`Log(main): processor finished at ${process_time_end}`);
     dl.debug(``);
-    dl.debug(`Log(main): processor took ${(endTime - startTime) / milisec1} seconds for ${items.length} entries`);
+    if (process_time_total_seconds > t2) {
+
+      dl.debug(`Log(main): processor took ${process_time_total_hours} hours for ${items.length} entries`);
+
+    } else if (process_time_total_seconds >= t1 && process_time_total_seconds <= t2) {
+
+      dl.debug(`Log(main): processor took ${process_time_total_minutes} minutes for ${items.length} entries`);
+
+    } else {
+
+      dl.debug(`Log(main): processor took ${process_time_total_seconds} seconds for ${items.length} entries`);
+
+    }
+
+    
+
     dl.debug(``);
 
     // ##### Note: Passing datestamp to logs when complete
