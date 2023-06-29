@@ -1188,7 +1188,10 @@ async function compute_content_empty_files() {
   function_log_append('./logs/','Log_total_files.txt',`Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`); 
   dl.debug(`Log(compute_content_empty_files): Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`);
 
-  return "COMPLETE"
+  // let return_string = `v0[COMPLETE]v0` + `v1[${total_content_empty}]v1`+ `v2[${total_content}]v2` + `v3[${total_content}]v3`;
+  let return_string = `COMPLETE!`;
+
+  return return_string
 
 }
 // ##############################################################################
@@ -1347,16 +1350,17 @@ async function main() {
     dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
   
     dl.debug(`Log(main): Computing files: non-empty and empty.`);
-    const computed_files = await compute_content_empty_files();
-    dl.debug(`Log(main): Computing files: Task ${computed_files}!`);
+    const computed_files_RETURN = await compute_content_empty_files();
+    // const index1 = computed_files_RETURN.indexOf("v0[") + "v0[".length;
+    // const index2 = computed_files_RETURN.indexOf("]v0");
+    // const computed_files = computed_files_RETURN.slice(index1, index2);
+    dl.debug(`Log(main): Computing files: Task ${computed_files_RETURN}!`);
 
     const process_time_end = new Date();
     const milisec1 = 1000;
     const process_time_seconds = Math.round(10*(process_time_end - process_time_start) / milisec1)/10;
     const process_time_minutes = Math.round(100*process_time_seconds/60)/100;
     const process_time_hours = Math.round(1000*process_time_seconds/3600)/1000;
-
-    Math.round()
 
     // ##### Note: thresholds to monitor time
     const t1 = 300;
@@ -1366,6 +1370,7 @@ async function main() {
     // cl.info(`Log(main): processor took ${(process_time_end - process_time_start) / milisec1} seconds for ${items.length} entries`); // ##### Note: check that it is indeed 6000 and not 1000
     dl.debug(`Log(main): processor finished at ${process_time_end}`);
     dl.debug(``);
+
     if (process_time_seconds > t2) {
 
       dl.debug(`Log(main): processor took ${process_time_hours} hours for ${items.length} entries`);
@@ -1378,9 +1383,7 @@ async function main() {
 
       dl.debug(`Log(main): processor took ${process_time_seconds} seconds for ${items.length} entries`);
 
-    }
-
-    
+    }   
 
     dl.debug(``);
 
@@ -1393,55 +1396,7 @@ async function main() {
     function_log_append('./logs/','Log_invalid_characters.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_DOI_list.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     
-    // ##### Note: Creating report.html at directory logs
-    const content_log0 = `<p> Lastest process at date-UTC: ${function_DateNow()}</p> <br>`
-    const content_log1 = `<p> Total processing time: [` + process_time_hours + `] hours; [` + process_time_minutes + `] minutes; [` + process_time_seconds + `] seconds </p> <br>`;
-    const content_log2 = `<p> Processing with file reduction: ` + `${reduce}` + ` </p> <br>`;
-    const content_log3 = `<p> Total XLM files: ` + `N` + ` </p> <br>`;
-    const content_log4 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
-    const content_log5 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
-    const content_log6 = `<p> Total XLM files non-empty: ` + `N` + ` </p> <br>`;
-    const content_log7 = `<p> Total XLM files empty: ` + `N` + ` </p> <br>`;
-    const content_log8 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
-    const content = `
-    <!DOCTYPE html>
-    <head>
-    <title>enKORE report</title>
-    </head>
-    <style>
-    body {background-color:#06a94d; background-image:linear-gradient(to bottom, #06a94d, #07da63, #06a94d);background-attachment: fixed;}
-    h1 {color: #fff;}
-    p {color: #fff;}
-    </style>
-    <body>
-    <h1>enKORE report</h1>`
-    + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + 
-    content_log7 + content_log8 +
-    `</body>
-    </html>
-    `;
-
-    function_log_new('./logs/','report.html',content);
-
-    // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
-    const fs = require('fs');
-
-    try {
-
-      fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
-      dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
-  
-    }
-    catch(err) {
-
-      dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
-
-    }
-    finally {
-      // ##### Note: n/a
-    }
-
-    dl.debug("Log(main): Extra function in Main() are now finished! #####");
+    dl.debug("Log(main): Running extra functions in Main() finished! #####");
 
     return 0
 
@@ -1470,6 +1425,66 @@ async function main() {
 
   // ##### Note: To call extra functions, which are mostly related to control of results
   RunBatches_ThenExtraFunctions();
+
+  // ##### Note: To create a final report for the public_html
+
+  // ##### Note: Creating report.html at directory logs
+  const content_log0 = `<p> Lastest process at date-UTC: ${function_DateNow()}</p> <br>`
+  const content_log1 = `<p> Total processing time: [] hours; [] minutes; [] seconds </p> <br>`;
+  const content_log2 = `<p> Processing with file reduction: true </p> <br>`;
+  const content_log3 = `<p> Total XLM files: ` + `N` + ` </p> <br>`;
+  const content_log4 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
+  const content_log5 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
+  const content_log6 = `<p> Total XLM files non-empty: ` + `N` + ` </p> <br>`;
+  const content_log7 = `<p> Total XLM files empty: ` + `N` + ` </p> <br>`;
+  const content_log8 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
+  const content = `
+  <!DOCTYPE html>
+  <head>
+  <title>enKORE report</title>
+  </head>
+  <style>
+  body {background-color:#06a94d; background-image:linear-gradient(to bottom, #06a94d, #07da63, #06a94d);background-attachment: fixed;}
+  h1 {color: #fff;}
+  p {color: #fff;}
+  </style>
+  <body>
+  <h1>enKORE report</h1>`
+  + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + 
+  content_log7 + content_log8 +
+  `</body>
+  </html>
+  `;
+
+  function_log_new('./logs/','report.html',content);
+
+  // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
+  const fs = require('fs');
+
+  try {
+
+    fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
+    dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
+  
+  }
+  catch(err) {
+
+    dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
+
+  }
+  finally {
+    // ##### Note: n/a
+  }
+
+
+
+
+
+
+  // ##### Note: Reading some information from logs
+  // lastIndexOf()
+  // const fs_p = require('fs').promises;
+  // const content2 = await fs_p.readFile("./corpus/Template_emptied_XML.txt");
 
 }
 // ####################################
