@@ -341,7 +341,7 @@ async function processArgs(args) {
   // ##### To empty files of WikidataItems not in SPARQL (START) #####
   // #################################################################
   const files_emptied = await checkWikidataItem(items);  // ##### Note:  (await) pass with asynchronous function
-  dl.debug(`Log(processArgs) files emptied: ${files_emptied}`);
+  dl.debug(`Log(processArgs) checking empty and non-empty items: ${files_emptied}!`);
   // ###############################################################
   // ##### To empty files of WikidataItems not in SPARQL (END) #####
   // ###############################################################
@@ -503,8 +503,6 @@ async function checkWikidataItem(items) {
 
     if (keep_wikidataitem_saved == 0) {
 
-      total_files_emptied++;
-
       const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
       const item2 = fs.statSync("./corpus/Template_emptied_XML.txt"); // ##### Note: template-size
       // dl.debug(`${item1.size}`); // ##### Note: item-size
@@ -516,6 +514,8 @@ async function checkWikidataItem(items) {
         dl.debug("Log(checkWikidataItem): Not writting to log.");
 
       } else {
+
+        total_files_emptied++;
 
         function_log_append('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
         dl.debug(`Log(checkWikidataItem): Emptying file: ${files_list_i}`);
@@ -550,9 +550,10 @@ async function checkWikidataItem(items) {
 
   }
 
-  dl.debug(`Log(checkWikidataItem): total items pre-saved [${total_files}], emptied[${total_files_emptied}], replaced[${total_files_replaced}]`);
+  dl.debug(`Log(checkWikidataItem): total items XML-pre-saved [${total_files}], XML-emptied[${total_files_emptied}], XML-replaced[${total_files_replaced}]`);
+  function_log_append('./logs/','Log_emptied_files.txt',`# Total XML-emptied: #v1[${total_files_emptied}]#v1`);
 
-  return total_files_emptied;
+  return "COMPLETE";
 
 }
 // ####################################################################
@@ -1187,8 +1188,8 @@ async function compute_content_empty_files() {
 
   let total_content_empty = total_content + total_empty;
   
-  function_log_append('./logs/','Log_total_files.txt',`Total files: #v1[${total_content_empty}]#v1; Total content: #v2[${total_content}]#v2; Total empty: #v3[${total_empty}]#v3`); 
-  dl.debug(`Log(compute_content_empty_files): Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`);
+  function_log_append('./logs/','Log_total_files.txt',`# Total XML-files: #v1[${total_content_empty}]#v1; Total XML-content: #v2[${total_content}]#v2; Total XML-empty: #v3[${total_empty}]#v3`); 
+  dl.debug(`Log(compute_content_empty_files): Total XML-files: ${total_content_empty}; Total XML-content: ${total_content}; Total XML-empty: ${total_empty}`);
 
   // let return_string = `v0[COMPLETE]v0` + `v1[${total_content_empty}]v1`+ `v2[${total_content}]v2` + `v3[${total_content}]v3`;
   let return_string = `COMPLETE`;
@@ -1424,6 +1425,7 @@ async function main() {
     const Log_total_files_content = String(await fs_p.readFile("./logs/Log_total_files.txt")); // ##### Note:  (await) pass with asynchronous function
     // const content_list = content.split(/\r?\n/);
     const Log_process_time_content = String(await fs_p.readFile("./logs/Log_process_time.txt")); // ##### Note:  (await) pass with asynchronous function
+    const Log_emptied_content = String(await fs_p.readFile("./logs/Log_emptied_files.txt")); // ##### Note:  (await) pass with asynchronous function
 
     // ##### Note: Creating report.html at directory logs
     const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p> <br>`
@@ -1432,11 +1434,11 @@ async function main() {
     const content_log3 = `<p> Total processing time (in seconds): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length, Log_process_time_content.lastIndexOf("]#v3")) + ` </p> <br>`;
     const content_log4 = `<p> Processing with file reduction: true </p> <br>`;
     const content_log5 = `<p> Total XLM files: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v1[") + "#v1[".length, Log_total_files_content.lastIndexOf("]#v1")) + ` </p> <br>`;
-    const content_log6 = `<p> Total XLM files non-empty: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length, Log_total_files_content.lastIndexOf("]#v2")) + ` </p> <br>`;
-    const content_log7 = `<p> Total XLM files empty: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length, Log_total_files_content.lastIndexOf("]#v3")) + ` </p> <br>`;
-    const content_log8 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
-    const content_log9 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
-    const content_log10 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
+    const content_log6 = `<p> Total XLM files (non-empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length, Log_total_files_content.lastIndexOf("]#v2")) + ` </p> <br>`;
+    const content_log7 = `<p> Total XLM files (empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length, Log_total_files_content.lastIndexOf("]#v3")) + ` </p> <br>`;
+    const content_log8 = `<p> Total XLM files (valid): ` + `N` + ` </p> <br>`;
+    const content_log9 = `<p> Total XLM files (non-valid): ` + `N` + ` </p> <br>`;
+    const content_log10 = `<p> Total XLM files (emptied): ` + Log_emptied_content.slice(Log_emptied_content.lastIndexOf("#v1[") + "#v1[".length, Log_emptied_content.lastIndexOf("]#v1")) + ` </p> <br>`;
     const content2 = `
     <!DOCTYPE html>
     <head>
