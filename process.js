@@ -131,7 +131,7 @@ async function processArgs(args) {
   if (parsedArgs.pull) { // ##### Note: If true use get entries from Wikidata with fetchURLEntries
 
     dl.debug("Log(processArgs): Pulling entries from URL");
-    const retrieved = await fetchURLEntries(parsedArgs.url); // ##### Note:  (await) To be used with asynchronous function
+    const retrieved = await fetchURLEntries(parsedArgs.url); // ##### Note:  (await) pass with asynchronous function
     extend(entries, retrieved);
 
     if (parsedArgs.file) {
@@ -148,7 +148,7 @@ async function processArgs(args) {
     if (parsedArgs.file) { // ##### Note: If (No Pull) and filename (given)
 
       dl.debug(`Log(processArgs): Fetching file: ${parsedArgs.file}`);
-      const read = await fetchFileEntries(parsedArgs.file);
+      const read = await fetchFileEntries(parsedArgs.file); // ##### Note:  (await) pass with asynchronous function
       extend(entries, read);
 
     }
@@ -177,11 +177,11 @@ async function processArgs(args) {
 
       let total_sleep = Math.round(Number(`${entries?.results?.bindings?.length}`)/1000);
       dl.debug(`Waiting [${total_sleep}] seconds to write file: ${file2reduce}`);
-      await sleep(total_sleep*1000);
+      await sleep(total_sleep*1000); // ##### Note:  (await) pass with asynchronous function
 
     }
 
-    let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
+    let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
 
       dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
       Deno.exit(1);
@@ -299,13 +299,15 @@ async function processArgs(args) {
     // ##### Note: To confirm that string to be saved is a valid json
     // function_log_new('./corpus/','reduced_entries.json',jsonAllObj_new_str);
     const fs = require('fs/promises');
-    await fs.writeFile('./corpus/reduced_entries.json', jsonAllObj_new_str); // ##### Note (IMPORTANT): You must await here for file to be written!!!
+    // ##### Note (IMPORTANT): You must await here for file to be written!!!
+    await fs.writeFile('./corpus/reduced_entries.json', jsonAllObj_new_str);  // ##### Note:  (await) pass with asynchronous function
+
 
     // #################################################
     // ##### Note: Reading entries from new reduced file
     function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`); 
-    // ##### Note: You must await here otherwise new file is not considered
-    const read = await fetchFileEntries("./corpus/reduced_entries.json"); // ##### Note: To pass reduced file here (e.g. reduced_entries.json).
+    // ##### Note: You must await for the new file below
+    const read = await fetchFileEntries("./corpus/reduced_entries.json");  // ##### Note:  (await) pass with asynchronous function
     
     extend(entries, read);
 
@@ -338,7 +340,7 @@ async function processArgs(args) {
   // #################################################################
   // ##### To empty files of WikidataItems not in SPARQL (START) #####
   // #################################################################
-  const files_emptied = await checkWikidataItem(items);
+  const files_emptied = await checkWikidataItem(items);  // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(processArgs) files emptied: ${files_emptied}`);
   // ###############################################################
   // ##### To empty files of WikidataItems not in SPARQL (END) #####
@@ -393,7 +395,7 @@ async function fetchURLEntries(url) {
   
   function_log_append('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
-  const entries = await readJSONFromURL(url); // ##### Note:  (await) To be used with asynchronous function
+  const entries = await readJSONFromURL(url); // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
 
   return entries;
@@ -411,7 +413,7 @@ async function fetchURLEntries(url) {
 // ##### Note: This function is called by processArgs()
 async function saveFileEntries(file, entries) {
 
-  const fileSave = await writeJSON(file, entries, null, 2); // ##### Note:  (await) To be used with asynchronous function
+  const fileSave = await writeJSON(file, entries, null, 2); // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(saveFileEntries): File written: ${file} - ${fileSave}`);
 
   return fileSave;
@@ -430,7 +432,7 @@ async function fetchFileEntries(file) {
 
   if (!file) return; // ##### Note: VIP-Flag
 
-  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) To be used with asynchronous function
+  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
 
     dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
     Deno.exit(1);
@@ -525,16 +527,16 @@ async function checkWikidataItem(items) {
       try {
 
         const fs_p = require('fs').promises;
-        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt"); // ##### Note:  (await) To be used with asynchronous function
+        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt"); // ##### Note:  (await) pass with asynchronous function
         const filename = `./corpus/processed/${files_list_i}`;
-        await writeTXT(filename, content); // ##### Note:  (await) To be used with asynchronous function
+        await writeTXT(filename, content); // ##### Note:  (await) pass with asynchronous function
         dl.debug(`Log(checkWikidataItem): template given [./corpus/Template_emptied_XML.txt] and considered to write file [${files_list_i}]`);
 
       } catch(err) {
 
         const content = "DELETED";
         const filename = `./corpus/processed/${files_list_i}`;
-        await writeTXT(filename, content); // ##### Note:  (await) To be used with asynchronous function
+        await writeTXT(filename, content); // ##### Note:  (await) pass with asynchronous function
         dl.debug(`Log(checkWikidataItem): template missing [./corpus/Template_emptied_XML.txt], so we are using (NULL) to write file  [${files_list_i}]`);
 
       }
@@ -892,11 +894,11 @@ async function getAbstract(src, service) {
 
   try {
 
-    const res = await fetch(url); // ##### Note:  (await) To be used with asynchronous function
+    const res = await fetch(url); // ##### Note:  (await) pass with asynchronous function
 
     if (res.ok) {
 
-      const data = await res.json(); // ##### Note:  (await) To be used with asynchronous function
+      const data = await res.json(); // ##### Note:  (await) pass with asynchronous function
       const out = get(data, service.path);
       return out;
 
@@ -932,7 +934,7 @@ async function findAbstract(wikidataItem) {
 
   for (const source of abstractSources) {
 
-    const foundAbstract = await getAbstract(wikidataItem, source); // ##### Note:  (await) To be used with asynchronous function
+    const foundAbstract = await getAbstract(wikidataItem, source); // ##### Note:  (await) pass with asynchronous function
 
     if (foundAbstract) {
 
@@ -961,11 +963,11 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
   dl.debug(`Log(getCrossrefItem): Entering getCrossrefItem ${DOI}`);
 
-  await delay; // ##### Note:  (await) To be used with asynchronous function
+  await delay; // ##### Note:  (await) pass with asynchronous function
 
   try {
 
-    const response = await fetch( // ##### Note:  (await) To be used with asynchronous function
+    const response = await fetch( // ##### Note:  (await) pass with asynchronous function
 
       `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
 
@@ -973,7 +975,7 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 
     if (response.ok) {
 
-      const data = await response.json(); // ##### Note:  (await) To be used with asynchronous function
+      const data = await response.json(); // ##### Note:  (await) pass with asynchronous function
       return data?.message;
 
     } else if (response.status == "404") { // ##### Note: ERROR-NOT-FOUND
@@ -1028,8 +1030,6 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   // ########################################################
   // const wikidataItem_target = `Q35745846`; // ##### Note: optional for whatever ${anything_required}
   const wikidataItem_target = 'Q112116359';
-  
-  // ##### Note: piece to target specific object contents
 
   if (wikidataItem_id_string.includes(wikidataItem_target)) {
   
@@ -1042,15 +1042,17 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
       const content = wikidataItem_content;
 
       // ######################################################################################################################
-      // ##### Note: Uncomment line below to save the strucutre of a required WikidataItem
-      //
+      // ##### Note: to save the strucutre of a required WikidataItem
+      
       let save_Struct_wikidataItem = false;
 
       if (save_Struct_wikidataItem == true) {
-        await writeTXT(filename, content); // ##### Note: Saving file to check WikidataItem Strucutre
-      }
 
-      //
+        // ##### Note: Saving file to check WikidataItem Strucutre, so that you can target new entities
+        await writeTXT(filename, content);   // ##### Note:  (await) pass with asynchronous function
+
+      }
+      
       // ######################################################################################################################
 
       setTimeout(() => {  dl.debug(`Log(processItem): filesaved_yes`); }, 500);
@@ -1074,7 +1076,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   dl.debug(`Log(processItem): Entering processItem ${wikidataItem.id}`);
   const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
 
-  const xml = await generateXML({ // ##### Note:  (await) To be used with asynchronous function
+  const xml = await generateXML({ // ##### Note:  (await) pass with asynchronous function
 
     wikidataItem,
     crossrefItem,
@@ -1086,7 +1088,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 
   // ##### Note: XMLvalidation can be assessed here via content from (const xml), or maybe after to make sure the file has been written properly.
 
-  return await writeTXT(filename, xml); // ##### Note:  (await) To be used with asynchronous function
+  return await writeTXT(filename, xml); // ##### Note:  (await) pass with asynchronous function
 
 }
 // #########################################################
@@ -1104,7 +1106,7 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 async function getItemData(items) {
 
   dl.debug(`Log(getItemData): Started getItemData`);
-  const { data } = await new citationJS.Cite.async(items); // ##### Note:  (await) To be used with asynchronous function
+  const { data } = await new citationJS.Cite.async(items); // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(getItemData): Received all items from batch.`);
 
   // ##### Note: (1) SOURCE OF DATA
@@ -1114,16 +1116,16 @@ async function getItemData(items) {
     // dl.debug(JSON.stringify(item, null, 2));
 
   // ##### Note: (2) SOURCE OF DATA
-    let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem // ##### Note:  (await) To be used with asynchronous function
+    let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem // ##### Note:  (await) pass with asynchronous function
 
   // ##### Note: (3) SOURCE OF DATA
     const accumulatedData = {
 
-      abstract: await findAbstract(item), // ##### Note: defining accumulatedData // ##### Note:  (await) To be used with asynchronous function
+      abstract: await findAbstract(item), // ##### Note: defining accumulatedData // ##### Note:  (await) pass with asynchronous function
 
     };
 
-    const process = await processItem({ // ##### Note:  (await) To be used with asynchronous function
+    const process = await processItem({ // ##### Note:  (await) pass with asynchronous function
 
       // ##### Note: (1) SOURCE OF DATA
       wikidataItem: item, // ##### Note: defining wikidataItem as item, and passing into function
@@ -1134,7 +1136,7 @@ async function getItemData(items) {
 
     });
 
-    await sleep(500); // ##### Note:  (await) To be used with asynchronous function
+    await sleep(500); // ##### Note:  (await) pass with asynchronous function
 
   });
 
@@ -1185,11 +1187,11 @@ async function compute_content_empty_files() {
 
   let total_content_empty = total_content + total_empty;
   
-  function_log_append('./logs/','Log_total_files.txt',`Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`); 
+  function_log_append('./logs/','Log_total_files.txt',`Total files: #v1[${total_content_empty}]#v1; Total content: #v2[${total_content}]#v2; Total empty: #v3[${total_empty}]#v3`); 
   dl.debug(`Log(compute_content_empty_files): Total files: ${total_content_empty}; Total content: ${total_content}; Total empty: ${total_empty}`);
 
   // let return_string = `v0[COMPLETE]v0` + `v1[${total_content_empty}]v1`+ `v2[${total_content}]v2` + `v3[${total_content}]v3`;
-  let return_string = `COMPLETE!`;
+  let return_string = `COMPLETE`;
 
   return return_string
 
@@ -1205,15 +1207,16 @@ async function compute_content_empty_files() {
 // ##### Note: Currently not used!
 async function updateEndpoint() {
 
-  const response = await fetch(Deno.env.get("UPDATE_URL"), { // ##### Note:  (await) To be used with asynchronous function
+  const response = await fetch(Deno.env.get("UPDATE_URL"), { // ##### Note:  (await) pass with asynchronous function
+
     method: "GET",
 
   });
 
   dl.debug({ response });
-  const message = await response.text(); // ##### Note:  (await) To be used with asynchronous function
+  const message = await response.text(); // ##### Note:  (await) pass with asynchronous function
 
-  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), { // ##### Note:  (await) To be used with asynchronous function
+  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), { // ##### Note:  (await) pass with asynchronous function
 
     method: "POST",
     body: message || "no response!",
@@ -1243,6 +1246,9 @@ async function main() {
 
   dl.debug(`Log(main): entering main() at Date-UTC: ${function_DateNow()}`);
   // ##### Note: Passing datestamp to logs during process start
+  function_log_append('./logs/','Log_process_time.txt',"= = = = = = = = = = = = = = = = = = = =");
+  function_log_append('./logs/','Log_process_time.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
+  function_log_append('./logs/','Log_process_time.txt',`# Note: Indication of time to complete all process.`);
   function_log_append('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
   function_log_append('./logs/','Log_entries.txt',`# Process started at date-UTC: ${function_DateNow()}`);
   function_log_append('./logs/','Log_XMLvalidation.txt',`# Note: Indication of list of entries considered for harvesting information.`);
@@ -1273,7 +1279,7 @@ async function main() {
     parsedArgs: { offset, size, delay, reduce },
     items,  
                                     // ##### Note: items come as return from processArgs
-  } = await processArgs(Deno.args); // ##### Note:  (await) To be used with asynchronous function
+  } = await processArgs(Deno.args); // ##### Note:  (await) pass with asynchronous function
 
   if (items?.length < 1) {
 
@@ -1326,9 +1332,9 @@ async function main() {
       dl.debug(`Log(main): ${batch}`);
       console.log("= = = = = = = = = =");
       console.log("");
-      await getItemData(batch); // ##### Note:  (await) To be used with asynchronous function
+      await getItemData(batch); // ##### Note:  (await) pass with asynchronous function
       dl.debug("Log(main): start sleeping");
-      await sleep(delay); // ##### Note:  (await) To be used with asynchronous function
+      await sleep(delay); // ##### Note:  (await) pass with asynchronous function
       dl.debug("Log(main): stop sleeping");
   
     }
@@ -1344,13 +1350,13 @@ async function main() {
   // ##### Note: Function to call additional function that are mostly related to quality control.
   async function runExtraFunction() {
 
-    const file_validation = await XMLvalidation_All(); // ##### Note:  (await) To be used with asynchronous function
+    const file_validation = await XMLvalidation_All(); // ##### Note:  (await) pass with asynchronous function
 
     dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
     dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
   
     dl.debug(`Log(main): Computing files: non-empty and empty.`);
-    const computed_files_RETURN = await compute_content_empty_files();
+    const computed_files_RETURN = await compute_content_empty_files(); // ##### Note:  (await) pass with asynchronous function
     // const index1 = computed_files_RETURN.indexOf("v0[") + "v0[".length;
     // const index2 = computed_files_RETURN.indexOf("]v0");
     // const computed_files = computed_files_RETURN.slice(index1, index2);
@@ -1362,6 +1368,9 @@ async function main() {
     const process_time_minutes = Math.round(100*process_time_seconds/60)/100;
     const process_time_hours = Math.round(1000*process_time_seconds/3600)/1000;
 
+    // ##### Note: writting values to log
+    function_log_append('./logs/','Log_process_time.txt',`# Total time; in hours: #v1[${process_time_hours}]#v1; in minutes: #v2[${process_time_minutes}]#v2; in seconds: #v3[${process_time_seconds}]#v3`); 
+    
     // ##### Note: thresholds to monitor time
     const t1 = 300;
     const t2 = 3600;
@@ -1388,6 +1397,7 @@ async function main() {
     dl.debug(``);
 
     // ##### Note: Passing datestamp to logs when complete
+    function_log_append('./logs/','Log_process_time.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_entries.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_XMLvalidation.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
     function_log_append('./logs/','Log_emptied_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
@@ -1398,9 +1408,62 @@ async function main() {
     
     dl.debug("Log(main): Running extra functions in Main() finished! #####");
 
-    return 0
+    // return 0
 
   }
+
+
+  // ######################################
+  // ##### Write final report (START) #####
+  // ######################################
+  async function writeReport() {
+
+    // ##### Note: Reading some information from logs
+    // lastIndexOf()
+    const fs_p = require('fs').promises;
+    const Log_total_files_content = String(await fs_p.readFile("./logs/Log_total_files.txt")); // ##### Note:  (await) pass with asynchronous function
+    // const content_list = content.split(/\r?\n/);
+    const Log_process_time_content = String(await fs_p.readFile("./logs/Log_process_time.txt")); // ##### Note:  (await) pass with asynchronous function
+
+    // ##### Note: Creating report.html at directory logs
+    const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p> <br>`
+    const content_log1 = `<p> Total processing time (in hours): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v1[") + "#v1[".length, Log_process_time_content.lastIndexOf("]#v1")) + ` </p> <br>`;
+    const content_log2 = `<p> Total processing time (in minutes): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v2[") + "#v2[".length, Log_process_time_content.lastIndexOf("]#v2")) + ` </p> <br>`;
+    const content_log3 = `<p> Total processing time (in seconds): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length, Log_process_time_content.lastIndexOf("]#v3")) + ` </p> <br>`;
+    const content_log4 = `<p> Processing with file reduction: true </p> <br>`;
+    const content_log5 = `<p> Total XLM files: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v1[") + "#v1[".length, Log_total_files_content.lastIndexOf("]#v1")) + ` </p> <br>`;
+    const content_log6 = `<p> Total XLM files non-empty: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length, Log_total_files_content.lastIndexOf("]#v2")) + ` </p> <br>`;
+    const content_log7 = `<p> Total XLM files empty: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length, Log_total_files_content.lastIndexOf("]#v3")) + ` </p> <br>`;
+    const content_log8 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
+    const content_log9 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
+    const content_log10 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
+    const content2 = `
+    <!DOCTYPE html>
+    <head>
+    <title>enKORE report</title>
+    </head>
+    <style>
+    body {background-color:#06a94d; background-image:linear-gradient(to bottom, #06a94d, #07da63, #06a94d);background-attachment: fixed;}
+    h1 {color: #fff;}
+    p {color: #fff;}
+    </style>
+    <body>
+    <h1>enKORE report</h1>`
+    + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + 
+    content_log7 + content_log8 + content_log9 + content_log10 +
+    `</body>
+    </html>
+    `;
+
+    function_log_new('./logs/','report.html',content2);
+
+
+
+
+  }
+  // ####################################
+  // ##### Write final report (END) #####
+  // ####################################
 
   // ##### Note: To run over list of URL list and save XML files in folder (processed).
   var runBatch_result = runBatches();
@@ -1408,55 +1471,27 @@ async function main() {
   // ##### Note: Function to wait all XML files to be written, and then to check results.
   async function RunBatches_ThenExtraFunctions() {
 
-    await runBatch_result.then((data) => {
+    await runBatch_result.then((data) => { // ##### Note:  (await) pass with asynchronous function
 
       dl.debug("Log(main): " + data);
 
     })
 
     console.log("\n\n");
-    let total_sleep = 4*Number(size);
-    dl.debug(`Log(main): Waiting ${total_sleep} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
+    let total_sleep_XML = 4*Number(size); // ##### Note: sleeping time in seconds
+    dl.debug(`Log(main): Waiting ${total_sleep_XML} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
     dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
     console.log("\n\n");
-    setTimeout(() => {runExtraFunction(); }, total_sleep*1000); // ##### Note: Waiting some seconds to write last chunck of the batch. It can be adjusted to batch-size
-    
+    let total_sleep_log = 5;  // ##### Note: sleeping time in seconds
+    // ##### Note: To run without writting a report: setTimeout(() => {runExtraFunction();}, total_sleep*1000);
+    // ##### Note: To pause a few seconds for the async to complete writting all log files.
+    // ##### Note: It is going to run (runExtraFunction) and then (writeReport) with a pause ahead of each function.
+    setTimeout(() => {runExtraFunction(); setTimeout(() => {writeReport(); }, total_sleep_log*1000);}, total_sleep_XML*1000);
+
   }
 
   // ##### Note: To call extra functions, which are mostly related to control of results
   RunBatches_ThenExtraFunctions();
-
-  // ##### Note: To create a final report for the public_html
-
-  // ##### Note: Creating report.html at directory logs
-  const content_log0 = `<p> Lastest process at date-UTC: ${function_DateNow()}</p> <br>`
-  const content_log1 = `<p> Total processing time: [] hours; [] minutes; [] seconds </p> <br>`;
-  const content_log2 = `<p> Processing with file reduction: true </p> <br>`;
-  const content_log3 = `<p> Total XLM files: ` + `N` + ` </p> <br>`;
-  const content_log4 = `<p> Total valid XLM files: ` + `N` + ` </p> <br>`;
-  const content_log5 = `<p> Total non-valid XLM files: ` + `N` + ` </p> <br>`;
-  const content_log6 = `<p> Total XLM files non-empty: ` + `N` + ` </p> <br>`;
-  const content_log7 = `<p> Total XLM files empty: ` + `N` + ` </p> <br>`;
-  const content_log8 = `<p> Total XLM files emptied in this process: ` + `N` + ` </p> <br>`;
-  const content = `
-  <!DOCTYPE html>
-  <head>
-  <title>enKORE report</title>
-  </head>
-  <style>
-  body {background-color:#06a94d; background-image:linear-gradient(to bottom, #06a94d, #07da63, #06a94d);background-attachment: fixed;}
-  h1 {color: #fff;}
-  p {color: #fff;}
-  </style>
-  <body>
-  <h1>enKORE report</h1>`
-  + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + 
-  content_log7 + content_log8 +
-  `</body>
-  </html>
-  `;
-
-  function_log_new('./logs/','report.html',content);
 
   // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
   const fs = require('fs');
@@ -1481,18 +1516,15 @@ async function main() {
 
 
 
-  // ##### Note: Reading some information from logs
-  // lastIndexOf()
-  // const fs_p = require('fs').promises;
-  // const content2 = await fs_p.readFile("./corpus/Template_emptied_XML.txt");
+
 
 }
 // ####################################
 // ##### Function-Conductor (END) #####
 // ####################################
 
-await config(); // ##### Note:  (await) To be used with asynchronous function
-await log.setup(logging); // ##### Note:  (await) To be used with asynchronous function
+await config(); // ##### Note:  (await) pass with asynchronous function
+await log.setup(logging); // ##### Note:  (await) pass with asynchronous function
 
 const dl = log.getLogger();
 const cl = log.getLogger('client');
