@@ -587,6 +587,10 @@ async function XMLvalidation_All() {
   console.log("");
   let total_files = files_list.length;
 
+  let total_files_passed_full = 0;
+  let total_files_passed_empty = 0;
+  let total_files_failed = 0;
+
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
   for (let i = 0; i < files_list.length; i++) {
 
@@ -774,7 +778,6 @@ async function XMLvalidation_All() {
 
       }
 
-
     }
 
     function XML_validator_option2(content_string) {
@@ -858,6 +861,21 @@ async function XMLvalidation_All() {
       console.log(`\n`);
       // ##### Note: To write result into log here.
 
+      // ##### Note: Counter for passed and failed XML-files
+      if (XML_validation_result.includes("passed all")) {
+
+        total_files_passed_full++;
+
+      } else if (XML_validation_result.includes("empty file")) {
+
+        total_files_passed_empty++;
+
+      } else if (XML_validation_result.includes("failed one at least")) {
+
+        total_files_failed++;
+
+      }
+
     } catch(err) {
 
       console.log(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
@@ -866,6 +884,9 @@ async function XMLvalidation_All() {
     }
 
   }
+
+  // ##### Note: To save totals to log
+  function_log_append('./logs/','Log_XMLvalidation.txt',`# Total XML (passed) #v1[${total_files_passed_full}]#v1; Total XML (empty): #v2[${total_files_passed_empty}]#v2; Total (failed): #v3[${total_files_failed}]#v3`);
 
   return "COMPLETE" // ##### Note: This result is returned to main()
 
@@ -1426,19 +1447,27 @@ async function main() {
     // const content_list = content.split(/\r?\n/);
     const Log_process_time_content = String(await fs_p.readFile("./logs/Log_process_time.txt")); // ##### Note:  (await) pass with asynchronous function
     const Log_emptied_content = String(await fs_p.readFile("./logs/Log_emptied_files.txt")); // ##### Note:  (await) pass with asynchronous function
+    const Log_XMLvalidation_content = String(await fs_p.readFile("./logs/Log_XMLvalidation.txt")); // ##### Note:  (await) pass with asynchronous function
+
 
     // ##### Note: Creating report.html at directory logs
-    const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p> <br>`
-    const content_log1 = `<p> Total processing time (in hours): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v1[") + "#v1[".length, Log_process_time_content.lastIndexOf("]#v1")) + ` </p> <br>`;
-    const content_log2 = `<p> Total processing time (in minutes): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v2[") + "#v2[".length, Log_process_time_content.lastIndexOf("]#v2")) + ` </p> <br>`;
-    const content_log3 = `<p> Total processing time (in seconds): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length, Log_process_time_content.lastIndexOf("]#v3")) + ` </p> <br>`;
-    const content_log4 = `<p> Processing with file reduction: true </p> <br>`;
+    const content_hr = `<hr style="height:2px; background-color: #fff;">`;
+    const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p>`
+    // ##### Note: Processing times
+    const content_log1 = `<p> Total processing time (in hours): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v1[") + "#v1[".length, Log_process_time_content.lastIndexOf("]#v1")) + ` </p>`;
+    const content_log2 = `<p> Total processing time (in minutes): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v2[") + "#v2[".length, Log_process_time_content.lastIndexOf("]#v2")) + ` </p>`;
+    const content_log3 = `<p> Total processing time (in seconds): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length, Log_process_time_content.lastIndexOf("]#v3")) + ` </p>`;
+    const content_log4 = `<p> Processing with file reduction: true </p>`;
+    // ##### Note: Total XML-files
     const content_log5 = `<p> Total XLM files: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v1[") + "#v1[".length, Log_total_files_content.lastIndexOf("]#v1")) + ` </p> <br>`;
     const content_log6 = `<p> Total XLM files (non-empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length, Log_total_files_content.lastIndexOf("]#v2")) + ` </p> <br>`;
     const content_log7 = `<p> Total XLM files (empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length, Log_total_files_content.lastIndexOf("]#v3")) + ` </p> <br>`;
-    const content_log8 = `<p> Total XLM files (valid): ` + `N` + ` </p> <br>`;
-    const content_log9 = `<p> Total XLM files (non-valid): ` + `N` + ` </p> <br>`;
-    const content_log10 = `<p> Total XLM files (emptied): ` + Log_emptied_content.slice(Log_emptied_content.lastIndexOf("#v1[") + "#v1[".length, Log_emptied_content.lastIndexOf("]#v1")) + ` </p> <br>`;
+    // ##### Note: Total XML-files (validation)
+    const content_log8 = `<p> Total XLM files (valid non-empty): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v1[") + "#v1[".length, Log_XMLvalidation_content.lastIndexOf("]#v1")) + ` </p>`;
+    const content_log9 = `<p> Total XLM files (valid empty): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v2[") + "#v2[".length, Log_XMLvalidation_content.lastIndexOf("]#v2")) + ` </p>`;
+    const content_log10 = `<p> Total XLM files (non-valid): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v3[") + "#v3[".length, Log_XMLvalidation_content.lastIndexOf("]#v3")) + ` </p>`;
+    // ##### Note: Total XML-files just emptied in latest process
+    const content_log11 = `<p> Total XLM files (emptied): ` + Log_emptied_content.slice(Log_emptied_content.lastIndexOf("#v1[") + "#v1[".length, Log_emptied_content.lastIndexOf("]#v1")) + ` </p>`;
     const content2 = `
     <!DOCTYPE html>
     <head>
@@ -1450,9 +1479,10 @@ async function main() {
     p {color: #fff;}
     </style>
     <body>
-    <h1>enKORE report</h1>`
-    + content_log0 + content_log1 + content_log2 + content_log3 + content_log4 + content_log5 + content_log6 + 
-    content_log7 + content_log8 + content_log9 + content_log10 +
+    <h1>enKORE report</h1>
+    `
+    + content_hr + content_log0 + content_log1 + content_log2 + content_log3 + content_hr + content_log4 + content_hr + content_log5 + content_log6 + 
+    content_log7 + content_hr + content_log8 + content_log9 + content_log10 + content_hr + content_log11 +
     `</body>
     </html>
     `;
