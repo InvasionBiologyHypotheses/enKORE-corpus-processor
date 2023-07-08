@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q100945393</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q100945393</dc:identifier>
+  <dc:identifier>doi:10.1242/JCS.249524</dc:identifier>
+  <dc:title>Endophilin-A2 dependent tubular endocytosis promotes plasma membrane repair and parasite invasion</dc:title>
+  <dc:creator>Corrotte, Matthias</dc:creator>
+  <dc:creator>Cerasoli, Mark</dc:creator>
+  <dc:creator>Maeda, Fernando Y</dc:creator>
+  <dc:creator>Andrews, Norma</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-22</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>parasite invasion</dc:subject>
+  <dc:publisher>The Company of Biologists</dc:publisher>
+  <dc:description>Endocytosis of caveolae was previously implicated in the repair of plasma membrane wounds. Here we show that caveolin-1-deficient fibroblasts lacking caveolae upregulate a tubular endocytic pathway, and have a reduced capacity to reseal after permeabilization with pore-forming toxins when compared to wild type cells. Silencing endophilin-A2 expression inhibited fission of endocytic tubules and further reduced plasma membrane repair in cells lacking caveolin-1, supporting a role for tubular endocytosis as an alternative pathway for the removal of membrane lesions. Endophilin-A2 was visualized in association with cholera toxin B-containing endosomes and was recruited to recently formed intracellular vacuoles containing Trypanosoma cruzi, a parasite that utilizes the plasma membrane wounding/repair pathway to invade host cells. Endophilin-A2 deficiency inhibited T. cruzi invasion, and fibroblasts deficient in both caveolin-1 and endophilin-A2 did not survive prolonged exposure to the parasites. These findings reveal a novel cross-talk between caveolin-1 and endophilin-A2 in the regulation of clathrin-independent endocytosis and plasma membrane repair, a process that is subverted by T. cruzi parasites for cell invasion.</dc:description>
+</oai_dc:dc>
