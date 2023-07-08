@@ -1,6 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-23T17:56:16.802Z
+# Process started at date-UTC: 2023-07-08T17:28:58.028Z
 # Note: List of DOI obtained from non-empty XML files.
 https://doi.org/10.3390/JOF7020111
 https://doi.org/10.1051/PARASITE/2019003
@@ -572,6 +572,7 @@ https://doi.org/10.1890/1051-0761(2001)011[1276:TPIOTN]2.0.CO;2
 https://doi.org/10.1111/1365-2656.12235
 https://doi.org/10.1007/S00267-021-01541-3
 https://doi.org/10.1093/AOBPLA/PLV028
+https://doi.org/10.32718/NVLVET9618
 https://doi.org/10.1111/J.1469-8137.2012.04205.X
 https://doi.org/10.3390/JMSE10030387
 https://doi.org/10.3390/F11080806
@@ -889,6 +890,7 @@ https://doi.org/10.1016/J.LANDUSEPOL.2013.07.007
 https://doi.org/10.3390/RS11111380
 https://doi.org/10.1111/FWB.13494
 https://doi.org/10.1038/SREP44787
+https://doi.org/10.1155/2012/758357
 https://doi.org/10.3390/F11111124
 https://doi.org/10.1097/INF.0B013E31805CDBEB
 https://doi.org/10.1111/J.1095-8339.2012.01263.X
@@ -1087,6 +1089,7 @@ https://doi.org/10.1007/S10530-007-9142-9
 https://doi.org/10.3897/NEOBIOTA.67.58529
 https://doi.org/10.1672/06-145.1
 https://doi.org/10.1111/J.1472-4642.2009.00633.X
+https://doi.org/10.3389/FMICB.2020.01882
 https://doi.org/10.1111/1365-2664.12376
 https://doi.org/10.2983/035.029.0432
 https://doi.org/10.3390/MICROORGANISMS9020437
@@ -1838,6 +1841,7 @@ https://doi.org/10.1371/JOURNAL.PONE.0059520
 https://doi.org/10.1093/MOLLUS/EYR041
 https://doi.org/10.1371/JOURNAL.PONE.0191731
 https://doi.org/10.1656/045.021.0314
+https://doi.org/10.1371/JOURNAL.PPAT.1000265
 https://doi.org/10.1111/GCB.13974
 https://doi.org/10.3897/ZOOKEYS.944.51395
 https://doi.org/10.7717/PEERJ.4746
@@ -1878,6 +1882,7 @@ https://doi.org/10.1016/J.ECOINF.2016.10.001
 https://doi.org/10.1002/IEAM.171
 https://doi.org/10.1371/JOURNAL.PONE.0035870
 https://doi.org/10.17159/SAJS.2021/8732
+https://doi.org/10.1242/JCS.249524
 https://doi.org/10.1371/JOURNAL.PONE.0064479
 https://doi.org/10.1111/REC.13483
 https://doi.org/10.1371/JOURNAL.PONE.0140981
@@ -2204,6 +2209,7 @@ https://doi.org/10.1073/PNAS.0902252106
 https://doi.org/10.1371/JOURNAL.PNTD.0007023
 https://doi.org/10.1007/S00267-017-0859-7
 https://doi.org/10.3390/D12030120
+https://doi.org/10.1371/JOURNAL.PNTD.0008810
 https://doi.org/10.1016/J.COMPAG.2010.08.006
 https://doi.org/10.1080/07352680490505934
 https://doi.org/10.1016/J.JENVMAN.2017.03.060
@@ -2267,6 +2273,7 @@ https://doi.org/10.1371/JOURNAL.PONE.0227130
 https://doi.org/10.1371/JOURNAL.PONE.0148079
 https://doi.org/10.1016/J.JEMBE.2021.151627
 https://doi.org/10.1007/S10530-012-0361-3
+https://doi.org/10.3390/IJMS21134729
 https://doi.org/10.1007/S11295-016-1096-6
 https://doi.org/10.1111/ELE.13685
 https://doi.org/10.3390/D9020020
@@ -2293,6 +2300,7 @@ https://doi.org/10.3389/FPLS.2019.00723
 https://doi.org/10.1038/SREP15691
 https://doi.org/10.1007/S10530-004-6347-Z
 https://doi.org/10.1007/S10750-020-04378-9
+https://doi.org/10.3390/MD20090543
 https://doi.org/10.3390/ANTIOX10020242
 https://doi.org/10.1007/S10531-009-9681-8
 https://doi.org/10.1371/JOURNAL.PONE.0114786
@@ -4286,6 +4294,7 @@ https://doi.org/10.1007/S10530-021-02630-4
 https://doi.org/10.3161/15052249PJE2016.64.3.007
 https://doi.org/10.1007/S13355-015-0338-7
 https://doi.org/10.3390/LIFE12111785
+https://doi.org/10.3389/FMICB.2023.1090899
 https://doi.org/10.1016/J.BIOCON.2008.09.003
 https://doi.org/10.1007/S10764-016-9916-Y
 https://doi.org/10.1038/SREP08195
@@ -6028,6 +6037,7 @@ https://doi.org/10.1007/S10658-011-9928-6
 https://doi.org/10.1016/J.BIOCON.2011.05.008
 https://doi.org/10.3391/MBI.2012.3.1.01
 https://doi.org/10.1371/JOURNAL.PONE.0154600
+https://doi.org/10.1038/S41598-018-28457-Z
 https://doi.org/10.1007/S10530-013-0589-6
 https://doi.org/10.15301/JEPA.2016.24.4.149
 https://doi.org/10.1371/JOURNAL.PONE.0146785
@@ -6532,6 +6542,7 @@ https://doi.org/10.1016/J.ECOLMODEL.2016.09.016
 https://doi.org/10.1051/KMAE/2018007
 https://doi.org/10.3391/AI.2012.7.3.007
 https://doi.org/10.1614/IPSM-D-14-00047.1
+https://doi.org/10.1038/SREP37197
 https://doi.org/10.1155/2011/737298
 https://doi.org/10.1007/S10750-014-2009-Z
 https://doi.org/10.1007/S10750-012-1322-7
@@ -7169,6 +7180,7 @@ https://doi.org/10.1016/J.ECOLIND.2019.106020
 https://doi.org/10.1093/JEE/99.5.1550
 https://doi.org/10.3390/FISHES5010003
 https://doi.org/10.3390/IJERPH17082728
+https://doi.org/10.1111/CMI.12557
 https://doi.org/10.1007/S10640-017-0135-6
 https://doi.org/10.1371/JOURNAL.PONE.0231773
 https://doi.org/10.1016/0006-3207(94)00018-2
@@ -7444,6 +7456,7 @@ https://doi.org/10.7717/PEERJ.5408
 https://doi.org/10.1890/05-0427
 https://doi.org/10.1080/00028487.2015.1069211
 https://doi.org/10.1007/S10530-019-02106-6
+https://doi.org/10.1371/JOURNAL.PONE.0190018
 https://doi.org/10.1002/ECS2.2454
 https://doi.org/10.3390/ATMOS12080969
 https://doi.org/10.1111/J.2005.0906-7590.04166.X
@@ -8895,4 +8908,4 @@ https://doi.org/10.1016/J.ENVSCI.2015.05.002
 https://doi.org/10.3391/BIR.2020.9.1.20
 https://doi.org/10.3389/FEVO.2022.827397
 https://doi.org/10.2166/WST.2014.394
-# Process complete at date-UTC: 2023-06-23T19:45:00.049Z
+# Process complete at date-UTC: 2023-07-08T18:47:28.685Z

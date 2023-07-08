@@ -1,5 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-23T17:56:16.802Z
+# Process started at date-UTC: 2023-07-08T17:28:58.028Z
 # Note: List of files that have just been empitied during this process.
-# Process complete at date-UTC: 2023-06-23T19:45:00.049Z
+# Total XML-emptied: #v1[0]#v1
+# Process complete at date-UTC: 2023-07-08T18:47:28.685Z

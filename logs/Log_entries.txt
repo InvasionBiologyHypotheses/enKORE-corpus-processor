@@ -1,7 +1,7 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-06-23T17:56:16.801Z
-Log(fetchFileEntries): Fetching entries retrieved from file: ./corpus/entries_test1.json
+# Process started at date-UTC: 2023-07-08T17:28:58.028Z
+Log(fetchURLEntries): Fetching entries from https://query.wikidata.org/sparql?format=json&query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3Ftopic%20%3FtopicLabel%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP6104%20wd%3AQ56241615%3B%0A%20%20%20%20%20%20%20%20wdt%3AP356%20%3Fdoi%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP921%20%3Ftopic%20.%0A%20%0A%20%20%7B%3Ftopic%20wdt%3AP31%20wd%3AQ41719%20.%7D%0A%20%20UNION%0A%20%20%7BVALUES%20%3Ftopic%20%7B%20wd%3AQ109467185%20wd%3AQ112148709%20wd%3AQ111525751%20wd%3AQ113019190%7D%20%7D%0A%20%20UNION%0A%20%20%7B%3Fitem%20wdt%3AP275%20%3Flicense%20.%0A%20%20%3Flicense%20wdt%3AP31*%2Fwdt%3AP279*%20wd%3AQ30939938%20.%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flicense%20%3FlicenseLabel%20%3Ftopic%20%3FtopicLabel
 Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below
 Log(fetchFileEntries): Fetching entries retrieved from file: ./corpus/reduced_entries.json
-# Process complete at date-UTC: 2023-06-23T19:45:00.049Z
+# Process complete at date-UTC: 2023-07-08T18:47:28.685Z
