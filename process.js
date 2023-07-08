@@ -170,8 +170,8 @@ async function processArgs(args) {
     // #############################################
     // ##### Note:Generating reduced file
 
-    // let file2reduce = "./corpus/entries_log1.json";
-    let file2reduce = "./corpus/entries_test1.json";
+    let file2reduce = "./corpus/entries_log1.json";
+    //let file2reduce = "./corpus/entries_test1.json";
 
     if (parsedArgs.pull) {
 
