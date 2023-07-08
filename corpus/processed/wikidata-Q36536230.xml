@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36536230</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36536230</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738295</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP20487</dc:identifier>
+  <dc:title>Multiplex Strand Invasion Based Amplification (mSIBA) assay for detection of Chlamydia trachomatis and Neisseria gonorrhoeae</dc:title>
+  <dc:creator>Eboigbodin, Kevin E</dc:creator>
+  <dc:creator>Hoser, Mark J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-02-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Neisseria gonorrhoeae</dc:subject>
+  <dc:subject>Chlamydia trachomatis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractNucleic acid amplification tests have become a common method for diagnosis of STIs due to their improved sensitivity over immunoassays and traditional culture-based methods. Isothermal nucleic acid amplification methods offer significant advantages over polymerase chain reaction (PCR) because they do not require sophisticated instruments needed for thermal cycling of PCR. We recently reported a novel isothermal nucleic acid amplification method, Strand Invasion-Based Amplification (SIBA), which exhibited high analytical sensitivity and specificity for amplification of DNA. However, because the reactions were detected using an intercalating dye, this method was only suitable for amplifying a single genomic target. Here, we report the development of multiplexed SIBA (mSIBA) that allows simultaneous detection of Chlamydia trachomatis (CT), Neisseria gonorrhoeae (NG) and an internal control in the same reaction tube. SIBA is compatible with probes, allowing the detection of multiple DNA targets in the same reaction tube. The IC was developed to assess the quality of the isolated DNA and the integrity of the enzyme system, as well as to test oligonucleotides. The mSIBA assay retained high analytical sensitivity and specificity for the detection of CT and NG. The development of mSIBA enables rapid screening for CT and NG within point-of-care or central laboratory settings.</dc:description>
+</oai_dc:dc>

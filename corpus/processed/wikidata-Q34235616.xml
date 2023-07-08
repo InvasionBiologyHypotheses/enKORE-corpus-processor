@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34235616</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34235616</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3324419</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0035210</dc:identifier>
+  <dc:title>An epithelial serine protease, AgESP, is required for Plasmodium invasion in the mosquito Anopheles gambiae</dc:title>
+  <dc:creator>Rodrigues, Janneth</dc:creator>
+  <dc:creator>Oliveira, Giselle A</dc:creator>
+  <dc:creator>Kotsyfakis, Michalis</dc:creator>
+  <dc:creator>Dixit, Rajnikant</dc:creator>
+  <dc:creator>Molina-Cruz, Alvaro</dc:creator>
+  <dc:creator>Jochim, Ryan</dc:creator>
+  <dc:creator>Barillas-Mury, Carolina</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-04-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Anopheles gambiae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundPlasmodium parasites need to cross the midgut and salivary gland epithelia to complete their life cycle in the mosquito. However, our understanding of the molecular mechanism and the mosquito genes that participate in this process is still very limited.Methodology/principal findingsWe identified an Anopheles gambiae epithelial serine protease (AgESP) that is constitutively expressed in the submicrovillar region of mosquito midgut epithelial cells and in the basal side of the salivary glands that is critical for Plasmodium parasites to cross these two epithelial barriers. AgESP silencing greatly reduces Plasmodium berghei and Plasmodium falciparum midgut invasion and prevents the transcriptional activation of gelsolin, a key regulator of actin remodeling and a reported Plasmodium agonist. AgESP expression is highly induced in midgut cells invaded by Plasmodium, suggesting that this protease also participates in the apoptotic response to invasion. In salivary gland epithelial cells, AgESP is localized on the basal side--the surface with which sporozoites interact. AgESP expression in the salivary gland is also induced in response to P. berghei and P. falciparum sporozoite invasion, and AgESP silencing significantly reduces the number of sporozoites that invade this organ.ConclusionOur findings indicate that AgESP is required for Plasmodium parasites to effectively traverse the midgut and salivary gland epithelial barriers. Plasmodium parasites need to modify the actin cytoskeleton of mosquito epithelial cells to successfully complete their life cycle in the mosquito and AgESP appears to be a major player in the regulation of this process.</dc:description>
+</oai_dc:dc>

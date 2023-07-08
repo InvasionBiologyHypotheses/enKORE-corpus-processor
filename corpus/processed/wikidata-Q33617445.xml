@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33617445</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33617445</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409922</dc:identifier>
+  <dc:identifier>doi:10.1007/S13355-016-0470-Z</dc:identifier>
+  <dc:title>Invasion dynamics of Asian hornet, Vespa velutina (Hymenoptera: Vespidae): a case study of a commune in south-west France</dc:title>
+  <dc:creator>Franklin, Daniel N</dc:creator>
+  <dc:creator>Brown, Mike A</dc:creator>
+  <dc:creator>Datta, Samik</dc:creator>
+  <dc:creator>Cuthbertson, Andrew G S</dc:creator>
+  <dc:creator>Budge, Giles E</dc:creator>
+  <dc:creator>Keeling, Matt J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Hymenoptera</dc:subject>
+  <dc:subject>Vespa velutina</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Vespidae</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Asian hornet, Vespa velutina Lepeletier nests were discovered in 2007 in Andernos-les-Bains on the south-west coast of France, 3_years after the first reported sightings in France. The number of nests increased in the commune over the following 7_years, despite local authorities enacting a destruction policy. The nests existed in close proximity to one another leading to a high density of over 10 nests per square kilometre in urban areas. New information on the chosen habitat for nests is presented, and the differences between primary and secondary locations are evident, with primary nests mostly occupying buildings and man-made structures, while secondary nests were found on trees. Using Bayesian inference methods, we fit a basic model to the observational data, which allows us to estimate key demographic parameters. This model fit is highly informative for predicting V. velutina spread and colonisation of other at-risk regions, and suggests that local control has a limited impact on the spread of V. velutina once established within a region.</dc:description>
+</oai_dc:dc>

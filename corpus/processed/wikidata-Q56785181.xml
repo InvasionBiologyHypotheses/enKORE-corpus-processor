@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56785181</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56785181</dc:identifier>
+  <dc:identifier>doi:10.1111/J.1366-9516.2004.00121.X</dc:identifier>
+  <dc:title>Plant invasions in Taiwan: Insights from the flora of casual and naturalized alien species</dc:title>
+  <dc:creator>Wu, Shan-Huah</dc:creator>
+  <dc:creator>Hsieh, Chang-Fu</dc:creator>
+  <dc:creator>Chaw, Shu-Miaw</dc:creator>
+  <dc:creator>Rejmánek, Marcel</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2004-09-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Taiwan</dc:subject>
+  <dc:subject>naturalization</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

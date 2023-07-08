@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34960640</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34960640</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153635</dc:identifier>
+  <dc:identifier>doi:10.1073/PNAS.0730883100</dc:identifier>
+  <dc:title>Erythrocyte-binding antigen 175 mediates invasion in Plasmodium falciparum utilizing sialic acid-dependent and -independent pathways</dc:title>
+  <dc:creator>Duraisingh, Manoj T</dc:creator>
+  <dc:creator>Maier, Alexander G</dc:creator>
+  <dc:creator>Triglia, Tony</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2003-04-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Proceedings of the National Academy of Sciences</dc:publisher>
+</oai_dc:dc>

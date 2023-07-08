@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q100542994</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q100542994</dc:identifier>
+  <dc:identifier>doi:10.3390/MICROORGANISMS8101569</dc:identifier>
+  <dc:title>Ongoing Coevolution of Wolbachia and a Widespread Invasive Ant, Anoplolepis gracilipes</dc:title>
+  <dc:creator>Lee, Chih-Chi</dc:creator>
+  <dc:creator>Lin, Chun-Yi</dc:creator>
+  <dc:creator>Tseng, Shu-Ping</dc:creator>
+  <dc:creator>Matsuura, Kenji</dc:creator>
+  <dc:creator>Yang, Chin-Cheng Scotty</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-12</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive ant</dc:subject>
+  <dc:subject>Anoplolepis gracilipes</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>While Wolbachia are commonly found among arthropods, intraspecific infection rates can vary substantially across the geographic populations. Here we report nearly 100% prevalence of Wolbachia in the global populations of the yellow crazy ant, Anoplolepis gracilipes. To understand coevolutionary history between Wolbachia and A. gracilipes, we identified single nucleotide polymorphisms (SNPs) in Wolbachia from the ant across 12 geographical regions and compared the phylogeny of SNP-based Wolbachia to patterns of the ant’s mitochondrial DNA (mtDNA) variation. Our results revealed a strong concordance between phylogenies of Wolbachia and host mtDNA, providing immediate evidence of co-divergence. Among eight identified SNP loci separating the genetic clusters of Wolbachia, seven loci are located in potential protein-coding genes, three of which being non-synonymous SNPs that may influence gene functions. We found a Wolbachia hypothetical protein gene with signature of positive selection. These findings jointly allow us to characterize Wolbachia-ant coevolution and also raise a question about mechanism(s) underlying maintenance of high prevalence of Wolbachia during the colonization of this invasive ant.</dc:description>
+</oai_dc:dc>

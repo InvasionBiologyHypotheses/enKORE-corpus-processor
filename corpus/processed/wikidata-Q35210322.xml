@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35210322</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35210322</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105566</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0102973</dc:identifier>
+  <dc:title>Gene discovery through transcriptome sequencing for the invasive mussel Limnoperna fortunei</dc:title>
+  <dc:creator>Uliano-Silva, Marcela</dc:creator>
+  <dc:creator>Americo, Juliana Alves</dc:creator>
+  <dc:creator>Brindeiro, Rodrigo</dc:creator>
+  <dc:creator>Dondero, Francesco</dc:creator>
+  <dc:creator>Prosdocimi, Francisco</dc:creator>
+  <dc:creator>Freitas Rebelo, Mauro</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-07-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>Limnoperna fortunei</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The success of the Asian bivalve Limnoperna fortunei as an invader in South America is related to its high acclimation capability. It can inhabit waters with a wide range of temperatures and salinity and handle long-term periods of air exposure. We describe the transcriptome of L. fortunei aiming to give a first insight into the phenotypic plasticity that allows non-native taxa to become established and widespread. We sequenced 95,219 reads from five main tissues of the mussel L. fortunei using Roche's 454 and assembled them to form a set of 84,063 unigenes (contigs and singletons) representing partial or complete gene sequences. We annotated 24,816 unigenes using a BLAST sequence similarity search against a NCBI nr database. Unigenes were divided into 20 eggNOG functional categories and 292 KEGG metabolic pathways. From the total unigenes, 1,351 represented putative full-length genes of which 73.2% were functionally annotated. We described the first partial and complete gene sequences in order to start understanding bivalve invasiveness. An expansion of the hsp70 gene family, seen also in other bivalves, is present in L. fortunei and could be involved in its adaptation to extreme environments, e.g. during intertidal periods. The presence of toll-like receptors gives a first insight into an immune system that could be more complex than previously assumed and may be involved in the prevention of disease and extinction when population densities are high. Finally, the apparent lack of special adaptations to extremely low O2 levels is a target worth pursuing for the development of a molecular control approach.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36790301</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36790301</dc:identifier>
+  <dc:identifier>doi:10.3390/IJMS14034793</dc:identifier>
+  <dc:title>Rapid Microsatellite Marker Development Using Next Generation Pyrosequencing to Inform Invasive Burmese Python-Python molurus bivittatus-Management</dc:title>
+  <dc:creator>Hunter, Margaret E</dc:creator>
+  <dc:creator>Hart, Kristen M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-02-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Myanmar</dc:subject>
+  <dc:subject>microsatellite</dc:subject>
+  <dc:subject>Python molurus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>pyrosequencing</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive species represent an increasing threat to native ecosystems, harming indigenous taxa through predation, habitat modification, cross-species hybridization and alteration of ecosystem processes. Additionally, high economic costs are associated with environmental damage, restoration and control measures. The Burmese python, Python molurus bivittatus, is one of the most notable invasive species in the US, due to the threat it poses to imperiled species and the Greater Everglades ecosystem. To address population structure and relatedness, next generation sequencing was used to rapidly produce species-specific microsatellite loci. The Roche 454 GS-FLX Titanium platform provided 6616 di-, tri- and tetra-nucleotide repeats in 117,516 sequences. Using stringent criteria, 24 of 26 selected tri- and tetra-nucleotide loci were polymerase chain reaction (PCR) amplified and 18 were polymorphic. An additional six cross-species loci were amplified, and the resulting 24 loci were incorporated into eight PCR multiplexes. Multi-locus genotypes yielded an average of 61% (39%-77%) heterozygosity and 3.7 (2-6) alleles per locus. Population-level studies using the developed microsatellites will track the invasion front and monitor population-suppression dynamics. Additionally, cross-species amplification was detected in the invasive Ball, P. regius, and Northern African python, P. sebae. These markers can be used to address the hybridization potential of Burmese pythons and the larger, more aggressive P. sebae.</dc:description>
+</oai_dc:dc>

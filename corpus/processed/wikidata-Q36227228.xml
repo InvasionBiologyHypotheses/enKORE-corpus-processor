@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36227228</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36227228</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2117763</dc:identifier>
+  <dc:identifier>doi:10.1172/JCI32138</dc:identifier>
+  <dc:title>Variation in use of erythrocyte invasion pathways by Plasmodium falciparum mediates evasion of human inhibitory antibodies</dc:title>
+  <dc:creator>Persson, Kristina E M</dc:creator>
+  <dc:creator>McCallum, Fiona J</dc:creator>
+  <dc:creator>Reiling, Linda</dc:creator>
+  <dc:creator>Lister, Nicole A</dc:creator>
+  <dc:creator>Stubbs, Janine</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:creator>Marsh, Kevin</dc:creator>
+  <dc:creator>Beeson, James G</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2008-01-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>antibody</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>American Society for Clinical Investigation</dc:publisher>
+</oai_dc:dc>

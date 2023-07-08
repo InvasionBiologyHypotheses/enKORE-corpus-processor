@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91777708</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91777708</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS11040230</dc:identifier>
+  <dc:title>Development of Single Nucleotide Polymorphism (SNP) Markers for Analysis of Population Structure and Invasion Pathway in the Coconut Leaf Beetle Brontispa longissima (Gestro) Using Restriction Site-Associated DNA (RAD) Genotyping in Southern China</dc:title>
+  <dc:creator>Chen, Zhiming</dc:creator>
+  <dc:creator>Wang, Guihua</dc:creator>
+  <dc:creator>Li, Min</dc:creator>
+  <dc:creator>Peng, Zhengqiang</dc:creator>
+  <dc:creator>Ali, Habib</dc:creator>
+  <dc:creator>Xu, Lina</dc:creator>
+  <dc:creator>Gurr, Geoff M</dc:creator>
+  <dc:creator>Hou, Youming</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-04-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>Brontispa longissima</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>population structure</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>To determine population genomic structure through high-throughput sequencing techniques has revolutionized research on non-model organisms. The coconut leaf beetle, Brontispa longissima (Gestro), is a widely distributed pest in Southern China. Here, we used restriction site-associated DNA (RAD) genotyping to assess the invasion pathway by detecting and estimating the degree of genetic differentiation among 51 B. longissima accessions collected from Southern China. A total of 10,127 SNPs were obtained, the screened single nucleotide polymorphism (SNP) information was used to construct the phylogenetic tree, FST analysis, principal component analysis, and population structure analysis. Genetic structure analysis was used to infer the population structure; the result showed that all accessions were divided into Hainan population and non-Hainan population. The Hainan population remained stable, only the Sansha population differentiated, and the non-Hainan populations have gradually differentiated into smaller sub-populations. We concluded that there are two sources of invasion of B. longissima into mainland China: Taiwan and Hainan. With the increase of the invasion time, the Hainan population was relatively stable, and the Taiwan population was differentiated into three sub-populations. Based on the unrooted phylogenetic tree, we infer that Taiwan and Hainan are the two invasive base points. The Taiwan population invaded Fujian, Guangdong, and Guangxi, while the Hainan population invaded Yunnan and Sansha. Our results provide strong evidence for the utility of RAD sequencing (RAD-seq) in population genetics studies, and our generated SNP resource could provide a valuable tool for population genomics studies of B. longissima in the future.</dc:description>
+</oai_dc:dc>
