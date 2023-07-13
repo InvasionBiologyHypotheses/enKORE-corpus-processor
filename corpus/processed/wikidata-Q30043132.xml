@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30043132</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30043132</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3164636</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PPAT.1002199</dc:identifier>
+  <dc:title>An EGF-like protein forms a complex with PfRh5 and is required for invasion of human erythrocytes by Plasmodium falciparum</dc:title>
+  <dc:creator>Chen, Lin</dc:creator>
+  <dc:creator>Lopaticki, Sash</dc:creator>
+  <dc:creator>Riglar, David T</dc:creator>
+  <dc:creator>Dekiwadia, Chaitali</dc:creator>
+  <dc:creator>Uboldi, Alex D</dc:creator>
+  <dc:creator>Tham, Wai-Hong</dc:creator>
+  <dc:creator>O'Neill, Matthew T</dc:creator>
+  <dc:creator>Richard, Dave</dc:creator>
+  <dc:creator>Baum, Jake</dc:creator>
+  <dc:creator>Ralph, Stuart A</dc:creator>
+  <dc:creator>Cowman, Alan F</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>Rh5 interacting protein</dc:subject>
+  <dc:subject>reticulocyte binding protein homologue 5</dc:subject>
+  <dc:subject>Rh5 interacting protein</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>protein RIPR</dc:subject>
+  <dc:subject> putative</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>human erythrocyte</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasion of erythrocytes by Plasmodium falciparum involves a complex cascade of protein-protein interactions between parasite ligands and host receptors. The reticulocyte binding-like homologue (PfRh) protein family is involved in binding to and initiating entry of the invasive merozoite into erythrocytes. An important member of this family is PfRh5. Using ion-exchange chromatography, immunoprecipitation and mass spectroscopy, we have identified a novel cysteine-rich protein we have called P. falciparumRh5 interacting protein (PfRipr) (PFC1045c), which forms a complex with PfRh5 in merozoites. Mature PfRipr has a molecular weight of 123 kDa with 10 epidermal growth factor-like domains and 87 cysteine residues distributed along the protein. In mature schizont stages this protein is processed into two polypeptides that associate and form a complex with PfRh5. The PfRipr protein localises to the apical end of the merozoites in micronemes whilst PfRh5 is contained within rhoptries and both are released during invasion when they form a complex that is shed into the culture supernatant. Antibodies to PfRipr1 potently inhibit merozoite attachment and invasion into human red blood cells consistent with this complex playing an essential role in this process.</dc:description>
+</oai_dc:dc>

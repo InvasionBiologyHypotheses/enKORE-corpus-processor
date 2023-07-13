@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91708721</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91708721</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145030</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.4226</dc:identifier>
+  <dc:title>Parsing propagule pressure: Number, not size, of introductions drives colonization success in a novel environment</dc:title>
+  <dc:creator>Koontz, Michael J</dc:creator>
+  <dc:creator>Oldfather, Meagan F</dc:creator>
+  <dc:creator>Melbourne, Brett A</dc:creator>
+  <dc:creator>Hufbauer, Ruth A</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>propagule pressure</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Predicting whether individuals will colonize a novel habitat is of fundamental ecological interest and is crucial to conservation efforts. A consistently supported predictor of colonization success is the number of individuals introduced, also called propagule pressure. Propagule pressure increases with the number of introductions and the number of individuals per introduction (the size of the introduction), but it is unresolved which process is a stronger driver of colonization success. Furthermore, their relative importance may depend upon the environment, with multiple introductions potentially enhancing colonization of fluctuating environments. To evaluate the relative importance of the number and size of introductions and its dependence upon environmental variability, we paired demographic simulations with a microcosm experiment. Using Tribolium flour beetles as a model system, we introduced a fixed number of individuals into replicated novel habitats of stable or fluctuating quality, varying the number of introductions through time and size of each introduction. We evaluated establishment probability and the size of extant populations through seven generations. We found that establishment probability generally increased with more, smaller introductions, but was not affected by biologically realistic fluctuations in environmental quality. Population size was not significantly affected by environmental variability in the simulations, but populations in the microcosms grew larger in a stable environment, especially with more introduction events. In general, the microcosm experiment yielded higher establishment probability and larger populations than the demographic simulations. We suggest that genetic mechanisms likely underlie these differences and thus deserve more attention in efforts to parse propagule pressure. Our results highlight the importance of preventing further introductions of undesirable species to invaded sites and suggest conservation efforts should focus on increasing the number of introductions or reintroductions of desirable species rather than increasing the size of those introduction events into harsh environments.</dc:description>
+</oai_dc:dc>

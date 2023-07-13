@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q118107233</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q118107233</dc:identifier>
+  <dc:identifier>doi:10.7717/PEERJ.14858</dc:identifier>
+  <dc:title>Meta-analytic evidence that allelopathy may increase the success and impact of invasive grasses</dc:title>
+  <dc:creator>Singh, Manya</dc:creator>
+  <dc:creator>Daehler, Curtis C.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-02-21</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>allelopathy</dc:subject>
+  <dc:subject>invasive grass</dc:subject>
+  <dc:publisher>PeerJ</dc:publisher>
+  <dc:description>
+Background
+In the grass family, a disproportionate number of species have been designated as being invasive. Various growth traits have been proposed to explain the invasiveness of grasses; however, the possibility that allelopathy gives invasive grasses a competitive advantage has attracted relatively little attention. Recent research has isolated plant allelochemicals that are mostly specific to the grass family that can breakdown into relatively stable, toxic byproducts.
+
+
+Methods
+We conducted a meta-analysis of studies on grass allelopathy to test three prominent hypotheses from invasion biology and competition theory: (1) on native recipients, non-native grasses will have a significantly more negative effect compared to native grasses (Novel Weapons Hypothesis); (2) among native grasses, their effect on non-native recipients will be significantly more negative compared to their effect on native recipients (Biotic Resistance Hypothesis); and (3) allelopathic impacts will increase with phylogenetic distance (Phylogenetic Distance Hypothesis). From 23 studies, we gathered a dataset of 524 observed effect sizes (delta log response ratios) measuring the allelopathic impact of grasses on growth and germination of recipient species, and we used non-linear mixed-effects Bayesian modeling to test the hypotheses.
+
+
+Results
+We found support for the Novel Weapons Hypothesis: on native recipients, non-native grasses were twice as suppressive as native grasses (22% vs 11%, respectively). The Phylogenetic Distance Hypothesis was supported by our finding of a significant correlation between phylogenetic distance and allelopathic impact. The Biotic Resistance Hypothesis was not supported. Overall, this meta-analysis adds to the evidence that allelochemicals may commonly contribute to successful or high impact invasions in the grass family. Increased awareness of the role of allelopathy in soil legacy effects associated with grass invasions may improve restoration outcomes through implementation of allelopathy-informed restoration practices. Examples of allelopathy-informed practices, and the knowledge needed to utilize them effectively, are discussed, including the use of activated carbon to neutralize allelochemicals and modify the soil microbial community.
+</dc:description>
+</oai_dc:dc>

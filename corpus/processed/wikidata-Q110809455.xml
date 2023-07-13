@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110809455</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110809455</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS12070611</dc:identifier>
+  <dc:title>Genome-Wide Identification of the Gustatory Receptor Gene Family of the Invasive Pest, Red Palm Weevil, (Olivier, 1790)</dc:title>
+  <dc:creator>Engsontia, Patamarerk</dc:creator>
+  <dc:creator>Satasook, Chutamas</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive pest species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The red palm weevil (Rhynchophorus ferrugineus) is a highly destructive pest of oil palm, date, and coconut in many parts of Asia, Europe, and Africa. The Food and Agriculture Organization of the United Nations has called for international collaboration to develop a multidisciplinary strategy to control this invasive pest. Previous research focused on the molecular basis of chemoreception in this species, particularly olfaction, to develop biosensors for early detection and more effective bait traps for mass trapping. However, the molecular basis of gustation, which plays an essential role in discriminating food and egg-laying sites and chemical communication in this species, is limited because its complete gustatory receptor gene family still has not been characterized. We manually annotated the gene family from the recently available genome and transcriptome data and reported 50 gustatory receptor genes encoding 65 gustatory receptors, including 7 carbon dioxide, 9 sugar, and 49 bitter receptors. This study provides a platform for future functional analysis and comparative chemosensory study. A better understanding of gustation will improve our understanding of this species’ complex chemoreception, which is an important step toward developing more effective control methods.</dc:description>
+</oai_dc:dc>

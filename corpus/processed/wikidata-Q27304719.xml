@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q27304719</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q27304719</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4730201</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP17480</dc:identifier>
+  <dc:title>Reference genes for accessing differential expression among developmental stages and analysis of differential expression of OBP genes in Anastrepha obliqua</dc:title>
+  <dc:creator>Nakamura, Aline Minali</dc:creator>
+  <dc:creator>Chahad-Ehlers, Samira</dc:creator>
+  <dc:creator>Lima, André Luís A</dc:creator>
+  <dc:creator>Taniguti, Cristiane Hayumi</dc:creator>
+  <dc:creator>Sobrinho, Iderval</dc:creator>
+  <dc:creator>Torres, Felipe Rafael</dc:creator>
+  <dc:creator>Brito, Reinaldo Alves</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>Anastrepha obliqua</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe West Indian fruit fly, Anastrepha obliqua, is an important agricultural pest in the New World. The use of pesticide-free methods to control invasive species such as this reinforces the search for genes potentially useful in their genetic control. Therefore, the study of chemosensory proteins involved with a range of responses to the chemical environment will help not only on the understanding of the species biology but may also help the development of environmentally friendly pest control strategies. Here we analyzed the expression patterns of three OBP genes, Obp19d_2, Obp56a and Obp99c, across different phases of A. obliqua development by qPCR. In order to do so, we tested eight and identified three reference genes for data normalization, rpl17, rpl18 and ef1a, which displayed stability for the conditions here tested. All OBPs showed differential expression on adults and some differential expression among adult stages. Obp99c had an almost exclusive expression in males and Obp56a showed high expression in virgin females. Thereby, our results provide relevant data not only for other gene expression studies in this species, as well as for the search of candidate genes that may help in the development of new pest control strategies.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111158158</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111158158</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2021.631762</dc:identifier>
+  <dc:title>Development and First Tests of a Lab-Scale Electric Field for Investigating Potential Effects of Electric Barriers on Aquatic Invasive Invertebrates</dc:title>
+  <dc:creator>Egly, Rachel M.</dc:creator>
+  <dc:creator>Polak, Robert D.</dc:creator>
+  <dc:creator>Cook, Zalia A.</dc:creator>
+  <dc:creator>Moy, Harrison D.</dc:creator>
+  <dc:creator>Staunton, Jonathon T.</dc:creator>
+  <dc:creator>Keller, Reuben P.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-04-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive invertebrate</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Canals and other connected waterway systems, including the Chicago Area Waterway System (CAWS), have often facilitated the spread of non-native species. Electric barriers have recently emerged as a method for preventing this spread and protecting uninvaded ecosystems from new invaders. The largest system of electric barriers in the world is in the CAWS and is operated primarily to prevent the spread of invasive Asian carp. It is not known whether these barriers are effective for other species, particularly invasive invertebrates. Here, we provide data regarding the efficacy of an electric field that operates at the same parameters as the electric barrier in the CAWS in affecting behaviors of two invertebrate species, the red swamp crayfish Procambarus clarkii and the amphipod Hyalella azteca. We constructed an electric field within a tank that operates at the same parameters as the existing CAWS barriers and determined the effects of the electric field on our test species. At the electric field parameters of the CAWS barriers, the vast majority of P. clarkii individuals showed altered movement with maintained equilibrium. For H. azteca, behavioral responses were less extreme than for P. clarkii, with a majority of individuals experiencing altered movement. By measuring the orientation of organisms to the electric field, we determined that the test organisms are affected by the electric field, especially at lower field strengths where they exhibited no or little other behavioral response. At lower field strengths, P. clarkii exhibited changes in orientation, but at higher field strengths, individuals were less able to orient themselves. H. azteca exhibited changes in orientation to the electric field at all field strengths. The results of this study suggest that the existing electric barriers may not slow or prevent spread of invasive invertebrates—including amphipods and crayfish—through passive movement attached boats/barges or through downstream drift, but that the barriers may prevent spread by active upstream movement. Overall, our work gives new data regarding the efficacy of electric fields in preventing the spread of invasive invertebrates and can inform management decisions regarding current and future electric barriers in the CAWS.</dc:description>
+</oai_dc:dc>
