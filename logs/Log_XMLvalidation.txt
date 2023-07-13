@@ -1,7 +1,7 @@
 
-# Note: Indication of list of entries considered for harvesting information.
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-07-08T17:28:58.028Z
+# Note: Indication of list of entries considered for harvesting information.
+# Process started at date-UTC: 2023-07-13T16:21:54.989Z
 # Note: Quality check results are: passed|failed
  ./corpus/processed/wikidata-Q111323236.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q61603504.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -8910,4 +8910,4 @@
  ./corpus/processed/wikidata-Q113057363.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q46127999.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
 # Total XML (passed) #v1[8906]#v1; Total XML (empty): #v2[264]#v2; Total (failed): #v3[0]#v3
-# Process complete at date-UTC: 2023-07-08T18:47:28.685Z
+# Process complete at date-UTC: 2023-07-13T17:39:41.197Z
