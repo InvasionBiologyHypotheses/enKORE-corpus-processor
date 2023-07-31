@@ -1,6 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-07-13T16:21:54.989Z
+# Process started at date-UTC: 2023-07-31T14:47:35.927Z
 # Note: Indication of total files which have content or not (i.e. empty).
-# Total XML-files: #v1[9170]#v1; Total XML-content: #v2[8906]#v2; Total XML-empty: #v3[264]#v3
-# Process complete at date-UTC: 2023-07-13T17:39:41.197Z
+# Total XML-files: #v1[9187]#v1; Total XML-content: #v2[8924]#v2; Total XML-empty: #v3[263]#v3
+# Process complete at date-UTC: 2023-07-31T16:08:51.986Z

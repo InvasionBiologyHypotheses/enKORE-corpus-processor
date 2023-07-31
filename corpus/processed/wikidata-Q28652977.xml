@@ -133,7 +133,6 @@
   <dc:creator>Knop, Eva</dc:creator>
   <dc:creator>Kolb, Annette</dc:creator>
   <dc:creator>Kőrösi, Ádám</dc:creator>
-  <dc:creator>Kőrösi, Ádám</dc:creator>
   <dc:creator>Lachat, Thibault</dc:creator>
   <dc:creator>Lantschner, Victoria</dc:creator>
   <dc:creator>Féon, Violette Le</dc:creator>
@@ -251,6 +250,7 @@
   <dc:type>journal article</dc:type>
   <dc:date>2014-12</dc:date>
   <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>theme:invasion impact</dc:subject>
   <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
   <dc:subject>biodiversity</dc:subject>
@@ -260,4 +260,5 @@
   <dc:subject>biodiversity database</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Biodiversity continues to decline in the face of increasing anthropogenic pressures such as habitat destruction, exploitation, pollution and introduction of alien species. Existing global databases of species' threat status or population time series are dominated by charismatic species. The collation of datasets with broad taxonomic and biogeographic extents, and that support computation of a range of biodiversity indicators, is necessary to enable better understanding of historical declines and to project - and avert - future declines. We describe and assess a new database of more than 1.6 million samples from 78 countries representing over 28,000 species, collated from existing spatial comparisons of local-scale biodiversity exposed to different intensities and types of anthropogenic pressures, from terrestrial sites around the world. The database contains measurements taken in 208 (of 814) ecoregions, 13 (of 14) biomes, 25 (of 35) biodiversity hotspots and 16 (of 17) megadiverse countries. The database contains more than 1% of the total number of all species described, and more than 1% of the described species within many taxonomic groups - including flowering plants, gymnosperms, birds, mammals, reptiles, amphibians, beetles, lepidopterans and hymenopterans. The dataset, which is still being added to, is therefore already considerably larger and more representative than those used by previous quantitative models of biodiversity trends and responses. The database is being assembled as part of the PREDICTS project (Projecting Responses of Ecological Diversity In Changing Terrestrial Systems - http://www.predicts.org.uk). We make site-level summary data available alongside this article. The full database will be publicly available in 2015.</dc:description>
 </oai_dc:dc>

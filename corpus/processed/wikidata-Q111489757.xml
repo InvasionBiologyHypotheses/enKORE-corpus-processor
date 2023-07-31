@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111489757</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111489757</dc:identifier>
+  <dc:identifier>doi:10.3390/RS14041014</dc:identifier>
+  <dc:title>Assessing the Dynamics of Plant Species Invasion in Eastern-Mediterranean Coastal Dunes Using Cellular Automata Modeling and Satellite Time-Series Analyses</dc:title>
+  <dc:creator>Kozhoridze, Giorgi</dc:creator>
+  <dc:creator>Dor, Eyal</dc:creator>
+  <dc:creator>Sternberg, Marcelo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-02-21</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Biological invasion is a major contributor to local and global biodiversity loss, in particular in dune ecosystems. In this study we evaluated current and future cover expansion of the invasive plant species, Heterotheca subaxillaris, and Acacia saligna, in the Mediterranean coastal plain of Israel. This is the first effort to quantify current surface cover of the focal species in this area. We reconstructed plant cover for 1990–2020 using Landsat time series and modeled future potential expansion using cellular automata (CA) modeling. The overall accuracy of the results varied in the range 85–95% and the simulated plant growth using CA varied between 74% and 84%, for A. saligna and H. subaxillaris, respectively. The surface area covered by H. subaxillaris in 2020, 45 years since its introduction, was approximately 81 km2. Acacia saligna covered an area of 74.6 km2, while the vacant area available for potential spread of these two species was 630 km2. Heterotheca subaxillaris showed a mean expansion rate of 107% per decade from 2000 to 2020, while the mean expansion rate of A. saligna was lower, ranging between 48% and 54% within the same time period. Furthermore, based on the plant expansion model simulation we estimated that A. saligna and H. subaxillaris will continue to spread by 60% per decade, on average, from 2020 to 2070, with a maximum growth rate of 80% per decade during 2040–2050. According to future expansion projections, the species will cover all open vacant areas by 2070 (95% of the total vacant area) and most areas will be shared by both species.</dc:description>
+</oai_dc:dc>
