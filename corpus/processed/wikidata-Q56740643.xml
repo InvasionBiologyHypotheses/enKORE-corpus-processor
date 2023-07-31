@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56740643</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56740643</dc:identifier>
+  <dc:identifier>doi:10.1111/J.2041-210X.2011.00104.X</dc:identifier>
+  <dc:title>Improving prediction and management of range expansions by combining analytical and individual-based modelling approaches</dc:title>
+  <dc:creator>Travis, Justin M. J.</dc:creator>
+  <dc:creator>Harris, Catriona M</dc:creator>
+  <dc:creator>Park, Kirsty J.</dc:creator>
+  <dc:creator>Bullock, James M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-03-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

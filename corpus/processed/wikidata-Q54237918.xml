@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q54237918</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q54237918</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5955449</dc:identifier>
+  <dc:identifier>doi:10.1080/21505594.2018.1460064</dc:identifier>
+  <dc:title>Differential expression of hemoglobin receptor, HmbR, between carriage and invasive isolates of Neisseria meningitidis contributes to virulence: lessons from a clonal outbreak.</dc:title>
+  <dc:creator>Sevestre, Julien</dc:creator>
+  <dc:creator>Diene, Seydina M</dc:creator>
+  <dc:creator>Aouiti-Trabelsi, Myriam</dc:creator>
+  <dc:creator>Deghmane, Ala-Eddine</dc:creator>
+  <dc:creator>Tournier, Isabelle</dc:creator>
+  <dc:creator>François, Patrice</dc:creator>
+  <dc:creator>Caron, François</dc:creator>
+  <dc:creator>Taha, Muhamed-Kheir</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-12-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Neisseria meningitidis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Informa UK Limited</dc:publisher>
+  <dc:description>Carriage and invasion balance in the pathogenesis of Neisseria meningitidis was analyzed during a recent clonal outbreak of meningococcal B in Normandy, France, that offered the opportunity to compare six isolates undistinguable by conventional typing (B:14:P1.7,16:F3-3/ST-32) isolated from invasive disease or pharyngeal asymptomatic carriage. Data from animal model (transgenic mice rendered susceptible to N. meningitidis infection) showed an absence of virulence for two non-capsulated carriage isolates, an intermediate virulence for two capsulated carriage isolates and a marked virulence for two capsulated invasive isolates. This differential pathogenesis well correlated with whole genome sequencing analysis that clustered both isolates of each group together, forming their own arm within the Norman cluster. Gene-by-gene analysis specified that genes involved in iron acquisition were among the elements differentially represented in cluster of invasive isolates compared to cluster of capsulated carriage isolates. The hemoglobin receptor encoding gene hmbR was in an ON-phase in the capsulated invasive isolates while carriage capsulated isolates were in an OFF-phase. An ON-phase variant of a capsulated carriage isolate showed enhanced virulence. These data underline the role of phase variation (ON/OFF) of HmbR in the balance between disease isolates/carriage isolates.</dc:description>
+</oai_dc:dc>

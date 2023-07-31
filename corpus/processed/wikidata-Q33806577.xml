@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33806577</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33806577</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0100277</dc:identifier>
+  <dc:title>Projecting invasion risk of non-native watersnakes (Nerodia fasciata and Nerodia sipedon) in the western United States</dc:title>
+  <dc:creator>Rose, Jonathan P</dc:creator>
+  <dc:creator>Rose, Jonathan P.</dc:creator>
+  <dc:creator>Todd, Brian D</dc:creator>
+  <dc:creator>Todd, Brian D.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-06-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>ecological invasion risk</dc:subject>
+  <dc:subject>Northern Water Snake</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Species distribution models (SDMs) are increasingly used to project the potential distribution of introduced species outside their native range. Such studies rarely explicitly evaluate potential conflicts with native species should the range of introduced species expand. Two snake species native to eastern North America, Nerodia fasciata and Nerodia sipedon, have been introduced to California where they represent a new stressor to declining native amphibians, fish, and reptiles. To project the potential distributions of these non-native watersnakes in western North America, we built ensemble SDMs using MaxEnt, Boosted Regression Trees, and Random Forests and habitat and climatic variables. We then compared the overlap between the projected distribution of invasive watersnakes and the distributions of imperiled native amphibians, fish, and reptiles that can serve as prey or competitors for the invaders, to estimate the risk to native species posed by non-native watersnakes. Large areas of western North America were projected to be climatically suitable for both species of Nerodia according to our ensemble SDMs, including much of central California. The potential distributions of both N. fasciata and N. sipedon overlap extensively with the federally threatened Giant Gartersnake, Thamnophis gigas, which inhabits a similar ecological niche. N. fasciata also poses risk to the federally threatened California Tiger Salamander, Ambystoma californiense, whereas N. sipedon poses risk to some amphibians of conservation concern, including the Foothill Yellow-legged Frog, Rana boylii. We conclude that non-native watersnakes in California can likely inhabit ranges of several native species of conservation concern that are expected to suffer as prey or competing species for these invaders. Action should be taken now to eradicate or control these invasions before detrimental impacts on native species are widespread. Our methods can be applied broadly to quantify the risk posed by incipient invasions to native biodiversity.</dc:description>
+</oai_dc:dc>

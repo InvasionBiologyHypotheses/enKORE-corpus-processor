@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111149054</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111149054</dc:identifier>
+  <dc:identifier>doi:10.3390/RS11030275</dc:identifier>
+  <dc:title>Strength in Numbers: Combining Multi-Source Remotely Sensed Data to Model Plant Invasions in Coastal Dune Ecosystems</dc:title>
+  <dc:creator>Malavasi, Marco</dc:creator>
+  <dc:creator>Barták, Vojtěch</dc:creator>
+  <dc:creator>Jucker, Tommaso</dc:creator>
+  <dc:creator>Acosta, Alicia Teresa Rosario</dc:creator>
+  <dc:creator>Carranza, Maria Laura</dc:creator>
+  <dc:creator>Bazzichetto, Manuele</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-30</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>coastal invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>A common feature of most theories of invasion ecology is that the extent and intensity of invasions is driven by a combination of drivers, which can be grouped into three main factors: propagule pressure (P), abiotic drivers (A) and biotic interactions (B). However, teasing apart the relative contribution of P, A and B on Invasive Alien Species (IAS) distributions is typically hampered by a lack of data. We focused on Mediterranean coastal dunes as a model system to test the ability of a combination of multi-source Remote Sensing (RS) data to characterize the distribution of five IAS. Using generalized linear models, we explored and ranked correlates of P, A and B derived from high-resolution optical imagery and three-dimensional (3D) topographic models obtained from LiDAR, along two coastal systems in Central Italy (Lazio and Molise Regions). Predictors from all three factors contributed significantly to explaining the presence of IAS, but their relative importance varied among the two Regions, supporting previous studies suggesting that invasion is a context-dependent process. The use of RS data allowed us to characterize the distribution of IAS across broad, regional scales and to identify coastal sectors that are most likely to be invaded in the future.</dc:description>
+</oai_dc:dc>

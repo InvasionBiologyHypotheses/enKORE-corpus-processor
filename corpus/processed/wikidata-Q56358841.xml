@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56358841</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56358841</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-28457-Z</dc:identifier>
+  <dc:title>Cellular dissection of malaria parasite invasion of human erythrocytes using viable Plasmodium knowlesi merozoites</dc:title>
+  <dc:creator>Lyth, Oliver</dc:creator>
+  <dc:creator>Vizcay-Barrena, Gema</dc:creator>
+  <dc:creator>Wright, Katherine E</dc:creator>
+  <dc:creator>Haase, Silvia</dc:creator>
+  <dc:creator>Mohring, Franziska</dc:creator>
+  <dc:creator>Najer, Adrian</dc:creator>
+  <dc:creator>Henshall, Isabelle G</dc:creator>
+  <dc:creator>Ashdown, George W</dc:creator>
+  <dc:creator>Bannister, Lawrence H</dc:creator>
+  <dc:creator>Drew, Damien R</dc:creator>
+  <dc:creator>Beeson, James G</dc:creator>
+  <dc:creator>Fleck, Roland A</dc:creator>
+  <dc:creator>Moon, Robert W</dc:creator>
+  <dc:creator>Wilson, Danny W</dc:creator>
+  <dc:creator>Baum, Jake</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>Plasmodium knowlesi</dc:subject>
+  <dc:subject>human erythrocyte</dc:subject>
+  <dc:subject>parasite invasion</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractPlasmodium knowlesi, a zoonotic parasite causing severe-to-lethal malaria disease in humans, has only recently been adapted to continuous culture with human red blood cells (RBCs). In comparison with the most virulent human malaria, Plasmodium falciparum, there are, however, few cellular tools available to study its biology, in particular direct investigation of RBC invasion by blood-stage P. knowlesi merozoites. This leaves our current understanding of biological differences across pathogenic Plasmodium spp. incomplete. Here, we report a robust method for isolating viable and invasive P. knowlesi merozoites to high purity and yield. Using this approach, we present detailed comparative dissection of merozoite invasion (using a variety of microscopy platforms) and direct assessment of kinetic differences between knowlesi and falciparum merozoites. We go on to assess the inhibitory potential of molecules targeting discrete steps of invasion in either species via a quantitative invasion inhibition assay, identifying a class of polysulfonate polymer able to efficiently inhibit invasion in both, providing a foundation for pan-Plasmodium merozoite inhibitor development. Given the close evolutionary relationship between P. knowlesi and P. vivax, the second leading cause of malaria-related morbidity, this study paves the way for inter-specific dissection of invasion by all three major pathogenic malaria species.</dc:description>
+</oai_dc:dc>

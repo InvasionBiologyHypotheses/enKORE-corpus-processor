@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28485132</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28485132</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3494705</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0048689</dc:identifier>
+  <dc:title>Biochemical characterization of Anopheles gambiae SRPN6, a malaria parasite invasion marker in mosquitoes</dc:title>
+  <dc:creator>An, Chunju</dc:creator>
+  <dc:creator>Hiromasa, Yasuaki</dc:creator>
+  <dc:creator>Zhang, Xin</dc:creator>
+  <dc:creator>Lovell, Scott</dc:creator>
+  <dc:creator>Zolkiewski, Michal</dc:creator>
+  <dc:creator>Tomich, John M</dc:creator>
+  <dc:creator>Michel, Kristin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Anopheles gambiae</dc:subject>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>parasite invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Serine proteinase inhibitors of the serpin family are well known as negative regulators of hemostasis, thrombolysis and innate immune responses. Additionally, non-inhibitory serpins serve functions as chaperones, hormone transporters, or anti-angiogenic factors. In the African malaria mosquito, Anopheles gambiae s.s., at least three serpins (SRPNs) are implicated in the innate immune response against malaria parasites. Based on reverse genetic and cell biological analyses, AgSRPN6 limits parasite numbers and transmission and has been postulated to control melanization and complement function in mosquitoes. This study aimed to characterize AgSRPN6 biophysically and determine its biochemical mode of action. The structure model of AgSRPN6, as predicted by I-Tasser showed the protein in the native serpin fold, with three central β-sheets, nine surrounding α-helices, and a protruding reactive center loop. This structure is in agreement with biophysical and functional data obtained from recombinant (r) AgSRPN6, produced in Escherichia coli. The physical properties of purified rAgSRPN6 were investigated by means of analytical ultracentrifugation, circular dichroism, and differential scanning calorimetry tools. The recombinant protein exists predominantly as a monomer in solution, is composed of a mixture of α-helices and β-sheets, and has a mid-point unfolding temperature of 56°C. Recombinant AgSRPN6 strongly inhibited porcine pancreatic kallikrein and to a lesser extent bovine pancreatic trypsin in vitro. Furthermore, rAgSRPN6 formed inhibitory, SDS-stable, higher molecular weight complexes with prophenoloxidase-activating proteinase (PAP)1, PAP3, and Hemolymph protein (HP)6, which are required for melanization in the lepidopteran model organism, Manduca sexta. Taken together, our results strongly suggest that AgSRPN6 takes on a native serpin fold and is an inhibitor of trypsin-like serine proteinases.</dc:description>
+</oai_dc:dc>

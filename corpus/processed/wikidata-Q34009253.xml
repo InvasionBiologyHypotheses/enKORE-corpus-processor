@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34009253</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34009253</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0023115</dc:identifier>
+  <dc:title>Quantifying species' range shifts in relation to climate change: a case study of Abies spp. in China</dc:title>
+  <dc:creator>Kou, Xiaojun</dc:creator>
+  <dc:creator>Li, Qin</dc:creator>
+  <dc:creator>Liu, Shirong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-08-24</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Predicting species range shifts in response to climatic change is a central aspect of global change studies. An ever growing number of species have been modeled using a variety of species distribution models (SDMs). However, quantitative studies of the characteristics of range shifts are rare, predictions of range changes are hard to interpret, analyze and summarize, and comparisons between the various models are difficult to make when the number of species modeled is large. Maxent was used to model the distribution of 12 Abies spp. in China under current and possible future climate conditions. Two fuzzy set defined indices, range increment index (I) and range overlapping index (O), were used to quantify range shifts of the chosen species. Correlation analyses were used to test the relationships between these indices and species distribution characteristics. Our results show that Abies spp. range increments (I) were highly correlated with longitude, latitude, and mean roughness of their current distributions. Species overlapping (O) was moderately, or not, correlated with these parameters. Neither range increments nor overlapping showed any correlation with species prevalence. These fuzzy sets defined indices provide ideal measures of species range shifts because they are stable and threshold-free. They are reliable indices that allow large numbers of species to be described, modeled, and compared on a variety of taxonomic levels.</dc:description>
+</oai_dc:dc>

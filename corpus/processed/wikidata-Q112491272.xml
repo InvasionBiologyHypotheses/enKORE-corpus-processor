@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q112491272</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q112491272</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2022.856841</dc:identifier>
+  <dc:title>Invasion History of the Pinewood Nematode Bursaphelenchus xylophilus Influences the Abundance of Serratia sp. in Pupal Chambers and Tracheae of Insect-Vector Monochamus alternatus</dc:title>
+  <dc:creator>Tian, Haokai</dc:creator>
+  <dc:creator>Koski, Tuuli-Marjaana</dc:creator>
+  <dc:creator>Zhao, Lilin</dc:creator>
+  <dc:creator>Liu, Ziying</dc:creator>
+  <dc:creator>Sun, Jianghua</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-05-20</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Bursaphelenchus xylophilus</dc:subject>
+  <dc:subject>Monochamus alternatus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Pine wilt disease (PWD) has caused extensive mortality in pine forests worldwide. This disease is a result of a multi-species interaction among an invasive pinewood nematode (PWN) Bursaphelenchus xylophilus, its vector Monochamus sp. beetle, and the host pine tree (Pinus sp.). In other systems, microbes have been shown to attenuate negative impacts on invasive species after the invasion has reached a certain time point. Despite that the role of PWD associated microbes involved in the PWD system has been widely studied, it is not known whether similar antagonistic “hidden microbial players” exist in this system due to the lack of knowledge about the potential temporal changes in the composition of associated microbiota. In this study, we investigated the bacteria-to-fungi ratio and isolated culturable bacterial isolates from pupal chambers and vector beetle tracheae across five sampling sites in China differing in the duration of PWN invasion. We also tested the pathogenicity of two candidate bacteria strains against the PWN-vector beetle complex. A total of 118 bacterial species belonging to 4 phyla, 30 families, and 54 genera were classified based on 16S sequencing. The relative abundance of the genus Serratia was lower in pupal chambers and tracheae in newly PWN invaded sites (&amp;lt;10 years) compared to the sites that had been invaded for more than 20 years. Serratia marcescens strain AHPC29 was widely distributed across all sites and showed nematicidal activity against PWN. The insecticidal activity of this strain was dependent on the life stage of the vector beetle Monochamus alternatus: no insecticidal activity was observed against final-instar larvae, whereas S. marcescens was highly virulent against pupae. Our findings improved the understanding of the temporal variation in the microbial community associated with the PWN-vector beetle complex and the progress of PWD and can therefore facilitate the development of biological control agents against PWN and its vector beetle.</dc:description>
+</oai_dc:dc>

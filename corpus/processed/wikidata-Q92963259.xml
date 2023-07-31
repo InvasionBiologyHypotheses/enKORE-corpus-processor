@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q92963259</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q92963259</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6408899</dc:identifier>
+  <dc:identifier>doi:10.1098/RSPB.2018.2528</dc:identifier>
+  <dc:title>A global meta-analysis of the ecological impacts of alien species on native amphibians</dc:title>
+  <dc:creator>Nunes, Ana L</dc:creator>
+  <dc:creator>Fill, Jennifer M</dc:creator>
+  <dc:creator>Davies, Sarah J</dc:creator>
+  <dc:creator>Louw, Marike</dc:creator>
+  <dc:creator>Rebelo, Alexander D</dc:creator>
+  <dc:creator>Thorp, Corey J</dc:creator>
+  <dc:creator>Vimercati, Giovanni</dc:creator>
+  <dc:creator>Measey, G. John</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-02-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+</oai_dc:dc>

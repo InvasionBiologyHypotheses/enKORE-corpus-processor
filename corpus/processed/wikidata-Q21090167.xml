@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q21090167</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q21090167</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011680</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PBIO.1001850</dc:identifier>
+  <dc:title>A unified classification of alien species based on the magnitude of their environmental impacts</dc:title>
+  <dc:creator>Blackburn, Tim M</dc:creator>
+  <dc:creator>Essl, Franz</dc:creator>
+  <dc:creator>Evans, Thomas</dc:creator>
+  <dc:creator>Hulme, Philip E</dc:creator>
+  <dc:creator>Jeschke, Jonathan M</dc:creator>
+  <dc:creator>Kühn, Ingolf</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Marková, Zuzana</dc:creator>
+  <dc:creator>Mrugała, Agata</dc:creator>
+  <dc:creator>Nentwig, Wolfgang</dc:creator>
+  <dc:creator>Pergl, Jan</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Rabitsch, Wolfgang</dc:creator>
+  <dc:creator>Ricciardi, Anthony</dc:creator>
+  <dc:creator>Richardson, David M</dc:creator>
+  <dc:creator>Sendek, Agnieszka</dc:creator>
+  <dc:creator>Vilà, Montserrat</dc:creator>
+  <dc:creator>Wilson, John R U</dc:creator>
+  <dc:creator>Winter, Marten</dc:creator>
+  <dc:creator>Genovesi, Piero</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>environmental effects</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Species moved by human activities beyond the limits of their native geographic ranges into areas in which they do not naturally occur (termed aliens) can cause a broad range of significant changes to recipient ecosystems; however, their impacts vary greatly across species and the ecosystems into which they are introduced. There is therefore a critical need for a standardised method to evaluate, compare, and eventually predict the magnitudes of these different impacts. Here, we propose a straightforward system for classifying alien species according to the magnitude of their environmental impacts, based on the mechanisms of impact used to code species in the International Union for Conservation of Nature (IUCN) Global Invasive Species Database, which are presented here for the first time. The classification system uses five semi-quantitative scenarios describing impacts under each mechanism to assign species to different levels of impact-ranging from Minimal to Massive-with assignment corresponding to the highest level of deleterious impact associated with any of the mechanisms. The scheme also includes categories for species that are Not Evaluated, have No Alien Population, or are Data Deficient, and a method for assigning uncertainty to all the classifications. We show how this classification system is applicable at different levels of ecological complexity and different spatial and temporal scales, and embraces existing impact metrics. In fact, the scheme is analogous to the already widely adopted and accepted Red List approach to categorising extinction risk, and so could conceivably be readily integrated with existing practices and policies in many regions.</dc:description>
+</oai_dc:dc>

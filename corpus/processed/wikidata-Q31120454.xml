@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31120454</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31120454</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0065776</dc:identifier>
+  <dc:title>Performance of serum biomarkers for the early detection of invasive aspergillosis in febrile, neutropenic patients: a multi-state model</dc:title>
+  <dc:creator>Schwarzinger, Michaël</dc:creator>
+  <dc:creator>Sagaon-Teyssier, Luis</dc:creator>
+  <dc:creator>Cabaret, Odile</dc:creator>
+  <dc:creator>Cordonnier, Catherine</dc:creator>
+  <dc:creator>Investigators, PREVERT</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-06-14</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biomarker</dc:subject>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:subject>invasive aspergillosis</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundThe performance of serum biomarkers for the early detection of invasive aspergillosis expectedly depends on the timing of test results relative to the empirical administration of antifungal therapy during neutropenia, although a dynamic evaluation framework is lacking.MethodsWe developed a multi-state model describing simultaneously the likelihood of empirical antifungal therapy and the risk of invasive aspergillosis during neutropenia. We evaluated whether the first positive test result with a biomarker is an independent predictor of invasive aspergillosis when both diagnostic information used to treat and risk factors of developing invasive aspergillosis are taken into account over time. We applied the multi-state model to a homogeneous cohort of 185 high-risk patients with acute myeloid leukemia. Patients were prospectively screened for galactomannan antigenemia twice a week for immediate treatment decision; 2,214 serum samples were collected on the same days and blindly assessed for (1-&gt;3)- β-D-glucan antigenemia and a quantitative PCR assay targeting a mitochondrial locus.ResultsThe usual evaluation framework of biomarker performance was unable to distinguish clinical benefits of β-glucan or PCR assays. The multi-state model evidenced that the risk of invasive aspergillosis is a complex time function of neutropenia duration and risk management. The quantitative PCR assay accelerated the early detection of invasive aspergillosis (P = .010), independently of other diagnostic information used to treat, while β-glucan assay did not (P = .53).ConclusionsThe performance of serum biomarkers for the early detection of invasive aspergillosis is better apprehended by the evaluation of time-varying predictors in a multi-state model. Our results provide strong rationale for prospective studies testing a preemptive antifungal therapy, guided by clinical, radiological, and bi-weekly blood screening with galactomannan antigenemia and a standardized quantitative PCR assay.</dc:description>
+</oai_dc:dc>

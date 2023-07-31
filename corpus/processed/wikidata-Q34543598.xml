@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34543598</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34543598</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566952</dc:identifier>
+  <dc:identifier>doi:10.1186/1471-2180-13-5</dc:identifier>
+  <dc:title>Integrin α5β1-fimbriae binding and actin rearrangement are essential for Porphyromonas gingivalis invasion of osteoblasts and subsequent activation of the JNK pathway</dc:title>
+  <dc:creator>Zhang, Wenjian</dc:creator>
+  <dc:creator>Ju, Jun</dc:creator>
+  <dc:creator>Rigney, Todd</dc:creator>
+  <dc:creator>Tribble, Gena</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-01-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>osteoblast</dc:subject>
+  <dc:subject>Porphyromonas gingivalis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q37416904</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q37416904</dc:identifier>
+  <dc:identifier>doi:10.1038/SREP37197</dc:identifier>
+  <dc:title>A novel ENU-induced ankyrin-1 mutation impairs parasite invasion and increases erythrocyte clearance during malaria infection in mice</dc:title>
+  <dc:creator>Huang, Hong Ming</dc:creator>
+  <dc:creator>Bauer, Denis C</dc:creator>
+  <dc:creator>Lelliott, Patrick M</dc:creator>
+  <dc:creator>Greth, Andreas</dc:creator>
+  <dc:creator>McMorran, Brendan J</dc:creator>
+  <dc:creator>Foote, Simon J</dc:creator>
+  <dc:creator>Burgio, Gaetan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-11-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>malaria</dc:subject>
+  <dc:subject>parasite invasion</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractGenetic defects in various red blood cell (RBC) cytoskeletal proteins have been long associated with changes in susceptibility towards malaria infection. In particular, while ankyrin (Ank-1) mutations account for approximately 50% of hereditary spherocytosis (HS) cases, an association with malaria is not well-established, and conflicting evidence has been reported. We describe a novel N-ethyl-N-nitrosourea (ENU)-induced ankyrin mutation MRI61689 that gives rise to two different ankyrin transcripts: one with an introduced splice acceptor site resulting a frameshift, the other with a skipped exon. Ank-1(MRI61689/+) mice exhibit an HS-like phenotype including reduction in mean corpuscular volume (MCV), increased osmotic fragility and reduced RBC deformability. They were also found to be resistant to rodent malaria Plasmodium chabaudi infection. Parasites in Ank-1(MRI61689/+) erythrocytes grew normally, but red cells showed resistance to merozoite invasion. Uninfected Ank-1(MRI61689/+) erythrocytes were also more likely to be cleared from circulation during infection; the “bystander effect”. This increased clearance is a novel resistance mechanism which was not observed in previous ankyrin mouse models. We propose that this bystander effect is due to reduced deformability of Ank-1(MRI61689/+) erythrocytes. This paper highlights the complex roles ankyrin plays in mediating malaria resistance.</dc:description>
+</oai_dc:dc>

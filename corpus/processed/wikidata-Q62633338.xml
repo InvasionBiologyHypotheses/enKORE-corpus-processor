@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q62633338</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q62633338</dc:identifier>
+  <dc:identifier>doi:10.5194/HESS-2017-707</dc:identifier>
+  <dc:title>A comprehensive study of new hybrid models for Adaptive Neuro-Fuzzy Inference System (ANFIS) with Invasive Weed Optimization (IWO), Differential Evolution (DE), Firefly (FA), Particle Swarm Optimization (PSO) and Bees (BA) algorithms for spatial pred</dc:title>
+  <dc:creator>Khosravi, Khabat</dc:creator>
+  <dc:creator>Panahi, Mahdi</dc:creator>
+  <dc:creator>Bui, Dieu Tien</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-02-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>particle swarm optimization</dc:subject>
+  <dc:subject>invasive weed optimization</dc:subject>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:publisher>Copernicus GmbH</dc:publisher>
+  <dc:description>Abstract. Groundwater are one of the most valuable natural resources in the world and their sustainable management is necessary. One of the most important methods in managing groundwater is developing groundwater potential mapping (GPM). The current study benefits from a new hybrids of Adaptive Neuro-Fuzzy Inference System (ANFIS) with five meta-heuristic algorithms, namely Invasive Weed Optimization (IWO), Differential Evolution (DE), Firefly (FA), Particle Swarm Optimization (PSO) and Bees (BA) algorithms for spatial prediction of groundwater spring potential mapping at Koohdasht-Nourabad plain, Lorestan province, Iran. A total number of 2463 springs were identified and then divided in two classes randomly, including 70_% (1725 locations) of the springs were applied for model training and the remaining 30_% (738 spring locations), which were excluded in the training phase, were utilized for the model valuation. Thirteen groundwater occurrence conditioning factors, namely slope degree, slope aspect, altitude, curvature, stream power index (SPI), topographic wetness index (TWI), terrain roughness index (TRI), distance from fault, distance from river, land-use, rainfall, soil order and lithology (units) have been selected for modeling. The stepwise assessment ratio analysis (SWARA) method was applied to determine the spatial correlation between springs and conditioning factors. The accuracy of the map achieved after applying these five hybrid models was determined using the area under the receiver operating characteristic (ROC) curve (AUC). The results showed that ANFIS-DE has the highest prediction capability (0.875) for groundwater spring potential mapping in the study area, followed by ANFIS-IWO and ANFIS-FA (0.873), ANFIS-PSO (0.865) and ANFIS-BA (0.839). Results of Freidman and Wilcoxon signed rank test revealed that there were statistically significant differences between the models' performances except for ANFIS-FA vs. ANFIS-DE and ANFIS-PSO vs. ANFIS-DE. The results of this research can be useful for decision makers to sustainable management of groundwater resources.
+                        </dc:description>
+</oai_dc:dc>

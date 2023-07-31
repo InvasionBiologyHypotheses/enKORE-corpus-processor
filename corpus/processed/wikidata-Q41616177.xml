@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q41616177</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q41616177</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584753</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0183347</dc:identifier>
+  <dc:title>DNA in a bottle-Rapid metabarcoding survey for early alerts of invasive species in ports</dc:title>
+  <dc:creator>Pichs, Yaisel Juan Borrell</dc:creator>
+  <dc:creator>Miralles, Laura</dc:creator>
+  <dc:creator>Huu, Hoang Do</dc:creator>
+  <dc:creator>Mohammed-Geba, Khaled</dc:creator>
+  <dc:creator>Garcia-Vazquez, Eva</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-09-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>metabarcoding</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Biota monitoring in ports is increasingly needed for biosecurity reasons and safeguarding marine biodiversity from biological invasion. Present and future international biosecurity directives can be accomplished only if the biota acquired by maritime traffic in ports is controlled. Methodologies for biota inventory are diverse and now rely principally on extensive and labor-intensive sampling along with taxonomic identification by experts. In this study, we employed an extremely simplified environmental DNA (eDNA) sampling methodology from only three 1-L bottles of water per port, followed by metabarcoding (high-throughput sequencing and DNA-based species identification) using 18S rDNA and Cytochrome oxidase I as genetic barcodes. Eight Bay of Biscay ports with available inventory of fouling invertebrates were employed as a case study. Despite minimal sampling efforts, three invasive invertebrates were detected: the barnacle Austrominius modestus, the tubeworm Ficopomatus enigmaticus and the polychaete Polydora triglanda. The same species have been previously found from visual and DNA barcoding (genetic identification of individuals) surveys in the same ports. The current costs of visual surveys, conventional DNA barcoding and this simplified metabarcoding protocol were compared. The results encourage the use of metabarcoding for early biosecurity alerts.</dc:description>
+</oai_dc:dc>
