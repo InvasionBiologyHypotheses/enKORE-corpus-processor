@@ -1,16 +1,16 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2023-07-31T14:47:35.927Z
+# Process started at date-UTC: 2023-08-13T13:35:49.639Z
 # Note: List of files that are empty.
 Log(compute_content_empty_files): Empty file: wikidata-Q36248759.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56329666.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q110663845.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56440532.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q110663845.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q34551999.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35769169.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35694036.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q33817443.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35070948.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q33817443.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q51148087.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q57922086.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q60255616.xml
@@ -18,8 +18,8 @@ Log(compute_content_empty_files): Empty file: wikidata-Q28539286.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q96641532.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q27725078.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q63388840.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q57815626.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q111325751.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q57815626.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q30798462.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q106301935.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35719299.xml
@@ -87,7 +87,6 @@ Log(compute_content_empty_files): Empty file: wikidata-Q110663931.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56432849.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q106584876.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q58098461.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q35582295.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q93207022.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q91517817.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56441676.xml
@@ -121,10 +120,10 @@ Log(compute_content_empty_files): Empty file: wikidata-Q56440862.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35593006.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56480950.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q112431506.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q42317097.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q28730263.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q33492284.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35671620.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q106584733.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q28727276.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q34847119.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q33309948.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q33884117.xml
@@ -215,33 +214,33 @@ Log(compute_content_empty_files): Empty file: wikidata-Q56395420.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35832291.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q30000297.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q37084184.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q60557322.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q15762300.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q60557322.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q98390216.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28709988.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28535338.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35689561.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q111154353.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q40250762.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q35940289.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q40250762.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q107461705.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q36980928.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q113237942.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q36980928.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q58589824.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q56383784.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q110809144.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q111137531.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q56383784.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q31134521.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q110663914.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q61800204.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q110862091.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q92562046.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q104477011.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q110756347.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q104477011.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56425491.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q41508242.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q33638267.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q112767056.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q33638267.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q56339900.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q39618157.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q110757747.xml
@@ -249,10 +248,10 @@ Log(compute_content_empty_files): Empty file: wikidata-Q91808269.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q57019166.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q111149716.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q41433156.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q36320100.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q90312001.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q36236399.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28484183.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q112503767.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q29353656.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q40109690.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28742887.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q37383270.xml
@@ -261,8 +260,8 @@ Log(compute_content_empty_files): Empty file: wikidata-Q89575000.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q31149815.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q45972558.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28602139.xml
-# Process complete at date-UTC: 2023-07-31T16:08:51.986Z
-Log(compute_content_empty_files): Empty file: wikidata-Q42317097.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q28730263.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q36320100.xml
-Log(compute_content_empty_files): Empty file: wikidata-Q90312001.xml
+# Process complete at date-UTC: 2023-08-13T15:18:46.986Z
+Log(compute_content_empty_files): Empty file: wikidata-Q106584733.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q28727276.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q112503767.xml
+Log(compute_content_empty_files): Empty file: wikidata-Q29353656.xml
