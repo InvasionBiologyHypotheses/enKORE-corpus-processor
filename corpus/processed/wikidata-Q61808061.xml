@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q61808061</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q61808061</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364329</dc:identifier>
+  <dc:identifier>doi:10.3389/FPLS.2019.00024</dc:identifier>
+  <dc:title>RNA Sequencing Characterizes Transcriptomes Differences in Cold Response Between Northern and Southern and Highlight Adaptations Associated With Northward Expansion</dc:title>
+  <dc:creator>Liu, Dasheng</dc:creator>
+  <dc:creator>Horvath, David</dc:creator>
+  <dc:creator>Li, Peng</dc:creator>
+  <dc:creator>Liu, Wenmin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Alternanthera philoxeroides</dc:subject>
+  <dc:subject>North China</dc:subject>
+  <dc:subject>RNA sequencing</dc:subject>
+  <dc:subject>cold hardiness</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Alternanthera philoxeroides recently expanded its range northwards in China. It is unknown if the range expansion has a genetic and/or epigenetic basis, or merely an environmental basis due to a warming climate. To test these possibilities, we used an RNAseq approach with a common greenhouse design to examine gene expression in individuals from the northern edge and central portion of alligator weed range from China to determine if there were differences in their responses to cold temperatures. We hypothesized that if the recent range expansion was primarily environmental, we would observe few differences or only differences unrelated to low-temperature adaptations. We assembled over 75,000 genes of which over 65,000 had long open reading frames with similarity to sequences from arabidopsis. Differences in expression between northern and southern populations that were both exposed to low temperatures showed similar expression among genes in the C-REPEAT/DRE BINDING FACTOR (CBF) regulon. However, gene set and sub-network enrichment analysis indicated differences in the response of photosynthetic processes and oxidative stress responses were different between the two populations and we relate these differences to cold adaptation. The transcriptome differences in response to cold between the individuals from the two populations is consistent with adaptations potentiating or resulting from selection after expansion into colder environments and may indicate that genetic changes have accompanied the recent northward expansion of A. philoxeroides in China. However, we cannot rule out the possibility of epigenetic changes may have a role in this expansion.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110809285</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110809285</dc:identifier>
+  <dc:identifier>doi:10.3390/V13050740</dc:identifier>
+  <dc:title>Organization of the Structural Protein Region of La Jolla Virus Isolated from the Invasive Pest Insect</dc:title>
+  <dc:creator>Carrau, Tessa</dc:creator>
+  <dc:creator>Lamp, Benjamin</dc:creator>
+  <dc:creator>Reuscher, Carina M</dc:creator>
+  <dc:creator>Vilcinskas, Andreas</dc:creator>
+  <dc:creator>Lee, Kwang-Zin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-04-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive insect</dc:subject>
+  <dc:subject>invasive pest species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Drosophila suzukii (Ds) is an invasive pest insect that infests ripening fruit, causing severe economic losses. Control measures based on chemical pesticides are inefficient and undesirable, so biological alternatives have been considered, including native Ds viruses. We previously isolated a strain of La Jolla virus (LJV-Ds-OS20) from Ds in Germany as a candidate biopesticide. Here we characterized the new strain in detail, focusing on the processing of its capsid proteins. We tested LJV growth during Ds development to optimize virus production, and established a laboratory production system using adult flies. This system was suitable for the preparation of virions for detailed analysis. The LJV-Ds-OS20 isolate was cloned by limiting dilution and the complete nucleotide sequence was determined as a basis for protein analysis. The terminal segments of the virus genome were completed by RACE-PCR. LJV virions were also purified by CsCl gradient centrifugation and analyzed by SDS-PAGE and electron microscopy. The capsid proteins of purified LJV virions were resolved by two-dimensional SDS-PAGE for N-terminal sequencing and peptide mass fingerprinting. The N-terminal sequences of VP1 and VP2, together with MS data representing several capsid proteins, allowed us to develop a model for the organization of the LJV structural protein region. This may facilitate the development of new viral strains as biopesticides.</dc:description>
+</oai_dc:dc>

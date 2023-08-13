@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110829132</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110829132</dc:identifier>
+  <dc:identifier>doi:10.3390/RS12111725</dc:identifier>
+  <dc:title>Joint Effect of Spartina alterniflora Invasion and Reclamation on the Spatial and Temporal Dynamics of Tidal Flats in Yangtze River Estuary</dc:title>
+  <dc:creator>Liu, Yi-Fei</dc:creator>
+  <dc:creator>Jun</dc:creator>
+  <dc:creator>Wang, Xin-Xin</dc:creator>
+  <dc:creator>Zhong, Qiao-Yan</dc:creator>
+  <dc:creator>Zong, Jia-Min</dc:creator>
+  <dc:creator>Wu, Wan-Ben</dc:creator>
+  <dc:creator>Wang, Qing</dc:creator>
+  <dc:creator>Zhao, Bin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>estuary</dc:subject>
+  <dc:subject>Spartina alterniflora</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>estuarine invasion</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Tidal flats, which are non-vegetated land–sea transition areas, have an important ecological function in the global ecosystem. However, they have been shrinking in recent years due to natural and anthropogenic activities. Although many studies focus on tidal flats in the Yangtze River estuary (YRE) in China, how reclamation and plant invasion affect the expansion and erosion of tidal flats are still unclear. In this study, we analyzed all of the available Landsat TM/ETM+ /OLI imagery from the period 1996 to 2018 using the Google Earth Engine (GEE) cloud computing platform to obtain annual maps of coastal tidal flats of YRE at 30 m spatial resolution. We chose three sample tidal flats where severe Spartina alterniflora (S. alterniflora) invasion, reclamation, and control areas existed to explore the joint impact of plant invasion and reclamation on tidal flats. We also point out the main driving factor of tidal flat expansion of each island in YRE by multiple linear regression. Our results suggest that the tidal flats of YRE had obvious expansion from 1996 to 2018, and the speed of expansion is getting slower because of the decreasing deposits in the Yangtze River. Invasive S. alterniflora is effective at promoting silting, and tidal flats with S. alterniflora invasion expanded 2.54 times faster than the control group. Chongming and Hengsha Islands were mainly affected by sediment concentration, while Changxing and Jiuduansha Islands were affected by reclamation and S. alterniflora invasion, respectively. The results could be used to support coastal zone management and biodiversity conservation of the YRE.</dc:description>
+</oai_dc:dc>

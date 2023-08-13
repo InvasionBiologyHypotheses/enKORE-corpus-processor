@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111144685</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111144685</dc:identifier>
+  <dc:identifier>doi:10.3750/AIEP/03028</dc:identifier>
+  <dc:title>One of the world’s worst invasive species, Clarias batrachus (Actinopterygii: Siluriformes: Clariidae), has arrived and established a population in Turkey</dc:title>
+  <dc:creator>Emiroğlu, Özgür</dc:creator>
+  <dc:creator>Atalay, Mustafa Altuğ</dc:creator>
+  <dc:creator>Ekmekçi, Fitnat Güler</dc:creator>
+  <dc:creator>Aksu, Sadi</dc:creator>
+  <dc:creator>Başkurt, Sercan</dc:creator>
+  <dc:creator>Keskin, Emre</dc:creator>
+  <dc:creator>Ünal, Esra Mine</dc:creator>
+  <dc:creator>Yoğurtçuoğlu, Baran</dc:creator>
+  <dc:creator>Tarkan, Ali Serhan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+  <dc:subject>propagule pressure hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>Walking catfish</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Airbreathing catfish</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35532747</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35532747</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408005</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0003689</dc:identifier>
+  <dc:title>From lab to field: the influence of urban landscapes on the invasive potential of Wolbachia in Brazilian Aedes aegypti mosquitoes</dc:title>
+  <dc:creator>Dutra, Heverton Leandro Carneiro</dc:creator>
+  <dc:creator>Santos, Lilha Maria Barbosa Dos</dc:creator>
+  <dc:creator>Caragata, Eric Pearce</dc:creator>
+  <dc:creator>Silva, Jéssica Barreto Lopes</dc:creator>
+  <dc:creator>Villela, Daniel Antunes Maciel</dc:creator>
+  <dc:creator>Maciel-de-Freitas, Rafael</dc:creator>
+  <dc:creator>Moreira, Luciano Andrade</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Aedes aegypti</dc:subject>
+  <dc:subject>Wolbachia</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
+  <dc:subject>urban ecology</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundThe symbiotic bacterium Wolbachia is currently being trialled as a biocontrol agent in several countries to reduce dengue transmission. Wolbachia can invade and spread to infect all individuals within wild mosquito populations, but requires a high rate of maternal transmission, strong cytoplasmic incompatibility and low fitness costs in the host in order to do so. Additionally, extensive differences in climate, field-release protocols, urbanization level and human density amongst the sites where this bacterium has been deployed have limited comparison and analysis of Wolbachia's invasive potential.Methodology/principal findingsWe examined key phenotypic effects of the wMel Wolbachia strain in laboratory Aedes aegypti mosquitoes with a Brazilian genetic background to characterize its invasive potential. We show that the wMel strain causes strong cytoplasmic incompatibility, a high rate of maternal transmission and has no evident detrimental effect on host fecundity or fertility. Next, to understand the effects of different urban landscapes on the likelihood of mosquito survival, we performed mark-release-recapture experiments using Wolbachia-uninfected Brazilian mosquitoes in two areas of Rio de Janeiro where Wolbachia will be deployed in the future. We characterized the mosquito populations in relation to the socio-demographic conditions at these sites, and at three other future release areas. We then constructed mathematical models using both the laboratory and field data, and used these to describe the influence of urban environmental conditions on the likelihood that the Wolbachia infection frequency could reach 100% following mosquito release. We predict successful invasion at all five field sites, however the conditions by which this occurs vary greatly between sites, and are strongly influenced by the size of the local mosquito population.Conclusions/significanceThrough analysis of laboratory, field and mathematical data, we show that the wMel strain of Wolbachia possesses the characteristics required to spread effectively in different urban socio-demographic environments in Rio de Janeiro, including those where mosquito releases from the Eliminate Dengue Program will take place.</dc:description>
+</oai_dc:dc>

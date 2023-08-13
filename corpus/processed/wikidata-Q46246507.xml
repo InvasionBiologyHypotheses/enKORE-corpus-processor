@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46246507</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q46246507</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-017-17000-1</dc:identifier>
+  <dc:title>Modulation of Immune Signaling and Metabolism Highlights Host and Fungal Transcriptional Responses in Mouse Models of Invasive Pulmonary Aspergillosis.</dc:title>
+  <dc:creator>Kale, Shiv D</dc:creator>
+  <dc:creator>Ayubi, Tariq</dc:creator>
+  <dc:creator>Chung, Dawoon</dc:creator>
+  <dc:creator>Tubau-Juni, Nuria</dc:creator>
+  <dc:creator>Leber, Andrew</dc:creator>
+  <dc:creator>Dang, Ha X</dc:creator>
+  <dc:creator>Karyala, Saikumar</dc:creator>
+  <dc:creator>Hontecillas, Raquel</dc:creator>
+  <dc:creator>Lawrence, Christopher B</dc:creator>
+  <dc:creator>Cramer, Robert A</dc:creator>
+  <dc:creator>Bassaganya-Riera, Josep</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-12-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>aspergillosis</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractIncidences of invasive pulmonary aspergillosis, an infection caused predominantly by Aspergillus fumigatus, have increased due to the growing number of immunocompromised individuals. While A. fumigatus is reliant upon deficiencies in the host to facilitate invasive disease, the distinct mechanisms that govern the host-pathogen interaction remain enigmatic, particularly in the context of distinct immune modulating therapies. To gain insights into these mechanisms, RNA-Seq technology was utilized to sequence RNA derived from lungs of 2 clinically relevant, but immunologically distinct murine models of IPA on days 2 and 3 post inoculation when infection is established and active disease present. Our findings identify notable differences in host gene expression between the chemotherapeutic and steroid models at the interface of immunity and metabolism. RT-qPCR verified model specific and nonspecific expression of 23 immune-associated genes. Deep sequencing facilitated identification of highly expressed fungal genes. We utilized sequence similarity and gene expression to categorize the A. fumigatus putative in vivo secretome. RT-qPCR suggests model specific gene expression for nine putative fungal secreted proteins. Our analysis identifies contrasting responses by the host and fungus from day 2 to 3 between the two models. These differences may help tailor the identification, development, and deployment of host- and/or fungal-targeted therapeutics.</dc:description>
+</oai_dc:dc>

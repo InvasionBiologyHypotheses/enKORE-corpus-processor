@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q38911827</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q38911827</dc:identifier>
+  <dc:identifier>doi:10.1159/000373928</dc:identifier>
+  <dc:title>High glucose promotes tumor invasion and increases metastasis-associated protein expression in human lung epithelial cells by upregulating heme oxygenase-1 via reactive oxygen species or the TGF-β1/PI3K/Akt signaling pathway</dc:title>
+  <dc:creator>Kang, Xiaowen</dc:creator>
+  <dc:creator>Kong, Fanwu</dc:creator>
+  <dc:creator>Wu, Xiaomei</dc:creator>
+  <dc:creator>Ren, Yeping</dc:creator>
+  <dc:creator>Wu, Shijie</dc:creator>
+  <dc:creator>Wu, Kaiming</dc:creator>
+  <dc:creator>Jiang, Zhe</dc:creator>
+  <dc:creator>Zhang, Wei</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-02-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by-nc/3.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>glycobiology</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>reactive oxygen species</dc:subject>
+  <dc:subject>invasion facilitation</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>S. Karger AG</dc:publisher>
+  <dc:description>Background: Growing evidence indicates that heme oxygenase-1 (HO-1) is up-regulated in malignancies and subsequently alters tumor aggressiveness and various cancer-related factors, such as high glucose (HG) levels. HO-1 expression can be induced when glucose concentrations are above 25 mM; however, the role of HO-1 in lung cancer patients with diabetes remains unknown. Therefore, in this study we investigated the promotion of tumor cell invasion and the expression of metastasis-associated proteins by inducing the up-regulation of HO-1 expression by HG treatment in A549 human lung epithelial cells. Methods: The expression of HO-1and metastasis-associated protein expression was explored by western blot analysis. HO-1 enzymatic activity, reactive oxygen species (ROS) production and TGF-β1 production were examined by ELISA. Invasiveness was analyzed using a Transwell chamber. Results: HG treatment of A549 cells induced an increase in HO-1 expression, which was mediated by the HG-induced generation of reactive oxygen species (ROS) and transforming growth factor-β1 (TGF-β1) in a concentration- and time-dependent manner. Following the increase in HO-1 expression, the enzymatic activity of HO-1 also increased in HG-treated cells. Pretreatment with N-acetyl-L-cysteine (NAC) or with phosphatidylinositol 3-kinase (PI3K)/Akt inhibitors attenuated the HG-induced increase in HO-1 expression. HG treatment of A549 cells enhanced the invasion potential of these cells, as shown with a Transwell assay, and increased metastasis-associated protein expression. However, HO-1 siRNA transfection significantly decreased these capabilities. Conclusion: this study is the first to demonstrate that HG treatment of A549 human lung epithelial cells promotes tumor cell invasion and increases metastasis-associated protein expression by up-regulating HO-1 expression via ROS or the TGF-β1/PI3K/Akt signaling pathway.</dc:description>
+</oai_dc:dc>

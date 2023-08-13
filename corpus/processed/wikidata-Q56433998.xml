@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56433998</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56433998</dc:identifier>
+  <dc:identifier>doi:10.1007/S10113-014-0675-Z</dc:identifier>
+  <dc:title>Impacts of climate change on biodiversity in Israel: an expert assessment approach</dc:title>
+  <dc:creator>Sternberg, Marcelo</dc:creator>
+  <dc:creator>Gabay, Ofri</dc:creator>
+  <dc:creator>Angel, Dror</dc:creator>
+  <dc:creator>Barneah, Orit</dc:creator>
+  <dc:creator>Gafny, Sarig</dc:creator>
+  <dc:creator>Gasith, Avital</dc:creator>
+  <dc:creator>Grünzweig, José M.</dc:creator>
+  <dc:creator>Hershkovitz, Yaron</dc:creator>
+  <dc:creator>Israel, Alvaro</dc:creator>
+  <dc:creator>Milstein, Dana</dc:creator>
+  <dc:creator>Rilov, Gil</dc:creator>
+  <dc:creator>Steinberger, Yosef</dc:creator>
+  <dc:creator>Zohary, Tamar</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-08-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>Israel</dc:subject>
+  <dc:subject>climate impact research</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>environmental change</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

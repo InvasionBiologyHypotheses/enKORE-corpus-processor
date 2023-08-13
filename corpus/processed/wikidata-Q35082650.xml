@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35082650</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35082650</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3877114</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0083864</dc:identifier>
+  <dc:title>Molecular characterization of Trypanosoma cruzi SAP proteins with host-cell lysosome exocytosis-inducing activity required for parasite invasion</dc:title>
+  <dc:creator>Zanforlin, Tamiris</dc:creator>
+  <dc:creator>Bayer-Santos, Ethel</dc:creator>
+  <dc:creator>Cortez, Cristian</dc:creator>
+  <dc:creator>Almeida, Igor C</dc:creator>
+  <dc:creator>Yoshida, Nobuko</dc:creator>
+  <dc:creator>Silveira, José Franco</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2013-12-31</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Trypanosoma cruzi</dc:subject>
+  <dc:subject>exocytosis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>parasite invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundTo invade target cells, Trypanosoma cruzi metacyclic forms engage distinct sets of surface and secreted molecules that interact with host components. Serine-, alanine-, and proline-rich proteins (SAP) comprise a multigene family constituted of molecules with a high serine, alanine and proline residue content. SAP proteins have a central domain (SAP-CD) responsible for interaction with and invasion of mammalian cells by metacyclic forms.Methods and findingsUsing a 513 bp sequence from SAP-CD in blastn analysis, we identified 39 full-length SAP genes in the genome of T. cruzi. Although most of these genes were mapped in the T. cruzi in silico chromosome TcChr41, several SAP sequences were spread out across the genome. The level of SAP transcripts was twice as high in metacyclic forms as in epimastigotes. Monoclonal (MAb-SAP) and polyclonal (anti-SAP) antibodies produced against the recombinant protein SAP-CD were used to investigate the expression and localization of SAP proteins. MAb-SAP reacted with a 55 kDa SAP protein released by epimastigotes and metacyclic forms and with distinct sets of SAP variants expressed in amastigotes and tissue culture-derived trypomastigotes (TCTs). Anti-SAP antibodies reacted with components located in the anterior region of epimastigotes and between the nucleus and the kinetoplast in metacyclic trypomastigotes. In contrast, anti-SAP recognized surface components of amastigotes and TCTs, suggesting that SAP proteins are directed to different cellular compartments. Ten SAP peptides were identified by mass spectrometry in vesicle and soluble-protein fractions obtained from parasite conditioned medium. Using overlapping sequences from SAP-CD, we identified a 54-aa peptide (SAP-CE) that was able to induce host-cell lysosome exocytosis and inhibit parasite internalization by 52%.ConclusionsThis study provides novel information about the genomic organization, expression and cellular localization of SAP proteins and proposes a triggering role for extracellular SAP proteins in host-cell lysosome exocytosis during metacyclic internalization.</dc:description>
+</oai_dc:dc>
