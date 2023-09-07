@@ -25,7 +25,6 @@
 // ##### Notes: N/A
 // ##### ==============================================================================
 
-
 // ###########################################
 // ##### Import required modules (START) #####
 // ###########################################
@@ -35,7 +34,7 @@ import * as retried from "retried";
 
 import { readJSON, readJSONFromURL, writeJSON, writeTXT } from "flat-data";
 import * as citationJS from "@citation-js/core";
-import "@enkore/citationjs-plugin"; // ##### 
+import "@enkore/citationjs-plugin"; // #####
 //import 'https://raw.githubusercontent.com/InvasionBiologyHypotheses/enKORE-citation-js-plugin/main/src/index.js';
 
 // ##### Note: function to provide date now in UTM
@@ -58,16 +57,19 @@ import { abstractSources, logging, settings } from "./config.js"; // ##### Note:
 
 // ##### Note: It is needed to bring some standard modules from Node to process some information
 // ##### Note: https://reflect.run/articles/how-to-use-node-modules-in-deno/#:~:text=The%20Deno%20std%2Fnode%20library,to%20import%20and%20use%20Node.
-import { createRequire } from "https://deno.land/std/node/module.ts";
+import { createRequire } from "https://deno.land/std@0.177.1/node/module.ts";
 const require = createRequire(import.meta.url);
 
-import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.ts';
-
+import {
+  cron,
+  daily,
+  monthly,
+  weekly,
+} from "https://deno.land/x/deno_cron@v1.0.0/cron.ts";
 
 // #########################################
 // ##### Import required modules (END) #####
 // #########################################
-
 
 // ######################################################
 // ##### Information for console debugging purposes #####
@@ -75,7 +77,6 @@ import {cron, daily, monthly, weekly} from 'https://deno.land/x/deno_cron/cron.t
 const filename_this = "Log(process.js): "; // ##### Note: not needed because process.js is currently using dl.debug("string"), you may see config.js for details;
 
 const sleep = (time = 1000) =>
-
   new Promise((resolve) => setTimeout(resolve, time));
 
 // #####################################################
@@ -84,13 +85,10 @@ const sleep = (time = 1000) =>
 // ##### Note: This function is called by main()
 // ##### Note: This function calls fetchURLEntries(), saveFileEntries(), and fetchFileEntries()
 async function processArgs(args) {
-
   const parsedArgs = parse(args, {
-
     string: ["entries", "filename"],
 
     alias: {
-
       pull: "p", // ##### Note: If pull (false), then a filename must be given in (deno.jsonc)
       url: "u",
       items: "i",
@@ -100,11 +98,9 @@ async function processArgs(args) {
       size: "s",
       delay: "d",
       reduce: "r",
-
     },
 
     default: {
-
       pull: settings?.data?.pull || true,
       url: settings?.data?.url || null,
       items: settings?.data?.items || null,
@@ -114,59 +110,50 @@ async function processArgs(args) {
       size: settings?.processing?.batchSize || 10,
       delay: settings?.processing?.processingDelay || 5000,
       reduce: settings?.data?.reduce || false,
-
     },
 
     boolean: ["pull", "read", "reduce"],
     negatable: ["pull", "read", "reduce"],
-
   });
-
 
   // ###############################################################
   // ##### Pull from Url or Read from file the entries (START) #####
   // ###############################################################
   let entries = {};
 
-  if (parsedArgs.pull) { // ##### Note: If true use get entries from Wikidata with fetchURLEntries
+  if (parsedArgs.pull) {
+    // ##### Note: If true use get entries from Wikidata with fetchURLEntries
 
     dl.debug("Log(processArgs): Pulling entries from URL");
     const retrieved = await fetchURLEntries(parsedArgs.url); // ##### Note:  (await) pass with asynchronous function
     extend(entries, retrieved);
 
     if (parsedArgs.file) {
-
-      await saveFileEntries(parsedArgs.file, retrieved); // ##### Note: If filename to save entries is given in (deno.jsonc) or (config.js) then save entries to it 
-    
+      await saveFileEntries(parsedArgs.file, retrieved); // ##### Note: If filename to save entries is given in (deno.jsonc) or (config.js) then save entries to it
     }
-
   } else {
-
     dl.debug("Log(processArgs): Pulling entries from provided file");
     //if (parsedArgs.read && parsedArgs.file) { // ##### Note: If (No Pull) with read (true) and filename (given)
 
-    if (parsedArgs.file) { // ##### Note: If (No Pull) and filename (given)
+    if (parsedArgs.file) {
+      // ##### Note: If (No Pull) and filename (given)
 
       dl.debug(`Log(processArgs): Fetching file: ${parsedArgs.file}`);
       const read = await fetchFileEntries(parsedArgs.file); // ##### Note:  (await) pass with asynchronous function
       extend(entries, read);
-
     }
-
   }
   // #############################################################
   // ##### Pull from Url or Read from file the entries (END) #####
   // #############################################################
 
-
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
   // let reduce_entries = parsedArgs.reduce;
-  let reduce_entries = true
+  let reduce_entries = true;
 
   if (reduce_entries == true) {
-
     // #############################################
     // ##### Note:Generating reduced file
 
@@ -174,18 +161,20 @@ async function processArgs(args) {
     //let file2reduce = "./corpus/entries_test1.json";
 
     if (parsedArgs.pull) {
-
-      let total_sleep = Math.round(Number(`${entries?.results?.bindings?.length}`)/1000);
-      dl.debug(`Waiting [${total_sleep}] seconds to write file: ${file2reduce}`);
-      await sleep(total_sleep*1000); // ##### Note:  (await) pass with asynchronous function
-
+      let total_sleep = Math.round(
+        Number(`${entries?.results?.bindings?.length}`) / 1000,
+      );
+      dl.debug(
+        `Waiting [${total_sleep}] seconds to write file: ${file2reduce}`,
+      );
+      await sleep(total_sleep * 1000); // ##### Note:  (await) pass with asynchronous function
     }
 
-    let entries_json_obj = await readJSON(file2reduce).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
+    let entries_json_obj = await readJSON(file2reduce).catch((error) => {
+      // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
 
       dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
       Deno.exit(1);
-  
     });
 
     // ##### Note: Obtaining header and results objects
@@ -203,40 +192,49 @@ async function processArgs(args) {
     let ii = 0; // ##### Note: index for the buiding jsonAllObj_new
 
     for (let i = 0; i < entries_json_obj.results.bindings.length; i++) {
-
       dl.debug(`Object-index obtained from original file of entries: [${i}]`); // ##### Note: index for the jsonAllObj_old
 
       if (i == 0) {
-
         ii++; // ##### Note: First element must be unique! Therefore, no checkig condition required.
         // ##### Note: Below we append the information (only the URL is needed)
         // let url2check = entries_json_obj.results.bindings[i].item;
         // jsonAllObj_new.results.bindings[ii-1] = url2check;
-        const obj1 = JSON.parse('{ "item": ' + JSON.stringify(entries_json_obj.results.bindings[i].item) + ' }');
-        jsonAllObj_new.results.bindings[ii-1] = obj1;
-        
+        const obj1 = JSON.parse(
+          '{ "item": ' +
+            JSON.stringify(entries_json_obj.results.bindings[i].item) +
+            " }",
+        );
+        jsonAllObj_new.results.bindings[ii - 1] = obj1;
+
         // dl.debug(`Log(processArgs): url2check: ${JSON.stringify(url2check)}`); // ##### Note: This line can be removed, but visually better to keep.
-
-      } else if(i > 0) {
-
+      } else if (i > 0) {
         let jsonAllObj_old = entries_json_obj.results.bindings[i];
         let url2check = jsonAllObj_old.item.value; // ##### Note: element to compare across growing-jsonAllOjb
 
-        dl.debug(`Log(processArgs): URL (i.e. url2check): ${JSON.stringify(url2check)}`);
+        dl.debug(
+          `Log(processArgs): URL (i.e. url2check): ${JSON.stringify(
+            url2check,
+          )}`,
+        );
 
         if (JSON.stringify(jsonAllObj_new).includes(url2check)) {
-
           // ##### NOTE: IMPORTANT!
           // ##### NOTE: PIECE BELOW CAN BE ADJUSTED TO WRITE A NEW FILE CONTAINING INFORMATION WITHOUT REPETITIONS OF URLs
           // ##### NOTE: HOWEVER, THE NEW FILE WOULD CONTAIN REPETITIONS OF KEYS CONTAINING SAME AND DIFFERENT VALUES
 
-          dl.debug(`Log(processArgs): URL (i.e. url2check) exists: No URL to be appended.`); // ##### Note: Append only contents that are missing
+          dl.debug(
+            `Log(processArgs): URL (i.e. url2check) exists: No URL to be appended.`,
+          ); // ##### Note: Append only contents that are missing
 
           // ##### Note: Finding the item inside jsonAllObj_new that contains url2check so it can be appended with extra missig information
           // ##### Note: You cannot append the same URL twice to avoid redownloading it.
-          for (let j = 0; j < jsonAllObj_new.results.bindings.length; j++) {          
-
-            if (JSON.stringify(jsonAllObj_new.results.bindings[j]).includes(url2check)) { // ##### Note: here we define index of jsonAllObj_new containing url2check
+          for (let j = 0; j < jsonAllObj_new.results.bindings.length; j++) {
+            if (
+              JSON.stringify(jsonAllObj_new.results.bindings[j]).includes(
+                url2check,
+              )
+            ) {
+              // ##### Note: here we define index of jsonAllObj_new containing url2check
 
               let Obj1 = jsonAllObj_new.results.bindings[j]; // ##### Note: Assign as an object
               let Obj2 = jsonAllObj_old; // ##### Note: Retransmitting the object
@@ -246,13 +244,17 @@ async function processArgs(args) {
               let Obj1_str = JSON.stringify(Obj1); // ##### Note: Convert to string for a merge
               let Obj2_str = JSON.stringify(Obj2); // ##### Note: Convert to string for a merge
 
-              let Obj3_str = (Obj1_str.slice(0, -1) + "," + Obj2_str.slice(1, Obj2_str.length)).replace(/\\/g, '').replace(/"/g, ""); // ##### Note: removing some characters
+              let Obj3_str = (
+                Obj1_str.slice(0, -1) +
+                "," +
+                Obj2_str.slice(1, Obj2_str.length)
+              )
+                .replace(/\\/g, "")
+                .replace(/"/g, ""); // ##### Note: removing some characters
               // ##### Note (ERROR) let Obj3 = JSON.parse(Obj3_str); it  deletes identical keys that contain same values and different values
 
               let Obj3 = {
-
-                Obj3_str
-
+                Obj3_str,
               };
 
               // ##### Note: Line below are just for checking merged information into new appended object
@@ -265,83 +267,91 @@ async function processArgs(args) {
               // console.log(``);
               // console.log(`OBJECT-3 (merged): ${JSON.stringify(Obj3)}`);
               // jsonAllObj_new.results.bindings[j] = Obj3; // ##### Note: To replace results with appended new result
-
             }
-
-          }        
-
+          }
         } else {
-
-          dl.debug(`Log(processArgs): URL (i.e. url2check) does not exist in buiding entries.json (here defined as jsonAllObj_new): Appending URL from (jsonAllObj_old) to (jsonAllObj_new).`); // ##### Note: Append all contents
+          dl.debug(
+            `Log(processArgs): URL (i.e. url2check) does not exist in buiding entries.json (here defined as jsonAllObj_new): Appending URL from (jsonAllObj_old) to (jsonAllObj_new).`,
+          ); // ##### Note: Append all contents
           ii++;
           // ##### Note: Below we append the information (only the URL is needed)
           // jsonAllObj_new.results.bindings[ii-1] = entries_json_obj.results.bindings[i].item;
-          const obj1 = JSON.parse('{ "item": ' + JSON.stringify(entries_json_obj.results.bindings[i].item) + ' }');
-          jsonAllObj_new.results.bindings[ii-1] = obj1;
-
+          const obj1 = JSON.parse(
+            '{ "item": ' +
+              JSON.stringify(entries_json_obj.results.bindings[i].item) +
+              " }",
+          );
+          jsonAllObj_new.results.bindings[ii - 1] = obj1;
         }
-
-      }  
+      }
 
       dl.debug(``);
-      dl.debug(`Given index number for the new reduced file of entries: [${ii}]`);
+      dl.debug(
+        `Given index number for the new reduced file of entries: [${ii}]`,
+      );
       dl.debug(``);
-      dl.debug(`(jsonAllObj_new) total URLs is: ${JSON.stringify(jsonAllObj_new.results.bindings.length)}`); 
-      dl.debug(``); 
-
+      dl.debug(
+        `(jsonAllObj_new) total URLs is: ${JSON.stringify(
+          jsonAllObj_new.results.bindings.length,
+        )}`,
+      );
+      dl.debug(``);
     }
 
     // Note: var/const jsonAllObj_new_str = JSON.stringify(jsonAllObj_new); does not allow beaultify json (Ctrl+Shift+I)
-    let jsonAllObj_new_str = JSON.stringify(jsonAllObj_new); // ##### Note: var 
+    let jsonAllObj_new_str = JSON.stringify(jsonAllObj_new); // ##### Note: var
     dl.debug(`Log(processArgs): New temporary reduced list of entries is:`);
     dl.debug(`${jsonAllObj_new_str}`);
 
     // ##### Note: To confirm that string to be saved is a valid json
     // function_log_new('./corpus/','reduced_entries.json',jsonAllObj_new_str);
-    const fs = require('fs/promises');
+    const fs = require("fs/promises");
     // ##### Note (IMPORTANT): You must await here for file to be written!!!
-    await fs.writeFile('./corpus/reduced_entries.json', jsonAllObj_new_str);  // ##### Note:  (await) pass with asynchronous function
-
+    await fs.writeFile("./corpus/reduced_entries.json", jsonAllObj_new_str); // ##### Note:  (await) pass with asynchronous function
 
     // #################################################
     // ##### Note: Reading entries from new reduced file
-    function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`); 
+    function_log_append(
+      "./logs/",
+      "Log_entries.txt",
+      `Log(fetchFileEntries): Replacing entries sourced from above-defined with entries indicated below`,
+    );
     // ##### Note: You must await for the new file below
-    const read = await fetchFileEntries("./corpus/reduced_entries.json");  // ##### Note:  (await) pass with asynchronous function
-    
-    extend(entries, read);
+    const read = await fetchFileEntries("./corpus/reduced_entries.json"); // ##### Note:  (await) pass with asynchronous function
 
+    extend(entries, read);
   }
   // ###############################################
   // ##### Re-processing list of entries (END) #####
   // ###############################################
 
-
   // ##### Note: Below we will display URLs to be accessed (repetitions can occur depending on which entries.json is used) #####
   let items = [];
 
   if (parsedArgs.items) {
-
     items = [...items, ...parsedArgs?.items?.split("|")];
     dl.debug("Log(processArgs): Extracting entries from parsedArgs.items");
-
   } else {
-
     items = entries?.results?.bindings?.map((x) => x?.item?.value) || [];
     dl.debug("Log(processArgs): Extracting entries from file");
-
   }
-  
-  // ##### Note: The repetitions of some URLs are not displayed in the total below. 
+
+  // ##### Note: The repetitions of some URLs are not displayed in the total below.
   // ##### Note: There may be repetitions depending on the entries.json
-  dl.debug(`Log(processArgs): List of URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used): ${items}`);
-  dl.debug(`Log(processArgs): Total URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used) = ${items.length}`); 
+  dl.debug(
+    `Log(processArgs): List of URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used): ${items}`,
+  );
+  dl.debug(
+    `Log(processArgs): Total URLs for processing (further repetitions of URL-requesting can occur depending on which entries.json is used) = ${items.length}`,
+  );
 
   // #################################################################
   // ##### To empty files of WikidataItems not in SPARQL (START) #####
   // #################################################################
-  const files_emptied = await checkWikidataItem(items);  // ##### Note:  (await) pass with asynchronous function
-  dl.debug(`Log(processArgs) checking empty and non-empty items: ${files_emptied}!`);
+  const files_emptied = await checkWikidataItem(items); // ##### Note:  (await) pass with asynchronous function
+  dl.debug(
+    `Log(processArgs) checking empty and non-empty items: ${files_emptied}!`,
+  );
   // ###############################################################
   // ##### To empty files of WikidataItems not in SPARQL (END) #####
   // ###############################################################
@@ -351,7 +361,6 @@ async function processArgs(args) {
 // ###################################################
 // ##### Function to process all arguments (END) #####
 // ###################################################
-
 
 // ##### Note: Function content transferred to ./lib
 // ############################################
@@ -364,7 +373,6 @@ async function processArgs(args) {
 // ##### Function to get Date-now (END) #####
 // ##########################################
 
-
 // ##### Note: Function content transferred to ./lib
 // ###################################
 // ##### Function to log (START) #####
@@ -376,35 +384,39 @@ async function processArgs(args) {
 // ##### Function to log (END) #####
 // #################################
 
-
 // ####################################################
 // ##### Function to get URL entries-list (START) #####
 // ####################################################
 // ##### Note: Requesting information via SPARQL to Wikidata, which is used to create entries.json
 // ##### Note: This function is called by processArgs()
 async function fetchURLEntries(url) {
-
   if (!url) {
-
-    function_log_append('./logs/','Log_entries.txt',`Log(fetchURLEntries): No url: ${url}. Exiting...`); 
-    dl.error(`Log(fetchURLEntries): No url: ${url}. Exiting...`);  // ##### Note: ERROR-FETCH
+    function_log_append(
+      "./logs/",
+      "Log_entries.txt",
+      `Log(fetchURLEntries): No url: ${url}. Exiting...`,
+    );
+    dl.error(`Log(fetchURLEntries): No url: ${url}. Exiting...`); // ##### Note: ERROR-FETCH
     Deno.exit(1);
     return;
-
   }
-  
-  function_log_append('./logs/','Log_entries.txt',`Log(fetchURLEntries): Fetching entries from ${url}`); 
+
+  function_log_append(
+    "./logs/",
+    "Log_entries.txt",
+    `Log(fetchURLEntries): Fetching entries from ${url}`,
+  );
   dl.debug(`Log(fetchURLEntries): Fetching entries from ${url}`);
   const entries = await readJSONFromURL(url); // ##### Note:  (await) pass with asynchronous function
-  dl.debug(`Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`);
+  dl.debug(
+    `Log(fetchURLEntries): Entries retrieved from url: ${entries?.results?.bindings?.length}`,
+  );
 
   return entries;
-
 }
 // ##################################################
 // ##### Function to get URL entries-list (END) #####
 // ##################################################
-
 
 // #################################################
 // ##### Function to save entries.json (START) #####
@@ -412,7 +424,6 @@ async function fetchURLEntries(url) {
 // ##### Note: Saving information returned from fetchURLEntries
 // ##### Note: This function is called by processArgs()
 async function saveFileEntries(file, entries) {
-
   const fileSave = await writeJSON(file, entries, null, 2); // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(saveFileEntries): File written: ${file} - ${fileSave}`);
 
@@ -422,35 +433,37 @@ async function saveFileEntries(file, entries) {
 // ##### Function to save entries.json (END) #####
 // ###############################################
 
-
 // ################################################
 // ##### Function to get URL contents (START) #####
 // ################################################
 // ##### Note: Requesting information for each files listed in entries.json
-// ##### Note: This function is called by processArgs() 
+// ##### Note: This function is called by processArgs()
 async function fetchFileEntries(file) {
-
   if (!file) return; // ##### Note: VIP-Flag
 
-  const entries = await readJSON(file).catch((error) => {  // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
+  const entries = await readJSON(file).catch((error) => {
+    // ##### Note: ERROR-FETCH // ##### Note:  (await) pass with asynchronous function
 
     dl.error(`Log(fetchFileEntries): ERROR: ${error}`);
     Deno.exit(1);
-
   });
 
   //let total_entries  = String(entries.length); // ##### Note: Total is not passing, but can be included in the string below.
- 
-  function_log_append('./logs/','Log_entries.txt',`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`); 
-  dl.debug(`Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`);
+
+  function_log_append(
+    "./logs/",
+    "Log_entries.txt",
+    `Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`,
+  );
+  dl.debug(
+    `Log(fetchFileEntries): Fetching entries retrieved from file: ${file}`,
+  );
 
   return entries;
-
 }
 // ##############################################
 // ##### Function to get URL contents (END) #####
 // ##############################################
-
 
 // ######################################################################
 // ##### Function to check requested and saved WikidataItem (START) #####
@@ -459,10 +472,9 @@ async function fetchFileEntries(file) {
 // ##### Note: Using Node.js module: fs.readdirSync and fs.readFile
 // ##### Note: This function is called by processArgs()
 async function checkWikidataItem(items) {
-
   // ##### Note: For LOOP-1
-  const fs = require('fs');
-  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  const fs = require("fs");
+  const files = fs.readdirSync("./corpus/processed/"); // ##### Note: Existing XML files in directory (/corpus/processed)
   const files_list = files;
   let total_files = files_list.length;
   // dl.debug("Log(checkWikidataItem): Existing files:");
@@ -479,87 +491,90 @@ async function checkWikidataItem(items) {
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
   for (let i = 0; i < files_list.length; i++) {
-
     const files_list_i = String(files_list[i]);
     // dl.debug(files_list_i); // ##### Note: item already saved in directory (processed)
     // dl.debug("============");
 
     let keep_wikidataitem_saved = 0;
-    
-    for (let j = 0; j < items_list.length; j++) { 
-    
-      const string_list_j = String(items_list[j]).replace(str_replace1, str_replace2);
+
+    for (let j = 0; j < items_list.length; j++) {
+      const string_list_j = String(items_list[j]).replace(
+        str_replace1,
+        str_replace2,
+      );
       // dl.debug(string_list_j); // ##### Note: ULR reduced to ID of WikidataItem
       // dl.debug("= = = = =");
       const string_list_j2 = `${string_list_j}.xml`; // ##### Note: appending extension to lock end of string.
 
       if (files_list_i.includes(string_list_j2)) {
-        
         keep_wikidataitem_saved++;
-
       }
-
-    } 
+    }
 
     if (keep_wikidataitem_saved == 0) {
-
       const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
       const item2 = fs.statSync("./corpus/Template_emptied_XML.txt"); // ##### Note: template-size
       // dl.debug(`${item1.size}`); // ##### Note: item-size
       // dl.debug(`${item2.size}`); // ##### Note: template-size
 
-      if (item1.size == item2.size) { // ##### Note: Size must match size of the template
+      if (item1.size == item2.size) {
+        // ##### Note: Size must match size of the template
 
         dl.debug(`Log(checkWikidataItem): Already empty file: ${files_list_i}`);
         dl.debug("Log(checkWikidataItem): Not writting to log.");
-
       } else {
-
         total_files_emptied++;
 
-        function_log_append('./logs/','Log_emptied_files.txt',`Log(checkWikidataItem): Emptying file: ${files_list_i}`); 
+        function_log_append(
+          "./logs/",
+          "Log_emptied_files.txt",
+          `Log(checkWikidataItem): Emptying file: ${files_list_i}`,
+        );
         dl.debug(`Log(checkWikidataItem): Emptying file: ${files_list_i}`);
-
       }
-      
+
       // ##### Note: content to write inside file to be emptied
 
       try {
-
-        const fs_p = require('fs').promises;
-        const content = await fs_p.readFile("./corpus/Template_emptied_XML.txt"); // ##### Note:  (await) pass with asynchronous function
+        const fs_p = require("fs").promises;
+        const content = await fs_p.readFile(
+          "./corpus/Template_emptied_XML.txt",
+        ); // ##### Note:  (await) pass with asynchronous function
         const filename = `./corpus/processed/${files_list_i}`;
         await writeTXT(filename, content); // ##### Note:  (await) pass with asynchronous function
-        dl.debug(`Log(checkWikidataItem): template given [./corpus/Template_emptied_XML.txt] and considered to write file [${files_list_i}]`);
-
-      } catch(err) {
-
+        dl.debug(
+          `Log(checkWikidataItem): template given [./corpus/Template_emptied_XML.txt] and considered to write file [${files_list_i}]`,
+        );
+      } catch (err) {
         const content = "DELETED";
         const filename = `./corpus/processed/${files_list_i}`;
         await writeTXT(filename, content); // ##### Note:  (await) pass with asynchronous function
-        dl.debug(`Log(checkWikidataItem): template missing [./corpus/Template_emptied_XML.txt], so we are using (NULL) to write file  [${files_list_i}]`);
-
+        dl.debug(
+          `Log(checkWikidataItem): template missing [./corpus/Template_emptied_XML.txt], so we are using (NULL) to write file  [${files_list_i}]`,
+        );
       }
-
     } else {
-
-      dl.debug(`Log(checkWikidataItem): Replacing existing item: ${files_list_i}`);
+      dl.debug(
+        `Log(checkWikidataItem): Replacing existing item: ${files_list_i}`,
+      );
       total_files_replaced++;
-
     }
-
   }
 
-  dl.debug(`Log(checkWikidataItem): total items XML-pre-saved [${total_files}], XML-emptied[${total_files_emptied}], XML-replaced[${total_files_replaced}]`);
-  function_log_append('./logs/','Log_emptied_files.txt',`# Total XML-emptied: #v1[${total_files_emptied}]#v1`);
+  dl.debug(
+    `Log(checkWikidataItem): total items XML-pre-saved [${total_files}], XML-emptied[${total_files_emptied}], XML-replaced[${total_files_replaced}]`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_emptied_files.txt",
+    `# Total XML-emptied: #v1[${total_files_emptied}]#v1`,
+  );
 
   return "COMPLETE";
-
 }
 // ####################################################################
 // ##### Function to check requested and saved WikidataItem (END) #####
 // ####################################################################
-
 
 // ################################
 // ##### Validade XML (START) #####
@@ -577,13 +592,17 @@ async function XMLvalidation_All() {
   // ##### Note: (dl.debug) were changed to (console.log), so that this function can be further transferred into /lib
   // ##### Note: To send this function into ./lib requires internal paths' adjustments (for reading/deleting files from /processed etc)
   // ##### Note: Also remember to change from (async) to (export), which is similar to function_log
-  
-  const fs = require('fs');
-  const files_list = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+
+  const fs = require("fs");
+  const files_list = fs.readdirSync("./corpus/processed/"); // ##### Note: Existing XML files in directory (/corpus/processed)
   console.log("");
-  console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log(
+    "Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =",
+  );
   console.log(files_list); // ##### Note: List of XML-files to be validated, and including the emptied ones.
-  console.log("Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =");
+  console.log(
+    "Log(XMLvalidation_All): = = = = = = = = = = = = = = = = = = = =",
+  );
   console.log("");
   let total_files = files_list.length;
 
@@ -593,28 +612,29 @@ async function XMLvalidation_All() {
 
   // ##### Note: loop over elements already saved in directory (/corpus/processed)
   for (let i = 0; i < files_list.length; i++) {
-
     const files_list_i = String(files_list[i]);
-    console.log("============ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+    console.log(
+      "============ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+    );
     console.log(files_list_i); // ##### Note: item already saved in directory (processed)
     console.log("============");
 
     const filename = `./corpus/processed/${files_list_i}`;
-    console.log("Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====");
+    console.log(
+      "Log(XMLvalidation_All): ===== I ===== T ===== E ===== M =====",
+    );
     console.log(`Log(XMLvalidation_All): ${filename}`);
 
     // ##### Note: Temporary txt file to store  XML string content
-    const filename_temp = './corpus/processed/TEMP.txt';
-    const fs = require('fs'); 
+    const filename_temp = "./corpus/processed/TEMP.txt";
+    const fs = require("fs");
     fs.copyFile(filename, filename_temp, (err) => {
-
       if (err) throw err;
       // console.log('Temporary file copied');
-
     });
 
     // ##### Note: Reading the string content from XML_converted_to_TXT
-    const fs_p = require('fs').promises;
+    const fs_p = require("fs").promises;
 
     // ####################
     const content = await fs_p.readFile(filename); // Note: To be used with asynchronous function
@@ -628,8 +648,8 @@ async function XMLvalidation_All() {
     // ##### Note: Delete temporary file because XML-string is stored in variable (content_string)
     fs.unlink(filename_temp, (err) => {
       if (err) {
-          // throw err;
-          // console.log("Delete file failed.");
+        // throw err;
+        // console.log("Delete file failed.");
       }
       // console.log("Delete file successfully.");
     });
@@ -639,149 +659,141 @@ async function XMLvalidation_All() {
     // ##### Note: Variable (content_string)
     // ##### https://learn.microsoft.com/en-us/dotnet/standard/data/xml/xml-schema-xsd-validation-with-xmlschemaset (For C#)
 
-
     // #############################################################
     // ##### Note: Creating functions for validating XML files #####
     // #############################################################
 
-    function XML_validator_option1(filename,content_string) {
-
+    function XML_validator_option1(filename, content_string) {
       // ###################################
       // ##### OPTION-1: XML validator #####
       // ###################################
       // ##### Note: Hand-implemented to deal with different headers
 
       const filename_string = filename;
-      let content_string2 = content_string.split('\n'); // ##### Note: Converting string to list of string for individual line assessment
+      let content_string2 = content_string.split("\n"); // ##### Note: Converting string to list of string for individual line assessment
 
-      if (content_string2.length > 1) { // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
+      if (content_string2.length > 1) {
+        // ##### Note: XML-files not found in SPARQL will come empty! That is [""].
 
-        console.log('Log(XMLvalidation_All): = = = = = =');
-        console.log('Log(XMLvalidation_All): XML-CONTENT-BELOW');
+        console.log("Log(XMLvalidation_All): = = = = = =");
+        console.log("Log(XMLvalidation_All): XML-CONTENT-BELOW");
         // console.log(content_string2);
-        console.log('Log(XMLvalidation_All): = = = = = =');
+        console.log("Log(XMLvalidation_All): = = = = = =");
 
         // ##### Note: List of strings to be confirmed inside the XML-content
-        const XML_row_1 = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
-        const XML_row_2 = '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
-        const XML_row_end = '</oai_dc:dc>';
+        const XML_row_1 =
+          '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>';
+        const XML_row_2 =
+          '<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">';
+        const XML_row_end = "</oai_dc:dc>";
 
         let XML_row_1_value = 0; // ##### Note: to be changed to 1 when passing the checking.
         let XML_row_2_value = 0; // ##### Note: to be changed to 1 when passing the checking.
         let XML_row_end_value = 0; // ##### Note: to be changed to 1 when passing the checking.
 
-        for (let j = 0; j < content_string2.length; j++) { // ##### Note: loop through the rows of the XML file
+        for (let j = 0; j < content_string2.length; j++) {
+          // ##### Note: loop through the rows of the XML file
 
           const content_string2_j = String(content_string2[j]);
-
 
           // ################################
           // ##### Quality-Check: row_1 #####
           // ################################
           if (j == 0) {
-
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_1)) {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_1: PASSED!");
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_1: PASSED!",
+              );
               XML_row_1_value++; // ##### Note: adding 1 because it is passed.
-
             } else {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_1: FAILED!");
-    
-            }        
-
-          } 
-
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_1: FAILED!",
+              );
+            }
+          }
 
           // ################################
           // ##### Quality-Check: row_2 #####
           // ################################
           if (j == 1) {
-
             // ##### Note: (includes) or (equal) may suit below. However, (equal) would not accept empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_2)) {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_2: PASSED!");
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_2: PASSED!",
+              );
               XML_row_2_value++; // ##### Note: adding 1 because it is passed.
-
             } else {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_2: FAILED!");
-    
-            }        
-
-          } 
-
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_2: FAILED!",
+              );
+            }
+          }
 
           // ##################################
           // ##### Quality-Check: row_end #####
           // ##################################
-          if (j == content_string2.length-1) {
-
+          if (j == content_string2.length - 1) {
             // ##### Note: (includes) or (equal) may suit below. However, (equal) may complicate due to empty spaces starting and ending the string.
             if (content_string2_j.includes(XML_row_end)) {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_end: PASSED!");
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_end: PASSED!",
+              );
               XML_row_end_value++; // ##### Note: adding 1 because it is passed.
-
             } else {
-
-              console.log("Log(XMLvalidation_All): Quality check of row_end: FAILED!");
-    
+              console.log(
+                "Log(XMLvalidation_All): Quality check of row_end: FAILED!",
+              );
             }
-
           }
 
           // #########################
           // ##### Save DOI list #####
           // #########################
           // ##### Note: Saving DOI list to Log to be further used for NLP processing
-          if (j > 1 && content_string2_j.includes("<dc:identifier>") && content_string2_j.includes("doi:") ) {
-
-            let doi_string = content_string2_j.replace("<dc:identifier>", "").replace("doi:", "https://doi.org/").replace("</dc:identifier>", "").replaceAll(" ", ""); 
-            function_log_append('./logs/','Log_DOI_list.txt',`${doi_string}`); 
-
+          if (
+            j > 1 &&
+            content_string2_j.includes("<dc:identifier>") &&
+            content_string2_j.includes("doi:")
+          ) {
+            let doi_string = content_string2_j
+              .replace("<dc:identifier>", "")
+              .replace("doi:", "https://doi.org/")
+              .replace("</dc:identifier>", "")
+              .replaceAll(" ", "");
+            function_log_append("./logs/", "Log_DOI_list.txt", `${doi_string}`);
           } else {
-
             // console.log("Doi not found inside XML-file");
-
           }
-
         }
 
         // ###########################
         // ##### To write result #####
         // ###########################
-        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value}`
-        
+        const XML_result_write = `Quality check all rows: row_1: ${XML_row_1_value}; row_2: ${XML_row_2_value}; row_end: ${XML_row_end_value}`;
+
         console.log(`Log(XMLvalidation_All): ${XML_result_write}`);
         const XML_filename_result_write = ` ${filename_string}: ${XML_result_write}`; // ##### Note: adding filename to save quality save information.
-        function_log_append('./logs/','Log_XMLvalidation.txt',XML_filename_result_write); 
+        function_log_append(
+          "./logs/",
+          "Log_XMLvalidation.txt",
+          XML_filename_result_write,
+        );
 
-        let XML_result_value = XML_row_1_value + XML_row_2_value + XML_row_end_value;
+        let XML_result_value =
+          XML_row_1_value + XML_row_2_value + XML_row_end_value;
 
         if (XML_result_value == 3) {
-
           return "Validator-1: passed all.";
-
         } else {
-
           return "Validator-1: failed one at least.";
-
-        }       
-
+        }
       } else {
-
         return "Validator-1: empty file.";
-
       }
-
     }
 
     function XML_validator_option2(content_string) {
-
       // ###################################
       // ##### OPTION-2: XML validator #####
       // ###################################
@@ -792,109 +804,117 @@ async function XMLvalidation_All() {
 
       // ##### Note: Once it runs fine, just place in function!
       try {
-
         const jsdom = require("jsdom");
-        console.log('Log(XMLvalidation_All): PASSED: Module (jsdom) is available.');
-
-      } catch(err) {
-      
-        console.log('Log(XMLvalidation_All): FAILED: You must install module (jsdom), which is currently missing.');
-        console.log('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
-        console.log('Log(XMLvalidation_All): Line: $ sudo apt install npm');
-        console.log('Log(XMLvalidation_All): Line: $ npm install jsdom');
-        console.log('Log(XMLvalidation_All): Line: $ npm install xmlhttprequest');
-
+        console.log(
+          "Log(XMLvalidation_All): PASSED: Module (jsdom) is available.",
+        );
+      } catch (err) {
+        console.log(
+          "Log(XMLvalidation_All): FAILED: You must install module (jsdom), which is currently missing.",
+        );
+        console.log(
+          "Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.",
+        );
+        console.log("Log(XMLvalidation_All): Line: $ sudo apt install npm");
+        console.log("Log(XMLvalidation_All): Line: $ npm install jsdom");
+        console.log(
+          "Log(XMLvalidation_All): Line: $ npm install xmlhttprequest",
+        );
       }
 
       const XML_result = "Validator-2: passed all.";
 
-      return XML_result
-
+      return XML_result;
     }
 
     function XML_validator_option3(content_string) {
-
       // ###################################
       // ##### OPTION-3: XML validator #####
       // ###################################
       // ##### Note: You must have fast-xml-parse.
-      // ##### https://www.npmjs.com/package/fast-xml-parser 
+      // ##### https://www.npmjs.com/package/fast-xml-parser
 
       const content_string2 = content_string;
 
       // ##### Note: Once it runs fine, just place in function!
       try {
-
-        const { XMLParser, XMLBuilder, XMLValidator} = require("fast-xml-parser");
+        const {
+          XMLParser,
+          XMLBuilder,
+          XMLValidator,
+        } = require("fast-xml-parser");
         const parser = new XMLParser();
         let jObj = parser.parse(XMLdata);
         const builder = new XMLBuilder();
         const xmlContent = builder.build(jObj);
-        console.log('Log(XMLvalidation_All): PASSED: Module (fast-xml-parser) is available.');
-
-      } catch(err) {
-      
-        console.log('Log(XMLvalidation_All): FAILED: You must install module (fast-xml-parser), which is currently missing.');
-        console.log('Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.');
-        console.log('Log(XMLvalidation_All): Line: $ sudo apt install npm');
-        console.log('Log(XMLvalidation_All): Line: $ npm install fast-xml-parser');
-
+        console.log(
+          "Log(XMLvalidation_All): PASSED: Module (fast-xml-parser) is available.",
+        );
+      } catch (err) {
+        console.log(
+          "Log(XMLvalidation_All): FAILED: You must install module (fast-xml-parser), which is currently missing.",
+        );
+        console.log(
+          "Log(XMLvalidation_All): For Ubuntu (check your distribution), run the following lines.",
+        );
+        console.log("Log(XMLvalidation_All): Line: $ sudo apt install npm");
+        console.log(
+          "Log(XMLvalidation_All): Line: $ npm install fast-xml-parser",
+        );
       }
 
       const XML_result = "Validator-3: passed all.";
 
-      return XML_result
-
+      return XML_result;
     }
-
 
     // #####################################
     // ##### Section to call validator #####
     // #####################################
 
     try {
-
       // ##### Note: Passing function for validation.
-      const XML_validation_result = XML_validator_option1(filename,content_string);
-      console.log(`Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`);
-      console.log(`Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`);
+      const XML_validation_result = XML_validator_option1(
+        filename,
+        content_string,
+      );
+      console.log(
+        `Log(XMLvalidation_All): XML-VALIDATOR could properly check file ${filename}`,
+      );
+      console.log(
+        `Log(XMLvalidation_All): XML-RESULT - ${XML_validation_result}`,
+      );
       console.log(`\n`);
       // ##### Note: To write result into log here.
 
       // ##### Note: Counter for passed and failed XML-files
       if (XML_validation_result.includes("passed all")) {
-
         total_files_passed_full++;
-
       } else if (XML_validation_result.includes("empty file")) {
-
         total_files_passed_empty++;
-
       } else if (XML_validation_result.includes("failed one at least")) {
-
         total_files_failed++;
-
       }
-
-    } catch(err) {
-
-      console.log(`Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`);
+    } catch (err) {
+      console.log(
+        `Log(XMLvalidation_All):XML-VALIDATOR could !NOT! properly check  file ${filename}. ERROR!`,
+      );
       console.log(`\n`);
-
     }
-
   }
 
   // ##### Note: To save totals to log
-  function_log_append('./logs/','Log_XMLvalidation.txt',`# Total XML (passed) #v1[${total_files_passed_full}]#v1; Total XML (empty): #v2[${total_files_passed_empty}]#v2; Total (failed): #v3[${total_files_failed}]#v3`);
+  function_log_append(
+    "./logs/",
+    "Log_XMLvalidation.txt",
+    `# Total XML (passed) #v1[${total_files_passed_full}]#v1; Total XML (empty): #v2[${total_files_passed_empty}]#v2; Total (failed): #v3[${total_files_failed}]#v3`,
+  );
 
-  return "COMPLETE" // ##### Note: This result is returned to main()
-
+  return "COMPLETE"; // ##### Note: This result is returned to main()
 }
 // ##############################
 // ##### Validade XML (END) #####
 // ##############################
-
 
 // #########################################################
 // ##### Function to request URL with Abstract (START) #####
@@ -902,47 +922,36 @@ async function XMLvalidation_All() {
 // ##### Note: To download the abstract.
 // ##### Note: This function is called by findAbstract()
 async function getAbstract(src, service) {
-
   dl.debug(`Log(getAbstract): Entering getAbstract ${service?.name}`);
   const id = src[service.wikidataProperty.label];
 
   if (id == null) {
-
     return null;
-
   }
 
   const url = service.url(id);
 
   try {
-
     const res = await fetch(url); // ##### Note:  (await) pass with asynchronous function
 
     if (res.ok) {
-
       const data = await res.json(); // ##### Note:  (await) pass with asynchronous function
       const out = get(data, service.path);
       return out;
-
-    } else if (res.status == "404") {  // ##### Note: ERROR-NOT-FOUND
+    } else if (res.status == "404") {
+      // ##### Note: ERROR-NOT-FOUND
 
       return null;
-
     }
-
   } catch (error) {
-
-    dl.error(`Log(getAbstract): Abstract fetch error: ${error} - ${url}`);  // ##### Note: ERROR-FETCH
-
+    dl.error(`Log(getAbstract): Abstract fetch error: ${error} - ${url}`); // ##### Note: ERROR-FETCH
   } finally {
-
     dl.debug(`Log(getAbstract): Exiting getAbstract ${service?.name}`);
   }
 }
 // #######################################################
 // ##### Function to request URL with Abstract (END) #####
 // #######################################################
-
 
 // ##################################################################
 // ##### Function to extract Abstract from WikidataItem (START) #####
@@ -951,30 +960,23 @@ async function getAbstract(src, service) {
 // ##### Note: This function is called by getItemData()
 // ##### Note: This function calls getAbstract()
 async function findAbstract(wikidataItem) {
-
   dl.debug(`Log(findAbstract): Entering findAbstract`);
 
   for (const source of abstractSources) {
-
     const foundAbstract = await getAbstract(wikidataItem, source); // ##### Note:  (await) pass with asynchronous function
 
     if (foundAbstract) {
-
       return foundAbstract;
-
     }
-
   }
 
   dl.debug(`Log(findAbstract): Exiting getItemData`);
 
   return null;
-
 }
 // ################################################################
 // ##### Function to extract Abstract from WikidataItem (END) #####
 // ################################################################
-
 
 // ###################################################################
 // ##### Function to request URL from CrossRef using DOI (START) #####
@@ -982,60 +984,45 @@ async function findAbstract(wikidataItem) {
 // ##### Note: To request information from Crossref
 // ##### Note: This function is called by itself and getItemData()
 async function getCrossrefItem(DOI, retries = 4, delay = 0) {
-
   dl.debug(`Log(getCrossrefItem): Entering getCrossrefItem ${DOI}`);
 
   await delay; // ##### Note:  (await) pass with asynchronous function
 
   try {
-
-    const response = await fetch( // ##### Note:  (await) pass with asynchronous function
+    const response = await fetch(
+      // ##### Note:  (await) pass with asynchronous function
 
       `https://api.crossref.org/works/${encodeURIComponent(DOI)}`,
-
     );
 
     if (response.ok) {
-
       const data = await response.json(); // ##### Note:  (await) pass with asynchronous function
       return data?.message;
-
-    } else if (response.status == "404") { // ##### Note: ERROR-NOT-FOUND
+    } else if (response.status == "404") {
+      // ##### Note: ERROR-NOT-FOUND
 
       return null;
-
     } else if (retries > 0) {
-
       getCrossrefItem(
         DOI,
         retries - 1,
         response.status == "429" ? 5000 : delay, // ##### Note: ERROR-RATE
       );
-
     } else {
-
-      dl.error(`Log(getCrossrefItem): CrossRef Fetch Failed: ${DOI}`);  // ##### Note: ERROR-FETCH
+      dl.error(`Log(getCrossrefItem): CrossRef Fetch Failed: ${DOI}`); // ##### Note: ERROR-FETCH
       dl.error(response?.headers);
 
       throw response.status;
-
     }
-
   } catch (error) {
-
-    dl.error(`Log(getCrossrefItem): Fetch Failed: ${error}`);   // ##### Note: ERROR-FETCH
-
+    dl.error(`Log(getCrossrefItem): Fetch Failed: ${error}`); // ##### Note: ERROR-FETCH
   } finally {
-
     dl.debug("Log(getCrossrefItem): Exiting getCrossrefItem");
-
   }
-
 }
 // #################################################################
 // ##### Function to request URL from CrossRef using DOI (END) #####
 // #################################################################
-
 
 // ###########################################################
 // ##### Function to process the THREE main data (START) #####
@@ -1043,52 +1030,44 @@ async function getCrossrefItem(DOI, retries = 4, delay = 0) {
 // ##### Note: Passing information from the three main API's
 // ##### Note: This function is called by getItemData()
 async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
-
   const wikidataItem_id_string = JSON.stringify(wikidataItem.id);
-
 
   // ########################################################
   // ##### Note: wikidataItem to save structure (START) #####
   // ########################################################
   // const wikidataItem_target = `Q35745846`; // ##### Note: optional for whatever ${anything_required}
-  const wikidataItem_target = 'Q112116359';
+  const wikidataItem_target = "Q112116359";
 
   if (wikidataItem_id_string.includes(wikidataItem_target)) {
-  
     // ##### Note: Saving structure for wikidataItem
 
     try {
-
       const filename = `${wikidataItem.id}_Struct_wikidataItem.json`;
       const wikidataItem_content = JSON.stringify(wikidataItem);
       const content = wikidataItem_content;
 
       // ######################################################################################################################
       // ##### Note: to save the strucutre of a required WikidataItem
-      
+
       let save_Struct_wikidataItem = false;
 
       if (save_Struct_wikidataItem == true) {
-
         // ##### Note: Saving file to check WikidataItem Strucutre, so that you can target new entities
-        await writeTXT(filename, content);   // ##### Note:  (await) pass with asynchronous function
-
+        await writeTXT(filename, content); // ##### Note:  (await) pass with asynchronous function
       }
-      
+
       // ######################################################################################################################
 
-      setTimeout(() => {  dl.debug(`Log(processItem): filesaved_yes`); }, 500);
-
+      setTimeout(() => {
+        dl.debug(`Log(processItem): filesaved_yes`);
+      }, 500);
     } catch (err) {
-
-      setTimeout(() => {  dl.debug(`Log(processItem): filesaved_no`); }, 500);
-
+      setTimeout(() => {
+        dl.debug(`Log(processItem): filesaved_no`);
+      }, 500);
     }
-
   } else {
-
     // ##### Note: Do nothing!
-
   }
   // ######################################################
   // ##### Note: wikidataItem to save structure (END) #####
@@ -1098,12 +1077,12 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   dl.debug(`Log(processItem): Entering processItem ${wikidataItem.id}`);
   const filename = `./corpus/processed/wikidata-${wikidataItem.id}.xml`;
 
-  const xml = await generateXML({ // ##### Note:  (await) pass with asynchronous function
+  const xml = await generateXML({
+    // ##### Note:  (await) pass with asynchronous function
 
     wikidataItem,
     crossrefItem,
     accumulatedData,
-
   });
 
   dl.debug(`Log(processItem): About to exit processItem ${wikidataItem.id}`);
@@ -1111,12 +1090,10 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
   // ##### Note: XMLvalidation can be assessed here via content from (const xml), or maybe after to make sure the file has been written properly.
 
   return await writeTXT(filename, xml); // ##### Note:  (await) pass with asynchronous function
-
 }
 // #########################################################
 // ##### Function to process the THREE main data (END) #####
 // #########################################################
-
 
 // ##########################################################
 // ##### Function to cluster data from all APIs (START) #####
@@ -1126,28 +1103,25 @@ async function processItem({ wikidataItem, crossrefItem, accumulatedData }) {
 // ##### Note: This function is called by main()
 // ##### Note: This function calls findAbstract(), getCrossrefItem(),  processItem()
 async function getItemData(items) {
-
   dl.debug(`Log(getItemData): Started getItemData`);
   const { data } = await new citationJS.Cite.async(items); // ##### Note:  (await) pass with asynchronous function
   dl.debug(`Log(getItemData): Received all items from batch.`);
 
   // ##### Note: (1) SOURCE OF DATA
   data.forEach(async (item) => {
-
     dl.debug(`Log(getItemData): wikidataitem id: ${item?.id}`);
     // dl.debug(JSON.stringify(item, null, 2));
 
-  // ##### Note: (2) SOURCE OF DATA
+    // ##### Note: (2) SOURCE OF DATA
     let crossrefItem = await getCrossrefItem(item.DOI); // ##### Note: defining crossrefItem // ##### Note:  (await) pass with asynchronous function
 
-  // ##### Note: (3) SOURCE OF DATA
+    // ##### Note: (3) SOURCE OF DATA
     const accumulatedData = {
-
       abstract: await findAbstract(item), // ##### Note: defining accumulatedData // ##### Note:  (await) pass with asynchronous function
-
     };
 
-    const process = await processItem({ // ##### Note:  (await) pass with asynchronous function
+    const process = await processItem({
+      // ##### Note:  (await) pass with asynchronous function
 
       // ##### Note: (1) SOURCE OF DATA
       wikidataItem: item, // ##### Note: defining wikidataItem as item, and passing into function
@@ -1155,20 +1129,16 @@ async function getItemData(items) {
       crossrefItem,
       // ##### Note: (3) SOURCE OF DATA
       accumulatedData,
-
     });
 
     await sleep(500); // ##### Note:  (await) pass with asynchronous function
-
   });
 
   dl.debug(`Log(getItemData): Finished getItemData`);
-
 }
 // ########################################################
 // ##### Function to cluster data from all APIs (END) #####
 // ########################################################
-
 
 // ################################################################################
 // ##### Function to compute total content(non-empty) and empty files (START) #####
@@ -1176,17 +1146,15 @@ async function getItemData(items) {
 // ##### Note: Computing then total non-empty and empty files at the end of the process.
 // ##### OBSERVATION: A script to polish entries will be made and remove repetitions.
 async function compute_content_empty_files() {
-
   // ##### Note: For LOOP-1
-  const fs = require('fs');
-  const files = fs.readdirSync('./corpus/processed/'); // ##### Note: Existing XML files in directory (/corpus/processed)
+  const fs = require("fs");
+  const files = fs.readdirSync("./corpus/processed/"); // ##### Note: Existing XML files in directory (/corpus/processed)
   const files_list = files;
   let total_files = files_list.length;
   let total_content = 0;
   let total_empty = 0;
 
   for (let i = 0; i < files_list.length; i++) {
-
     const files_list_i = String(files_list[i]);
 
     const item1 = fs.statSync(`./corpus/processed/${files_list_i}`); // ##### Note: item-size
@@ -1194,120 +1162,208 @@ async function compute_content_empty_files() {
     // dl.debug(`${item1.size}`); // ##### Note: item-size
     // dl.debug(`${item2.size}`); // ##### Note: template-size
 
-    if (item1.size == item2.size) { // ##### Note: Size must match size of the template
+    if (item1.size == item2.size) {
+      // ##### Note: Size must match size of the template
 
       total_empty++;
-      function_log_append('./logs/','Log_empty_files.txt',`Log(compute_content_empty_files): Empty file: ${files_list_i}`); // ##### Note: Write down name of all empty files
-
+      function_log_append(
+        "./logs/",
+        "Log_empty_files.txt",
+        `Log(compute_content_empty_files): Empty file: ${files_list_i}`,
+      ); // ##### Note: Write down name of all empty files
     } else {
-
       total_content++;
-
     }
-
   }
 
   let total_content_empty = total_content + total_empty;
-  
-  function_log_append('./logs/','Log_total_files.txt',`# Total XML-files: #v1[${total_content_empty}]#v1; Total XML-content: #v2[${total_content}]#v2; Total XML-empty: #v3[${total_empty}]#v3`); 
-  dl.debug(`Log(compute_content_empty_files): Total XML-files: ${total_content_empty}; Total XML-content: ${total_content}; Total XML-empty: ${total_empty}`);
+
+  function_log_append(
+    "./logs/",
+    "Log_total_files.txt",
+    `# Total XML-files: #v1[${total_content_empty}]#v1; Total XML-content: #v2[${total_content}]#v2; Total XML-empty: #v3[${total_empty}]#v3`,
+  );
+  dl.debug(
+    `Log(compute_content_empty_files): Total XML-files: ${total_content_empty}; Total XML-content: ${total_content}; Total XML-empty: ${total_empty}`,
+  );
 
   // let return_string = `v0[COMPLETE]v0` + `v1[${total_content_empty}]v1`+ `v2[${total_content}]v2` + `v3[${total_content}]v3`;
   let return_string = `COMPLETE`;
 
-  return return_string
-
+  return return_string;
 }
 // ##############################################################################
 // ##### Function to compute total content(non-empty) and empty files (END) #####
 // ##############################################################################
-
 
 // ###################################################
 // ##### Function to update the Endpoint (START) #####
 // ###################################################
 // ##### Note: Currently not used!
 async function updateEndpoint() {
-
-  const response = await fetch(Deno.env.get("UPDATE_URL"), { // ##### Note:  (await) pass with asynchronous function
+  const response = await fetch(Deno.env.get("UPDATE_URL"), {
+    // ##### Note:  (await) pass with asynchronous function
 
     method: "GET",
-
   });
 
   dl.debug({ response });
   const message = await response.text(); // ##### Note:  (await) pass with asynchronous function
 
-  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), { // ##### Note:  (await) pass with asynchronous function
+  const notificationresponse = await fetch(Deno.env.get("NOTIFICATION_URL"), {
+    // ##### Note:  (await) pass with asynchronous function
 
     method: "POST",
     body: message || "no response!",
     headers: {
-
       Title: "Corpus Update",
       Priority: 3,
       Tags: "package",
-
     },
-
   });
 
   dl.debug({ notificationresponse });
-
 }
 // #################################################
 // ##### Function to update the Endpoint (END) #####
 // #################################################
-
 
 // ######################################
 // ##### Function-Conductor (START) #####
 // ######################################
 // ##### Note: This function calls processArgs(), getItemData(), XMLvalidation_All
 async function main() {
-
   dl.debug(`Log(main): entering main() at Date-UTC: ${function_DateNow()}`);
   // ##### Note: Passing datestamp to logs during process start
-  function_log_append('./logs/','Log_process_time.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_process_time.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_process_time.txt',`# Note: Indication of time to complete all process.`);
-  function_log_append('./logs/','Log_entries.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_entries.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_XMLvalidation.txt',`# Note: Indication of list of entries considered for harvesting information.`);
-  function_log_append('./logs/','Log_XMLvalidation.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_XMLvalidation.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_XMLvalidation.txt',`# Note: Quality check results are: passed|failed`);
-  function_log_append('./logs/','Log_emptied_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_emptied_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_emptied_files.txt',`# Note: List of files that have just been empitied during this process.`);
-  function_log_append('./logs/','Log_empty_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_empty_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_empty_files.txt',`# Note: List of files that are empty.`);
-  function_log_append('./logs/','Log_total_files.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_total_files.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_total_files.txt',`# Note: Indication of total files which have content or not (i.e. empty).`);
-  function_log_append('./logs/','Log_invalid_characters.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_invalid_characters.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_DOI_list.txt',"= = = = = = = = = = = = = = = = = = = =");
-  function_log_append('./logs/','Log_DOI_list.txt',`# Process started at date-UTC: ${function_DateNow()}`);
-  function_log_append('./logs/','Log_DOI_list.txt',`# Note: List of DOI obtained from non-empty XML files.`);
+  function_log_append(
+    "./logs/",
+    "Log_process_time.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_process_time.txt",
+    `# Process complete at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_process_time.txt",
+    `# Note: Indication of time to complete all process.`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_entries.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_entries.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_XMLvalidation.txt",
+    `# Note: Indication of list of entries considered for harvesting information.`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_XMLvalidation.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_XMLvalidation.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_XMLvalidation.txt",
+    `# Note: Quality check results are: passed|failed`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_emptied_files.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_emptied_files.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_emptied_files.txt",
+    `# Note: List of files that have just been empitied during this process.`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_empty_files.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_empty_files.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_empty_files.txt",
+    `# Note: List of files that are empty.`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_total_files.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_total_files.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_total_files.txt",
+    `# Note: Indication of total files which have content or not (i.e. empty).`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_invalid_characters.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_invalid_characters.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_DOI_list.txt",
+    "= = = = = = = = = = = = = = = = = = = =",
+  );
+  function_log_append(
+    "./logs/",
+    "Log_DOI_list.txt",
+    `# Process started at date-UTC: ${function_DateNow()}`,
+  );
+  function_log_append(
+    "./logs/",
+    "Log_DOI_list.txt",
+    `# Note: List of DOI obtained from non-empty XML files.`,
+  );
 
   dl.debug("Log(main): starting main()");
 
   dl.debug("Log(main): main()_processArgs()_IN");
 
   const {
-
     parsedArgs: { offset, size, delay, reduce },
-    items,  
-                                    // ##### Note: items come as return from processArgs
+    items,
+    // ##### Note: items come as return from processArgs
   } = await processArgs(Deno.args); // ##### Note:  (await) pass with asynchronous function
 
   if (items?.length < 1) {
-
     dl.info("Log(main): No items to process - exiting.");
     Deno.exit(0);
-
   }
 
   dl.debug("Log(main): main()_processArgs()_OUT");
@@ -1323,33 +1379,43 @@ async function main() {
   dl.debug("Log(main): ##########");
 
   async function runBatches() {
-
     for (let count = offset; count < items.length; count += size) {
-
       const batch = items.slice(
         count,
         count + size > items.length ? items.length : count + size,
       );
-  
+
       // ##### Note: Percentage
-      let count_percentage = Math.round(100*count/items.length);
-  
-      let count_percentage_done = count_percentage/100;
+      let count_percentage = Math.round((100 * count) / items.length);
+
+      let count_percentage_done = count_percentage / 100;
       let count_percentage_todo = 1 - count_percentage_done;
-  
+
       // cl.info(`Log(main): Processing ${size} entries from ${count}`);
       console.log("");
       console.log("= = = = = = = = = =");
-      dl.debug(`Log(main): Extracted ${count} items from ${items.length} items`);
-  
-      let percentage_done = ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
-      let percentage_todo = "__________________________________________________";
-      let percentage_print = percentage_done.slice(0, Math.round(count_percentage_done*(percentage_done.length))) + percentage_todo.slice(0, Math.round(count_percentage_todo*(percentage_todo.length)));
-  
+      dl.debug(
+        `Log(main): Extracted ${count} items from ${items.length} items`,
+      );
+
+      let percentage_done =
+        ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+      let percentage_todo =
+        "__________________________________________________";
+      let percentage_print =
+        percentage_done.slice(
+          0,
+          Math.round(count_percentage_done * percentage_done.length),
+        ) +
+        percentage_todo.slice(
+          0,
+          Math.round(count_percentage_todo * percentage_todo.length),
+        );
+
       dl.debug(``);
       dl.debug(`Log(main): ${percentage_print} [${count_percentage}%]`);
       dl.debug(``);
-  
+
       dl.debug("Log(main): NEXT BATCH:");
       dl.debug(`Log(main): ${batch}`);
       console.log("= = = = = = = = = =");
@@ -1358,25 +1424,24 @@ async function main() {
       dl.debug("Log(main): start sleeping");
       await sleep(delay); // ##### Note:  (await) pass with asynchronous function
       dl.debug("Log(main): stop sleeping");
-  
     }
 
     dl.debug("Log(main): ##########");
     dl.debug("Log(main): main()_getItemData()_OUT");
     dl.debug("Log(main): ##########");
 
-    return "Processing of batches complete!"
-
+    return "Processing of batches complete!";
   }
 
   // ##### Note: Function to call additional function that are mostly related to quality control.
   async function runExtraFunction() {
-
     const file_validation = await XMLvalidation_All(); // ##### Note:  (await) pass with asynchronous function
 
     dl.debug(`Log(main): XML-VALIDATION: ${file_validation}!`);
-    dl.debug(`Log(main): XML-VALIDATION: Individual check is presented at log.`);
-  
+    dl.debug(
+      `Log(main): XML-VALIDATION: Individual check is presented at log.`,
+    );
+
     dl.debug(`Log(main): Computing files: non-empty and empty.`);
     const computed_files_RETURN = await compute_content_empty_files(); // ##### Note:  (await) pass with asynchronous function
     // const index1 = computed_files_RETURN.indexOf("v0[") + "v0[".length;
@@ -1386,13 +1451,21 @@ async function main() {
 
     const process_time_end = new Date();
     const milisec1 = 1000;
-    const process_time_seconds = Math.round(10*(process_time_end - process_time_start) / milisec1)/10;
-    const process_time_minutes = Math.round(100*process_time_seconds/60)/100;
-    const process_time_hours = Math.round(1000*process_time_seconds/3600)/1000;
+    const process_time_seconds =
+      Math.round((10 * (process_time_end - process_time_start)) / milisec1) /
+      10;
+    const process_time_minutes =
+      Math.round((100 * process_time_seconds) / 60) / 100;
+    const process_time_hours =
+      Math.round((1000 * process_time_seconds) / 3600) / 1000;
 
     // ##### Note: writting values to log
-    function_log_append('./logs/','Log_process_time.txt',`# Total time; in hours: #v1[${process_time_hours}]#v1; in minutes: #v2[${process_time_minutes}]#v2; in seconds: #v3[${process_time_seconds}]#v3`); 
-    
+    function_log_append(
+      "./logs/",
+      "Log_process_time.txt",
+      `# Total time; in hours: #v1[${process_time_hours}]#v1; in minutes: #v2[${process_time_minutes}]#v2; in seconds: #v3[${process_time_seconds}]#v3`,
+    );
+
     // ##### Note: thresholds to monitor time
     const t1 = 300;
     const t2 = 3600;
@@ -1403,72 +1476,169 @@ async function main() {
     dl.debug(``);
 
     if (process_time_seconds > t2) {
-
-      dl.debug(`Log(main): processor took ${process_time_hours} hours for ${items.length} entries`);
-
+      dl.debug(
+        `Log(main): processor took ${process_time_hours} hours for ${items.length} entries`,
+      );
     } else if (process_time_seconds >= t1 && process_time_seconds <= t2) {
-
-      dl.debug(`Log(main): processor took ${process_time_minutes} minutes for ${items.length} entries`);
-
+      dl.debug(
+        `Log(main): processor took ${process_time_minutes} minutes for ${items.length} entries`,
+      );
     } else {
-
-      dl.debug(`Log(main): processor took ${process_time_seconds} seconds for ${items.length} entries`);
-
-    }   
+      dl.debug(
+        `Log(main): processor took ${process_time_seconds} seconds for ${items.length} entries`,
+      );
+    }
 
     dl.debug(``);
 
     // ##### Note: Passing datestamp to logs when complete
-    function_log_append('./logs/','Log_process_time.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_entries.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_XMLvalidation.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_emptied_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_empty_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_total_files.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_invalid_characters.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    function_log_append('./logs/','Log_DOI_list.txt',`# Process complete at date-UTC: ${function_DateNow()}`);
-    
+    function_log_append(
+      "./logs/",
+      "Log_process_time.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_entries.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_XMLvalidation.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_emptied_files.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_empty_files.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_total_files.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_invalid_characters.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+    function_log_append(
+      "./logs/",
+      "Log_DOI_list.txt",
+      `# Process complete at date-UTC: ${function_DateNow()}`,
+    );
+
     dl.debug("Log(main): Running extra functions in Main() finished! #####");
 
     // return 0
-
   }
-
 
   // ######################################
   // ##### Write final report (START) #####
   // ######################################
   async function writeReport() {
-
     // ##### Note: Reading some information from logs
     // lastIndexOf()
-    const fs_p = require('fs').promises;
-    const Log_total_files_content = String(await fs_p.readFile("./logs/Log_total_files.txt")); // ##### Note:  (await) pass with asynchronous function
+    const fs_p = require("fs").promises;
+    const Log_total_files_content = String(
+      await fs_p.readFile("./logs/Log_total_files.txt"),
+    ); // ##### Note:  (await) pass with asynchronous function
     // const content_list = content.split(/\r?\n/);
-    const Log_process_time_content = String(await fs_p.readFile("./logs/Log_process_time.txt")); // ##### Note:  (await) pass with asynchronous function
-    const Log_emptied_content = String(await fs_p.readFile("./logs/Log_emptied_files.txt")); // ##### Note:  (await) pass with asynchronous function
-    const Log_XMLvalidation_content = String(await fs_p.readFile("./logs/Log_XMLvalidation.txt")); // ##### Note:  (await) pass with asynchronous function
-
+    const Log_process_time_content = String(
+      await fs_p.readFile("./logs/Log_process_time.txt"),
+    ); // ##### Note:  (await) pass with asynchronous function
+    const Log_emptied_content = String(
+      await fs_p.readFile("./logs/Log_emptied_files.txt"),
+    ); // ##### Note:  (await) pass with asynchronous function
+    const Log_XMLvalidation_content = String(
+      await fs_p.readFile("./logs/Log_XMLvalidation.txt"),
+    ); // ##### Note:  (await) pass with asynchronous function
 
     // ##### Note: Creating report.html at directory logs
     const content_hr = `<hr style="height:2px; background-color: #fff;">`;
-    const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p>`
+    const content_log0 = `<p> Lastest process completed at date-UTC: ${function_DateNow()}</p>`;
     // ##### Note: Processing times
-    const content_log1 = `<p> Total processing time (in hours): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v1[") + "#v1[".length, Log_process_time_content.lastIndexOf("]#v1")) + ` </p>`;
-    const content_log2 = `<p> Total processing time (in minutes): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v2[") + "#v2[".length, Log_process_time_content.lastIndexOf("]#v2")) + ` </p>`;
-    const content_log3 = `<p> Total processing time (in seconds): ` + Log_process_time_content.slice(Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length, Log_process_time_content.lastIndexOf("]#v3")) + ` </p>`;
+    const content_log1 =
+      `<p> Total processing time (in hours): ` +
+      Log_process_time_content.slice(
+        Log_process_time_content.lastIndexOf("#v1[") + "#v1[".length,
+        Log_process_time_content.lastIndexOf("]#v1"),
+      ) +
+      ` </p>`;
+    const content_log2 =
+      `<p> Total processing time (in minutes): ` +
+      Log_process_time_content.slice(
+        Log_process_time_content.lastIndexOf("#v2[") + "#v2[".length,
+        Log_process_time_content.lastIndexOf("]#v2"),
+      ) +
+      ` </p>`;
+    const content_log3 =
+      `<p> Total processing time (in seconds): ` +
+      Log_process_time_content.slice(
+        Log_process_time_content.lastIndexOf("#v3[") + "#v3[".length,
+        Log_process_time_content.lastIndexOf("]#v3"),
+      ) +
+      ` </p>`;
     const content_log4 = `<p> Processing with file reduction: true </p>`;
     // ##### Note: Total XML-files
-    const content_log5 = `<p> Total XLM files: ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v1[") + "#v1[".length, Log_total_files_content.lastIndexOf("]#v1")) + ` </p> <br>`;
-    const content_log6 = `<p> Total XLM files (non-empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length, Log_total_files_content.lastIndexOf("]#v2")) + ` </p> <br>`;
-    const content_log7 = `<p> Total XLM files (empty): ` + Log_total_files_content.slice(Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length, Log_total_files_content.lastIndexOf("]#v3")) + ` </p> <br>`;
+    const content_log5 =
+      `<p> Total XLM files: ` +
+      Log_total_files_content.slice(
+        Log_total_files_content.lastIndexOf("#v1[") + "#v1[".length,
+        Log_total_files_content.lastIndexOf("]#v1"),
+      ) +
+      ` </p> <br>`;
+    const content_log6 =
+      `<p> Total XLM files (non-empty): ` +
+      Log_total_files_content.slice(
+        Log_total_files_content.lastIndexOf("#v2[") + "#v2[".length,
+        Log_total_files_content.lastIndexOf("]#v2"),
+      ) +
+      ` </p> <br>`;
+    const content_log7 =
+      `<p> Total XLM files (empty): ` +
+      Log_total_files_content.slice(
+        Log_total_files_content.lastIndexOf("#v3[") + "#v3[".length,
+        Log_total_files_content.lastIndexOf("]#v3"),
+      ) +
+      ` </p> <br>`;
     // ##### Note: Total XML-files (validation)
-    const content_log8 = `<p> Total XLM files (valid non-empty): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v1[") + "#v1[".length, Log_XMLvalidation_content.lastIndexOf("]#v1")) + ` </p>`;
-    const content_log9 = `<p> Total XLM files (valid empty): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v2[") + "#v2[".length, Log_XMLvalidation_content.lastIndexOf("]#v2")) + ` </p>`;
-    const content_log10 = `<p> Total XLM files (non-valid): ` + Log_XMLvalidation_content.slice(Log_XMLvalidation_content.lastIndexOf("#v3[") + "#v3[".length, Log_XMLvalidation_content.lastIndexOf("]#v3")) + ` </p>`;
+    const content_log8 =
+      `<p> Total XLM files (valid non-empty): ` +
+      Log_XMLvalidation_content.slice(
+        Log_XMLvalidation_content.lastIndexOf("#v1[") + "#v1[".length,
+        Log_XMLvalidation_content.lastIndexOf("]#v1"),
+      ) +
+      ` </p>`;
+    const content_log9 =
+      `<p> Total XLM files (valid empty): ` +
+      Log_XMLvalidation_content.slice(
+        Log_XMLvalidation_content.lastIndexOf("#v2[") + "#v2[".length,
+        Log_XMLvalidation_content.lastIndexOf("]#v2"),
+      ) +
+      ` </p>`;
+    const content_log10 =
+      `<p> Total XLM files (non-valid): ` +
+      Log_XMLvalidation_content.slice(
+        Log_XMLvalidation_content.lastIndexOf("#v3[") + "#v3[".length,
+        Log_XMLvalidation_content.lastIndexOf("]#v3"),
+      ) +
+      ` </p>`;
     // ##### Note: Total XML-files just emptied in latest process
-    const content_log11 = `<p> Total XLM files (emptied): ` + Log_emptied_content.slice(Log_emptied_content.lastIndexOf("#v1[") + "#v1[".length, Log_emptied_content.lastIndexOf("]#v1")) + ` </p>`;
-    const content2 = `
+    const content_log11 =
+      `<p> Total XLM files (emptied): ` +
+      Log_emptied_content.slice(
+        Log_emptied_content.lastIndexOf("#v1[") + "#v1[".length,
+        Log_emptied_content.lastIndexOf("]#v1"),
+      ) +
+      ` </p>`;
+    const content2 =
+      `
     <!DOCTYPE html>
     <head>
     <title>enKORE report</title>
@@ -1480,18 +1650,29 @@ async function main() {
     </style>
     <body>
     <h1>enKORE report</h1>
-    `
-    + content_hr + content_log0 + content_log1 + content_log2 + content_log3 + content_hr + content_log4 + content_hr + content_log5 + content_log6 + 
-    content_log7 + content_hr + content_log8 + content_log9 + content_log10 + content_hr + content_log11 +
-    `</body>
+    ` +
+      content_hr +
+      content_log0 +
+      content_log1 +
+      content_log2 +
+      content_log3 +
+      content_hr +
+      content_log4 +
+      content_hr +
+      content_log5 +
+      content_log6 +
+      content_log7 +
+      content_hr +
+      content_log8 +
+      content_log9 +
+      content_log10 +
+      content_hr +
+      content_log11 +
+      `</body>
     </html>
     `;
 
-    function_log_new('./logs/','report.html',content2);
-
-
-
-
+    function_log_new("./logs/", "report.html", content2);
   }
   // ####################################
   // ##### Write final report (END) #####
@@ -1502,54 +1683,54 @@ async function main() {
 
   // ##### Note: Function to wait all XML files to be written, and then to check results.
   async function RunBatches_ThenExtraFunctions() {
-
-    await runBatch_result.then((data) => { // ##### Note:  (await) pass with asynchronous function
+    await runBatch_result.then((data) => {
+      // ##### Note:  (await) pass with asynchronous function
 
       dl.debug("Log(main): " + data);
-
-    })
+    });
 
     console.log("\n\n");
-    let total_sleep_XML = 4*Number(size); // ##### Note: sleeping time in seconds
-    dl.debug(`Log(main): Waiting ${total_sleep_XML} seconds for remaning files to be saved from xmlexporter inside folder (processed).`);
-    dl.debug("Log(main): Then final log functions will be executed consedering contents from folder (processed).");
+    let total_sleep_XML = 4 * Number(size); // ##### Note: sleeping time in seconds
+    dl.debug(
+      `Log(main): Waiting ${total_sleep_XML} seconds for remaning files to be saved from xmlexporter inside folder (processed).`,
+    );
+    dl.debug(
+      "Log(main): Then final log functions will be executed consedering contents from folder (processed).",
+    );
     console.log("\n\n");
-    let total_sleep_log = 5;  // ##### Note: sleeping time in seconds
+    let total_sleep_log = 5; // ##### Note: sleeping time in seconds
     // ##### Note: To run without writting a report: setTimeout(() => {runExtraFunction();}, total_sleep*1000);
     // ##### Note: To pause a few seconds for the async to complete writting all log files.
     // ##### Note: It is going to run (runExtraFunction) and then (writeReport) with a pause ahead of each function.
-    setTimeout(() => {runExtraFunction(); setTimeout(() => {writeReport(); }, total_sleep_log*1000);}, total_sleep_XML*1000);
-
+    setTimeout(() => {
+      runExtraFunction();
+      setTimeout(() => {
+        writeReport();
+      }, total_sleep_log * 1000);
+    }, total_sleep_XML * 1000);
   }
 
   // ##### Note: To call extra functions, which are mostly related to control of results
   RunBatches_ThenExtraFunctions();
 
   // ##### Note: Copying report.html to public_html. Therefore, we can assess at all times.
-  const fs = require('fs');
+  const fs = require("fs");
 
   try {
-
-    fs.copyFile('./logs/report.html', '/data/project/enkore/public_html/report.html');
-    dl.debug('Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html');
-  
-  }
-  catch(err) {
-
-    dl.debug('Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html');
-
-  }
-  finally {
+    fs.copyFile(
+      "./logs/report.html",
+      "/data/project/enkore/public_html/report.html",
+    );
+    dl.debug(
+      "Log(main): Running inside Toolforge. Therefore, report.html was copied inside public_html",
+    );
+  } catch (err) {
+    dl.debug(
+      "Log(main): Running outside Toolforge. Therefore, there is no public_html available to save report.html",
+    );
+  } finally {
     // ##### Note: n/a
   }
-
-
-
-
-
-
-
-
 }
 // ####################################
 // ##### Function-Conductor (END) #####
@@ -1559,7 +1740,7 @@ await config(); // ##### Note:  (await) pass with asynchronous function
 await log.setup(logging); // ##### Note:  (await) pass with asynchronous function
 
 const dl = log.getLogger();
-const cl = log.getLogger('client');
+const cl = log.getLogger("client");
 
 // ##### Note: to call main() within cron.
 // if (import.meta.main) { main(); }
@@ -1588,61 +1769,179 @@ const c2 = false; // ##### Note: (cron alias) can be transferred to arguments if
 const c3 = false; // ##### Note: (cron alias) can be transferred to arguments if needed.
 
 // ##### OPTION-1 (START) ################
-async function run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2) {
-
+async function run_cron_option1(
+  sec1,
+  min1,
+  hr1,
+  weekday1,
+  sec2,
+  min2,
+  hr2,
+  weekday2,
+) {
   dl.debug(`Log(run_cron_option1): Started cron`);
 
-    // #################################################
-    // ##### Adjusting weekday from word to number #####
-    let weekday_1number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-    if (weekday1 == "Monday" || weekday1 == "monday" || weekday1 == "Mon" || weekday1 == "mon") { weekday_1number++; }
-    if (weekday1 == "Tuesday" || weekday1 == "tuesday" || weekday1 == "Tue" || weekday1 == "tue") { weekday_1number+=2; }
-    if (weekday1 == "Wednesday" || weekday1 == "wednesday" || weekday1 == "Wed" || weekday1 == "wed") { weekday_1number+=3; }
-    if (weekday1 == "Thursday" || weekday1 == "thursday" || weekday1 == "Thu" || weekday1 == "thu") { weekday_1number+=4; }
-    if (weekday1 == "Friday" || weekday1 == "friday" || weekday1 == "Fri" || weekday1 == "fri") { weekday_1number+=5; }
-    if (weekday1 == "Saturday" || weekday1 == "saturday" || weekday1 == "Sat" || weekday1 == "sat") { weekday_1number+=6; }
-    if (weekday1 == "Sunday" || weekday1 == "sunday" || weekday1 == "Sun" || weekday1 == "sun") { weekday_1number+=7; }
-    const weekday_1string = weekday_1number.toString();
-    // #################################################
+  // #################################################
+  // ##### Adjusting weekday from word to number #####
+  let weekday_1number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  if (
+    weekday1 == "Monday" ||
+    weekday1 == "monday" ||
+    weekday1 == "Mon" ||
+    weekday1 == "mon"
+  ) {
+    weekday_1number++;
+  }
+  if (
+    weekday1 == "Tuesday" ||
+    weekday1 == "tuesday" ||
+    weekday1 == "Tue" ||
+    weekday1 == "tue"
+  ) {
+    weekday_1number += 2;
+  }
+  if (
+    weekday1 == "Wednesday" ||
+    weekday1 == "wednesday" ||
+    weekday1 == "Wed" ||
+    weekday1 == "wed"
+  ) {
+    weekday_1number += 3;
+  }
+  if (
+    weekday1 == "Thursday" ||
+    weekday1 == "thursday" ||
+    weekday1 == "Thu" ||
+    weekday1 == "thu"
+  ) {
+    weekday_1number += 4;
+  }
+  if (
+    weekday1 == "Friday" ||
+    weekday1 == "friday" ||
+    weekday1 == "Fri" ||
+    weekday1 == "fri"
+  ) {
+    weekday_1number += 5;
+  }
+  if (
+    weekday1 == "Saturday" ||
+    weekday1 == "saturday" ||
+    weekday1 == "Sat" ||
+    weekday1 == "sat"
+  ) {
+    weekday_1number += 6;
+  }
+  if (
+    weekday1 == "Sunday" ||
+    weekday1 == "sunday" ||
+    weekday1 == "Sun" ||
+    weekday1 == "sun"
+  ) {
+    weekday_1number += 7;
+  }
+  const weekday_1string = weekday_1number.toString();
+  // #################################################
 
-    // #################################################
-    // ##### Adjusting weekday from word to number #####
-    let weekday_2number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-    if (weekday2 == "Monday" || weekday2 == "monday" || weekday2 == "Mon" || weekday2 == "mon") { weekday_2number++; }
-    if (weekday2 == "Tuesday" || weekday2 == "tuesday" || weekday2 == "Tue" || weekday2 == "tue") { weekday_2number+=2; }
-    if (weekday2 == "Wednesday" || weekday2 == "wednesday" || weekday2 == "Wed" || weekday2 == "wed") { weekday_2number+=3; }
-    if (weekday2 == "Thursday" || weekday2 == "thursday" || weekday2 == "Thu" || weekday2 == "thu") { weekday_2number+=4; }
-    if (weekday2 == "Friday" || weekday2 == "friday" || weekday2 == "Fri" || weekday2 == "fri") { weekday_2number+=5; }
-    if (weekday2 == "Saturday" || weekday2 == "saturday" || weekday2 == "Sat" || weekday2 == "sat") { weekday_2number+=6; }
-    if (weekday2 == "Sunday" || weekday2 == "sunday" || weekday2 == "Sun" || weekday2 == "sun") { weekday_2number+=7; }
-    const weekday_2string = weekday_2number.toString();
-    // #################################################
+  // #################################################
+  // ##### Adjusting weekday from word to number #####
+  let weekday_2number = 0; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
+  if (
+    weekday2 == "Monday" ||
+    weekday2 == "monday" ||
+    weekday2 == "Mon" ||
+    weekday2 == "mon"
+  ) {
+    weekday_2number++;
+  }
+  if (
+    weekday2 == "Tuesday" ||
+    weekday2 == "tuesday" ||
+    weekday2 == "Tue" ||
+    weekday2 == "tue"
+  ) {
+    weekday_2number += 2;
+  }
+  if (
+    weekday2 == "Wednesday" ||
+    weekday2 == "wednesday" ||
+    weekday2 == "Wed" ||
+    weekday2 == "wed"
+  ) {
+    weekday_2number += 3;
+  }
+  if (
+    weekday2 == "Thursday" ||
+    weekday2 == "thursday" ||
+    weekday2 == "Thu" ||
+    weekday2 == "thu"
+  ) {
+    weekday_2number += 4;
+  }
+  if (
+    weekday2 == "Friday" ||
+    weekday2 == "friday" ||
+    weekday2 == "Fri" ||
+    weekday2 == "fri"
+  ) {
+    weekday_2number += 5;
+  }
+  if (
+    weekday2 == "Saturday" ||
+    weekday2 == "saturday" ||
+    weekday2 == "Sat" ||
+    weekday2 == "sat"
+  ) {
+    weekday_2number += 6;
+  }
+  if (
+    weekday2 == "Sunday" ||
+    weekday2 == "sunday" ||
+    weekday2 == "Sun" ||
+    weekday2 == "sun"
+  ) {
+    weekday_2number += 7;
+  }
+  const weekday_2string = weekday_2number.toString();
+  // #################################################
 
   // ##### passed variables: Function-1
   const sec_1 = sec1;
   const min_1 = min1;
   const hr_1 = hr1; // ##### Note: 24format
   //const weekday_1 = weekday1; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-  const cron_string_control1 = '' + sec_1 + ' ' + min_1 + ' ' + hr_1 + ' * * */' + weekday_1string + '';
+  const cron_string_control1 =
+    "" + sec_1 + " " + min_1 + " " + hr_1 + " * * */" + weekday_1string + "";
 
   // ##### passed variables: Function-2
   const sec_2 = sec2;
   const min_2 = min2;
   const hr_2 = hr2; // ##### Note: 24format
   //const weekday_2 = weekday2; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7)
-  const cron_string_control2 = '' + sec_2 + ' ' + min_2 + ' ' + hr_2 + ' * * */' + weekday_2string + '';
+  const cron_string_control2 =
+    "" + sec_2 + " " + min_2 + " " + hr_2 + " * * */" + weekday_2string + "";
 
   // ##### Function-1
-  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option1): to process main()!`); main(); });
+  cron(cron_string_control1, () => {
+    console.log(
+      `################################################################## Log(run_cron_option1): to process main()!`,
+    );
+    main();
+  });
 
   // ##### Function-2
-  async function updateEndpoint_test() { console.log(`########## Endpoint Updated!`); } // ##### Note: Update function can be called inside main() if not here.
-  cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
-
+  async function updateEndpoint_test() {
+    console.log(`########## Endpoint Updated!`);
+  } // ##### Note: Update function can be called inside main() if not here.
+  cron(cron_string_control2, () => {
+    console.log(
+      `################################################################## Log(run_cron_option3): to process update()!`,
+    );
+    updateEndpoint_test();
+  });
 }
 
 if (c1 == true && c2 == false && c3 == false) {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option1): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
@@ -1657,109 +1956,115 @@ if (c1 == true && c2 == false && c3 == false) {
   const min2 = "57";
   const hr2 = "7"; // ##### Note: 24format
   const weekday2 = "Monday"; // ##### Note: Monday (1), Tuesday (2),..., Saturday (6), Sunday (0 or 7). Adjusted inside function.
-  
+
   // ##### Function to call Functions
-  run_cron_option1(sec1,min1,hr1,weekday1,sec2,min2,hr2,weekday2);
-
+  run_cron_option1(sec1, min1, hr1, weekday1, sec2, min2, hr2, weekday2);
 } else {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option1): cron not used!`);
   console.log(`##################################################`);
 
   // if (import.meta.main) { main(); }
-
 }
 
 // ##### OPTION-1 (END) ##################
 
 // ##### OPTION-2 (START) ################
 async function run_cron_option2(dt1) {
-  
   // ##### Note: this option required updateEndpoint() to be called inside main()
   dl.debug(`Log(run_cron_option2): Started cron`);
 
   // ##### passed variables: Function-1
   const dt_1 = dt1; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
-  const cron_string_control1 = '1 */' + dt_1 + ' * * * *';
+  const cron_string_control1 = "1 */" + dt_1 + " * * * *";
 
   // ##### Function-1
-  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option2): to process main()!`); main(); });
-
+  cron(cron_string_control1, () => {
+    console.log(
+      `################################################################## Log(run_cron_option2): to process main()!`,
+    );
+    main();
+  });
 }
 
 if (c1 == false && c2 == true && c3 == false) {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option2): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
 
   // ##### Input: Function-1
-  const dt1 = '1';
+  const dt1 = "1";
 
   // ##### Function to call Functions
   run_cron_option2(dt1);
-
 } else {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option2): cron not used!`);
   console.log(`##################################################`);
 
   // if (import.meta.main) { main(); }
-
 }
 // ##### OPTION-2 (END) ##################
 
 // ##### OPTION-3 (START) ################
-async function run_cron_option3(dt1,dt2) {
-
+async function run_cron_option3(dt1, dt2) {
   dl.debug(`Log(run_cron_option3): Started cron`);
 
   // ##### passed variables: Function-1
   const dt_1 = dt1; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
-  const cron_string_control1 = '1 */' + dt_1 + ' * * * *';
+  const cron_string_control1 = "1 */" + dt_1 + " * * * *";
 
   // ##### passed variables: Function-2
   const dt_2 = dt2; // ##### Note: time-step (delta-t) in minutes, and passed as string here.
-  const cron_string_control2 = '1 */' + dt_2 + ' * * * *';
+  const cron_string_control2 = "1 */" + dt_2 + " * * * *";
 
   // ##### Function-1
-  cron(cron_string_control1, () => { console.log(`################################################################## Log(run_cron_option3): to process main()!`); main(); });
-  
-  // ##### Function-2
-  async function updateEndpoint_test() { console.log(`########## UPDATED!`); } // ##### Note: Update function can be called inside main() if not here.
-  cron(cron_string_control2, () => { console.log(`################################################################## Log(run_cron_option3): to process update()!`); updateEndpoint_test(); }); 
+  cron(cron_string_control1, () => {
+    console.log(
+      `################################################################## Log(run_cron_option3): to process main()!`,
+    );
+    main();
+  });
 
+  // ##### Function-2
+  async function updateEndpoint_test() {
+    console.log(`########## UPDATED!`);
+  } // ##### Note: Update function can be called inside main() if not here.
+  cron(cron_string_control2, () => {
+    console.log(
+      `################################################################## Log(run_cron_option3): to process update()!`,
+    );
+    updateEndpoint_test();
+  });
 }
 
 if (c1 == false && c2 == false && c3 == true) {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option3): cron being used.`); // ##### Note: we can convert to hours, days, weeks etc.
   console.log(`##################################################`);
 
   // ##### Input: Function-1
-  const dt1 = '5';
+  const dt1 = "5";
   // ##### Input: Function-2
-  const dt2 = '1';
+  const dt2 = "1";
 
   // ##### Function to call Functions
-  run_cron_option3(dt1,dt2);
-
+  run_cron_option3(dt1, dt2);
 } else {
-
   console.log(`##################################################`);
   console.log(`Log(run_cron_option3): cron not used!`);
   console.log(`##################################################`);
 
   // if (import.meta.main) { main(); }
-
 }
 // ##### OPTION-3 (END) ##################
 
 // ##### Note: Running main() without cron
-if (c1 == false && c2 == false && c3 == false) { if (import.meta.main) { main(); } }
+if (c1 == false && c2 == false && c3 == false) {
+  if (import.meta.main) {
+    main();
+  }
+}
 
 // #####################################
 // ##### CRON - TIME CONTROL (END) #####
