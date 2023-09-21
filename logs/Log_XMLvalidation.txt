@@ -8930,3 +8930,7 @@
  ./corpus/processed/wikidata-Q46127999.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
 # Total XML (passed) #v1[8925]#v1; Total XML (empty): #v2[262]#v2; Total (failed): #v3[0]#v3
 # Process complete at date-UTC: 2023-08-13T15:18:46.986Z
+# Note: Indication of list of entries considered for harvesting information.
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-09-07T23:26:32.551Z
+# Note: Quality check results are: passed|failed

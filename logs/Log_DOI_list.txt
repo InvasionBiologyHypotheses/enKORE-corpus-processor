@@ -8928,3 +8928,6 @@ https://doi.org/10.3391/BIR.2020.9.1.20
 https://doi.org/10.3389/FEVO.2022.827397
 https://doi.org/10.2166/WST.2014.394
 # Process complete at date-UTC: 2023-08-13T15:18:46.986Z
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-09-07T23:26:32.603Z
+# Note: List of DOI obtained from non-empty XML files.

@@ -802,3 +802,23 @@ Log(xmlexporter.js): list of deleted char:   
 Log(xmlexporter.js): XML-file: Q114912212.xml
 Log(xmlexporter.js): list of deleted char:     
 # Process complete at date-UTC: 2023-08-13T15:18:46.986Z
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-09-07T23:26:32.603Z
+Log(xmlexporter.js): XML-file: Q110759232.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q51146305.xml
+Log(xmlexporter.js): list of deleted char:    
+Log(xmlexporter.js): XML-file: Q64056576.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q35169242.xml
+Log(xmlexporter.js): list of deleted char:                
+Log(xmlexporter.js): XML-file: Q21191853.xml
+Log(xmlexporter.js): list of deleted char:   
+Log(xmlexporter.js): XML-file: Q46247362.xml
+Log(xmlexporter.js): list of deleted char:      
+Log(xmlexporter.js): XML-file: Q110756528.xml
+Log(xmlexporter.js): list of deleted char: ‒‒
+Log(xmlexporter.js): XML-file: Q41661853.xml
+Log(xmlexporter.js): list of deleted char: µµ
+Log(xmlexporter.js): XML-file: Q38801425.xml
+Log(xmlexporter.js): list of deleted char:        

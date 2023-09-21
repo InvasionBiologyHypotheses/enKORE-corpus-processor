@@ -4,3 +4,13 @@
 # Note: List of files that have just been empitied during this process.
 # Total XML-emptied: #v1[0]#v1
 # Process complete at date-UTC: 2023-08-13T15:18:46.986Z
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-09-07T23:26:32.551Z
+# Note: List of files that have just been empitied during this process.
+Log(checkWikidataItem): Emptying file: wikidata-Q47597104.xml
+Log(checkWikidataItem): Emptying file: wikidata-Q36805595.xml
+Log(checkWikidataItem): Emptying file: wikidata-Q36536230.xml
+Log(checkWikidataItem): Emptying file: wikidata-Q45908947.xml
+Log(checkWikidataItem): Emptying file: wikidata-Q39649203.xml
+Log(checkWikidataItem): Emptying file: wikidata-Q56765354.xml
+# Total XML-emptied: #v1[6]#v1

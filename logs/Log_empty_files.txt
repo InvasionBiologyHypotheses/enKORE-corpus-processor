@@ -265,3 +265,6 @@ Log(compute_content_empty_files): Empty file: wikidata-Q106584733.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q28727276.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q112503767.xml
 Log(compute_content_empty_files): Empty file: wikidata-Q29353656.xml
+= = = = = = = = = = = = = = = = = = = =
+# Process started at date-UTC: 2023-09-07T23:26:32.603Z
+# Note: List of files that are empty.
