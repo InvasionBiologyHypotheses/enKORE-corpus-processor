@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q43650465</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q43650465</dc:identifier>
   <dc:identifier>doi:10.1017/S0031182007002545</dc:identifier>
-  <dc:title>Experimental infections, using a fluorescent marker, of two elasmobranch species by unciliated larvae of Branchotenthes octohamatus (Monogenea: Hexabothriidae): invasion route, host specificity and post-larval development.</dc:title>
+  <dc:title>Experimental infections, using a fluorescent marker, of two elasmobranch species by unciliated larvae of Branchotenthes octohamatus (Monogenea: Hexabothriidae): invasion route, host specificity and post-larval development</dc:title>
   <dc:creator>Glennon</dc:creator>
   <dc:creator>LA, Chisholm</dc:creator>
   <dc:creator>ID, Whittington</dc:creator>
@@ -18,5 +18,6 @@
   <dc:subject>experimental infection</dc:subject>
   <dc:subject>host tropism</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>Hexabothriidae</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
 </oai_dc:dc>

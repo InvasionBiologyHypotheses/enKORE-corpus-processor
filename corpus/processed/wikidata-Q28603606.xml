@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28603606</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28603606</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4689450</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0143718</dc:identifier>
+  <dc:title>Invaded Invaders: Infection of Invasive Brown Treesnakes on Guam by an Exotic Larval Cestode with a Life Cycle Comprised of Non-Native Hosts</dc:title>
+  <dc:creator>Holldorf, Elden T</dc:creator>
+  <dc:creator>Siers, Shane R</dc:creator>
+  <dc:creator>Richmond, Jonathan Q</dc:creator>
+  <dc:creator>Klug, Page E</dc:creator>
+  <dc:creator>Reed, Robert N</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-12-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>host-parasite interaction</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Brown tree snake</dc:subject>
+  <dc:subject>Spirometra erinaceieuropaei</dc:subject>
+  <dc:subject>Guam</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundMultiple host introductions to the same non-native environment have the potential to complete life cycles of parasites incidentally transported with them. Our goal was to identify a recently detected parasitic flatworm in the invasive Brown Treesnake (Boiga irregularis) on the remote Pacific island of Guam. We considered possible factors influencing parasite transmission, and tested for correlations between infection status and potential indicators of host fitness. We used genetic data from the parasite and information about the native ranges of other possible non-native hosts to hypothesize how it arrived on Guam and how its life cycle may be currently supported.MethodsWe identified the parasite by comparing larval morphology and mtDNA sequences with other Pseudophyllid tapeworms. We assessed probability of infection in individual snakes using logistic regression and examined different factors influencing presence of parasites in hosts.ResultsWe identified the parasite as the pseudophyllid cestode Spirometra erinaceieuropaei, with all sampled worms from multiple snakes sharing a single mtDNA haplotype. Infection appears to be limited to the only freshwater watershed on the island, where infection prevalence was high (77.5%). Larger snakes had a higher probability of being infected, consistent with the chronic nature of such infections. While infection status was positively correlated with body condition, infected snakes tended to have lower intra-peritoneal fat body mass, potentially indicating a negative effect on energy stores.ConclusionsWe discovered that B. irregularis inhabiting a small area of forested habitat in a freshwater watershed on Guam are often infected by a novel parasite of Asian origin. While further work is needed, this species of Spirometra, itself a non-native species, likely depends on a suite of recently introduced hosts from different parts of the world to complete the life cycle. This baseline study provides little evidence of any effects on host fitness, but additional data are needed to more thoroughly explore the consequences of infection in this invasive snake population.</dc:description>
+</oai_dc:dc>

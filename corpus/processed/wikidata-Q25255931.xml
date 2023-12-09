@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q25255931</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q25255931</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PMED.0030135</dc:identifier>
+  <dc:title>Pandemic influenza: risk of multiple introductions and the need to prepare for them.</dc:title>
+  <dc:creator>Mills, Christina E</dc:creator>
+  <dc:creator>Robins, James M</dc:creator>
+  <dc:creator>Bergstrom, Carl T</dc:creator>
+  <dc:creator>Lipsitch, Marc</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2006-06-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>pandemic</dc:subject>
+  <dc:subject>influenza</dc:subject>
+  <dc:subject>disease outbreak</dc:subject>
+  <dc:subject>global health</dc:subject>
+  <dc:subject>multiple introductions</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+</oai_dc:dc>

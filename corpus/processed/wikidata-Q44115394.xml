@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q44115394</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q44115394</dc:identifier>
   <dc:identifier>doi:10.1016/J.EXPPARA.2012.10.012</dc:identifier>
-  <dc:title>Phospholipase C gamma and ERK1/2 mitogen activated kinase pathways are differentially modulated by Trypanosoma cruzi during tissue invasion in human placenta.</dc:title>
+  <dc:title>Phospholipase C gamma and ERK1/2 mitogen activated kinase pathways are differentially modulated by Trypanosoma cruzi during tissue invasion in human placenta</dc:title>
   <dc:creator>Castillo, Christian</dc:creator>
   <dc:creator>Villarroel, Arturo</dc:creator>
   <dc:creator>Duaso, Juan</dc:creator>
@@ -19,5 +19,6 @@
   <dc:subject>Trypanosoma cruzi</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>tissue invasion</dc:subject>
   <dc:publisher>Elsevier BV</dc:publisher>
 </oai_dc:dc>

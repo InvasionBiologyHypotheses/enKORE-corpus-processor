@@ -15,6 +15,7 @@
   <dc:subject>optimization algorithm</dc:subject>
   <dc:subject>invasive weed optimization</dc:subject>
   <dc:subject>invasive weed</dc:subject>
+  <dc:subject>invasive hybrid</dc:subject>
   <dc:publisher>Hindawi Limited</dc:publisher>
   <dc:description>Nonlinear Muskingum models are important tools in hydrological forecasting. In this paper, we have come up with a class of new discretization schemes including a parameter_to approximate the nonlinear Muskingum model based on general trapezoid formulas. The accuracy of these schemes is second order, if_≠1/3, but interestingly when_=1/3, the accuracy of the presented scheme gets improved to third order. Then, the present schemes are transformed into an unconstrained optimization problem which can be solved by a hybrid invasive weed optimization (HIWO) algorithm. Finally, a numerical example is provided to illustrate the effectiveness of the present methods. The numerical results substantiate the fact that the presented methods have better precision in estimating the parameters of nonlinear Muskingum models.</dc:description>
 </oai_dc:dc>

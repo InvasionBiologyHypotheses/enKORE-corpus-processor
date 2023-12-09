@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114939807</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114939807</dc:identifier>
+  <dc:identifier>doi:10.1088/1748-9326/AC4DC7</dc:identifier>
+  <dc:title>Integrated spatial model based evaluation methodology for optimal invasive species management: common ragweed in the Republic of Korea</dc:title>
+  <dc:creator>Chung, Hye In</dc:creator>
+  <dc:creator>Choi, Yuyoung</dc:creator>
+  <dc:creator>Yoo, Youngjae</dc:creator>
+  <dc:creator>Engler, Robin</dc:creator>
+  <dc:creator>Lee, Kyungil</dc:creator>
+  <dc:creator>Jeon, Seong Woo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-03-01</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>South Korea</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>IOP Publishing</dc:publisher>
+  <dc:description>Abstract
+               Invasive species have become a global problem owing to their wide-ranging adverse effects. With intensifying climate change and artificial impacts (human-mediated disturbances), which exacerbate the adverse effects of invasive species, there is an urgent need to implement strategies for the management of these species. Various removal policies have been implemented globally to manage the common ragweed (Ambrosia artemisiifolia var. elatior (L.,) Decs) owing to its high tendency to ‘spread’. Several studies on the control method, application of spatial perspective, and optimization have been conducted to establish and evaluate management strategies using different spatial models. Although each of these methods is essential for improving control efficiency, an integrated form of study is needed to determine the practicality of various policies. In this study, we developed an integrated spatial model using the species distribution model BIOMOD2, land change model LCM, dispersal model MigClim, and optimization model prioritizr, to construct an evaluation methodology. For modelling an optimal invasive species removal policy under climate change and human-mediated disturbances (2011–2079), we created two strategies from a spatial perspective, outside-in and inside-out, with the former entailing removal from the low-density outliers to the high-density centre of the colonized area and the latter processing in the opposite direction. The optimal removal sites for each strategy were set for each removal rate. Subsequently, a novel index, ‘removal effect index’, was proposed for the evaluation, in time series. The results indicate that the removal effect of the outside-in strategy was more effective, and the newly dispersed sites were efficiently removed. Furthermore, it was verified that with the implementation of the outside-in strategy having a removal rate of 65% by the 2070s, the species would be completely eradicated. Thus, this study is expected to help improve the efficiency of policy implementation for invasive species.</dc:description>
+</oai_dc:dc>

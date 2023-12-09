@@ -14,6 +14,7 @@
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
   <dc:subject>aquatic invasion</dc:subject>
   <dc:subject>biological invasion</dc:subject>
+  <dc:subject>freshwater fish</dc:subject>
   <dc:publisher>PeerJ</dc:publisher>
   <dc:description>Research on the gut microbiome of host organisms has rapidly advanced with next generation sequencing (NGS) and high-performance computing capabilities. Nonetheless, gut microbiome research has focused on mammalian organisms in laboratory settings, and investigations pertaining to wild fish gut microbiota remain in their infancy. We applied a procedure (available at https://github.com/bngallo1994) for sampling of the fish gut for use in NGS to describe microbial community structure. Our approach allowed for high bacterial OTU diversity coverage (&gt;99.7%, Good’s Coverage) that led to detection of differences in gut microbiota of an invasive (Round Goby) and native (Yellow Bullhead) fish species and collected from the upper St. Lawrence River, an environment where the gut microbiota of fish had not previously been tested. Additionally, results revealed habitat level differences in gut microbiota using two distance metrics (Unifrac, Bray–Curtis) between nearshore littoral and offshore profundal collections of Round Goby. Species and habitat level differences in intestinal microbiota may be of importance in understanding individual and species variation and its importance in regulating fish health and physiology.</dc:description>
 </oai_dc:dc>
