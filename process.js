@@ -150,8 +150,13 @@ async function processArgs(args) {
   // #################################################
   // ##### Re-processing list of entries (START) #####
   // #################################################
+
   // let reduce_entries = parsedArgs.reduce;
-  let reduce_entries = true;
+  // ##### Note: If reduce_entries = true, then it cannot read from a given file
+
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  let reduce_entries = true; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
   if (reduce_entries == true) {
     // #############################################
@@ -1420,10 +1425,19 @@ async function main() {
       dl.debug(`Log(main): ${batch}`);
       console.log("= = = = = = = = = =");
       console.log("");
-      await getItemData(batch); // ##### Note:  (await) pass with asynchronous function
-      dl.debug("Log(main): start sleeping");
-      await sleep(delay); // ##### Note:  (await) pass with asynchronous function
-      dl.debug("Log(main): stop sleeping");
+      
+      try {
+        await getItemData(batch); // ##### Note:  (await) pass with asynchronous function
+        dl.debug("Log(main): start sleeping");
+        await sleep(delay); // ##### Note:  (await) pass with asynchronous function
+        dl.debug("Log(main): stop sleeping");
+      }
+      catch(err) {
+        dl.debug("Log(main): Error with an element in batch!");
+        dl.debug(err.message);
+        // ##### Note: TO WRITE A LOG OF FAILED BATCHES HERE!!!
+      }
+
     }
 
     dl.debug("Log(main): ##########");

@@ -26,14 +26,14 @@ export const settings = {
     // ##### Note: if filename to save entries.json is not provided inside (deno.jsonc), then 
     // the code will consider the name given below.
     file: "./corpus/entries_log2.json", // ##### Note: filename to save entries, if not provided inside (deno.jsonc)
-    reduce: true,
+    reduce: true, // ##### Note: when reading from URL, it will reduce this file to single URL requests. Then processing time is much reduced.
 
   },
 
   processing: {
 
     initialOffset: 0, // ##### Note: Initial offset to start extraction process
-    processingDelay: 100, // ##### Note: resting time between batches (in milliseconds)
+    processingDelay: 1000, // ##### Note: resting time between batches (in milliseconds)
     batchSize: 2, // ##### Note: quantity of consecutive wikidataItem-URL-extraction without resting
 
   },
