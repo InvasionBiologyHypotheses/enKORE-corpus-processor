@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q112431506</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q112431506</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PCBI.1010151</dc:identifier>
+  <dc:title>Whole community invasions and the integration of novel ecosystems</dc:title>
+  <dc:creator>Campbell, Colin</dc:creator>
+  <dc:creator>Russo, Laura</dc:creator>
+  <dc:creator>Albert, Réka</dc:creator>
+  <dc:creator>Buckling, Angus</dc:creator>
+  <dc:creator>Shea, Katriona</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-06-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>community invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The impact of invasion by a single non-native species on the function and structure of ecological communities can be significant, and the effects can become more drastic–and harder to predict–when multiple species invade as a group. Here we modify a dynamic Boolean model of plant-pollinator community assembly to consider the invasion of native communities by multiple invasive species that are selected either randomly or such that the invaders constitute a stable community. We show that, compared to random invasion, whole community invasion leads to final stable communities (where the initial process of species turnover has given way to a static or near-static set of species in the community) including both native and non-native species that are larger, more likely to retain native species, and which experience smaller changes to the topological measures of nestedness and connectance. We consider the relationship between the prevalence of mutualistic interactions among native and invasive species in the final stable communities and demonstrate that mutualistic interactions may act as a buffer against significant disruptions to the native community.</dc:description>
+</oai_dc:dc>

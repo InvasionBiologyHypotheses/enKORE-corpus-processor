@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107602363</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q107602363</dc:identifier>
+  <dc:identifier>doi:10.1111/GEB.13283</dc:identifier>
+  <dc:title>Climate‐driven impacts of exotic species on marine ecosystems</dc:title>
+  <dc:creator>Bennett, Scott</dc:creator>
+  <dc:creator>Santana‐Garcon, Julia</dc:creator>
+  <dc:creator>Marbà, Núria</dc:creator>
+  <dc:creator>Jorda, Gabriel</dc:creator>
+  <dc:creator>Anton, Andrea</dc:creator>
+  <dc:creator>Apostolaki, Eugenia T.</dc:creator>
+  <dc:creator>Cebrian, Just</dc:creator>
+  <dc:creator>Geraldi, Nathan R.</dc:creator>
+  <dc:creator>Krause‐Jensen, Dorte</dc:creator>
+  <dc:creator>Lovelock, Catherine E.</dc:creator>
+  <dc:creator>Martinetto, Paulina</dc:creator>
+  <dc:creator>Pandolfi, John M.</dc:creator>
+  <dc:creator>Duarte, Carlos M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-03-12</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>marine ecosystem</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractAimTemperature is fundamental to the physiological and ecological performance of marine organisms, but its role in modulating the magnitude of ecological impacts by exotic species remains unresolved. Here, we examine the relationship between thermal regimes in the range of origin of marine exotic species and sites of measured impact, after human‐induced introduction. We compare this relationship with the magnitude of impact exerted by exotic species on native ecosystems.LocationGlobal.Time period1977–2017 (meta‐analysis).Major taxa studiedMarine exotic species.MethodsQuantitative impacts of exotic species in marine ecosystems were obtained from a global database. The native range of origin of exotic species was used to estimate the realized thermal niche for each species and compared with the latitude and climatic conditions in recipient sites of recorded impact of exotic species. The difference in median temperatures between recipient sites and the thermal range of origin (i.e., thermal midpoint anomaly) was compared with the magnitude of effect sizes by exotic species on native species, communities and ecosystems.ResultsRecorded impacts occurred predominantly within the thermal niche of origin of exotic species, albeit with a tendency toward higher latitudes and slightly cooler conditions. The severity of impacts by exotic species on abundance of native taxa displayed a hump‐shaped relationship with temperature. Peak impacts were recorded in recipient sites that were 2.2°C cooler than the thermal midpoint of the range of origin of exotic species, and impacts decreased in magnitude toward higher and lower thermal anomalies.Main conclusionsOur findings highlight how temperature and climatic context influence ecological impacts by exotic species in marine ecosystems and the implications for existing and novel species interactions under climate change.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28744098</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28744098</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189937</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0025695</dc:identifier>
+  <dc:title>Predicting invasive fungal pathogens using invasive pest assemblages: testing model predictions in a virtual world</dc:title>
+  <dc:creator>Paini, R</dc:creator>
+  <dc:creator>Bianchi, Felix J J A</dc:creator>
+  <dc:creator>Northfield, Tobin D</dc:creator>
+  <dc:creator>De Barro, Paul J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>virtual world</dc:subject>
+  <dc:subject>invasive pest</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Predicting future species invasions presents significant challenges to researchers and government agencies. Simply considering the vast number of potential species that could invade an area can be insurmountable. One method, recently suggested, which can analyse large datasets of invasive species simultaneously is that of a self organising map (SOM), a form of artificial neural network which can rank species by establishment likelihood. We used this method to analyse the worldwide distribution of 486 fungal pathogens and then validated the method by creating a virtual world of invasive species in which to test the SOM. This novel validation method allowed us to test SOM's ability to rank those species that can establish above those that can't. Overall, we found the SOM highly effective, having on average, a 96-98% success rate (depending on the virtual world parameters). We also found that regions with fewer species present (i.e. 1-10 species) were more difficult for the SOM to generate an accurately ranked list, with success rates varying from 100% correct down to 0% correct. However, we were able to combine the numbers of species present in a region with clustering patterns in the SOM, to further refine confidence in lists generated from these sparsely populated regions. We then used the results from the virtual world to determine confidences for lists generated from the fungal pathogen dataset. Specifically, for lists generated for Australia and its states and territories, the reliability scores were between 84-98%. We conclude that a SOM analysis is a reliable method for analysing a large dataset of potential invasive species and could be used by biosecurity agencies around the world resulting in a better overall assessment of invasion risk.</dc:description>
+</oai_dc:dc>

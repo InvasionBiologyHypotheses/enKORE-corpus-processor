@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59042377</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q59042377</dc:identifier>
+  <dc:identifier>doi:10.1155/2014/630529</dc:identifier>
+  <dc:title>Synthesis of Phase-Only Reconfigurable Linear Arrays Using Multiobjective Invasive Weed Optimization Based on Decomposition</dc:title>
+  <dc:creator>Liu, Yan</dc:creator>
+  <dc:creator>Jiao, Yong-Chang</dc:creator>
+  <dc:creator>Zhang, Ya-Ming</dc:creator>
+  <dc:creator>Tan, Yan-Yan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>invasive weed optimization</dc:subject>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:publisher>Hindawi Limited</dc:publisher>
+  <dc:description>Synthesis of phase-only reconfigurable array aims at finding a common amplitude distribution and different phase distributions for the array to form different patterns. In this paper, the synthesis problem is formulated as a multiobjective optimization problem and solved by a new proposed algorithm MOEA/D-IWO. First, novel strategies are introduced in invasive weed optimization (IWO) to make original IWO fit for solving multiobjective optimization problems; then, the modified IWO is integrated into the framework of the recently well proved competitive multiobjective optimization algorithm MOEA/D to form a new competitive MOEA/D-IWO algorithm. At last, two sets of experiments are carried out to illustrate the effectiveness of MOEA/D-IWO. In addition, MOEA/D-IWO is compared with MOEA/D-DE, a new version of MOEA/D. The comparing results show the superiority of MOEA/D-IWO and indicate its potential for solving the antenna array synthesis problems.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35961021</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35961021</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3352479</dc:identifier>
+  <dc:identifier>doi:10.1111/J.1752-4571.2009.00116.X</dc:identifier>
+  <dc:title>Linking concepts in the ecology and evolution of invasive plants: network analysis shows what has been most studied and identifies knowledge gaps</dc:title>
+  <dc:creator>Vanderhoeven, Sonia</dc:creator>
+  <dc:creator>Brown, Cynthia S</dc:creator>
+  <dc:creator>Tepolt, Carolyn K</dc:creator>
+  <dc:creator>Tsutsui, Neil D</dc:creator>
+  <dc:creator>Vanparys, Valérie</dc:creator>
+  <dc:creator>Atkinson, Sheryl</dc:creator>
+  <dc:creator>Mahy, Grégory</dc:creator>
+  <dc:creator>Monty, Arnaud</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-03-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>knowledge gap hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q1481327</dc:subject>
+  <dc:subject>hypothesis:knowledge gap hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q1481327</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>knowledge gap</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

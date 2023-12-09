@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q61798219</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q61798219</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-36587-7</dc:identifier>
+  <dc:title>Modelling the current fractional cover of an invasive alien plant and drivers of its invasion in a dryland ecosystem</dc:title>
+  <dc:creator>Shiferaw, Hailu</dc:creator>
+  <dc:creator>Schaffner, Urs</dc:creator>
+  <dc:creator>Bewket, Woldeamlak</dc:creator>
+  <dc:creator>Alamirew, Tena</dc:creator>
+  <dc:creator>Zeleke, Gete</dc:creator>
+  <dc:creator>Teketay, Demel</dc:creator>
+  <dc:creator>Eckert, Sandra</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-02-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>drylands</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe development of spatially differentiated management strategies against invasive alien plant species requires a detailed understanding of their current distribution and of the level of invasion across the invaded range. The objectives of this study were to estimate the current fractional cover gradient of invasive trees of the genus Prosopis in the Afar Region, Ethiopia, and to identify drivers of its invasion. We used seventeen explanatory variables describing Landsat 8 image reflectance, topography, climate and landscape structures to model the current cover of Prosopis across the invaded range using the random forest (RF) algorithm. Validation of the RF algorithm confirmed high model performance with an accuracy of 92% and a Kappa-coefficient of 0.8. We found that, within 35 years after its introduction, Prosopis has invaded approximately 1.17 million ha at different cover levels in the Afar Region (12.3% of the surface). Normalized difference vegetation index (NDVI) and elevation showed the highest explanatory power among the 17 variables, in terms of both the invader’s overall distribution as well as areas with high cover. Villages and linear landscape structures (rivers and roads) were found to be more important drivers of future Prosopis invasion than environmental variables, such as climate and topography, suggesting that Prosopis is likely to continue spreading and increasing in abundance in the case study area if left uncontrolled. We discuss how information on the fractional cover and the drivers of invasion can help in developing spatially-explicit management recommendations against a target invasive plant species.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q30571682</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q30571682</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447880</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0045400</dc:identifier>
+  <dc:title>Interaction of species traits and environmental disturbance predicts invasion success of aquatic microorganisms</dc:title>
+  <dc:creator>Mächler, Elvira</dc:creator>
+  <dc:creator>Altermatt, Florian</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-09-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion success prediction</dc:subject>
+  <dc:subject>disturbance-mediated invasion</dc:subject>
+  <dc:subject>environmental disturbance</dc:subject>
+  <dc:subject>species trait</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Factors such as increased mobility of humans, global trade and climate change are affecting the range of many species, and cause large-scale translocations of species beyond their native range. Many introduced species have a strong negative influence on the new local environment and lead to high economic costs. There is a strong interest to understand why some species are successful in invading new environments and others not. Most of our understanding and generalizations thereof, however, are based on studies of plants and animals, and little is known on invasion processes of microorganisms. We conducted a microcosm experiment to understand factors promoting the success of biological invasions of aquatic microorganisms. In a controlled lab experiment, protist and rotifer species originally isolated in North America invaded into a natural, field-collected community of microorganisms of European origin. To identify the importance of environmental disturbances on invasion success, we either repeatedly disturbed the local patches, or kept them as undisturbed controls. We measured both short-term establishment and long-term invasion success, and correlated it with species-specific life-history traits. We found that environmental disturbances significantly affected invasion success. Depending on the invading species' identity, disturbances were either promoting or decreasing invasion success. The interaction between habitat disturbance and species identity was especially pronounced for long-term invasion success. Growth rate was the most important trait promoting invasion success, especially when the species invaded into a disturbed local community. We conclude that neither species traits nor environmental factors alone conclusively predict invasion success, but an integration of both of them is necessary.</dc:description>
+</oai_dc:dc>

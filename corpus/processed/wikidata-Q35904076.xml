@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35904076</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35904076</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0147766</dc:identifier>
+  <dc:title>Wolbachia in European Populations of the Invasive Pest Drosophila suzukii: Regional Variation in Infection Frequencies</dc:title>
+  <dc:creator>Cattel, Julien</dc:creator>
+  <dc:creator>Kaur, Rupinder</dc:creator>
+  <dc:creator>Gibert, Patricia</dc:creator>
+  <dc:creator>Martinez, Julien</dc:creator>
+  <dc:creator>Fraimout, Antoine</dc:creator>
+  <dc:creator>Jiggins, Francis M</dc:creator>
+  <dc:creator>Andrieux, Thibault</dc:creator>
+  <dc:creator>Siozios, Stefanos</dc:creator>
+  <dc:creator>Anfora, Gianfranco</dc:creator>
+  <dc:creator>Miller, Wolfgang</dc:creator>
+  <dc:creator>Rota-Stabelli, Omar</dc:creator>
+  <dc:creator>Mouton, Laurence</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Wolbachia</dc:subject>
+  <dc:subject>Drosophila suzukii</dc:subject>
+  <dc:subject>invasive pest species</dc:subject>
+  <dc:subject>invasive pest</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>The invasive pest Drosophila suzukii is characterized by a specific fresh-fruit targeting behavior and has quickly become a menace for the fruit economy of newly infested North American and European regions. D. suzukii carries a strain of the endosymbiotic bacterium Wolbachia, named wSuz, which has a low infection frequency and no reproductive manipulation capabilities in American populations of D. suzukii. To further understand the nature of wSuz biology and assess its utility as a tool for controlling this pest's populations, we investigated the prevalence of Wolbachia in 23 European D. suzukii populations, and compared our results with those available in American populations. Our data showed a highly variable infection frequency with a mean prevalence of 46%, which is significantly higher than the 17% found in American populations. Based on Multilocus Sequence Typing analysis, a single wSuz strain was diagnosed in all European populations of D. suzukii. In agreement with American data, we found no evidence of cytoplasmic incompatibility induced by wSuz. These findings raise two questions: a) why Wolbachia is maintained in field populations of D. suzukii and b) what are the selective forces responsible for the variation in prevalence within populations, particularly between European and American continents? Our results provide new insights into the D. suzukii-Wolbachia association and highlight regional variations that await further investigation and that should be taken into account for using Wolbachia-based pest management programs.</dc:description>
+</oai_dc:dc>

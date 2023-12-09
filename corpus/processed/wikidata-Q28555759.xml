@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28555759</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28555759</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5300280</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PNTD.0005332</dc:identifier>
+  <dc:title>Genetic evidence for a worldwide chaotic dispersion pattern of the arbovirus vector, Aedes albopictus</dc:title>
+  <dc:creator>Manni, Mosè</dc:creator>
+  <dc:creator>Guglielmino, Carmela R</dc:creator>
+  <dc:creator>Scolari, Francesca</dc:creator>
+  <dc:creator>Vega-Rúa, Anubis</dc:creator>
+  <dc:creator>Failloux, Anna-Bella</dc:creator>
+  <dc:creator>Somboon, Pradya</dc:creator>
+  <dc:creator>Lisa, Antonella</dc:creator>
+  <dc:creator>Savini, Grazia</dc:creator>
+  <dc:creator>Bonizzoni, Mariangela</dc:creator>
+  <dc:creator>Gomulski, Ludvik</dc:creator>
+  <dc:creator>Malacrida, Anna Rodolfa</dc:creator>
+  <dc:creator>Gasperi, Giuliano</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-01-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Asian tiger mosquito</dc:subject>
+  <dc:subject>infectious disease</dc:subject>
+  <dc:subject>Chikungunya virus</dc:subject>
+  <dc:subject>arbovirus</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>BackgroundInvasive species represent a global concern for their rapid spread and the possibility of infectious disease transmission. This is the case of the global invader Aedes albopictus, the Asian tiger mosquito. This species is a vector of medically important arboviruses, notably chikungunya (CHIKV), dengue (DENV) and Zika (ZIKV). The reconstruction of the complex colonization pattern of this mosquito has great potential for mitigating its spread and, consequently, disease risks.Methodology/principal findingsClassical population genetics analyses and Approximate Bayesian Computation (ABC) approaches were combined to disentangle the demographic history of Aedes albopictus populations from representative countries in the Southeast Asian native range and in the recent and more recently colonized areas. In Southeast Asia, the low differentiation and the high co-ancestry values identified among China, Thailand and Japan indicate that, in the native range, these populations maintain high genetic connectivity, revealing their ancestral common origin. China appears to be the oldest population. Outside Southeast Asia, the invasion process in La Réunion, America and the Mediterranean Basin is primarily supported by a chaotic propagule distribution, which cooperates in maintaining a relatively high genetic diversity within the adventive populations.Conclusions/significanceFrom our data, it appears that independent and also trans-continental introductions of Ae. albopictus may have facilitated the rapid establishment of adventive populations through admixture of unrelated genomes. As a consequence, a great amount of intra-population variability has been detected, and it is likely that this variability may extend to the genetic mechanisms controlling vector competence. Thus, in the context of the invasion process of this mosquito, it is possible that both population ancestry and admixture contribute to create the conditions for the efficient transmission of arboviruses and for outbreak establishment.</dc:description>
+</oai_dc:dc>

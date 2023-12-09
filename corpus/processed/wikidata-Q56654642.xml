@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56654642</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56654642</dc:identifier>
+  <dc:identifier>doi:10.1093/GIGASCIENCE/GIY095</dc:identifier>
+  <dc:title>Draft genome assembly of the invasive cane toad, Rhinella marina</dc:title>
+  <dc:creator>Edwards, Richard J.</dc:creator>
+  <dc:creator>Tuipulotu, Daniel Enosi</dc:creator>
+  <dc:creator>Amos, Timothy G</dc:creator>
+  <dc:creator>O'Meally, Denis</dc:creator>
+  <dc:creator>Richardson, Mark F</dc:creator>
+  <dc:creator>Russell, Tonia L</dc:creator>
+  <dc:creator>Vallinoto, Marcelo</dc:creator>
+  <dc:creator>Carneiro, Miguel</dc:creator>
+  <dc:creator>Ferrand, Nuno</dc:creator>
+  <dc:creator>Wilkins, Marc R</dc:creator>
+  <dc:creator>Sequeira, Fernando</dc:creator>
+  <dc:creator>Rollins, Lee A</dc:creator>
+  <dc:creator>Holmes, Edward C</dc:creator>
+  <dc:creator>Shine, Richard</dc:creator>
+  <dc:creator>White, Peter A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Cane Toad (Rhinella marina)</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Oxford University Press (OUP)</dc:publisher>
+  <dc:description>The cane toad (Rhinella marina formerly Bufo marinus) is a species native to Central and South America that has spread across many regions of the globe. Cane toads are known for their rapid adaptation and deleterious impacts on native fauna in invaded regions. However, despite an iconic status, there are major gaps in our understanding of cane toad genetics. The availability of a genome would help to close these gaps and accelerate cane toad research. We report a draft genome assembly for R. marina, the first of its kind for the Bufonidae family. We used a combination of long-read Pacific Biosciences RS II and short-read Illumina HiSeq X sequencing to generate 359.5 Gb of raw sequence data. The final hybrid assembly of 31,392 scaffolds was 2.55 Gb in length with a scaffold N50 of 168 kb. BUSCO analysis revealed that the assembly included full length or partial fragments of 90.6% of tetrapod universal single-copy orthologs (n = 3950), illustrating that the gene-containing regions have been well assembled. Annotation predicted 25,846 protein coding genes with similarity to known proteins in Swiss-Prot. Repeat sequences were estimated to account for 63.9% of the assembly. The R. marina draft genome assembly will be an invaluable resource that can be used to further probe the biology of this invasive species. Future analysis of the genome will provide insights into cane toad evolution and enrich our understanding of their interplay with the ecosystem at large.</dc:description>
+</oai_dc:dc>

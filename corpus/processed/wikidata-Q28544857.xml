@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28544857</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28544857</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4370511</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0121358</dc:identifier>
+  <dc:title>No evidence of enemy release in pathogen and microbial communities of common wasps (Vespula vulgaris) in their native and introduced range</dc:title>
+  <dc:creator>Lester, Phil</dc:creator>
+  <dc:creator>Bosch, Peter J</dc:creator>
+  <dc:creator>Gruber, Monica A M</dc:creator>
+  <dc:creator>Kapp, Eugene A</dc:creator>
+  <dc:creator>Peng, Lifeng</dc:creator>
+  <dc:creator>Brenton-Rule, Evan C</dc:creator>
+  <dc:creator>Buchanan, Joe</dc:creator>
+  <dc:creator>Stanislawek, Wlodek L</dc:creator>
+  <dc:creator>Archer, Michael</dc:creator>
+  <dc:creator>Corley, Juan C</dc:creator>
+  <dc:creator>Masciocchi, Maite</dc:creator>
+  <dc:creator>Van Oystaeyen, Annette</dc:creator>
+  <dc:creator>Wenseleers, Tom</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-03-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>enemy release hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>hypothesis:enemy release hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q85759287</dc:subject>
+  <dc:subject>Vespula vulgaris</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>When invasive species move to new environments they typically experience population bottlenecks that limit the probability that pathogens and parasites are also moved. The invasive species may thus be released from biotic interactions that can be a major source of density-dependent mortality, referred to as enemy release. We examined for evidence of enemy release in populations of the common wasp (Vespula vulgaris), which attains high densities and represents a major threat to biodiversity in its invaded range. Mass spectrometry proteomic methods were used to compare the microbial communities in wasp populations in the native (Belgium and England) and invaded range (Argentina and New Zealand). We found no evidence of enemy release, as the number of microbial taxa was similar in both the introduced and native range. However, some evidence of distinctiveness in the microbial communities was observed between countries. The pathogens observed were similar to a variety of taxa observed in honey bees. These taxa included Nosema, Paenibacillus, and Yersina spp. Genomic methods confirmed a diversity of Nosema spp., Actinobacteria, and the Deformed wing and Kashmir bee viruses. We also analysed published records of bacteria, viruses, nematodes and fungi from both V. vulgaris and the related invader V. germanica. Thirty-three different microorganism taxa have been associated with wasps including Kashmir bee virus and entomophagous fungi such as Aspergillus flavus. There was no evidence that the presence or absence of these microorganisms was dependent on region of wasp samples (i.e. their native or invaded range). Given the similarity of the wasp pathogen fauna to that from honey bees, the lack of enemy release in wasp populations is probably related to spill-over or spill-back from bees and other social insects. Social insects appear to form a reservoir of generalist parasites and pathogens, which makes the management of wasp and bee disease difficult.</dc:description>
+</oai_dc:dc>

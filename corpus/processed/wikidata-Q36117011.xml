@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36117011</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36117011</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0161853</dc:identifier>
+  <dc:title>Extensive Genetic Diversity of HIV-1 in Incident and Prevalent Infections among Malaysian Blood Donors: Multiple Introductions of HIV-1 Genotypes from Highly Prevalent Countries</dc:title>
+  <dc:creator>Chow, Wei Zhen</dc:creator>
+  <dc:creator>Bon, Abdul Hamid</dc:creator>
+  <dc:creator>Keating, Sheila</dc:creator>
+  <dc:creator>Anderios, Fread</dc:creator>
+  <dc:creator>Halim, Hazwan Abdul</dc:creator>
+  <dc:creator>Takebe, Yutaka</dc:creator>
+  <dc:creator>Kamarulzaman, Adeeba</dc:creator>
+  <dc:creator>Busch, Michael P</dc:creator>
+  <dc:creator>Tee, Kok Keng</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-08-30</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Malaysia</dc:subject>
+  <dc:subject>genetic diversity</dc:subject>
+  <dc:subject>multiple introductions</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Transfusion-transmissible infections including HIV-1 continue to pose major risks for unsafe blood transfusions due to both window phase infections and divergent viruses that may not be detected by donor screening assays. Given the recent emergence of several HIV-1 circulating recombinant forms (CRFs) in high-risk populations in the Southeast Asia region, we investigated the genetic diversity of HIV-1 among the blood donors in Kuala Lumpur, Malaysia. A total of 211 HIV-positive plasma samples detected among 730,188 donations to the National Blood Centre between 2013 and 2014 were provided (90.5% male, median age: 27.0 years old). Recent or long-term infection status at the time of donation was determined using a limiting antigen avidity enzyme immunoassay (LAg-Avidity EIA). HIV-1 gag-pol genes were amplified and sequenced from residual plasma for 149 cases followed by genotype determination using phylogenetic and recombination analyses. Transmitted antiretroviral resistance mutations were not observed among the blood donors, among which 22.7% were classified as recent or incident infections. Major circulating HIV-1 genotypes determined by neighbour-joining phylogenetic inference included CRF01_AE at 40.9% (61/149), CRF33_01B at 21.5% (32/149), and subtype B at 10.1% (15/149). Newly-described CRFs including CRF54_01B circulated at 4.0%, CRF74_01B at 2.0%, and CRF53_01B and CRF48_01B at 0.7% each. Interestingly, unique HIV-1 genotypes including African subtype G (8.7%), CRF45_cpx (1.3%), CRF02_AG (0.7%) and CRF07_BC (0.7%) from China were detected for the first time in the country. A cluster of subtype G sequences formed a distinct founder sub-lineage within the African strains. In addition, 8.7% (13/149) of HIV-infected donors had unique recombinant forms (URFs) including CRF01_AE/B' (4.7%), B'/C (2.7%) and B'/G (1.3%) recombinants. Detailed analysis identified similar recombinant structures with shared parental strains among the B'/C and B'/G URFs, some of which were sequenced from recently infected individuals, indicating the possible emergence and on-going spread of foreign clades of CRF candidates among the local population. The findings demonstrate extensive molecular complexity of HIV-1 among the infected blood donors in Malaysia, driven in part by the increased spread of recently described CRFs and multiple introductions of previously unreported genotypes from highly prevalent countries.</dc:description>
+</oai_dc:dc>

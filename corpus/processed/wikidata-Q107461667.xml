@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q107461667</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q107461667</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.62.52623</dc:identifier>
+  <dc:title>Comparing the IUCN’s EICAT and Red List to improve assessments of the impact of biological invasions</dc:title>
+  <dc:creator>Van der Colff, Dewidine</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Foden, Wendy</dc:creator>
+  <dc:creator>Wilson, John R. U.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-15</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>aquatic science</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>IUCN Red List</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>invasion impact assessment</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The IUCN recommends the use of two distinct schemes to assess the impacts of biological invasions on biodiversity at the species level. The IUCN Red List of Threatened Species (Red List) categorises native species based on their risk of extinction. Such assessments evaluate the extent to which different pressures, including alien species, threaten native species. The much newer IUCN Environmental Impact Classification for Alien Taxa (EICAT) categorises alien species on the degree to which they have impacted native species. Conceptually, the schemes are related. One would expect that: 1) if a native species is assessed as threatened under the Red List due to the impacts of alien species, then at least one alien species involved should be classified as harmful under EICAT; and 2) if an alien species is assessed as harmful under EICAT, then at least one native species impacted should be assessed as threatened by alien species under the Red List. Here we test this by comparing the impacts of alien gastropods, assessed using EICAT, to the impact on native species as assessed based on the Red List. We found a weak positive correlation, but it is clear there is not a simple one-to-one relationship. We hypothesise that the relationship between EICAT and the Red List statuses will follow one of three forms: i) the EICAT status of an alien species is closely correlated to the Red List status of the impacted native species; ii) the alien species is classed as ‘harmful’ under EICAT, but it does not threaten the native species with extinction as per the Red List (for example, the impacted native species is still widespread or abundant despite significant negative impacts from the alien species); or iii) the native species is classified as threatened under the Red List regardless of the impacts of the alien species (threatened species are impacted by other pressures with alien species potentially a passenger and not a driver of change). We conclude that the two schemes are complementary rather than equivalent, and provide some recommendations for how categorisations and data can be used in concert.</dc:description>
+</oai_dc:dc>

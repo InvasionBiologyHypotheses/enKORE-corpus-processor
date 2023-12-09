@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60508508</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q60508508</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6331569</dc:identifier>
+  <dc:identifier>doi:10.1038/S41396-018-0283-X</dc:identifier>
+  <dc:title>Niche and fitness differences determine invasion success and impact in laboratory bacterial communities</dc:title>
+  <dc:creator>Li, Shao-Peng</dc:creator>
+  <dc:creator>Tan, Jiaqi</dc:creator>
+  <dc:creator>Yang, Xian</dc:creator>
+  <dc:creator>Chao</dc:creator>
+  <dc:creator>Jiang, Lin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-09-25</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>There is increasing awareness of invasion in microbial communities worldwide, but the mechanisms behind microbial invasions remain poorly understood. Specifically, we know little about how the evolutionary and ecological differences between invaders and natives regulate invasion success and impact. Darwin's naturalization hypothesis suggests that the phylogenetic distance between invaders and natives could be a useful predictor of invasion, and modern coexistence theory proposes that invader-native niche and fitness differences combine to determine invasion outcome. However, the relative importance of phylogenetic distance, niche difference_and fitness difference for microbial invasions has rarely been examined. By using laboratory bacterial microcosms as model systems, we experimentally assessed the roles of these differences for the success of bacterial invaders and their impact on native bacterial community structure. We found that the phylogenetic distance between invaders and natives failed to explain invasion success and impact for two of three invaders at the phylogenetic scale considered. Further, we found that invasion success was better explained by invader-native niche differences than relative fitness differences for all three invaders, whereas invasion impact was better explained by invader-native relative fitness differences than niche differences. These findings highlight the utility of considering modern coexistence theory to gain a more mechanistic understanding of microbial invasions.</dc:description>
+</oai_dc:dc>

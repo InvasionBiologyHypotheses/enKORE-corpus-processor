@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114918033</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114918033</dc:identifier>
+  <dc:identifier>doi:10.3390/D14110915</dc:identifier>
+  <dc:title>Mapping the Distribution and Dispersal Risks of the Alien Invasive Plant Ageratina adenophora in China</dc:title>
+  <dc:creator>Zhang, Xiaojuan</dc:creator>
+  <dc:creator>Wang, Yanru</dc:creator>
+  <dc:creator>Peng, Peihao</dc:creator>
+  <dc:creator>Wang, Guoyan</dc:creator>
+  <dc:creator>Zhao, Guanyue</dc:creator>
+  <dc:creator>Zhou, Yongxiu</dc:creator>
+  <dc:creator>Tang, Zihao</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-10-27</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>Ageratina adenophora</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Identifying the distribution dynamics of invasive alien species can help in the early detection of and rapid response to these invasive species in newly invaded sites. Ageratina adenophora, a worldwide invasive plant, has spread rapidly since its invasion in China in the 1940s, causing serious damage to the local socioeconomic and ecological environment. To better control the spread of this invasive plant, we used the MaxEnt model and ArcGIS based on field survey data and online databases to simulate and predict the spatial and temporal distribution patterns and risk areas for the spread of this species in China, and thus examined the key factors responsible for this weed’s spread. The results showed that the risk areas for the invasion of A. adenophora in the current period were 18.394° N–33.653° N and 91.099° E–121.756° E, mainly in the tropical and subtropical regions of China, and densely distributed along rivers and well-developed roads. The high-risk areas are mainly located in the basins of the Lancang, Jinsha, Yalong, and Anning Rivers. With global climate change, the trend of continued invasion of A. adenophora is more evident, with further expansion of the dispersal zone towards the northeast and coastal areas in all climatic scenarios, and a slight contraction in the Yunnan–Guizhou plateau. Temperature, precipitation, altitude, and human activity are key factors in shaping the distribution pattern of A. adenophora. This weed prefers to grow in warm and precipitation-rich environments such as plains, hills, and mountains; in addition, increasing human activities provide more opportunities for its invasion, and well-developed water systems and roads can facilitate its spread. Measures should be taken to prevent its spread into these risk areas.</dc:description>
+</oai_dc:dc>

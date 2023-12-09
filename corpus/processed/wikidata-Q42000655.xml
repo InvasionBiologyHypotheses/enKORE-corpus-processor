@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q42000655</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q42000655</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3434934</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.261</dc:identifier>
+  <dc:title>Introduction pathway and climate trump ecology and life history as predictors of establishment success in alien frogs and toads</dc:title>
+  <dc:creator>Rago, Alfredo</dc:creator>
+  <dc:creator>While, Geoffrey M.</dc:creator>
+  <dc:creator>Uller, Tobias</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-07-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by-nc/3.0/</dc:rights>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>establishment success</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractA major goal for ecology and evolution is to understand how abiotic and biotic factors shape patterns of biological diversity. Here, we show that variation in establishment success of nonnative frogs and toads is primarily explained by variation in introduction pathways and climatic similarity between the native range and introduction locality, with minor contributions from phylogeny, species ecology, and life history. This finding contrasts with recent evidence that particular species characteristics promote evolutionary range expansion and reduce the probability of extinction in native populations of amphibians, emphasizing how different mechanisms may shape species distributions on different temporal and spatial scales. We suggest that contemporary changes in the distribution of amphibians will be primarily determined by human‐mediated extinctions and movement of species within climatic envelopes, and less by species‐typical traits.</dc:description>
+</oai_dc:dc>

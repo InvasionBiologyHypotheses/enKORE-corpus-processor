@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111174280</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111174280</dc:identifier>
+  <dc:identifier>doi:10.1242/JEB.242985</dc:identifier>
+  <dc:title>The alternative oxidase (AOX) increases sulphide tolerance in the highly invasive marine invertebrate Ciona intestinalis</dc:title>
+  <dc:creator>Bremer, Katharina</dc:creator>
+  <dc:creator>Yasuo, Hitoyoshi</dc:creator>
+  <dc:creator>Debes, Paul Vincent</dc:creator>
+  <dc:creator>Jacobs, Howard</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-08-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Ciona intestinalis</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>The Company of Biologists</dc:publisher>
+  <dc:description>ABSTRACTEcological communities and biodiversity are shaped by both abiotic and biotic factors. This is well illustrated by extreme environments and invasive species. Besides naturally occurring sulphide-rich environments, global change can lead to an increase in hydrogen sulphide episodes that threaten many multicellular organisms. With the increase in the formation, size and abundance of oxygen minimum zones and hypoxic environments, bacterial-associated sulphide production is favoured and, as such, hydrogen-sulphide-rich environments are likely to also increase in size and abundance. Many species are challenged by the inhibiting effect of sulphide on aerobic energy production via cytochrome c oxidase, ultimately causing the death of the organism. Interestingly, many protist, yeast, plant and also animal species possess a sulphide-resistant alternative oxidase (AOX). In this study, we investigated whether AOX is functionally involved in the sulphide stress response of the highly invasive marine tunicate Ciona intestinalis. At the LC50, the sulphide-induced reduction of developmental success was three times stronger in AOX knock-down embryos than in control embryos. Further, AOX mRNA levels were higher under sulphide than under control conditions, and this effect increased during embryonic development. Together, we found that AOX is indeed functionally involved in the sulphide tolerance of C. intestinalis embryos, hence, very likely contributing to its invasive potential; and that the response of AOX to sulphide seems to be controlled at the transcriptional level. We suggest that AOX-possessing species play an important role in shaping marine ecological communities, and this importance may increase under ongoing global change.</dc:description>
+</oai_dc:dc>

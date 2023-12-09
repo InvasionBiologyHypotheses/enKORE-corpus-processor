@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117046320</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117046320</dc:identifier>
+  <dc:identifier>doi:10.3390/AGRONOMY13020593</dc:identifier>
+  <dc:title>Mapping the Invasive Species Stellera chamaejasme in Alpine Grasslands Using Ecological Clustering, Spectral Separability and Image Classification</dc:title>
+  <dc:creator>Hu, Nianzhao</dc:creator>
+  <dc:creator>Liu, Yongmei</dc:creator>
+  <dc:creator>Ge, Xinghua</dc:creator>
+  <dc:creator>Dong, Xingzhi</dc:creator>
+  <dc:creator>Wang, Huaiyu</dc:creator>
+  <dc:creator>Long, Yongqing</dc:creator>
+  <dc:creator>Wang, Lei</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-02-18</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>image classification</dc:subject>
+  <dc:subject>Stellera chamaejasme</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Stellera chamaejasme (Thymelaeaceae) is amongst the worst invasive species of the alpine grasslands on the Qinghai–Tibet Plateau; timely and effective monitoring is critical for its prevention and control. In this study, by using high spatial resolution Planet imagery, an optimal approach was explored to improve the discrimination of S. chamaejasme from surrounding communities, integrated with TWINSAPN technique, Transformed divergence and image classification algorithms. Results demonstrated that there were obvious spectral conflicts observed among the TWINSPAN ecological communities, owing to the inconsistency of S. chamaejasme coverage within the communities. By determining the threshold of spectral separability, the adjustment of ecological classification produced spectrally separated S. chamaejasme communities and native species communities. The sensitive index characterizing the spectra of S. chamaejasme contributes to its discrimination; moderate or good classification accuracy was obtained by using four machine learning algorithms, of which Random Forest achieved the highest accuracy of S. chamaejasme classification. Our study suggests the distinct phenological feature of S. chamaejasme provides a basis for the detection of the toxic weed, and the establishment of communities using the rule of spectral similarity can assist the accurate discrimination of invasive species.</dc:description>
+</oai_dc:dc>

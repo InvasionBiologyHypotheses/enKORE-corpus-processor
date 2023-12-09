@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55328175</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55328175</dc:identifier>
+  <dc:identifier>doi:10.1111/DDI.12379</dc:identifier>
+  <dc:title>Framework and guidelines for implementing the proposed IUCN Environmental Impact Classification for Alien Taxa (EICAT)</dc:title>
+  <dc:creator>Hawkins, Charlotte L.</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:creator>Essl, Franz</dc:creator>
+  <dc:creator>Hulme, Philip E.</dc:creator>
+  <dc:creator>Jeschke, Jonathan M.</dc:creator>
+  <dc:creator>Kühn, Ingolf</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Nentwig, Wolfgang</dc:creator>
+  <dc:creator>Pergl, Jan</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Rabitsch, Wolfgang</dc:creator>
+  <dc:creator>Richardson, David M.</dc:creator>
+  <dc:creator>Vilà, Montserrat</dc:creator>
+  <dc:creator>Wilson, John R. U.</dc:creator>
+  <dc:creator>Genovesi, Piero</dc:creator>
+  <dc:creator>Blackburn, Tim M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-09-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>environmental effects</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractRecently, Blackburn et al. (2014) developed a simple, objective and transparent method for classifying alien taxa in terms of the magnitude of their detrimental environmental impacts in recipient areas. Here, we present a comprehensive framework and guidelines for implementing this method, which we term the Environmental Impact Classification for Alien Taxa, or EICAT. We detail criteria for applying the EICAT scheme in a consistent and comparable fashion, prescribe the supporting information that should be supplied along with classifications, and describe the process for implementing the method. This comment aims to draw the attention of interested parties to the framework and guidelines, and to present them in their entirety in a location where they are freely accessible to any potential users.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111319822</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111319822</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS11040541</dc:identifier>
+  <dc:title>Ecological Networks in Urban Forest Fragments Reveal Species Associations between Native and Invasive Plant Communities</dc:title>
+  <dc:creator>Chauhan, Sonali</dc:creator>
+  <dc:creator>Yadav, Gitanjali</dc:creator>
+  <dc:creator>Babu, Suresh</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-02-17</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>urban ecology</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>urban forest</dc:subject>
+  <dc:subject>urban invasion</dc:subject>
+  <dc:subject>plant community</dc:subject>
+  <dc:subject>forest invasion</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Forest fragments are characteristic features of many megacities that have survived the urbanisation process and are often represented by unique assemblages of flora and fauna. Such woodlands are representations of nature in the city—often dominated by non-native and invasive species that coexist with resilient native congeners and purposefully introduced flora. These forest fragments also provide significant ecosystem services to urban society and therefore, understanding their compositional patterns is of considerable importance for conservation and management. In this work, we use a complex network approach to investigate species assemblages across six distinct urban forest fragments in the South Delhi Ridge area of the National Capital Territory, India. We generate bipartite ecological networks using conventional vegetation sampling datasets, followed by network partitioning to identify multiple cliques across the six forest fragments. Our results show that urban woodlands primarily form invasive–native associations, and that major invasive species, such as Prosopis juliflora and Lantana camara exclude each other while forming cliques. Our findings have implications for the conservation of these urban forests and highlight the importance of using network approaches in vegetation analysis.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56395631</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56395631</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-28468-W</dc:identifier>
+  <dc:title>Modeling the distributions of tegu lizards in native and potential invasive ranges</dc:title>
+  <dc:creator>Jarnevich, Catherine S</dc:creator>
+  <dc:creator>Hayes, Mark A</dc:creator>
+  <dc:creator>Fitzgerald, Lee A</dc:creator>
+  <dc:creator>Adams, Amy A Yackel</dc:creator>
+  <dc:creator>Falk, Bryan G</dc:creator>
+  <dc:creator>Collier, Michelle A M</dc:creator>
+  <dc:creator>Bonewell, Lea' R</dc:creator>
+  <dc:creator>Klug, Page E</dc:creator>
+  <dc:creator>Naretto, Sergio</dc:creator>
+  <dc:creator>Reed, Robert N</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-07-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasive range</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvasive reptilian predators can have substantial impacts on native species and ecosystems. Tegu lizards are widely distributed in South America east of the Andes, and are popular in the international live animal trade. Two species are established in Florida (U.S.A.) - Salvator merianae (Argentine black and white tegu) and Tupinambis teguixin sensu lato (gold tegu) – and a third has been recorded there— S. rufescens (red tegu). We built species distribution models (SDMs) using 5 approaches (logistic regression, multivariate adaptive regression splines, boosted regression trees, random forest, and maximum entropy) based on data from the native ranges. We then projected these models to North America to develop hypotheses for potential tegu distributions. Our results suggest that much of the southern United States and northern México probably contains suitable habitat for one or more of these tegu species. Salvator rufescens had higher habitat suitability in semi-arid areas, whereas S. merianae and T. teguixin had higher habitat suitability in more mesic areas. We propose that Florida is not the only state where these taxa could become established, and that early detection and rapid response programs targeting tegu lizards in potentially suitable habitat elsewhere in North America could help prevent establishment and abate negative impacts on native ecosystems.</dc:description>
+</oai_dc:dc>

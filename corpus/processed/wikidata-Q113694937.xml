@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113694937</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113694937</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS11131761</dc:identifier>
+  <dc:title>Potential Distribution of and Sensitivity Analysis for Urochloa panicoides Weed Using Modeling: An Implication of Invasion Risk Analysis for China and Europe</dc:title>
+  <dc:creator>Duque, Tayna Sousa</dc:creator>
+  <dc:creator>Silva, Ricardo Siqueira</dc:creator>
+  <dc:creator>Maciel, Josiane Costa</dc:creator>
+  <dc:creator>Silva, Daniel Valadão</dc:creator>
+  <dc:creator>Fernandes, Bruno Caio Chaves</dc:creator>
+  <dc:creator>Júnior, Aurélio Paes Barros</dc:creator>
+  <dc:creator>Santos, José Barbosa Dos</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-07-01</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Urochloa panicoides</dc:subject>
+  <dc:subject>invasion risk analysis</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Urochloapanicoides P. Beauv. is considered one of the most harmful weeds in the United States and Australia. It is invasive in Pakistan, Mexico, and Brazil, but its occurrence is hardly reported in China and European countries. Species distribution models enable the measurement of the impact of climate change on plant growth, allowing for risk analysis, effective management, and invasion prevention. The objective of this study was to develop current and future climate models of suitable locations for U. panicoides and to determine the most influential climatic parameters. Occurrence data and biological information on U. panicoides were collected, and climatic parameters were used to generate the Ecoclimatic Index (EI) and to perform sensitivity analysis. The future projections for 2050, 2080, and 2100 were modeled under the A2 SRES scenario using the Global Climate Model, CSIRO-Mk3.0 (CS). The potential distribution of U. panicoides coincided with the data collected, and the reliability of the final model was demonstrated. The generated model identified regions where the occurrence was favorable, despite few records of the species. Sensitivity analysis showed that the most sensitive parameters of the model were related to temperature, humidity, and cold stress. Future projections predict reductions in climate suitability for U. panicoides in Brazil, Australia, India, and Africa, and an increase in suitability in Mexico, the United States, European countries, and China. The rise in suitability of China and Europe is attributed to predicted climate change, including reduction in cold stress. From the results obtained, preventive management strategies can be formulated against the spread of U. panicoides, avoiding economic and biodiversity losses.</dc:description>
+</oai_dc:dc>

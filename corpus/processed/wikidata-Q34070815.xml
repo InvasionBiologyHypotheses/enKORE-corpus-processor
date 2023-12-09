@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34070815</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34070815</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0105535</dc:identifier>
+  <dc:title>Evaluating Darwin's naturalization hypothesis in experimental plant assemblages: phylogenetic relationships do not determine colonization success</dc:title>
+  <dc:creator>Castro, Sergio A</dc:creator>
+  <dc:creator>Escobedo, Victor M</dc:creator>
+  <dc:creator>Aranda, Jorge</dc:creator>
+  <dc:creator>O Carvallo, Gastón</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-08-20</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>hypothesis:Darwin's naturalization hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q116193385</dc:subject>
+  <dc:subject>phylogenetics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Darwin's naturalization hypothesis (DNH) proposes that colonization is less likely when the colonizing species is related to members of the invaded community, because evolutionary closeness intensifies competition among species that share similar resources. Studies that have evaluated DNH from correlational evidence have yielded controversial results with respect to its occurrence and generality. In the present study we carried out a set of manipulative experiments in which we controlled the phylogenetic relatedness of one colonizing species (Lactuca sativa) with five assemblages of plants (the recipient communities), and evaluated the colonizing success using five indicators (germination, growth, flowering, survival, and recruitment). The evolutionary relatedness was calculated as the mean phylogenetic distance between Lactuca and the members of each assemblage (MPD) and by the mean phylogenetic distance to the nearest neighbor (MNND). The results showed that the colonization success of Lactuca was not affected by MPD or MNND values, findings that do not support DNH. These results disagree with experimental studies made with communities of microorganisms, which show an inverse relation between colonization success and phylogenetic distances. We suggest that these discrepancies may be due to the high phylogenetic distance used, since in our experiments the colonizing species (Lactuca) was a distant relative of the assemblage members, while in the other studies the colonizing taxa have been related at the congeneric and conspecific levels. We suggest that under field conditions the phylogenetic distance is a weak predictor of competition, and it has a limited role in determining colonization success, contrary to prediction of the DNH. More experimental studies are needed to establish the importance of phylogenetic distance between colonizing species and invaded community on colonization success.</dc:description>
+</oai_dc:dc>
