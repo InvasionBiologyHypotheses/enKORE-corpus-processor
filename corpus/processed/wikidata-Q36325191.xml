@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36325191</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36325191</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5369319</dc:identifier>
+  <dc:identifier>doi:10.1038/SDATA.2017.41</dc:identifier>
+  <dc:title>The global avian invasions atlas, a database of alien bird distributions worldwide</dc:title>
+  <dc:creator>Dyer, Ellie E</dc:creator>
+  <dc:creator>Redding, David W</dc:creator>
+  <dc:creator>Blackburn, Tim M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-03-28</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>database</dc:subject>
+  <dc:subject>avian invasion</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractThe introduction of species to locations where they do not naturally occur (termed aliens) can have far-reaching and unpredictable environmental and economic consequences. Therefore there is a strong incentive to stem the tide of alien species introduction and spread. In order to identify broad patterns and processes of alien invasions, a spatially referenced, global dataset on the historical introductions and alien distributions of a complete taxonomic group is required. Here we present the Global Avian Invasions Atlas (GAVIA)—a new spatial and temporal dataset comprising 27,723 distribution records for 971 alien bird species introduced to 230 countries and administrative areas spanning the period 6000BCE—AD2014. GAVIA was initiated to provide a unified database of records on alien bird introductions, incorporating records from all stages of invasion, including introductions that have failed as well as those that have succeeded. GAVIA represents the most comprehensive resource on the global distribution of alien species in any major taxon, allowing the spatial and temporal dynamics of alien bird distributions to be examined.</dc:description>
+</oai_dc:dc>

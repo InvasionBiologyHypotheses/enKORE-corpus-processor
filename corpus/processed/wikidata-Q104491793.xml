@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104491793</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104491793</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0243412</dc:identifier>
+  <dc:title>Genomic epidemiology reveals multiple introductions and spread of SARS-CoV-2 in the Indian state of Karnataka</dc:title>
+  <dc:creator>Pattabiraman, Chitra</dc:creator>
+  <dc:creator>Habib, Farhat</dc:creator>
+  <dc:creator>K, Harsha P</dc:creator>
+  <dc:creator>Rasheed, Risha</dc:creator>
+  <dc:creator>Prasad, Pramada</dc:creator>
+  <dc:creator>Reddy, Vijayalakshmi</dc:creator>
+  <dc:creator>Dinesh, Prameela</dc:creator>
+  <dc:creator>Damodar, Tina</dc:creator>
+  <dc:creator>Hosallimath, Kiran</dc:creator>
+  <dc:creator>George, Anson K</dc:creator>
+  <dc:creator>Reddy, Nakka Vijay Kiran</dc:creator>
+  <dc:creator>John, Banerjee</dc:creator>
+  <dc:creator>Pattanaik, Amrita</dc:creator>
+  <dc:creator>Kumar, Narendra</dc:creator>
+  <dc:creator>Mani, Reeta S</dc:creator>
+  <dc:creator>Venkataswamy, Manjunatha M</dc:creator>
+  <dc:creator>Hameed, Shafeeq K Shahul</dc:creator>
+  <dc:creator>G, Prakash Kumar B</dc:creator>
+  <dc:creator>Desai, Anita</dc:creator>
+  <dc:creator>Vasanthapuram, Ravi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-17</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>SARS-CoV-2</dc:subject>
+  <dc:subject>multiple introductions</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Karnataka, a state in south India, reported its first case of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infection on March 8, 2020, more than a month after the first case was reported in India. We used a combination of contact tracing and genomic epidemiology to trace the spread of SARS-CoV-2 in the state up until May 21, 2020 (1578 cases). We obtained 91 genomes of SARS-CoV-2 which clustered into seven lineages (Pangolin lineages—A, B, B.1, B.1.80, B.1.1, B.4, and B.6). The lineages in Karnataka were known to be circulating in China, Southeast Asia, Iran, Europe and other parts of India and are likely to have been imported into the state both by international and domestic travel. Our sequences grouped into 17 contact clusters and 24 cases with no known contacts. We found 14 of the 17 contact clusters had a single lineage of the virus, consistent with multiple introductions and most (12/17) were contained within a single district, reflecting local spread. In most of the 17 clusters, the index case (12/17) and spreaders (11/17) were symptomatic. Of the 91 sequences, 47 belonged to the B.6 lineage, including eleven of 24 cases with no known contact, indicating ongoing transmission of this lineage in the state. Genomic epidemiology of SARS-CoV-2 in Karnataka suggests multiple introductions of the virus followed by local transmission in parallel with ongoing viral evolution. This is the first study from India combining genomic data with epidemiological information emphasizing the need for an integrated approach to outbreak response.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120648342</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120648342</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.4269</dc:identifier>
+  <dc:title>Understanding spatially explicit capture–recapture parameters for informing invasive animal management</dc:title>
+  <dc:creator>Anderson, P</dc:creator>
+  <dc:creator>Rouco, Carlos</dc:creator>
+  <dc:creator>Latham, Maria Cecilia</dc:creator>
+  <dc:creator>Warburton, Bruce</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-11-15</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive animal</dc:subject>
+  <dc:subject>capture-recapture</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractSpatially explicit capture–recapture modeling is used to estimate population density to enhance our ecological understanding and management of wildlife populations. The two primary parameters estimated in the capture process of these models are _ and g0. The _ parameter is the standard deviation of a bivariate normal home range kernel (indicating home range size), while g0 is the probability of capture by a device placed at the home range center. These parameters are being increasingly generalized and used in simulation models to predict the detection or capture rates of invasive animals to inform management strategies. Given the sensitivity of simulation model predictions to parameter values, we performed an analysis of preexisting GPS telemetry and trapping data of invasive brushtail possums (Trichosurus vulpecula) across New Zealand to address the following three questions. First, how does _ vary with population density, habitat, and age–sex class? Second, how is g0 influenced by home range size (i.e., _) and trap type? Third, how does the predicted probability of capture or detection of individuals vary with _, different trap types and trap densities? We used data from 180 possums across 18 sites to develop a Bayesian hierarchical model. Results showed that _ decreased with increasing population density and increasing area of productive grassland. There was a strong negative relationship between _ and g0, and g0 was highest for cage traps and lowest for raised leg‐hold traps. Despite the potential compensatory inverse effect of g0 with _, the probability of capturing a randomly located possum by a large array of traps increased with increasing _. Results show that selection of _ for predictive simulation modeling should begin with an estimated population density. The associated g0 should then be identified as a function of _, and stochasticity should be incorporated to account for inter‐individual variability. The approach employed here provides a methodology for estimating density, _, and g0 using trapping and telemetry data, and our results will help guide careful consideration of density, _, and g0 to improve the accuracy of simulation studies across species.</dc:description>
+</oai_dc:dc>

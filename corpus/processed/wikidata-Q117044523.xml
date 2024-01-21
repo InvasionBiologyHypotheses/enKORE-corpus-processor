@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117044523</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117044523</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2745.14085</dc:identifier>
+  <dc:title>No consistencies in abundance‐impact relationships across herbaceous invasive species and ecological impact metrics</dc:title>
+  <dc:creator>Fenesi, Annamária</dc:creator>
+  <dc:creator>Botta-Dukát, Zoltán</dc:creator>
+  <dc:creator>Miholcsa, Zsombor</dc:creator>
+  <dc:creator>Szigeti, Viktor</dc:creator>
+  <dc:creator>Molnár, Csaba</dc:creator>
+  <dc:creator>Sándor, Dorottya</dc:creator>
+  <dc:creator>Szabó, Anna</dc:creator>
+  <dc:creator>Kuhn, Thomas</dc:creator>
+  <dc:creator>Kovács‐Hostyánszki, Anikó</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-03-02</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Abstract
+
+
+The general shape (from linear to complex curve), direction (negative and positive) and strength (steepness of the slope) of abundance–impact relationships for different impact metrics are poorly known, despite their importance in understanding and predicting ecological repercussions of invasive species. It is also an open question how the functional traits of invasive species may influence the abundance–impact relationship.
+
+We studied 11 widespread herbaceous invasive alien species of East‐Central Europe and their 16 impact metrics (resident plant communities' ecological characteristics, trait composition, functional diversity and soil parameters) by sampling invaded and similar, uninvaded sites (space‐for‐time substitution method). Our aim was to (1) investigate the detailed ecological impacts of invasive plants on native plant communities; (2) explore the type of cover–impact relationships across impact metrics and their consistency across species and (3) study whether the cover–impact relationship depends on functional traits of invasive species.
+
+When considering all invasive species together, we found that invaded plant communities were less species rich and less functionally even but showed higher values of Rao's Q diversity index, and higher nitrogen, phosphorus and organic carbon soil nutrient content compared to uninvaded communities. However, the species‐wise analyses revealed strikingly different impacts among the 11 invasive species and also among impact metrics.
+
+Regarding the type of cover–impact relationships, we found no consistencies across invasive species and impact metrics. Still, nonlinear relationships prevailed when species were analysed together and linear relationships when species were studied individually. The functional traits of the invasive species explained only a small part of this response heterogeneity; mostly, the small‐seeded perennial invasive species affected the cover–species richness relationship.
+
+Synthesis: Herbaceous invasive plant species have a cover‐dependent impact on resident plant communities, but there are no consistent patterns across impact metrics and invasive species. Specific traits or trait syndrome of invasive species may affect the heterogeneity of cover–impact relationships, but that would need further study. We highlighted the importance of impact assessments involving invasive species' abundance to unmask cryptic impacts for species that show contrasting effects along an abundance gradient.
+
+</dc:description>
+</oai_dc:dc>

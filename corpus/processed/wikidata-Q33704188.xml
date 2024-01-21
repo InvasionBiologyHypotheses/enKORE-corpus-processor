@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33704188</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33704188</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436814</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0177643</dc:identifier>
+  <dc:title>Environmental DNA (eDNA) metabarcoding assays to detect invasive invertebrate species in the Great Lakes</dc:title>
+  <dc:creator>Klymus, Katy</dc:creator>
+  <dc:creator>Marshall, Nathaniel T</dc:creator>
+  <dc:creator>Stepien, Carol</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-05-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>Great Lakes</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>environmental biology</dc:subject>
+  <dc:subject>metabarcoding</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>environmental DNA</dc:subject>
+  <dc:subject>invasive invertebrate</dc:subject>
+  <dc:subject>aquatic invasion</dc:subject>
+  <dc:subject>invasion detection</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Describing and monitoring biodiversity comprise integral parts of ecosystem management. Recent research coupling metabarcoding and environmental DNA (eDNA) demonstrate that these methods can serve as important tools for surveying biodiversity, while significantly decreasing the time, expense and resources spent on traditional survey methods. The literature emphasizes the importance of genetic marker development, as the markers dictate the applicability, sensitivity and resolution ability of an eDNA assay. The present study developed two metabarcoding eDNA assays using the mtDNA 16S RNA gene with Illumina MiSeq platform to detect invertebrate fauna in the Laurentian Great Lakes and surrounding waterways, with a focus for use on invasive bivalve and gastropod species monitoring. We employed careful primer design and in vitro testing with mock communities to assess ability of the markers to amplify and sequence targeted species DNA, while retaining rank abundance information. In our mock communities, read abundances reflected the initial input abundance, with regressions having significant slopes (p</dc:description>
+</oai_dc:dc>

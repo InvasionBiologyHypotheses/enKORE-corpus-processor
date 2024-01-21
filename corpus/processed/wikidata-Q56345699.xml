@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56345699</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56345699</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084945</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0201669</dc:identifier>
+  <dc:title>SURGE complex of Plasmodium falciparum in the rhoptry-neck (SURFIN4.2-RON4-GLURP) contributes to merozoite invasion</dc:title>
+  <dc:creator>Del Pilar Quintana, Maria</dc:creator>
+  <dc:creator>Ch'ng, Jun-Hong</dc:creator>
+  <dc:creator>Zandian, Arash</dc:creator>
+  <dc:creator>Imam, Maryam</dc:creator>
+  <dc:creator>Hultenby, Kjell</dc:creator>
+  <dc:creator>Theisen, Michael</dc:creator>
+  <dc:creator>Nilsson, Peter</dc:creator>
+  <dc:creator>Qundos, Ulrika</dc:creator>
+  <dc:creator>Moll, Kirsten</dc:creator>
+  <dc:creator>Chan, Sherwin</dc:creator>
+  <dc:creator>Wahlgren, Mats</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>surface-associated interspersed protein 4.2 (SURFIN 4.2)</dc:subject>
+  <dc:subject>glutamate-rich protein GLURP</dc:subject>
+  <dc:subject>rhoptry neck protein 4</dc:subject>
+  <dc:subject>Plasmodium falciparum</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>merozoite</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Plasmodium falciparum invasion into red blood cells (RBCs) is a complex process engaging proteins on the merozoite surface and those contained and sequentially released from the apical organelles (micronemes and rhoptries). Fundamental to invasion is the formation of a moving junction (MJ), a region of close apposition of the merozoite and the RBC plasma membranes, through which the merozoite draws itself before settling into a newly formed parasitophorous vacuole (PV). SURFIN4.2 was identified at the surface of the parasitized RBCs (pRBCs) but was also found apically associated with the merozoite. Using antibodies against the N-terminus of the protein we show the presence of SURFIN4.2 in the neck of the rhoptries, its secretion into the PV and shedding into the culture supernatant upon schizont rupture. Using immunoprecipitation followed by mass spectrometry we describe here a novel protein complex we have named SURGE where SURFIN4.2 forms interacts with the rhoptry neck protein 4 (RON4) and the Glutamate Rich Protein (GLURP). The N-terminal cysteine-rich-domain (CRD) of SURFIN4.2 mediates binding to the RBC membrane and its interaction with RON4 suggests its involvement in the contact between the merozoite apex and the RBC at the MJ. Supporting this suggestion, we also found that polyclonal antibodies to the extracellular domain (including the CRD) of SURFIN4.2 partially inhibit merozoite invasion. We propose that the formation of the SURGE complex participates in the establishment of parasite infection within the PV and the RBCs.</dc:description>
+</oai_dc:dc>

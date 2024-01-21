@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110742621</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110742621</dc:identifier>
+  <dc:identifier>doi:10.1016/J.GECCO.2017.E00363</dc:identifier>
+  <dc:title>Identifying knowledge gaps for gene drive research to control invasive animal species: The next CRISPR step</dc:title>
+  <dc:creator>Moro, Dorian</dc:creator>
+  <dc:creator>Byrne, Margaret</dc:creator>
+  <dc:creator>Kennedy, Malcolm</dc:creator>
+  <dc:creator>Campbell, Susan</dc:creator>
+  <dc:creator>Tizard, Mark</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-01</dc:date>
+  <dc:subject>knowledge gap hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q1481327</dc:subject>
+  <dc:subject>hypothesis:knowledge gap hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q1481327</dc:subject>
+  <dc:subject>invasive animal</dc:subject>
+  <dc:subject>knowledge gap</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

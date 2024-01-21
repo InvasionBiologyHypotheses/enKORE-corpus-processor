@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111323354</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111323354</dc:identifier>
+  <dc:identifier>doi:10.1080/23802359.2020.1763870</dc:identifier>
+  <dc:title>The complete mitochondrial and plastid genomes of the invasive marine red alga &lt;i&gt;Caulacanthus okamurae&lt;/i&gt; (Caulacanthaceae, Rhodophyta) from Moss Landing, California, USA</dc:title>
+  <dc:creator>Group, Hartnell College Genomics</dc:creator>
+  <dc:creator>Aguilar, Alejandro</dc:creator>
+  <dc:creator>Ahumada, Tania J</dc:creator>
+  <dc:creator>Moreno, Noemi Amezcua</dc:creator>
+  <dc:creator>Bohn, Jacob</dc:creator>
+  <dc:creator>Bustamante, Danilo E.</dc:creator>
+  <dc:creator>Calderon, Martha S</dc:creator>
+  <dc:creator>Cardoso, Edgar</dc:creator>
+  <dc:creator>Carranza, Rocio</dc:creator>
+  <dc:creator>Castillo, Maria</dc:creator>
+  <dc:creator>Cazares, Elizabeth</dc:creator>
+  <dc:creator>Cazares, Emmanuel</dc:creator>
+  <dc:creator>Companion, Janelle K</dc:creator>
+  <dc:creator>Cruz, Jeanette</dc:creator>
+  <dc:creator>Cuevas, Neovid</dc:creator>
+  <dc:creator>De La Torre, Lizbeth</dc:creator>
+  <dc:creator>Dietz, Daniel P</dc:creator>
+  <dc:creator>Fernando, Kathleen M</dc:creator>
+  <dc:creator>Garcia, Bryan</dc:creator>
+  <dc:creator>Gomez, Pamela</dc:creator>
+  <dc:creator>Gonzales-Miramontes, Bianca</dc:creator>
+  <dc:creator>Hernandez, Yuviana</dc:creator>
+  <dc:creator>Huaracha, Kayla</dc:creator>
+  <dc:creator>Hughey, Jeffery R</dc:creator>
+  <dc:creator>Lazaro, Gabriela</dc:creator>
+  <dc:creator>Lorenzo, Feifei Zhai</dc:creator>
+  <dc:creator>Medrano, Diana</dc:creator>
+  <dc:creator>Mendoza, Ailen</dc:creator>
+  <dc:creator>Mendoza, Daniel</dc:creator>
+  <dc:creator>Mohssin, Adam</dc:creator>
+  <dc:creator>Medina, Jeanette Orozco</dc:creator>
+  <dc:creator>Pacheco, Aislinn</dc:creator>
+  <dc:creator>Ruvalcaba, Gustavo Palacios</dc:creator>
+  <dc:creator>Patel, Jankiben</dc:creator>
+  <dc:creator>Patel, Jatin</dc:creator>
+  <dc:creator>Patino, Samantha</dc:creator>
+  <dc:creator>Perez-Alfaro, Karina</dc:creator>
+  <dc:creator>Ponce, Alejandra N</dc:creator>
+  <dc:creator>Poso, Jasmine G</dc:creator>
+  <dc:creator>Ramirez, Gabriel</dc:creator>
+  <dc:creator>Ramirez, Hector A</dc:creator>
+  <dc:creator>Resendiz, Nathalie</dc:creator>
+  <dc:creator>Reyno, Rachelle</dc:creator>
+  <dc:creator>Rodriguez, Diego</dc:creator>
+  <dc:creator>Russell, Ian A</dc:creator>
+  <dc:creator>Saenz-Verdugo, Paola</dc:creator>
+  <dc:creator>Carmona, Angel S</dc:creator>
+  <dc:creator>Sanchez, Fabian</dc:creator>
+  <dc:creator>Sheffer, Sabrina X</dc:creator>
+  <dc:creator>Solorio, Carmen</dc:creator>
+  <dc:creator>Trujillo, Alejandra Soto</dc:creator>
+  <dc:creator>Vasaya, Geraldine S</dc:creator>
+  <dc:creator>Lopez, Victoria Velasquez</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-13</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Caulacanthus okamurae</dc:subject>
+  <dc:subject>Caulacanthaceae</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Informa UK Limited</dc:publisher>
+  <dc:description>Caulacanthus okamurae is an invasive red alga that forms extensive mats in sheltered marine habitats around the world. To determine its genomic structure and genetic relationship to native and other non-native populations of C. okamurae, high-throughput sequencing analysis was performed on an introduced specimen from Bennett Slough, Moss Landing, California, USA. Assembly of 23,146,595 filtered 150_bp paired-end Illumina sequencing reads yielded its complete mitogenome (GenBank accession MT193839) and plastid genome (GenBank accession MT193838). The mitogenome is 25,995_bp in length and contains 50 genes. The plastid genome is 173,516_bp and contains 234 genes. Comparison of the organellar chromosomes to other Gigartinales revealed a high-level of gene synteny. BLAST analysis of marker sequences (rbcL, cox1, cox2) of C. okamurae from Moss Landing identified four identical DNA sequences: one from a specimen from a native population of C. okamurae from South Korea and three from specimens representing invasive populations from France, Spain, and the USA. These genetic results confirm the presence of C. okamurae in central California, USA, and represent the first complete mitogenome and plastid genome from the Caulacanthaceae.</dc:description>
+</oai_dc:dc>

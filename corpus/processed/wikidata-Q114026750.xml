@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114026750</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114026750</dc:identifier>
+  <dc:identifier>doi:10.3390/RS14184565</dc:identifier>
+  <dc:title>Passive Acoustic Monitoring as a Tool to Investigate the Spatial Distribution of Invasive Alien Species</dc:title>
+  <dc:creator>Ribeiro, José Wagner</dc:creator>
+  <dc:creator>Harmon, Kristopher</dc:creator>
+  <dc:creator>Leite, Gabriel Augusto</dc:creator>
+  <dc:creator>Melo, Tomaz Nascimento</dc:creator>
+  <dc:creator>LeBien, Jack</dc:creator>
+  <dc:creator>Campos-Cerqueira, Marconi</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-09-13</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive alien species (IAS) are a threat to biodiversity and ecosystem function worldwide. Unfortunately, researchers, agencies, and other management groups face the unresolved challenge of effectively detecting and monitoring IAS at large spatial and temporal scales. To improve the detection of soniferous IAS, we introduced a pipeline for large-scale passive acoustic monitoring (PAM). Our main goal was to illustrate how PAM can be used to rapidly provide baseline information on soniferous IAS. To that aim, we collected acoustic data across Puerto Rico from March to June 2021 and used single-species occupancy models to investigate species distribution of species in the archipelago and to assess the peak of vocal activity. Overall, we detected 16 IAS (10 birds, 3 mammals, and 3 frogs) and 79 native species in an extensive data set with 1,773,287 1-min recordings. Avian activity peaked early in the morning (between 5 a.m. and 7 a.m.), while amphibians peaked between 1 a.m. and 5 a.m. Occupancy probability for IAS in Puerto Rico ranged from 0.002 to 0.67. In general, elevation and forest cover older than 54 years were negatively associated with IAS occupancy, corroborating our expectation that IAS occurrence is related to high levels of human disturbance and present higher occupancy probabilities in places characterized by more intense human activities. The work presented here demonstrates that PAM is a workable solution for monitoring vocally active IAS over a large area and provides a reproducible workflow that can be extended to allow for continued monitoring over longer timeframes.</dc:description>
+</oai_dc:dc>

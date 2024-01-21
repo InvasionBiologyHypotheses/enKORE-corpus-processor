@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110756367</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110756367</dc:identifier>
+  <dc:identifier>doi:10.3390/D12100394</dc:identifier>
+  <dc:title>Prioritizing Management of Non-Native Eurasian Watermilfoil Using Species Occurrence and Abundance Predictions</dc:title>
+  <dc:creator>Mikulyuk, Alison</dc:creator>
+  <dc:creator>Hein, Catherine L.</dc:creator>
+  <dc:creator>Van Egeren, Scott</dc:creator>
+  <dc:creator>Kujawa, Ellen Ruth</dc:creator>
+  <dc:creator>Zanden, M. Jake Vander</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>species occurrence</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Prioritizing the prevention and control of non-native invasive species requires understanding where introductions are likely to occur and cause harm. We developed predictive models for Eurasian watermilfoil (EWM) (Myriophyllum spicatum L.) occurrence and abundance to produce a smart prioritization tool for EWM management. We used generalized linear models (GLMs) to predict species occurrence and extended beta regression models to predict abundance from data collected on 657 Wisconsin lakes. Species occurrence was positively related to the nearby density of vehicle roads, maximum air temperature, lake surface area, and maximum lake depth. Species occurrence was negatively related to near-surface lithological calcium oxide content, annual air temperature range, and average distance to all known source populations. EWM abundance was positively associated with conductivity, maximum air temperature, mean distance to source, and soil erodibility, and negatively related to % surface rock calcium oxide content and annual temperature range. We extended the models to generate occurrence and predictions for all lakes in Wisconsin greater than 1 ha (N = 9825), then prioritized prevention and management, placing highest priority on lakes likely to experience EWM introductions and support abundant populations. This modelling effort revealed that, although EWM has been present for several decades, many lakes are still vulnerable to introduction.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111140089</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111140089</dc:identifier>
+  <dc:identifier>doi:10.5091/PLECEVO.2020.1562</dc:identifier>
+  <dc:title>Niche conservatism in a plant with long invasion history: the case of  the Peruvian peppertree (Schinus molle, Anacardiaceae) in Mexico</dc:title>
+  <dc:creator>Ramírez-Albores, Jorge E.</dc:creator>
+  <dc:creator>Bizama, Gustavo</dc:creator>
+  <dc:creator>O. Bustamante, Ramiro</dc:creator>
+  <dc:creator>Badano, Ernesto I.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>niche conservatism</dc:subject>
+  <dc:subject>Schinus molle</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>Anacardiaceae</dc:subject>
+  <dc:publisher>Agentschap Plantentuin Meise</dc:publisher>
+  <dc:description>Background and aim – Invasive plants should only colonize habitats meeting the environmental conditions included in their native niches. However, if they invade habitats with novel environmental conditions, this can induce shifts in their niches. This may occur in plants with long invasion histories because they interacted with the environmental conditions of invaded regions over long periods of time. We focused on this issue and evaluated whether the niche of the oldest plant invader reported in Mexico, the Peruvian peppertree, is still conserved after almost 500 years of invasion history. Methods – We compared climatic niches of the species between the native and invaded region. We later used species distribution models (SDM) to visualize the geographical expression of both niches in Mexico. Results – The invasive niche of the Peruvian peppertree is fully nested within the native niche. Although this suggests that the niche is conserved, this also indicates that a large fraction of the native niche is empty in the invaded region. The SDM from the native region indicated that Mexico contains habitats meeting the conditions included in this empty fraction of the native niche and, thus, this invasion should continue expanding. Nevertheless, the SDM calibrated with data from the invaded region indicated that peppertrees have colonized all suitable habitats indicated by its invasive niche and, thus, their populations should no longer expand. Conclusion – Our results suggests that the niche of the Peruvian peppertree is partially conserved in Mexico. This may have occurred because individuals introduced into Mexico constituted a small, nonrepresentative sample of the full niche of the species.</dc:description>
+</oai_dc:dc>

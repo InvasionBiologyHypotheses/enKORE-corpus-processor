@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56439716</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56439716</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-014-0749-3</dc:identifier>
+  <dc:title>Learning from the past to predict the future: an historical analysis of grass invasions in northern Australia</dc:title>
+  <dc:creator>Klinken, Rieks D.</dc:creator>
+  <dc:creator>Panetta, F. Dane</dc:creator>
+  <dc:creator>Coutts, Shaun</dc:creator>
+  <dc:creator>Simon, Bryan K.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-07-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Australia</dc:subject>
+  <dc:subject>grass invasion</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

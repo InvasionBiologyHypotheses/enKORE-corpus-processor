@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q53412824</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q53412824</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895777</dc:identifier>
+  <dc:identifier>doi:10.1038/S41467-018-03791-Y</dc:identifier>
+  <dc:title>Conditional privatization of a public siderophore enables Pseudomonas aeruginosa to resist cheater invasion</dc:title>
+  <dc:creator>Jin, Zhenyu</dc:creator>
+  <dc:creator>Li, Jiahong</dc:creator>
+  <dc:creator>Ni, Lei</dc:creator>
+  <dc:creator>Zhang, Rongrong</dc:creator>
+  <dc:creator>Xia, Aiguo</dc:creator>
+  <dc:creator>Jin, Fan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-04-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Pseudomonas aeruginosa</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion resistance</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractUnderstanding the mechanisms that promote cooperative behaviors of bacteria in their hosts is of great significance to clinical therapies. Environmental stress is generally believed to increase competition and reduce cooperation in bacteria. Here, we show that bacterial cooperation can in fact be maintained because of environmental stress. We show that Pseudomonas aeruginosa regulates the secretion of iron-scavenging siderophores in the presence of different environmental stresses, reserving this public good for private use in protection against reactive oxygen species when under stress. We term this strategy “conditional privatization”. Using a combination of experimental evolution and theoretical modeling, we demonstrate that in the presence of environmental stress the conditional privatization strategy is resistant to invasion by non-producing cheaters. These findings show how the regulation of public goods secretion under stress affects the evolutionary stability of cooperation in a pathogenic population, which may assist in the rational development of novel therapies.</dc:description>
+</oai_dc:dc>

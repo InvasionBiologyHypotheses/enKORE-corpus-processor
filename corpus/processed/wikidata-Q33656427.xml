@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33656427</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33656427</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2919386</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0012061</dc:identifier>
+  <dc:title>Invasive predators deplete genetic diversity of island lizards</dc:title>
+  <dc:creator>Gasc, Amandine</dc:creator>
+  <dc:creator>Duryea, C</dc:creator>
+  <dc:creator>Cox, Robert M</dc:creator>
+  <dc:creator>Kern, Andrew</dc:creator>
+  <dc:creator>Calsbeek, Ryan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2010-08-10</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>genetic diversity</dc:subject>
+  <dc:subject>island invasion</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Invasive species can dramatically impact natural populations, especially those living on islands. Though numerous examples illustrate the ecological impact of invasive predators, no study has examined the genetic consequences for native populations subject to invasion. Here we capitalize on a natural experiment in which a long-term study of the brown anole lizard (Anolis sagrei) was interrupted by rat invasion. An island population that was devastated by rats recovered numerically following rat extermination. However, population genetic analyses at six microsatellite loci suggested a possible loss of genetic diversity due to invasion when compared to an uninvaded island studied over the same time frame. Our results provide partial support for the hypothesis that invasive predators can impact the genetic diversity of resident island populations.</dc:description>
+</oai_dc:dc>
