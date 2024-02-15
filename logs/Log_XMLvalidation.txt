@@ -1,7 +1,7 @@
 
 # Note: Indication of list of entries considered for harvesting information.
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2024-01-21T15:34:20.950Z
+# Process started at date-UTC: 2024-02-14T06:37:40.082Z
 # Note: Quality check results are: passed|failed
  ./corpus/processed/wikidata-Q117043897.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q61603504.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -430,7 +430,6 @@
  ./corpus/processed/wikidata-Q90775630.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q118131562.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q35047659.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
- ./corpus/processed/wikidata-Q38838634.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q34983398.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q57296189.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56439029.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -2780,6 +2779,7 @@
  ./corpus/processed/wikidata-Q57024308.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56355023.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q63487031.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q90066765.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56374262.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q117046753.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q59942322.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -3100,6 +3100,7 @@
  ./corpus/processed/wikidata-Q60579838.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q113858323.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56781057.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q114911428.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q58241087.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56774518.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q28214440.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -6104,6 +6105,7 @@
  ./corpus/processed/wikidata-Q57064432.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56752085.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56428126.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q111164746.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q91732149.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q110757862.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56763896.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -7757,8 +7759,8 @@
  ./corpus/processed/wikidata-Q41683750.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56773284.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56456159.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
- ./corpus/processed/wikidata-Q110542004.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56489112.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q110542004.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q49494119.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q110630244.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q114909073.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -8194,6 +8196,7 @@
  ./corpus/processed/wikidata-Q51182058.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q35790562.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q112488559.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q57478968.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56782438.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q111845980.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56785079.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -9612,7 +9615,6 @@
  ./corpus/processed/wikidata-Q96019796.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q114924397.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56591757.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
- ./corpus/processed/wikidata-Q30484719.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56763348.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q107681656.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56766911.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -9849,6 +9851,7 @@
  ./corpus/processed/wikidata-Q111159670.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q117769104.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q111159702.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q124153008.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q57030504.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56373542.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56589432.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -10699,6 +10702,7 @@
  ./corpus/processed/wikidata-Q56398199.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56766671.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q34924044.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q56383784.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q114921956.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q34553702.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56746557.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -10997,6 +11001,7 @@
  ./corpus/processed/wikidata-Q56764984.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q60504740.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56451264.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
+ ./corpus/processed/wikidata-Q123236174.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q56459002.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q57068186.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q110630301.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
@@ -11889,5 +11894,5 @@
  ./corpus/processed/wikidata-Q114916502.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q46127999.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
  ./corpus/processed/wikidata-Q35000367.xml: Quality check all rows: row_1: 1; row_2: 1; row_end: 1
-# Total XML (passed) #v1[11886]#v1; Total XML (empty): #v2[587]#v2; Total (failed): #v3[0]#v3
-# Process complete at date-UTC: 2024-01-21T19:42:14.409Z
+# Total XML (passed) #v1[11891]#v1; Total XML (empty): #v2[586]#v2; Total (failed): #v3[0]#v3
+# Process complete at date-UTC: 2024-02-14T23:46:42.558Z
