@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110663981</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110663981</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.42.29757</dc:identifier>
+  <dc:title>Sample size for inspection intended to manage risk within mixed consignments</dc:title>
+  <dc:creator>Lane, Stephen E.</dc:creator>
+  <dc:creator>Cannon, Rob M.</dc:creator>
+  <dc:creator>Arthur, Anthony D.</dc:creator>
+  <dc:creator>Robinson, Andrew P.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-02-27</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The identification of a lot, and the size of the random sample taken for plant products, is justified by appeal to International Standards for Phytosanitary Measures No. 31, “Methodologies for Sampling of Consignments”. ISPM 31 notes that “A lot to be sampled should be a number of units of a single commodity identifiable by its homogeneity [...]” and “Treating multiple commodities as a single lot for convenience may mean that statistical inferences cannot be drawn from the results of the sampling.”
+          However, consignments are frequently heterogeneous, either because the same commodities have multiple sources or because there are several different commodities. The ISPM 31 prescription creates a substantial burden on border inspection because it suggests that heterogeneous populations must be split into homogeneous sub-populations from which separate samples of nominal size must be taken.
+          We demonstrate that if consignments with known heterogeneity are treated as stratified populations and the random sample of units is allocated proportionally based on the number of units in each stratum, then the nominal sensitivity at the consignment level is achieved if our concern is the level of contamination in the entire consignment taken as a whole. We argue that unknown heterogeneity is no impediment to appropriate statistical inference. We conclude that the international standard is unnecessarily restrictive.</dc:description>
+</oai_dc:dc>

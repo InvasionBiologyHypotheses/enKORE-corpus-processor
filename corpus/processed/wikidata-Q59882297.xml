@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59882297</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q59882297</dc:identifier>
+  <dc:identifier>http://eprints.whiterose.ac.uk/132112</dc:identifier>
+  <dc:identifier>doi:10.1007/S10530-018-1735-Y</dc:identifier>
+  <dc:title>Predatory impacts of alien decapod Crustacea are predicted by functional responses and explained by differences in metabolic rate</dc:title>
+  <dc:creator>Taylor, N. G.</dc:creator>
+  <dc:creator>Dunn, A. M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-05-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>predation</dc:subject>
+  <dc:subject>basal metabolism</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>predation impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111172116</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111172116</dc:identifier>
+  <dc:identifier>doi:10.1111/CSP2.192</dc:identifier>
+  <dc:title>Predicting and managing plant invasions on offshore islands</dc:title>
+  <dc:creator>Butt, Nathalie</dc:creator>
+  <dc:creator>Wenger, Amelia S.</dc:creator>
+  <dc:creator>Lohr, Cheryl</dc:creator>
+  <dc:creator>Woodberry, Owen</dc:creator>
+  <dc:creator>Morris, Keith</dc:creator>
+  <dc:creator>Pressey, Robert L.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>island invasion</dc:subject>
+  <dc:subject>invasion prediction</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractResources for biodiversity conservation are limited and it is therefore imperative that management actions that have the best chance of success are prioritized. Non‐native species (NNS) are one of the key problems facing biodiversity conservation, so understanding how NNS disperse and establish can inform more effective conservation planning and management. Using a novel Bayesian belief network model, we investigated non‐native plant dispersal on the approximately 550 islands along the Pilbara coast, Western Australia, and identified priority species and locations for targeted management. Of a total of around 9,000 weed arrivals onto the islands, 1,661 arrivals across 14 weed species had some probability of establishment. Suggested management actions in these cases would be education campaigns to inform visitors about the risk of accidental transport of propagules, quarantine programs, and eradication. For the seven weed species that arrived only via human dispersal and had a &gt;10% chance of establishment on five islands, surveillance, and control of new arrivals would be the recommended management actions. Removal of propagule source populations would not be a cost‐effective management strategy. The inherent flexibility of our model means that different objectives can be analyzed in a transparent way, making it a powerful tool for guiding effective targeted action, derived from an explicit decision‐making framework.</dc:description>
+</oai_dc:dc>

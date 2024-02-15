@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110664003</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110664003</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.40.28840</dc:identifier>
+  <dc:title>Undelivered risk: A counter-factual analysis of the biosecurity risk avoided by inspecting international mail articles</dc:title>
+  <dc:creator>Clarke, Sandy</dc:creator>
+  <dc:creator>Stenekes, Nyree</dc:creator>
+  <dc:creator>Kancans, Robert</dc:creator>
+  <dc:creator>Woodland, Chris</dc:creator>
+  <dc:creator>Robinson, Andrew</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-12-04</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>International mail articles present an important potential vector for biosecurity and other regulatory risk. Border intervention is a key element in Australia’s biosecurity strategy. Arriving international mail articles are inspected and those that are intercepted with biosecurity risk material are documented, including the address to which the article was to be delivered. Knowledge about patterns in the intended destinations of mail article permits more detailed biosecurity intervention. We used geo-location software to identify the delivery address of mail articles intercepted with biosecurity risk material from 2008–2011. We matched these addresses with demographic data that were recorded at a regional level from the Australian Bureau of Statistics 2011 Census and used random forest statistical analyses to correlate various demographic fields at the regional level with the counts of seized mail articles. The analysis of the seizure counts against demographic characteristics suggests a high correlation between having higher numbers of university students that speak a particular language in a region and higher quantities of intercepted mail articles destined for that region. We also explore metropolitan and regional patterns in the destinations of seized materials. These results can be used to provide information on policy and operational actions to try to reduce the rate at which mail articles that contain biosecurity risk material are sent to Australia.</dc:description>
+</oai_dc:dc>

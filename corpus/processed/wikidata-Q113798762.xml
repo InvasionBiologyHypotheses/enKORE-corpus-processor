@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113798762</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113798762</dc:identifier>
+  <dc:identifier>doi:10.1111/GCB.16360</dc:identifier>
+  <dc:title>Exotic fishes that are phylogenetically close but functionally distant to native fishes are more likely to establish</dc:title>
+  <dc:creator>Xu, Meng</dc:creator>
+  <dc:creator>Li, Shao-Peng</dc:creator>
+  <dc:creator>Dick, Jaimie T. A.</dc:creator>
+  <dc:creator>Gu, Dangen</dc:creator>
+  <dc:creator>Fang, Miao</dc:creator>
+  <dc:creator>Yang, Yexin</dc:creator>
+  <dc:creator>Hu, Yinchang</dc:creator>
+  <dc:creator>Mu, Xidong</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-08-04</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biotic resistance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>native fish</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractSince Darwin's time, degree of ecological similarity between exotic and native species has been assumed to affect the establishment success or failure of exotic species. However, a direct test of the effect of exotic–native similarity on establishment of exotics is scarce because of the difficulty in recognizing failures of species to establish in the field. Here, using a database on the establishment success and failure of exotic fish species introduced into 673 freshwater lakes, we evaluate the effect of similarity on the establishment of exotic fishes by combining phylogenetic and functional information. We illustrate that, relative to other biotic and abiotic factors, exotic–native phylogenetic and functional similarities were the most important correlates of exotic fish establishment. While phylogenetic similarity between exotic and resident fish species promoted successful establishment, functional similarity led to failure of exotics to become established. Those exotic species phylogenetically close to, but functionally distant from, native fishes were most likely to establish successfully. Our findings provide a perspective to reconcile Darwin's naturalization conundrum and suggest that, while phylogenetic relatedness allows exotic fish species to pre‐adapt better to novel environments, they need to possess distinct functional traits to reduce competition with resident native fish species.</dc:description>
+</oai_dc:dc>

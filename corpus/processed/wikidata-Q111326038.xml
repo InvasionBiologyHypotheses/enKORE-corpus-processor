@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111326038</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111326038</dc:identifier>
+  <dc:identifier>doi:10.3390/PLANTS10081604</dc:identifier>
+  <dc:title>Predicting Impacts of Climate Change on Northward Range Expansion of Invasive Weeds in South Korea</dc:title>
+  <dc:creator>Hong, Sun Hee</dc:creator>
+  <dc:creator>Lee, Yong Ho</dc:creator>
+  <dc:creator>Lee, Gaeun</dc:creator>
+  <dc:creator>Lee, Do-Hun</dc:creator>
+  <dc:creator>Adhikari, Pradeep</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-08-05</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasive weed</dc:subject>
+  <dc:subject>South Korea</dc:subject>
+  <dc:subject>range expansion</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Predicting the distribution of invasive weeds under climate change is important for the early identification of areas that are susceptible to invasion and for the adoption of the best preventive measures. Here, we predicted the habitat suitability of 16 invasive weeds in response to climate change and land cover changes in South Korea using a maximum entropy modeling approach. Based on the predictions of the model, climate change is likely to increase habitat suitability. Currently, the area of moderately suitable and highly suitable habitats is estimated to be 8877.46 km2, and 990.29 km2, respectively, and these areas are expected to increase up to 496.52% by 2050 and 1439.65% by 2070 under the representative concentration pathways 4.5 scenario across the country. Although habitat suitability was estimated to be highest in the southern regions (&lt;36° latitude), the central and northern regions are also predicted to have substantial increases in suitable habitat areas. Our study revealed that climate change would exacerbate the threat of northward weed invasions by shifting the climatic barriers of invasive weeds from the southern region. Thus, it is essential to initiate control and management strategies in the southern region to prevent further invasions into new areas.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113208230</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113208230</dc:identifier>
+  <dc:identifier>doi:10.3389/FEVO.2022.880987</dc:identifier>
+  <dc:title>Climate change-induced invasion risk of ecosystem disturbing alien plant species: An evaluation using species distribution modeling</dc:title>
+  <dc:creator>Adhikari, Pradeep</dc:creator>
+  <dc:creator>Lee, Yong Ho</dc:creator>
+  <dc:creator>Adhikari, Prabhat</dc:creator>
+  <dc:creator>Hong, Sun Hee</dc:creator>
+  <dc:creator>Park, Yong-Soon</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-07-15</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>ecosystem disturbance</dc:subject>
+  <dc:subject>ecological invasion risk</dc:subject>
+  <dc:subject>species distribution model</dc:subject>
+  <dc:subject>introduced plant</dc:subject>
+  <dc:publisher>Frontiers Media SA</dc:publisher>
+  <dc:description>Species distribution modeling is widely used for evaluating invasion risk, and for prioritizing areas for the control and management of invasive species. However, selecting a modeling tool that accurately predicts species invasion risk requires a systematic approach. In this study, five species distribution models (SDMs), namely, artificial neural network (ANN), generalized linear model (GLM), multivariate adaptive regression splines (MARS), maximum entropy (MaxEnt), and random forest (RF), were performed and evaluated their model performance using the mean value of area under the curve (AUC), true skill statistics (TSS), and Kappa scores of 12 ecosystem disturbing alien plant species (EDAPS). The mean evaluation metric scores were highest in RF (AUC = 0.924 ± 0.058, TSS = 0.789 ± 0.109, Kappa = 0.671 ± 0.096, n = 12) and lowest in ANN. The ANOVA of AUC, TSS, and Kappa metrics revealed the RF model was significantly different from other SDMs and was therefore selected as the relatively best model. The potential distribution area and invasion risk for each EDAPS were quantified. Under the current climate conditions of South Korea, the average potential distribution area of EDAPS was estimated to be 13,062 km2. However, in future climate change scenarios, the average percentage change of EDAPS distribution relative to the current climate was predicted to be increased over 219.93%. Furthermore, under the current climate, 0.16% of the area of the country was estimated to be under a very high risk of invasion, but this would increase to 60.43% by 2070. Invasion risk under the current climate conditions was highest in the northwestern, southern, and southeastern regions, and in densely populated cities, such as Seoul, Busan, and Daegu. By 2070, invasion risk was predicted to expand across the whole country except in the northeastern region. These results suggested that climate change induced the risk of EDAPS invasiveness, and SDMs could be valuable tools for alien and invasive plant species risk assessment.</dc:description>
+</oai_dc:dc>

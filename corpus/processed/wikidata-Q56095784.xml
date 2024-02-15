@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56095784</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56095784</dc:identifier>
+  <dc:identifier>doi:10.3391/MBI.2016.7.4.02</dc:identifier>
+  <dc:title>The EASIN Editorial Board: quality assurance, exchange and sharing of alien species information in Europe</dc:title>
+  <dc:creator>Tsiamis, Konstantinos</dc:creator>
+  <dc:creator>Gervasini, Eugenio</dc:creator>
+  <dc:creator>D’Amico, Fabio</dc:creator>
+  <dc:creator>Deriu, Ivan</dc:creator>
+  <dc:creator>Katsanevakis, Stelios</dc:creator>
+  <dc:creator>Crocetta, Fabio</dc:creator>
+  <dc:creator>Zenetos, Argyro</dc:creator>
+  <dc:creator>Arianoutsou, Margarita</dc:creator>
+  <dc:creator>Backeljau, Thierry</dc:creator>
+  <dc:creator>Bariche, Michel</dc:creator>
+  <dc:creator>Bazos, Ioannis</dc:creator>
+  <dc:creator>Bertaccini, Assunta</dc:creator>
+  <dc:creator>Brundu, Giuseppe</dc:creator>
+  <dc:creator>Carrete, Martina</dc:creator>
+  <dc:creator>Çinar, Melih</dc:creator>
+  <dc:creator>Curto, Giovanna</dc:creator>
+  <dc:creator>Faasse, Marco</dc:creator>
+  <dc:creator>Justine, Jean-Lou</dc:creator>
+  <dc:creator>Király, Gergely</dc:creator>
+  <dc:creator>Langer, Martin</dc:creator>
+  <dc:creator>Levitt, Ya'arit</dc:creator>
+  <dc:creator>Panov, Vadim</dc:creator>
+  <dc:creator>Piraino, Stefano</dc:creator>
+  <dc:creator>Rabitsch, Wolfgang</dc:creator>
+  <dc:creator>Roques, Alain</dc:creator>
+  <dc:creator>Scalera, Riccardo</dc:creator>
+  <dc:creator>Shenkar, Noa</dc:creator>
+  <dc:creator>Sîrbu, Ioan</dc:creator>
+  <dc:creator>Tricarico, Elena</dc:creator>
+  <dc:creator>Vannini, Andrea</dc:creator>
+  <dc:creator>Vøllestad, Leif Asbjørn</dc:creator>
+  <dc:creator>Zikos, Andreas</dc:creator>
+  <dc:creator>Cardoso, Ana Cristina</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Regional Euro-Asian Biological Invasions Centre Oy (REABIC)</dc:publisher>
+</oai_dc:dc>

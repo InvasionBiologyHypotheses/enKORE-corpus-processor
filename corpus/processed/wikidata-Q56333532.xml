@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56333532</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56333532</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.1731</dc:identifier>
+  <dc:title>Climatic suitability ranking of biological control candidates: a biogeographic approach for ragweed management in Europe</dc:title>
+  <dc:creator>Sun, Yan</dc:creator>
+  <dc:creator>Brönnimann, Olivier</dc:creator>
+  <dc:creator>Roderick, George K.</dc:creator>
+  <dc:creator>Poltavsky, Alexander</dc:creator>
+  <dc:creator>Lommen, Suzanne T. E.</dc:creator>
+  <dc:creator>Müller-Schärer, Heinz</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>biogeography</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>ecosphere</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractBiological control using natural antagonists has been a most successful management tool against alien invasive plants that threaten biodiversity. The selection of candidate agents remains a critical step in a biocontrol program before more elaborate and time‐consuming experiments are conducted. Here, we propose a biogeographic approach to identify candidates and combinations of candidates to potentially cover a large range of the invader. We studied Ambrosia artemisiifolia (common ragweed), native to North America (NA) and invasive worldwide, and six NA biocontrol candidates for the introduced Europe (EU) range of ragweed, both under current and future bioclimatic conditions. For the first time, we constructed species distribution models based on worldwide occurrences and important bioclimatic variables simultaneously for a plant invader and its biocontrol candidates in view of selecting candidates that potentially cover a large range of the target invader. Ordination techniques were used to explore climatic constraints of each species and to perform niche overlap tests with ragweed. We show a large overlap in climatic space between candidates and ragweed, but a considerable discrepancy in geographic range overlap between EU (31.4%) and NA (83.3%). This might be due to niche unfilling and expansion of ragweed in EU and the fact that habitats with high ragweed occurrences in EU are rare in NA and predicted to be unsuitable for the candidates. Total geographic range of all candidates combined is expected to decrease under climate change in both ranges, but they will respond differently. The relative geographic coverage of a plant invader by biocontrol candidates at home is largely transferable to the introduced range, even when the invader shifts its niche. Our analyses also identified which combination of candidates is expected to cover the most area and for which abiotic conditions to select in order to develop climatically adapted strains for particular regions, where ragweed is currently unlikely to be controlled.</dc:description>
+</oai_dc:dc>

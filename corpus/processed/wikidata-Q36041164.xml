@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q36041164</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q36041164</dc:identifier>
+  <dc:identifier>doi:10.1016/J.MARPOLBUL.2016.05.061</dc:identifier>
+  <dc:title>Toxicity of an herbicide and adjuvant to saltmarsh invertebrates in the management of invasive grass; Comparative laboratory and field tests</dc:title>
+  <dc:creator>Kleinhenz, Linda S</dc:creator>
+  <dc:creator>Nugegoda, Dayanthi</dc:creator>
+  <dc:creator>Verspaandonk, Emily R</dc:creator>
+  <dc:creator>Coombes, Darcy C</dc:creator>
+  <dc:creator>Howe, Steffan</dc:creator>
+  <dc:creator>Shimeta, Jeff</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-06-01</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>salt marsh</dc:subject>
+  <dc:subject>invasive grass</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>herbicide</dc:subject>
+  <dc:subject>ecotoxicology</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

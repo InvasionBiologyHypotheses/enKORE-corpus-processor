@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q97093082</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q97093082</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0235060</dc:identifier>
+  <dc:title>Continuous expansion of the geographic range linked to realized niche expansion in the invasive Mourning gecko Lepidodactylus lugubris_(Duméril &amp; Bibron, 1836)</dc:title>
+  <dc:creator>Nania, Dario</dc:creator>
+  <dc:creator>Flecks, Morris</dc:creator>
+  <dc:creator>Rödder, Dennis</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>niche expansion</dc:subject>
+  <dc:subject>Lepidodactylus lugubris</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Lepidodactylus lugubris is a parthenogenetic gecko which has been increasingly expanding its range during the last century. This invasive species has been reported from multiple tropical and subtropical countries in five continents, most of which were colonized in recent times. In order to understand how the realized niche of the species was affected by this dramatic geographic range expansion, we reconstructed the history of the geographic range expansion. We built models of the realized niche of the species at different points in time during the invasion process. This was achieved through the implementation of modern hypervolume construction methods, based on the Hutchinson's niche concept. The models were then compared to detect possible realized climatic niche expansion over time. Furthermore, we investigated possible pathways used by the species to spread. A progressive expansion of the realized niche was identified. As the species spread into new areas, we observed a tendency to colonize regions with warmer temperatures and higher precipitation rates. Finally, we found evidence for cargo shipping being the major pathway through which the species expands its range. Further studies on this topic should aim to investigate the role of biological interactions, and how they shape the distribution of L. lugubris on a global scale. A deeper understanding of this kind of processes will help us tackle the issue of invasive species, which has become a major challenge in conservation biology.</dc:description>
+</oai_dc:dc>

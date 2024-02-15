@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110625764</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110625764</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2664.13817</dc:identifier>
+  <dc:title>Uncovered pathways: Modelling dispersal dynamics of ship‐mediated marine introduced species</dc:title>
+  <dc:creator>Letschert, Jonas</dc:creator>
+  <dc:creator>Wolff, Matthias</dc:creator>
+  <dc:creator>Kluger, Lotta Clara</dc:creator>
+  <dc:creator>Freudinger, Christian</dc:creator>
+  <dc:creator>Ronquillo, John</dc:creator>
+  <dc:creator>Keith, Inti</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-22</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:subject>biological dispersal</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Abstract
+
+
+Marine traffic is the main vector for marine non‐indigenous species (NIS) that may hitchhike in ballast water tanks or attached to vessel hulls. Understanding marine traffic dynamics and estimating the associated risk of NIS dispersal reveals points of leverage for preventive NIS management. This study presents a method to quantify the risk of ship hull fouling‐mediated NIS dispersal and identifies main dispersal hubs in marine traffic networks. We use the Galapagos Marine Reserve (GMR) as a case study to test the applicability of this method.
+
+Ship position data derived from the automatic identification system (AIS) served as a basis for a network consisting of nodes (moorings and anchorages) and edges (ship routes). Wetted surface areas (WSA) describe the parts of vessel hulls submerged by water and were used to parameterize dispersal risks of individual vessels. We combined the constructed network with a numeric dispersal model and sequentially removed network elements to test their effectiveness on decreasing the overall dispersal capacity.
+
+Marine traffic hotspots, such as ports and popular marine visitor sites, represented the main dispersal hubs and incoming edges into the GMR crucial links for the overall dispersal capacity. The removal of passenger vessels had the strongest effect on the overall dispersal capacity, reducing it to 1%.
+
+Based on our findings, we suggest management recommendations to curb the spread of marine NIS in the GMR, including the implementations of (a) vessel hull controls at main dispersal hubs (ports); (b) species monitoring programmes at popular marine visitor sites and (c) hull husbandry regulations for passenger vessels.
+
+Synthesis and application. In an increasingly connected world, the development of risk assessments for marine non‐indigenous species (NIS) dispersal is a crucial step towards the sustainable use and protection of marine ecosystems in Galapagos and other places. The presented methodology is solely based on the pathway component and thus applicable to any place with available ship position data. Therefore, it may provide useful baseline information for preventive measurements especially in places where ecological data about NIS are scarce.
+
+</dc:description>
+</oai_dc:dc>

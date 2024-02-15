@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114728755</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114728755</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.71.64618</dc:identifier>
+  <dc:title>_Biosecurity and post-arrival pathways in New Zealand: relating alien organism detections to tourism indicators</dc:title>
+  <dc:creator>Robinson, Andrew</dc:creator>
+  <dc:creator>McNeill, Mark R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-01-12</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Between-country tourism is established as a facilitator of the spread of invasive alien species; however, little attention has been paid to the question of whether tourism contributes to the arrival and subsequent dispersal of exotic organisms within national borders. To assess the strength of evidence that tourism is a driver for the accidental introducing and dispersal of exotic organisms, we sourced three national databases covering the years 2011 to 2017, namely international and domestic hotel guest nights and national population counts, along with records of exotic organism detections collected by the Ministry for Primary Industries, New Zealand’s government agency that oversees biosecurity. We fitted statistical models to assess the strength of the relationship between monthly exotic organism interception rate, guest nights and population, the latter as a baseline. The analysis showed that levels of incursion detection were significantly related to tourism records reflecting the travel of both international and domestic tourists, even when population was taken into account. There was also a significant positive statistical correlation between the levels of detection of exotic organisms and human population. The core take-home message is that a key indicator of within-country human population movement, namely the number of nights duration spent in specific accommodation, is statistically significantly correlated to the contemporaneous detection of exotic pests. We were unable to distinguish between the effects of international as opposed to domestic tourists. We conclude that this study provides evidence of impact of within-country movement upon the internal spread of exotic species, although important caveats need to be considered.</dc:description>
+</oai_dc:dc>

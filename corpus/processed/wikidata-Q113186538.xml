@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113186538</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113186538</dc:identifier>
+  <dc:identifier>doi:10.1016/J.FORECO.2021.119866</dc:identifier>
+  <dc:title>Avian dispersal of an invasive oak is modulated by acorn traits and the presence of a native oak</dc:title>
+  <dc:creator>Wróbel, Aleksandra</dc:creator>
+  <dc:creator>Kurek, Przemysław</dc:creator>
+  <dc:creator>Bogdziewicz, Michał</dc:creator>
+  <dc:creator>Dobrowolska, Dorota</dc:creator>
+  <dc:creator>Zwolak, Rafal</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-11-22</dc:date>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>dispersal trait</dc:subject>
+  <dc:subject>biological dispersal</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

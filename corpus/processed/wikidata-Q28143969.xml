@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q28143969</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q28143969</dc:identifier>
+  <dc:identifier>doi:10.1038/35040544</dc:identifier>
+  <dc:title>Elevated CO2 increases productivity and invasive species success in an arid ecosystem</dc:title>
+  <dc:creator>Smith, S D</dc:creator>
+  <dc:creator>Huxman, T E</dc:creator>
+  <dc:creator>Zitzer, S F</dc:creator>
+  <dc:creator>Charlet, T N</dc:creator>
+  <dc:creator>Housman, D C</dc:creator>
+  <dc:creator>Coleman, J S</dc:creator>
+  <dc:creator>Fenstermaker, L K</dc:creator>
+  <dc:creator>Seemann, J R</dc:creator>
+  <dc:creator>Nowak, R S</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2000-11-02</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+</oai_dc:dc>

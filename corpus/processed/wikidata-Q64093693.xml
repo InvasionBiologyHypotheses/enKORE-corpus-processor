@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64093693</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64093693</dc:identifier>
+  <dc:identifier>doi:10.1242/BIO.038281</dc:identifier>
+  <dc:title>Transcriptomic analyses highlight the likely metabolic consequences of colonization of a cnidarian host by native or non-native Symbiodinium species</dc:title>
+  <dc:creator>Lin, Mei-Fang</dc:creator>
+  <dc:creator>Takahashi, Shunichi</dc:creator>
+  <dc:creator>Forêt, Sylvain</dc:creator>
+  <dc:creator>Davy, Simon K</dc:creator>
+  <dc:creator>Miller, David J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>Corallimorpharia</dc:subject>
+  <dc:subject>Recolonization</dc:subject>
+  <dc:subject>Symbiodinium</dc:subject>
+  <dc:subject>native species</dc:subject>
+  <dc:publisher>The Company of Biologists</dc:publisher>
+  <dc:description>Reef-building corals and some other cnidarians form symbiotic relationships with members of the dinoflagellates family Symbiodinaceae. As Symbiodinaceae is a highly diverse taxon, the physiological interactions between its members and their hosts are assumed to differ between associations. The presence of different symbiont types is known to affect expression levels of specific host genes, but knowledge of the effects on the transcriptome more broadly remains limited. In the present study transcriptome profiling was conducted on the tropical corallimorpharian, Ricordea yuma, following the establishment of symbiosis with either the “homologous” symbiont Symbiodinium goreaui (also known as Cladocopium goreaui; ITS2 type C1) or “heterologous” symbionts (predominantly S. trenchii , which is also known as Durusdinium trenchii; ITS2 type D1a) isolated from a different corallimorpharian host (Rhodactis indosinensis). Transcriptomic analyses showed that genes encoding host glycogen biosynthesis pathway components are more highly induced during colonization by the homologous symbiont than by the heterologous symbiont. Similar patterns were also observed for several other genes thought to facilitate symbiotic nutrient exchange, including those involved in lipid translocation / storage and metabolite transport. The gene expression results presented here imply that colonization by homologous or heterologous Symbiodinium types may have very different metabolic consequences for the Ricordea host, supporting the notion that even though some cnidarians may be able to form novel symbioses after bleaching, the metabolic performance of these may be compromised.</dc:description>
+</oai_dc:dc>

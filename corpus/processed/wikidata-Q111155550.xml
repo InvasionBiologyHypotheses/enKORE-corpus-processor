@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111155550</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111155550</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.3155</dc:identifier>
+  <dc:title>Time‐lagged impacts of extreme, multi‐year drought on tidal salt marsh plant invasion</dc:title>
+  <dc:creator>Wigginton, Rachel D</dc:creator>
+  <dc:creator>Kelso, Megan A</dc:creator>
+  <dc:creator>Grosholz, Edwin D</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-06-11</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>salt marsh</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractClimate change is projected to increase the frequency of extreme drought events, which can have dramatic consequences for ecosystems. Extreme drought may interact with other stressors such as invasion by non‐native species, yet little research has explored these dynamics. Here, we examine the physical mechanisms and temporal scale underlying a dieback of an invasive non‐native plant, Lepidium latifolium, in tidal salt marshes of the San Francisco Bay, California, USA, during an extreme, multi‐year drought occurring from 2012 to 2015. Using generalized additive mixed models (GAMMs), we explored the relationship between eight years of estuarine salinity data and five years of L. latifolium density data from three marshes spanning a gradient of salinity across the San Francisco Bay. We found a significant time‐lagged (3_yr) effect of estuarine salinity on L. latifolium density, with high salinities preceding reductions in L. latifolium densities and low salinities preceding increases. The most dramatic change in stem density, a 54% reduction in 2015, was preceded by a salinity increase of 43% from 2011 to 2012. We found the L. latifolium decline was driven by impacts on mature, rather than young, plants. Additionally, we tested the importance of local precipitation in driving L. latifolium densities in a one‐season rain exclusion experiment. We found 100% exclusion of precipitation during one rainy season (January–mid‐May) did not have a significant impact on densities of mature stands of L. latifolium. Our finding that estuarine salinity was a key driver of L. latifolium invasion dynamics suggests sea level rise, like extreme drought, may hinder L. latifolium invasion, as it will also raise estuarine salinities. Further, our study highlights the importance of temporal lags in understanding climate change impacts on biological invasions, which has received very little study to date.</dc:description>
+</oai_dc:dc>

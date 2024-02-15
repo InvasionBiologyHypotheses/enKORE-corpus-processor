@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91785499</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91785499</dc:identifier>
+  <dc:identifier>doi:10.1002/PS.5710</dc:identifier>
+  <dc:title>Global occurrence data improve potential distribution models for Aedes japonicus japonicus in non-native regions</dc:title>
+  <dc:creator>Cunze, Sarah</dc:creator>
+  <dc:creator>Kochmann, Judith</dc:creator>
+  <dc:creator>Klimpel, Sven</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-01-08</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by-nc/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Aedes japonicus</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>occurrence data</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractBACKGROUNDThere is great interest in modelling the distribution of invasive species, particularly from the point of view of management. However, distribution modelling for invasive species using ecological niche models (ENMs) involves multiple challenges. Owing to the short time span since the introduction or arrival of a non‐indigenous species and the associated dispersal limitations, applying regular ENMs at an early stage of the invasion process may result in an underestimation of the potential niche in the new ranges. This topic is dealt with here using the example of Aedes japonicus japonicus, a vector competent mosquito species for a number of diseases.RESULTSWe found high niche unfilling for the species' non‐native range niches in Europe and North America compared with the native range niche, which can be explained by the early stage of the invasion process. Comparing four different ENMs based on: (i) the European and (ii) the North American non‐native range occurrence data, (iii) (derived) native range occurrence data, and (iv) all available occurrence data together, we found large differences in the projected climatic suitability, with the global data model projecting larger areas with climatic suitability.CONCLUSIONENM in biological invasions can be challenging, especially when distribution data are only poorly available. We suggest one possible way to project climatic suitability for Aedes j. japonicus despite poor data availability for the non‐native ranges and missing occurrences from the native range. We discuss aspects of the lack of information and the associated implications for modelling. © 2020 The Authors. Pest Management Science published by John Wiley &amp; Sons Ltd on behalf of Society of Chemical Industry.</dc:description>
+</oai_dc:dc>

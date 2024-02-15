@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q122639629</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q122639629</dc:identifier>
+  <dc:identifier>doi:10.1111/MEC.16740</dc:identifier>
+  <dc:title>Population genomic insights into invasion success in a polyphagous agricultural pest, &lt;i&gt;Halyomorpha halys&lt;/i&gt;</dc:title>
+  <dc:creator>Parvizi, Elaheh</dc:creator>
+  <dc:creator>Dhami, Manpreet K.</dc:creator>
+  <dc:creator>Yan, Juncong</dc:creator>
+  <dc:creator>McGaughran, Angela</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-11-06</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>brown marmorated stink bug</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractInvasive species are increasingly threatening ecosystems and agriculture by rapidly expanding their range and adapting to environmental and human‐imposed selective pressures. The genomic mechanisms that underlie such rapid changes remain unclear, especially for agriculturally important pests. Here, we used genome‐wide polymorphisms derived from native, invasive, and intercepted samples and populations of the brown marmorated stink bug (BMSB), Halyomorpha halys, to gain insights into population genomics processes that have promoted the successful global invasion of this polyphagous pest. Our analysis demonstrated that BMSB exhibits spatial structure but admixture rates are high among introduced populations, resulting in similar levels of genomic diversity across native and introduced populations. These spatial genomic patterns suggest a complex invasion scenario, potentially with multiple bridgehead events, posing a challenge for accurately assigning BMSB incursions to their source using reduced‐representation genomic data. By associating allele frequencies with the invasion status of BMSB populations, we found significantly differentiated single nucleotide polymorphisms (SNPs) located in close proximity to genes for insecticide resistance and olfaction. Comparing variations in allele frequencies among populations for outlier SNPs suggests that BMSB invasion success has probably evolved from standing genetic variation. In addition to being a major nuisance of households, BMSB has caused significant economic losses to agriculture in recent years and continues to expand its range. Despite no record of BMSB insecticide resistance to date, our results show high capacity for potential evolution of such traits, highlighting the need for future sustainable and targeted management strategies.</dc:description>
+</oai_dc:dc>

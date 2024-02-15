@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114728757</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114728757</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.70.72508</dc:identifier>
+  <dc:title>_Cost-benefit evaluation of management strategies for an invasive amphibian with a stage-structured model</dc:title>
+  <dc:creator>Vimercati, Giovanni</dc:creator>
+  <dc:creator>Davies, Sarah J.</dc:creator>
+  <dc:creator>Hui, Cang</dc:creator>
+  <dc:creator>Measey, G. John</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-12-14</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Management strategies for invasive populations should be designed to maximise efficacy and efficiency, i.e. to accomplish their goals while operating with the least resource consumption. This optimisation is often difficult to achieve in stage-structured populations, because costs, benefits and feasibility of removing individuals may vary with stage. We use a spatially-explicit stage-structured model to assess efficacy of past, present and alternative control strategies for invasive guttural toads, Sclerophrys gutturalis, in Cape Town. The strategies involve removal of variable proportions of individuals at different life-history stages and spatial scales. We also quantify the time necessary to implement each strategy as a proxy of financial resources and we correct strategy outcomes by implementation of time to estimate efficiency. We found that the strategy initially pursued in Cape Town, which did not target any specific stage, was less efficient than the present strategy, which prioritises adult removal. The initial strategy was particularly inefficient because it did not reduce the population size despite allocating consistent resources to remove eggs and tadpoles. We also found that such removal might be detrimental when applied at high levels. This counter-intuitive outcome is due to the ‘hydra effect’: an undesired increase in population size caused by removing individuals before overcompensatory density dependence. Strategies that exclusively remove adults ensure much greater management efficiency than those that also remove eggs and tadpoles. Available management resources should rather be allocated to increase the proportion of adult guttural toads that are removed or the spatial extent at which this removal is pursued.</dc:description>
+</oai_dc:dc>

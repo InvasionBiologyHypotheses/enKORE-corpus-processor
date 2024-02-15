@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q96111691</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q96111691</dc:identifier>
+  <dc:identifier>doi:10.3390/RS11212553</dc:identifier>
+  <dc:title>Landsat Time Series Assessment of Invasive Annual Grasses Following Energy Development</dc:title>
+  <dc:creator>Villarreal, Miguel</dc:creator>
+  <dc:creator>Soulard, Christopher</dc:creator>
+  <dc:creator>Waller, Eric</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-10-30</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive grass</dc:subject>
+  <dc:subject>annual grass</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive annual grasses are of concern in much of the western United States because they tolerate resource variability and have high reproductive capacity, with propagules that are readily dispersed in disturbed areas like those created and maintained for energy development. Early season invasive grasses “green up” earlier than most native plants, producing a distinct pulse of greenness in the early spring that can be exploited to identify their location using multi-date imagery. To determine if invasive annual grasses increased around energy developments after the construction phase, we calculated an invasives index using Landsat TM and ETM+ imagery for a 34-year time period (1985–2018) and assessed trends for 1755 wind turbines installed between 1988 and 2013 in the southern California desert. The index uses the maximum Normalized Difference Vegetation Index (NDVI) for early season greenness (January-June), and mean NDVI (July–October) for the later dry season. We estimated the relative cover of invasive annuals each year at turbine locations and control sites and tested for changes before and after each turbine was installed. The time series was also mapped across the region and temporal trends were assessed relative to seasonal precipitation. The results showed an increase in early season invasives at turbine sites after installation, but also an increase in many of the surrounding control areas. Maps of the invasive index show a region-wide increase starting around 1998, and much of the increase occurred in areas surrounding wind development sites. These results suggest that invasions around the energy developments occurred within the context of a larger regional invasion, and while the development did not necessarily initiate the invasion, annual grasses were more prevalent around the developments.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56332154</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56332154</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2435.12835</dc:identifier>
+  <dc:title>Plant traits and plant biogeography control the biotic resistance provided by generalist herbivores</dc:title>
+  <dc:creator>Grutters, Bart M. C.</dc:creator>
+  <dc:creator>O. A. Roijendijk, Yvonne</dc:creator>
+  <dc:creator>Verberk, Wilco C. E. P.</dc:creator>
+  <dc:creator>Bakker, Elisabeth S.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-02-23</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>biotic resistance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>hypothesis:biotic resistance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q108374968</dc:subject>
+  <dc:subject>biogeography</dc:subject>
+  <dc:subject>herbivory</dc:subject>
+  <dc:subject>biotic resistance</dc:subject>
+  <dc:subject>herbivore</dc:subject>
+  <dc:subject>plant trait</dc:subject>
+  <dc:subject>generalist herbivore</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Summary
+
+
+Globalization and climate change trigger species invasions and range shifts, which reshuffle communities at an exceptional rate and expose plant migrants to unfamiliar herbivores. Dominant hypotheses to predict plant success are based on evolutionary novelty: either herbivores are maladapted to consume novel plants (enemy release hypothesis), or novel plants are maladapted to deter herbivores (biotic resistance hypothesis). Since novelty can work both ways, it fails to consistently predict when herbivores will consume novel over non‐novel plants. Surprisingly, the value of using plant traits to predict herbivore consumption of novel plants remains largely unexplored. We hypothesized that (i) plant traits explain generalist herbivore consumption rates of novel and non‐novel plants, and (ii) any effect of novelty will be grounded in consistent trait differences between native and novel plants. Lastly, we expected to find (iii) differences in plant traits and plant consumption rates across latitude.
+
+To test these hypotheses, we measured the consumption rate of plant species for a tropical and a temperate generalist herbivore in controlled feeding trials by offering them a large variety of 40 plant species from different geographical origins. Therefore, whether a plant was novel depended on the herbivore used, allowing us to disentangle plant identity from plant novelty. We also measured plant chemical traits and determined whether traits, geographical origin or novelty best explained herbivore consumption rates.
+
+Both generalist herbivores consumed more of plants with a high nitrogen‐to‐phenolic compounds ratio, irrespective of the plant's novelty to the herbivore. A pattern of increasing plant's nitrogen‐to‐phenolics ratio with latitude could explain why both the tropical and temperate herbivore consumed more of plants from temperate regions. Plant novelty and its geographical origin no longer explained consumption rates once differences in nitrogen‐to‐phenolic compounds ratio were taken into account.
+
+We show that differences in plant traits along a latitudinal cline determine herbivore consumption rates, irrespective of whether plants are novel or familiar. Therefore, we propose that integrating evolutionary novelty theory with plant traits and biogeography will increase our understanding of the consequences of plant species migration beyond biogeographical barriers.
+
+A lay summary is available for this article.</dc:description>
+</oai_dc:dc>

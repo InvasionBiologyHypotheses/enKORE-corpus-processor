@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113695398</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113695398</dc:identifier>
+  <dc:identifier>doi:10.3390/LAND11091438</dc:identifier>
+  <dc:title>Response of an Invasive Plant Species (Cynanchum acutum L.) to Changing Climate Conditions and Its Impact on Agricultural Landscapes</dc:title>
+  <dc:creator>Ar, Buse</dc:creator>
+  <dc:creator>Tuttu, Gamze</dc:creator>
+  <dc:creator>Gülçin, Derya</dc:creator>
+  <dc:creator>Özcan, Ali Uğur</dc:creator>
+  <dc:creator>Kara, Emre</dc:creator>
+  <dc:creator>Sürmen, Mustafa</dc:creator>
+  <dc:creator>Çiçek, Kerim</dc:creator>
+  <dc:creator>Velázquez, Javier</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-08-31</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>Cynanchum acutum</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>agricultural landscape</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Forecasting the distribution patterns of invasive weed species under changing climate conditions is critical for the early identification of especially vulnerable regions and the implementation of effective preventive measures. In this study, the current and potential range of stranglewort (Cynanchum acutum L.)—an invasive alien species (IAS) in certain regions—are predicted under various climate scenarios, using the maximum entropy algorithm. Species occurrence data representing the natural distribution of C. acutum and 15 of the WorldClim bioclimatic variables are used. With an ensemble method, the impact of climate change on the distribution of the species is predicted according to five CMIP6 climate change models and three scenarios (optimistic: SSP245; middle of the road: SSP370; and pessimistic: SSP585). According to the findings, it is predicted in all scenarios that C. acutum could expand its range to the north, particularly in agricultural landscapes. Therefore, the invasive status of this species will likely continue in the future. This emphasizes the need to determine the priority of conservation targets, especially for agricultural areas, to ensure food safety and protect biodiversity.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111155648</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111155648</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.3218</dc:identifier>
+  <dc:title>Individual‐based simulations suggest mixed impacts of warmer temperatures and a nonnative predator on Chinook salmon</dc:title>
+  <dc:creator>Hawkins, B. L.</dc:creator>
+  <dc:creator>Fullerton, A. H.</dc:creator>
+  <dc:creator>Sanderson, B. L.</dc:creator>
+  <dc:creator>Steel, E. Ashley</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-08-06</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>non-native predator</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractAs the climate changes, warmer water temperatures may stress populations of native coldwater fishes. Simultaneously, nonnative warmwater predators may expand their ranges and interact with already at‐risk native fish populations. To explore the independent and combined effects of these two stressors on threatened salmon, we present a case study of simulated Chinook salmon Oncorhynchus tshawytscha and largemouth bass Micropterus salmoides interacting under two thermal regimes in the Snoqualmie River, Washington, USA. We applied an individual‐based and spatially explicit model that tracks fish movement and growth. We evaluated changes in Chinook salmon emergence date, outmigration date, mass, and survival. We ran simulations for four scenarios: (1) Baseline, run without either stressor, (2) Warm, run with warmer temperatures, (3) Predator, run with largemouth bass, and (4) Warm‐Predator, run with both stressors. We assessed outcome metrics relative to the Baseline scenario. In the Warm scenario, salmon emerged 37_d and outmigrated 55_d earlier. There were 61% more subyearling migrants that were 31% smaller, and 72% fewer yearlings. In the Predator scenario, salmon survival decreased 64% for subyearlings and 69% for yearlings, and subyearlings were 7% smaller. In the Warm‐Predator scenario, salmon emerged 39_d and outmigrated 59_d earlier, subyearling survival increased 22%, subyearling mass decreased 37%, and 93% fewer yearlings survived. Our results suggest that warmer temperatures shift emergence and outmigration; predation by nonnative species is a threat to salmon survival; and life history strategies experience these stressors in different ways. Whereas subyearling production benefited from warmer temperatures more than it was hurt by predation, yearling production was depressed by both stressors independently and combined. Managers can use our individual‐based and spatially explicit approach to identify key times and areas to address exposure to extreme temperatures, overlap with nonnative species, and their interactive effects on threatened salmon. Our case study addressed three pressing needs identified in the literature: investigate impacts of nonnative species on threatened native salmon, build tools to evaluate management options where bass and salmon overlap, and explore how freshwater fishes will contend with multiple interactive stressors.</dc:description>
+</oai_dc:dc>

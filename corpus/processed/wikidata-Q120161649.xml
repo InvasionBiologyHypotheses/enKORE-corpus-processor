@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120161649</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120161649</dc:identifier>
+  <dc:identifier>doi:10.1186/S12302-023-00750-3</dc:identifier>
+  <dc:title>Unveiling the hidden economic toll of biological invasions in the European Union</dc:title>
+  <dc:creator>Henry, Morgane</dc:creator>
+  <dc:creator>Leung, Brian</dc:creator>
+  <dc:creator>Cuthbert, Ross N.</dc:creator>
+  <dc:creator>Bodey, Thomas W.</dc:creator>
+  <dc:creator>Ahmed, Danish A.</dc:creator>
+  <dc:creator>Angulo, Elena</dc:creator>
+  <dc:creator>Balzani, Paride</dc:creator>
+  <dc:creator>Briski, Elizabeta</dc:creator>
+  <dc:creator>Courchamp, Franck</dc:creator>
+  <dc:creator>Hulme, Philip E.</dc:creator>
+  <dc:creator>Kouba, Antonín</dc:creator>
+  <dc:creator>Kourantidou, Melina</dc:creator>
+  <dc:creator>Liu, Chunlong</dc:creator>
+  <dc:creator>Macêdo, Rafael L.</dc:creator>
+  <dc:creator>Oficialdegui, Francisco J.</dc:creator>
+  <dc:creator>Renault, David</dc:creator>
+  <dc:creator>Soto, Ismael</dc:creator>
+  <dc:creator>Tarkan, Ali Serhan</dc:creator>
+  <dc:creator>Turbelin, Anna J.</dc:creator>
+  <dc:creator>Bradshaw, Corey J. A.</dc:creator>
+  <dc:creator>Haubrock, Phillip J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-06-08</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>ecological economics</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>Abstract
+                Background
+                Biological invasions threaten the functioning of ecosystems, biodiversity, and human well-being by degrading ecosystem services and eliciting massive economic costs. The European Union has historically been a hub for cultural development and global trade, and thus, has extensive opportunities for the introduction and spread of alien species. While reported costs of biological invasions to some member states have been recently assessed, ongoing knowledge gaps in taxonomic and spatio-temporal data suggest that these costs were considerably underestimated.
+              
+                Results
+                We used the latest available cost data in InvaCost (v4.1)—the most comprehensive database on the costs of biological invasions—to assess the magnitude of this underestimation within the European Union via projections of current and future invasion costs. We used macroeconomic scaling and temporal modelling approaches to project available cost information over gaps in taxa, space, and time, thereby producing a more complete estimate for the European Union economy. We identified that only 259 out of 13,331 (~_1%) known invasive alien species have reported costs in the European Union. Using a conservative subset of highly reliable, observed, country-level cost entries from 49 species (totalling US$4.7 billion; 2017 value), combined with the establishment data of alien species within European Union member states, we projected unreported cost data for all member states.
+              
+                Conclusions
+                Our corrected estimate of observed costs was potentially 501% higher (US$28.0 billion) than currently recorded. Using future projections of current estimates, we also identified a substantial increase in costs and costly species (US$148.2 billion) by 2040. We urge that cost reporting be improved to clarify the economic impacts of greatest concern, concomitant with coordinated international action to prevent and mitigate the impacts of invasive alien species in the European Union and globally.
+              </dc:description>
+</oai_dc:dc>

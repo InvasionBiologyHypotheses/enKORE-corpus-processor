@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q112765323</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q112765323</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.71.76573</dc:identifier>
+  <dc:title>_Using leaf functional traits to remotely detect Cytisus scoparius (Linnaeus) Link in endangered savannahs</dc:title>
+  <dc:creator>Hacker, Paul W.</dc:creator>
+  <dc:creator>Coops, Nicholas C.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-02-11</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>functional trait</dc:subject>
+  <dc:subject>Cytisus scoparius</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Identification of invasive plant species must be accurate and timely for management practices to be successful. Currently, Cytisus scoparius (Scotch broom) is expanding unmonitored across North America’s west coast, threatening established ecological processes and altering biodiversity. Remote detection of leaf functional traits presents opportunities to better understand the distribution of C. scoparius. This paper demonstrates the capacity for remotely sensed leaf functional traits to differentiate C. scoparius from other common plant species found in mixed grassland-woodland ecosystems at the leaf- and canopy-levels. Retrieval of leaf nitrogen percent, specifically, was found to be significantly higher in C. scoparius than each of the other 22 species sampled. These findings suggest that it may be possible to accurately detect introduced C. scoparius individuals using information collected from leaf and imaging spectroscopy at fine spatial resolutions.</dc:description>
+</oai_dc:dc>
