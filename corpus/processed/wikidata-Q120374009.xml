@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120374009</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120374009</dc:identifier>
+  <dc:identifier>doi:10.1017/INP.2021.7</dc:identifier>
+  <dc:title>Refining tree size and dose–response functions for control of invasive&lt;i&gt;Pinus contorta&lt;/i&gt;</dc:title>
+  <dc:creator>Rolando, Carol</dc:creator>
+  <dc:creator>Richardson, Brian</dc:creator>
+  <dc:creator>Paul, Thomas S. H.</dc:creator>
+  <dc:creator>Somchit, Chanatda</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-02-26</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Pinus contorta</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
+  <dc:description>AbstractExotic conifers are rapidly spreading in many regions of New Zealand, as well as in many other countries, with detrimental impacts on both natural ecosystems and some productive sector environments. Herbicides, in particular the active ingredient triclopyr, are an important tool to manage invasive conifers, yet there is a paucity of information that quantifies the amount of herbicide required to kill trees of different sizes when applied as a basal bark treatment. Two sequential experiments were conducted to define the amount of triclopyr required to kill individual invasive lodgepole pine (Pinus contortaDouglas ex Loudon), trees of different sizes when applied in a methylated seed oil to bark (either the whole stem or base of the tree) and to determine which tree size variates (height, diameter at breast height [DBH], crown diameter [CD]) or derived attributes (crown area, crown volume index) best characterized this dose–response relationship. The outcomes of the dose–response research were compared with field operations where triclopyr was applied to the bark of trees from an aerial platform. Applying the herbicide to the whole stem, as opposed to the base of the tree only, significantly increased treatment efficacy. The tree size variates DBH, CD, crown area, and crown volume index all provided good fits to the tree mortality data, with &gt;91% prediction accuracy. Of these variates, CD provided the most practical measure of tree size for ease of in-field calculation of dose by an operator. Herbicide rates used in field operations were seven to eight times higher than lethal doses calculated from experimental data. Our results highlight the potential for substantial reductions in herbicide rates for exotic conifer control, especially if dose–response data are combined with remotely sensed quantitative measurements of canopy area or volume using new precision technologies such as unmanned aerial vehicles.</dc:description>
+</oai_dc:dc>

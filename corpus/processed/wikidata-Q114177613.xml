@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114177613</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114177613</dc:identifier>
+  <dc:identifier>doi:10.1016/J.FORECO.2018.01.025</dc:identifier>
+  <dc:title>Southwestern white pine (Pinus strobiformis) species distribution models project a large range shift and contraction due to regional climatic changes</dc:title>
+  <dc:creator>Shirk, Andrew J.</dc:creator>
+  <dc:creator>Cushman, Samuel A.</dc:creator>
+  <dc:creator>Waring, Kristen M.</dc:creator>
+  <dc:creator>Wehenkel, Christian A.</dc:creator>
+  <dc:creator>Leal-Sáenz, Alejandro</dc:creator>
+  <dc:creator>Toney, Chris</dc:creator>
+  <dc:creator>Lopez-Sanchez, Carlos A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-03-15</dc:date>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Pinus strobiformis</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>species distribution model</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

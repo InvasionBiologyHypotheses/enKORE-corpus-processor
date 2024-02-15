@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64285223</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64285223</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439495</dc:identifier>
+  <dc:identifier>doi:10.1111/EVA.12732</dc:identifier>
+  <dc:title>Genomic signatures of introgression between commercial and native bumblebees, Bombus terrestris, in western Iberian Peninsula-Implications for conservation and trade regulation</dc:title>
+  <dc:creator>Seabra, Sofia G.</dc:creator>
+  <dc:creator>Silva, Sara Ema Graça</dc:creator>
+  <dc:creator>Nunes, Vera L.</dc:creator>
+  <dc:creator>Sousa, Vitor</dc:creator>
+  <dc:creator>Martins, Joana</dc:creator>
+  <dc:creator>Marabuto, Eduardo</dc:creator>
+  <dc:creator>Rodrigues, Ana S.B.</dc:creator>
+  <dc:creator>Pina-Martins, F</dc:creator>
+  <dc:creator>Laurentino, Telma G</dc:creator>
+  <dc:creator>Rebelo, Maria Teresa</dc:creator>
+  <dc:creator>Figueiredo, Elisabete</dc:creator>
+  <dc:creator>Paulo, Octávio S.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-01-11</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Bombus terrestris</dc:subject>
+  <dc:subject>introgression</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractHuman‐mediated introductions of species may have profound impacts on native ecosystems. One potential impact with largely unforeseen consequences is the potential admixture of introduced with autochthonous species through hybridization. Throughout the world, bumblebees have been deliberately introduced for crop pollination with known negative impacts on native pollinators. Given the likely allochthonous origin of commercial bumblebees used in Portugal (subspecies Bombus terrestris terrestris and B._t._dalmatinus), our aim was to assess their putative introgression with the native Iberian subspecies B._terrestris lusitanicus. We analysed one mitochondrial gene, cytochrome c oxidase subunit I (COX1) and genomic data involving thousands of genome‐wide restriction‐site‐associated DNA markers (RAD‐seq). In the mitochondrial COX1 analyses, we detected one relatively common haplotype in commercial bumblebees, also present in wild samples collected nearby the greenhouses where the commercial hives are used. In the RAD‐seq analysis, we found a clear genetic differentiation between native and commercial lineages. Furthermore, we detected candidate hybrids in the wild, as well as putatively escaped commercial bumblebees, some of which being potentially fertile males. Although we cannot assess directly the fitness effects of introgressed alleles, there is a risk of maladaptive allele introgression to the local bumblebee subspecies, which can negatively impact autochthon populations. One immediate recommendation to farmers is for the proper disposal of hive boxes, after their use in greenhouses, so as to minimize the risk of escapees contaminating native populations. On the other hand, the feasibility of using local subspecies B._t._lusitanicus, preferably with local production, should be evaluated.</dc:description>
+</oai_dc:dc>

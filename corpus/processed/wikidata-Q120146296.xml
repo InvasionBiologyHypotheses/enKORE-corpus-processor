@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120146296</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120146296</dc:identifier>
+  <dc:identifier>doi:10.3390/BIOLOGY12060830</dc:identifier>
+  <dc:title>Biological Invasions Affect Resource Processing in Aquatic Ecosystems: The Invasive Amphipod Dikerogammarus villosus Impacts Detritus Processing through High Abundance Rather than Differential Response to Temperature</dc:title>
+  <dc:creator>Pile, Benjamin</dc:creator>
+  <dc:creator>Warren, Daniel</dc:creator>
+  <dc:creator>Hassall, Christopher</dc:creator>
+  <dc:creator>Brown, Lee E</dc:creator>
+  <dc:creator>Dunn, Alison M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-06-07</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>Dikerogammarus villosus</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>aquatic ecosystem</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Anthropogenic stressors such as climate warming and invasive species and natural stressors such as parasites exert pressures that can interact to impact the function of ecosystems. This study investigated how these stressors interact to impact the vital ecosystem process of shredding by keystone species in temperate freshwater ecosystems. We compared metabolic rates and rates of shredding at a range of temperatures up to extreme levels, from 5 °C to 30 °C, between invasive and native amphipods that were unparasitised or parasitised by a common acanthocephalan, Echinorhynchus truttae. Shredding results were compared using the relative impact potential (RIP) metric to investigate how they impacted the scale with a numerical response. Although per capita shredding was higher for the native amphipod at all temperatures, the higher abundance of the invader led to higher relative impact scores; hence, the replacement of the native by the invasive amphipod is predicted to drive an increase in shredding. This could be interpreted as a positive effect on the ecosystem function, leading to a faster accumulation of amphipod biomass and a greater rate of fine particulate organic matter (FPOM) provisioning for the ecosystem. However, the high density of invaders compared with natives may lead to the exhaustion of the resource in sites with relatively low leaf detritus levels.</dc:description>
+</oai_dc:dc>

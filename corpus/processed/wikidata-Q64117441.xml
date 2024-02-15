@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q64117441</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q64117441</dc:identifier>
+  <dc:identifier>doi:10.1002/ECE3.5084</dc:identifier>
+  <dc:title>Molecular basis underlying the successful invasion of hexaploid cytotypes of Solidago canadensis L.: Insights from integrated gene and miRNA expression profiling</dc:title>
+  <dc:creator>Xu, Chanchan</dc:creator>
+  <dc:creator>Ge, Yimeng</dc:creator>
+  <dc:creator>Wang, Jianbo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>ploidy</dc:subject>
+  <dc:subject>polyploid</dc:subject>
+  <dc:subject>transcriptome</dc:subject>
+  <dc:subject>cytotype</dc:subject>
+  <dc:subject>invasion mechanism</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>Solidago canadensis</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractDissecting complex connections between cytogenetic traits (ploidy levels) and plant invasiveness has emerged as a popular research subject in the field of invasion biology. Although recent work suggests that polyploids are more likely to be invasive than their corresponding diploids, the molecular basis underlying the successful invasion of polyploids remains largely unexplored. To this end, we adopted an RNA‐seq and sRNA‐seq approach to describe how polyploids mediate invasiveness differences in two contrasting cytotypes of Solidago canadensis L., a widespread wild hexaploid invader with localized cultivated diploid populations. Our analysis of the leaf transcriptome revealed 116,801 unigenes, of which 12,897 unigenes displayed significant differences in expression levels. A substantial number of these differentially expressed unigenes (DEUs) were significantly associated with the biosynthesis of secondary metabolites, carbohydrate metabolism, lipid metabolism, and environmental adaptation pathways. Gene Ontology term enrichment‐based categorization of DEU‐functions was consistent with this observation, as terms related to single‐organism, cellular, and metabolic processes including catalytic, binding, transporter, and enzyme regulator activity were over‐represented. Concomitantly, 186 miRNAs belonging to 44 miRNA families were identified in the same leaf tissues, with 59 miRNAs being differentially expressed. Furthermore, we discovered 83 miRNA‐target interacting pairs that were oppositely regulated, and a meticulous study of these targets depicted that several unigenes encoding transcription factors, DNA methyltransferase, and leucine‐rich repeat receptor‐like kinases involved in the stress response were greatly influenced. Collectively, these transcriptional and epigenetic data provide new insights into miRNA‐mediated gene expression regulatory mechanisms that may operate in hexaploid cytotypes to favor successful invasion.</dc:description>
+</oai_dc:dc>

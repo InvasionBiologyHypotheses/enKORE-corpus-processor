@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110626259</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110626259</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.62.52010</dc:identifier>
+  <dc:title>Understanding uncertainty in the Impact Classification for Alien Taxa (ICAT) assessments</dc:title>
+  <dc:creator>Probert, Anna F.</dc:creator>
+  <dc:creator>Volery, Lara</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Vimercati, Giovanni</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-15</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The Environmental Impact Classification for Alien Taxa (EICAT) and the Socio-Economic Impact Classification of Alien Taxa (SEICAT) have been proposed to provide unified methods for classifying alien species according to their magnitude of impacts. EICAT and SEICAT (herein “ICAT” when refered together) were designed to facilitate the comparison between taxa and invasion contexts by using a standardised, semi-quantitative scoring scheme. The ICAT scores are assigned after conducting a literature review to evaluate all impact observations against the protocols’ criteria. EICAT classifies impacts on the native biota of the recipient environments, whereas SEICAT classifies impacts on human activities. A key component of the process is to assign a level of confidence (high, medium or low) to account for uncertainty. Assessors assign confidence scores to each impact record depending on how confident they are that the assigned impact magnitude reflects the true situation. All possible sources of epistemic uncertainty are expected to be captured by one overall confidence score, neglecting linguistic uncertainties that assessors should be aware of. The current way of handling uncertainty is prone to subjectivity and therefore might lead to inconsistencies amongst assessors. This paper identifies the major sources of uncertainty for impacts classified under the ICAT frameworks, where they emerge in the assessment process and how they are likely to be contributing to biases and inconsistency in assessments. In addition, as the current procedures only capture uncertainty at the individual impact report, interspecific comparisons may be limited by various factors, including data availability. Therefore, ranking species, based on impact magnitude under the present systems, does not account for such uncertainty. We identify three types of biases occurring beyond the individual impact report level (and not captured by the confidence score): biases in the existing data, data collection and data assessment. These biases should be recognised when comparing alien species based on their impacts. Clarifying uncertainty concepts relevant to the ICAT frameworks will lead to more consistent impact assessments and more robust intra- and inter-specific comparisons of impact magnitudes.</dc:description>
+</oai_dc:dc>

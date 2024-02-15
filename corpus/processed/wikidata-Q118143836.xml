@@ -11,7 +11,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2022-12-14</dc:date>
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>plant invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
   <dc:description>Negative impacts from aquatic invasive plants in the United States include economic costs, loss of commercial and recreational use, and environmental damage. Simulation models are valuable tools for predicting the invasion potentials of species and for the management of existing infestations. We developed a spatially explicit, agent-based model representing the invasion, growth, and senescence of aquatic weeds as functions of day length, water temperature, water depth, and the response of aquatic weeds to biological control. As a case study to evaluate its potential utility, we parameterized the model to represent two historical invasions (1975–1983 and 2004–2007) of Hydrilla (Hydrilla verticillata (L. fil.) Royle) in Lake Conroe, Texas, USA, and their subsequent biological control using grass carp (Ctenopharyngodon idella). Results of several hypothetical alternative management schemes indicated that grass carp stocking densities needed to control Hydrilla infestation increased exponentially as the lag time between initial invasion and initial stocking increased, whereas stocking densities needed to control infestation decreased as the amount of time allowed to control the infestation increased. Predictions such as those produced by our model aid managers in developing proactive management plans for areas most likely to be invaded.</dc:description>
 </oai_dc:dc>

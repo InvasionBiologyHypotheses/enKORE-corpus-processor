@@ -1,6 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2024-01-21T15:34:20.950Z
+# Process started at date-UTC: 2024-02-14T06:37:40.083Z
 # Note: List of DOI obtained from non-empty XML files.
 https://doi.org/10.1016/J.ENVSCI.2022.10.022
 https://doi.org/10.1051/PARASITE/2019003
@@ -429,7 +429,6 @@ https://doi.org/10.1007/S10980-006-9050-X
 https://doi.org/10.3390/PLANTS8100421
 https://doi.org/10.3391/MBI.2022.13.4.07
 https://doi.org/10.1038/NATURE12798
-https://doi.org/10.1186/S12879-016-1678-9
 https://doi.org/10.1371/JOURNAL.PBIO.0040279
 https://doi.org/10.1038/S41598-018-33218-Z
 https://doi.org/10.1002/AQC.2449
@@ -2779,6 +2778,7 @@ https://doi.org/10.3390/D14070527
 https://doi.org/10.2307/3237310
 https://doi.org/10.1051/KMAE/2017002
 https://doi.org/10.1016/J.JNC.2019.02.006
+https://doi.org/10.1186/S13071-019-3706-2
 https://doi.org/10.1111/WBM.12108
 https://doi.org/10.3390/LAND12030642
 https://doi.org/10.1080/03071375.2014.929291
@@ -3099,6 +3099,7 @@ https://doi.org/10.1080/09670870601185214
 https://doi.org/10.1016/S0038-0717(03)00153-6
 https://doi.org/10.1017/INP.2020.15
 https://doi.org/10.1007/S10152-006-0029-4
+https://doi.org/10.4322/NATCON.2013.004
 https://doi.org/10.1007/S10530-010-9867-8
 https://doi.org/10.1111/J.1439-0426.2008.01086.X
 https://doi.org/10.1126/SCIENCE.1075753
@@ -6103,6 +6104,7 @@ https://doi.org/10.1007/S10530-014-0712-3
 https://doi.org/10.1111/1365-2664.12928
 https://doi.org/10.1111/2041-210X.12844
 https://doi.org/10.1016/J.BIOCONTROL.2015.04.016
+https://doi.org/10.1016/J.PEDOBI.2021.150749
 https://doi.org/10.1093/TREEPHYS/TPAA042
 https://doi.org/10.3391/MBI.2020.11.1.07
 https://doi.org/10.1017/S0959270910000109
@@ -8193,6 +8195,7 @@ https://doi.org/10.1002/AQC.2453
 https://doi.org/10.1890/07-1516.1
 https://doi.org/10.1371/JOURNAL.PONE.0136680
 https://doi.org/10.3389/FPHYS.2022.865172
+https://doi.org/10.7717/PEERJ.5700
 https://doi.org/10.1139/F05-152
 https://doi.org/10.1016/J.JENVMAN.2021.112161
 https://doi.org/10.1111/J.1365-2400.2004.00386.X
@@ -9611,7 +9614,6 @@ https://doi.org/10.14214/SF.1660
 https://doi.org/10.3390/MICROORGANISMS8060806
 https://doi.org/10.14710/IJRED.7.3.205-212
 https://doi.org/10.1614/IPSM-D-11-00095.1
-https://doi.org/10.1186/1476-5926-7-7
 https://doi.org/10.1007/S10452-010-9347-3
 https://doi.org/10.1007/S10530-021-02481-Z
 https://doi.org/10.1007/S10530-009-9650-X
@@ -9848,6 +9850,7 @@ https://doi.org/10.1007/S10530-019-01941-X
 https://doi.org/10.3354/MEPS13560
 https://doi.org/10.3390/LAND12020341
 https://doi.org/10.1007/S10530-019-01953-7
+https://doi.org/10.3390/LIMNOLREV24010001
 https://doi.org/10.3391/MBI.2015.6.3.04
 https://doi.org/10.1016/J.ADHOC.2016.09.005
 https://doi.org/10.1016/J.PPEES.2011.12.002
@@ -10698,6 +10701,7 @@ https://doi.org/10.3390/PLANTS12061406
 https://doi.org/10.1016/J.BIOCON.2016.03.007
 https://doi.org/10.1017/S095927091000002X
 https://doi.org/10.1371/JOURNAL.PONE.0068274
+https://doi.org/10.1007/S12228-016-9417-5
 https://doi.org/10.2139/SSRN.2759001
 https://doi.org/10.7717/PEERJ.3104
 https://doi.org/10.1016/J.FORECO.2011.04.040
@@ -10996,6 +11000,7 @@ https://doi.org/10.1016/J.FORECO.2008.08.036
 https://doi.org/10.1111/J.1472-4642.2010.00721.X
 https://doi.org/10.1016/S0378-1127(98)00517-9
 https://doi.org/10.1890/130311
+https://doi.org/10.1071/BT22061
 https://doi.org/10.1614/IPSM-D-13-00046.1
 https://doi.org/10.4102/KOEDOE.V54I1.1006
 https://doi.org/10.1890/0012-9658(2002)083[0898:EOCSOI]2.0.CO;2
@@ -11888,4 +11893,4 @@ https://doi.org/10.1614/IPSM-D-09-00038.1
 https://doi.org/10.3391/MBI.2011.2.1.05
 https://doi.org/10.2166/WST.2014.394
 https://doi.org/10.1007/S00267-013-0170-1
-# Process complete at date-UTC: 2024-01-21T19:42:14.409Z
+# Process complete at date-UTC: 2024-02-14T23:46:42.558Z

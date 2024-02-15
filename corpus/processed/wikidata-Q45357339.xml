@@ -3,7 +3,7 @@
   <dc:identifier>https://scholia.toolforge.org/work/Q45357339</dc:identifier>
   <dc:identifier>http://www.wikidata.org/entity/Q45357339</dc:identifier>
   <dc:identifier>doi:10.1007/S00705-012-1336-5</dc:identifier>
-  <dc:title>Molecular characterisation of beak and feather disease virus (BFDV) in New Zealand and its implications for managing an infectious disease.</dc:title>
+  <dc:title>Molecular characterisation of beak and feather disease virus (BFDV) in New Zealand and its implications for managing an infectious disease</dc:title>
   <dc:creator>Massaro, Melanie</dc:creator>
   <dc:creator>Ortiz-Catedral, Luis</dc:creator>
   <dc:creator>Julian, Laurel</dc:creator>
@@ -39,5 +39,6 @@
   <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>New Zealand</dc:subject>
   <dc:subject>invasion management</dc:subject>
+  <dc:subject>beak and feather disease virus</dc:subject>
   <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
 </oai_dc:dc>

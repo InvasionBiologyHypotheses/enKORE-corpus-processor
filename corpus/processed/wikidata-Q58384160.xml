@@ -4,7 +4,6 @@
   <dc:identifier>http://www.wikidata.org/entity/Q58384160</dc:identifier>
   <dc:identifier>doi:10.1017/S1068280500010108</dc:identifier>
   <dc:title>Forest Product Trade Impacts of an Invasive Species: Modeling Structure and Intervention Trade-Offs</dc:title>
-  <dc:creator>Prestemon, Jeffrey</dc:creator>
   <dc:creator>Prestemon, Jeffrey P.</dc:creator>
   <dc:creator>Zhu, Shushuai</dc:creator>
   <dc:creator>Turner, James A.</dc:creator>
@@ -15,8 +14,11 @@
   <dc:language>en</dc:language>
   <dc:subject>theme:invasion impact</dc:subject>
   <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>theme:invasion pathway</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive species</dc:subject>
   <dc:subject>invasion impact</dc:subject>
   <dc:subject>forest invasion</dc:subject>
+  <dc:subject>invasion pathway</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
 </oai_dc:dc>

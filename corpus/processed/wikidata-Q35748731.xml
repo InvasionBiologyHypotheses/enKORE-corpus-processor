@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35748731</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35748731</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0136157</dc:identifier>
+  <dc:title>Impacts of Rotational Grazing on Soil Carbon in Native Grass-Based Pastures in Southern Australia</dc:title>
+  <dc:creator>Sanderman, Jonathan</dc:creator>
+  <dc:creator>Reseigh, Jodie</dc:creator>
+  <dc:creator>Wurst, Michael</dc:creator>
+  <dc:creator>Young, Mary-Anne</dc:creator>
+  <dc:creator>Austin, Jenet</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-08-18</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Australia</dc:subject>
+  <dc:subject>native grass</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Rotational grazing management strategies have been promoted as a way to improve the sustainability of native grass-based pasture systems. From disturbance ecology theory, rotational grazing relative to continuous grazing can increase pasture productivity by allowing vegetation to recover after short intense grazing periods. This project sought to assess whether soil organic carbon (SOC) stocks would also increase with adoption of rotational grazing management. Twelve pairs of rotationally and continuously grazed paddocks were sampled across a rainfall gradient in South Australia. Pasture productivity approximated as the normalized difference vegetation index (NDVI) was on average no different between management categories, but when the data from all sites were aggregated as log response ratios (rotational/continuous) a significant positive trend of increasing NDVI under rotational grazing relative to continuous grazing was found (R2 = 0.52). Mean SOC stocks (0-30 cm) were 48.3 Mg C ha-1 with a range of 20-80 Mg C ha-1 across the study area with no differences between grazing management categories. SOC stocks were well correlated with rainfall and temperature (multiple linear regression R2 = 0.61). After removing the influence of climate on SOC stocks, the management variables, rest periods, stocking rate and grazing days, were found to be significantly correlated with SOC, explaining 22% of the variance in SOC, but there were still no clear differences in SOC stocks at paired sites. We suggest three reasons for the lack of SOC response. First, changes in plant productivity and turnover in low-medium rainfall regions due to changes in grazing management are small and slow, so we would only expect at best small incremental changes in SOC stocks. This is compounded by the inherent variability within and between paddocks making detection of a small real change difficult on short timescales. Lastly, the management data suggests that there is a gradation in implementation of rotational grazing and the use of two fixed categories (i.e. rotational v. continuous) may not be the most appropriate method of comparing diverse management styles.</dc:description>
+</oai_dc:dc>

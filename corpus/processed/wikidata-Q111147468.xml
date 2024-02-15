@@ -10,10 +10,14 @@
   <dc:date>2021-09-06</dc:date>
   <dc:language>en</dc:language>
   <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive plant</dc:subject>
   <dc:subject>habitat suitability</dc:subject>
   <dc:subject>biological invasion</dc:subject>
   <dc:subject>invasion detection</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
   <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
   <dc:description>AbstractLand managers require tools that improve understanding of suitable habitat for invasive plants and that can be incorporated into survey efforts to improve efficiency. Habitat suitability models (HSMs) contain attributes that can meet these requirements, but it is not known how well they perform, as they are rarely field-tested for accuracy. We developed ensemble HSMs in the state of Wisconsin for 15 species using five algorithms (boosted regression trees, generalized linear models, multivariate regression splines, MaxEnt, and random forests), evaluated performance, determined variables that drive suitability, and tested accuracy. All models had good model performance during the development phase (Area Under the Curve [AUC] &gt; 0.7 and True Skills Statistic [TSS] &gt; 0.4). While variable importance and directionality was species specific, the most important predictor variables across all of the species’ models were mean winter minimum temperatures, total summer precipitation, and tree canopy cover. Post model development, we obtained 5,005 new occurrence records from community science observations for all 15 focal species to test the models’ abilities to accurately predict results. Using a correct classification rate of 80%, just 8 of the 15 species correctly predicted suitable habitat (α ≤ 0.05). Exploratory analyses found the number of reporters of these new data and the total number of new occurrences reported per species contributed to increasing correct classification. Results suggest that while some models perform well on evaluation metrics, relying on these metrics alone is not sufficient and can lead to errors when utilized for surveying. We recommend any model should be tested for accuracy in the field before use to avoid this potential issue.</dc:description>
 </oai_dc:dc>

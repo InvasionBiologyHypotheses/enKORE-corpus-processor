@@ -15,6 +15,7 @@
   <dc:date>2020</dc:date>
   <dc:rights>http://creativecommons.org/licenses/by/4.0</dc:rights>
   <dc:subject>biological invasion</dc:subject>
+  <dc:subject>biological dispersal</dc:subject>
   <dc:publisher>EDP Sciences</dc:publisher>
   <dc:description>We consider a reaction-diffusion-reproduction equation, modeling a population which is spatially heterogeneous. The dispersion of each individuals is influenced by its phenotype. In the literature, the asymptotic propagation speed of an asexual population has already been rigorously determined. In this paper we focus on the difference between the asexual reproduction case, and the sexual reproduction case, involving a non-local term modeling the reproduction. This comparison leads to a different invasion speed according to the reproduction.
 After a formal analysis of both cases, leading to a heuristic of the asymptotic behaviour of the invasion fronts, we give some numerical evidence that the acceleration rate of the spatial spreading of a sexual population is slower than the acceleration rate of an asexual one. The main difficulty to get sharper results on a transient comes from the non-local sexual reproduction term.</dc:description>

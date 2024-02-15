@@ -12,7 +12,10 @@
   <dc:type>journal article</dc:type>
   <dc:date>2019-06-13</dc:date>
   <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
   <dc:subject>invasive plant</dc:subject>
+  <dc:subject>invasion management</dc:subject>
   <dc:publisher>MDPI AG</dc:publisher>
   <dc:description>Invasive aquatic plant species can expand rapidly throughout water bodies and cause severely adverse economic and ecological impacts. While mechanical, chemical, and biological methods exist for the identification and treatment of these invasive species, they are manually intensive, inefficient, costly, and can cause collateral ecological damage. To address current deficiencies in aquatic weed management, this paper details the development of a small fleet of fully autonomous boats capable of subsurface hydroacoustic imaging (to scan aquatic vegetation), machine learning (for automated weed identification), and herbicide deployment (for vegetation control). These capabilities aim to minimize manual labor and provide more efficient, safe (reduced chemical exposure to personnel), and timely weed management. Geotagged hydroacoustic imagery of three aquatic plant varieties (Hydrilla, Cabomba, and Coontail) was collected and used to create a software pipeline for subsurface aquatic weed classification and distribution mapping. Employing deep learning, the novel software achieved a classification accuracy of 99.06% after training.</dc:description>
 </oai_dc:dc>

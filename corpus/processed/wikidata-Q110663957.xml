@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110663957</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110663957</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.59.36299</dc:identifier>
+  <dc:title>Origin of climatic data can determine the transferability of species distribution models</dc:title>
+  <dc:creator>Datta, Arunava</dc:creator>
+  <dc:creator>Schweiger, Oliver</dc:creator>
+  <dc:creator>Kühn, Ingolf</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-28</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>species distribution</dc:subject>
+  <dc:subject>species distribution model</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Methodological research on species distribution modelling (SDM) has so far largely focused on the choice of appropriate modelling algorithms and variable selection approaches, but the consequences of choosing amongst different sources of environmental data has scarcely been investigated. Bioclimatic variables are commonly used as predictors in SDMs. Currently, several online databases offer the same sets of bioclimatic variables, but they differ in underlying source of raw data and method of data processing (extrapolation and downscaling). In this paper, we asked whether predictive performance and spatial transferability of SDMs are affected by the choice of two different bioclimatic databases viz. WorldClim 2 and Chelsa 1.2. We used presence-absence data of the invasive plant Ageratina adenophora from the Western Himalaya for training SDMs and a set of independently-collected presence-only datasets from the Central and Eastern Himalaya to evaluate the transferability of the SDMs beyond the training range. We found that the performance of SDMs was, to a large degree, affected by the choice of the climatic dataset. Models calibrated on Chelsa 1.2 outperformed WorldClim 2 in terms of internal evaluation on the calibration dataset. However, when the model was transferred beyond the calibration range to the Central and Eastern Himalaya, models based on WorldClim 2 performed substantially better. We recommend that, in addition to the choice of predictor variables, the choice of predictor datasets with these variables should not be based merely on subjective decision whenever several options are available. Instead, such decisions should be based on robust evaluation of the most appropriate dataset for a given geographic region and species being modelled. Moreover, decisions could also depend on the objective of the study, i.e. projecting within the calibration range or beyond. Therefore, a quantitative evaluation of predictor datasets from alternative sources should be routinely performed as an integral part of the modelling procedure.</dc:description>
+</oai_dc:dc>

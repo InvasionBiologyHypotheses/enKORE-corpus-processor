@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117788360</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117788360</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2664.14411</dc:identifier>
+  <dc:title>A plea for scale, and why it matters for invasive species management, biodiversity and conservation</dc:title>
+  <dc:creator>McMillan, Nicholas A.</dc:creator>
+  <dc:creator>Fuhlendorf, Samuel D.</dc:creator>
+  <dc:creator>Davis, Craig A.</dc:creator>
+  <dc:creator>Hamilton, Robert G.</dc:creator>
+  <dc:creator>Neumann, Landon. K.</dc:creator>
+  <dc:creator>Cady, Samantha M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-04-10</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by-nc/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>conservation management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Abstract
+
+
+Invasive species are suspected to be major contributors to biodiversity declines worldwide. Counterintuitively, however, invasive species effects are likely scale dependent and are hypothesized to be positively related to biodiversity at large spatial scales. Past studies investigating the effect of invasion on biodiversity have been mostly conducted at small scales (&lt;100_m2) that cannot represent large dynamic landscapes by design. Therefore, replicated experimental evidence supporting a negative effect of invasive plants on biodiversity is lacking across many landscape types, including large grasslands.
+
+We collected data across eight large (333–809_ha) grassland landscapes managed with pyric herbivory—that is the recoupling of fire and grazing—to test how an invasive legume Lespedeza cuneata affected plant and bird communities at spatial grains ranging from 0.1_m2 to &gt;3,000,000_m2.
+
+Lespedeza cuneata invasion effects on grassland plant diversity and composition changed with scale, being negative at small spatial grains (0.1_m2) and neutral or positive at large spatial grains (&gt;3,000,000_m2).
+
+Lespedeza cuneata abundance did not significantly affect bird diversity at any spatial grain measured.
+
+Lespedeza cuneata may negatively affect biodiversity if abundances are greater than those observed in this study. However, previous research suggests that Lespedeza cuneata may not be capable of exceeding 20% canopy cover across large landscapes (&gt;400_ha). Control and eradication strategies can be costly and are fraught with risk. If data do not clearly support a negative Lespedeza cuneata abundance–biodiversity relationship, and if invasion is spatially limited across large landscapes, ongoing control and eradication efforts may be unwarranted and ineffective.
+
+Synthesis and applications: Invasive species effects gleaned from small‐scale studies may not reliably predict their effects at larger scales. Although we recognize the importance of small‐scale studies in potentially isolating individual mechanisms, management strategies based solely on results from small‐scale studies of invasion are unlikely to increase or conserve biodiversity across large landscapes. Rather, processes that generate landscape heterogeneity—like pyric herbivory—are probably more important for promoting biodiversity across all scales. Scale is a central problem in ecology, and defining scale in management objectives is essential for effective biodiversity conservation.
+
+</dc:description>
+</oai_dc:dc>

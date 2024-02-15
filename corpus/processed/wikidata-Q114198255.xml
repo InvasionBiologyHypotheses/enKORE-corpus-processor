@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114198255</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114198255</dc:identifier>
+  <dc:identifier>doi:10.1016/J.COIS.2022.100939</dc:identifier>
+  <dc:title>The importance of eco-evolutionary dynamics for predicting and managing insect range shifts</dc:title>
+  <dc:creator>Wellenreuther, Maren</dc:creator>
+  <dc:creator>Dudaniec, Rachael Y</dc:creator>
+  <dc:creator>Neu, Anika</dc:creator>
+  <dc:creator>Lessard, Jean-Philippe</dc:creator>
+  <dc:creator>Bridle, Jon</dc:creator>
+  <dc:creator>Carbonell, José A</dc:creator>
+  <dc:creator>Diamond, Sarah E</dc:creator>
+  <dc:creator>Marshall, Katie E</dc:creator>
+  <dc:creator>Parmesan, Camille</dc:creator>
+  <dc:creator>Singer, Michael C</dc:creator>
+  <dc:creator>Swaegers, Janne</dc:creator>
+  <dc:creator>Thomas, Chris D</dc:creator>
+  <dc:creator>Lancaster, Lesley T</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-08-15</dc:date>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>range shift</dc:subject>
+  <dc:subject>Evolutionary dynamics</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>
