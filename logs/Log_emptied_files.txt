@@ -1,8 +1,6 @@
 
 = = = = = = = = = = = = = = = = = = = =
-# Process started at date-UTC: 2024-02-14T06:37:40.082Z
+# Process started at date-UTC: 2024-02-28T02:59:41.437Z
 # Note: List of files that have just been empitied during this process.
-Log(checkWikidataItem): Emptying file: wikidata-Q38838634.xml
-Log(checkWikidataItem): Emptying file: wikidata-Q30484719.xml
-# Total XML-emptied: #v1[2]#v1
-# Process complete at date-UTC: 2024-02-14T23:46:42.558Z
+# Total XML-emptied: #v1[0]#v1
+# Process complete at date-UTC: 2024-02-28T11:58:54.876Z
