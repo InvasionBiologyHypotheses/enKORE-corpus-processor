@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111161434</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111161434</dc:identifier>
+  <dc:identifier>doi:10.1007/S11273-020-09719-Y</dc:identifier>
+  <dc:title>Application of airborne hyperspectral data for mapping of invasive alien Spiraea tomentosa L.: a serious threat to peat bog plant communities</dc:title>
+  <dc:creator>Kopeć, Dominik</dc:creator>
+  <dc:creator>Sabat-Tomala, Anita</dc:creator>
+  <dc:creator>Michalska-Hejduk, Dorota</dc:creator>
+  <dc:creator>Jarocińska, Anna</dc:creator>
+  <dc:creator>Niedzielko, Jan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-03-27</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Spiraea tomentosa</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>bog</dc:subject>
+  <dc:subject>plant community</dc:subject>
+  <dc:subject>peatland</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractRemote sensing is increasingly widely used in nature conservation management. The research focuses on developing an optimal set of airborne raster data for the identification of the invasive alien species Spiraea tomentosa L. The plant species selected for the purposes of this study poses a serious threat to peat bog plant communities, moist coniferous forests, and meadows in Central Europe. The impact of the data acquisition time on the accuracy of classification and the percentage cover limit required for correct identification of a target species using the developed method were also investigated. The study area is located in the Lower Silesian forests in Poland and is protected as a Natura 2000 site. Airborne hyperspectral and laser scanning data were simultaneously acquired two times in the growing season (August and September 2016) parallel to on-ground reference data collection. The 1_m resolution HySpex images with spectral range of 0.4–2.5_μm were corrected atmospherically, radiometrically and geometrically. Airborne Laser Scanning (ALS) data acquired at 7 points/m2 were used to generate several products, e.g. Canopy Height Model (CHM), rasters representing morphometric features of the area (Multiresolution Index of the Ridge Top Flatness or Valley Bottom Flatness—MRRTF, MRVBF), wetness relations (Topographic Wetness Index—TWI) and the availability of light (Total Insolation—TI), intensity of laser pulse reflection and geometric relations of vegetation points (i.a. Vegetation Cover, Vegetation Mean Intensity). The Random Forest (RF) classification and different raster datasets were used to identify the target species. As a result, the highest accuracy was obtained for the scenario based on HySpex images acquired in September. The accuracy (f1 score) for the target species achieved 83%. The developed method for the identification of Spiraea tomentosa has a great potential for application and can be used for monitoring peat bogs threatened by invasion of alien plants.</dc:description>
+</oai_dc:dc>

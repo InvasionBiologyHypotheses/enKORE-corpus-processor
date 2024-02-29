@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q34461007</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q34461007</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3482215</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0048157</dc:identifier>
+  <dc:title>Which factors affect the success or failure of eradication campaigns against alien species?</dc:title>
+  <dc:creator>Pluess, Therese</dc:creator>
+  <dc:creator>Jarošík, Vojtěch</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:creator>Cannon, Ray</dc:creator>
+  <dc:creator>Pergl, Jan</dc:creator>
+  <dc:creator>Breukers, Annemarie</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2012-10-26</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasive species eradication</dc:subject>
+  <dc:subject>species eradication</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Although issues related to the management of invasive alien species are receiving increasing attention, little is known about which factors affect the likelihood of success of management measures. We applied two data mining techniques, classification trees and boosted trees, to identify factors that relate to the success of management campaigns aimed at eradicating invasive alien invertebrates, plants and plant pathogens. We assembled a dataset of 173 different eradication campaigns against 94 species worldwide, about a half of which (50.9%) were successful. Eradications in man-made habitats, greenhouses in particular, were more likely to succeed than those in (semi-)natural habitats. In man-made habitats the probability of success was generally high in Australasia, while in Europe and the Americas it was higher for local infestations that are easier to deal with, and for international campaigns that are likely to profit from cross-border cooperation. In (semi-) natural habitats, eradication campaigns were more likely to succeed for plants introduced as an ornamental and escaped from cultivation prior to invasion. Averaging out all other factors in boosted trees, pathogens, bacteria and viruses were most, and fungi the least likely to be eradicated; for plants and invertebrates the probability was intermediate. Our analysis indicates that initiating the campaign before the extent of infestation reaches the critical threshold, starting to eradicate within the first four years since the problem has been noticed, paying special attention to species introduced by the cultivation pathway, and applying sanitary measures can substantially increase the probability of eradication success. Our investigations also revealed that information on socioeconomic factors, which are often considered to be crucial for eradication success, is rarely available, and thus their relative importance cannot be evaluated. Future campaigns should carefully document socioeconomic factors to enable tests of their importance.</dc:description>
+</oai_dc:dc>

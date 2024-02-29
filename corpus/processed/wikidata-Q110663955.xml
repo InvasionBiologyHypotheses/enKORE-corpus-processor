@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110663955</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110663955</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.58.38313</dc:identifier>
+  <dc:title>Assessing the probability of freedom from pine wood nematode based on 19 years of surveys</dc:title>
+  <dc:creator>Hannunen, Salla</dc:creator>
+  <dc:creator>Tuomola, Juha</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-08</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Many quarantine pests, such as the pine wood nematode (PWN, Bursaphelenchus xylophilus), are surveyed annually in all EU countries. Although a lot of resources are spent in the surveys, the confidence in pest freedom achieved with them is not commonly analysed. We assessed the probability that Finland is free from PWN, based on the surveys done in 2000–2018. We used the methods employed in the risk-based estimate of system sensitivity tool (RiBESS), which has recently been recommended for quarantine pest applications. We considered two scenarios: 1) the surveys aimed to justify phytosanitary import requirements and to facilitate exports and 2) the surveys aimed to detect invasions early to enable eradication of outbreaks. These differed only in the pest prevalence that the surveys were expected to detect. The surveys appeared to support the assumption that PWN is not present in Finland, but they did not seem extensive enough to ensure early detection of invasions. The sensitivity of the import-export surveys was greater than 0.6 in 13 years, whereas that of the early detection surveys was always below 0.25. The probability of freedom achieved in 2018 following 19 years of surveys increased asymptotically with the mean time between invasions. For the import-export surveys, this probability was at least 0.95 unless the mean time between invasions was less than 13 years. For the early detection surveys, the probability of freedom was less than 0.73 unless the mean time between invasions was 63 years or more. The results were rather robust with respect to the parameters for which exact information was lacking. To improve the assessment, a quantitative estimate of the probability of PWN invasion to Finland and a thorough assessment of the maximum area of an eradicable infestation would be needed. To gain an understanding about the true impact of quarantine pest surveys on biosecurity, more assessments, like the one presented in this paper, are needed.</dc:description>
+</oai_dc:dc>

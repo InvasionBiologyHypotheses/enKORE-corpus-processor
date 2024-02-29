@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q94588212</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q94588212</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287355</dc:identifier>
+  <dc:identifier>doi:10.1098/RSPB.2019.2945</dc:identifier>
+  <dc:title>Disruption of cross-feeding interactions by invading taxa can cause invasional meltdown in microbial communities</dc:title>
+  <dc:creator>Herren, Cristina M</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-13</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasional meltdown</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>The Royal Society</dc:publisher>
+  <dc:description>The strength of biotic interactions within an ecological community affects the susceptibility of the community to invasion by introduced taxa. In microbial communities, cross-feeding is a widespread type of biotic interaction that has the potential to affect community assembly and stability. Yet, there is little understanding of how the presence of cross-feeding within a community affects invasion risk. Here, I develop a metabolite-explicit model where native microbial taxa interact through both cross-feeding and competition for metabolites. I use this model to study how the strength of biotic interactions, especially cross-feeding, influence whether an introduced taxon can join the community. I found that stronger cross-feeding and competition led to much lower invasion risk, as both types of biotic interactions lead to greater metabolite scarcity for the invader. I also evaluated the impact of a successful invader on community composition and structure. The effect of invaders on the native community was greatest at intermediate levels of cross-feeding; at this ‘critical’ level of cross-feeding, successful invaders generally cause decreased diversity, decreased productivity, greater metabolite availability, and decreased quantities of metabolites exchanged among taxa. Furthermore, these changes resulting from a successful primary invader made communities further susceptible to future invaders. The increase in invasion risk was greatest when the network of metabolite exchange between taxa was minimally redundant. Thus, this model demonstrates a case of invasional meltdown that is mediated by initial invaders disrupting the metabolite exchange networks of the native community.</dc:description>
+</oai_dc:dc>

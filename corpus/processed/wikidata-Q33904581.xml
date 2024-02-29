@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q33904581</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q33904581</dc:identifier>
+  <dc:identifier>doi:10.1111/J.1461-0248.2011.01628.X</dc:identifier>
+  <dc:title>Ecological impacts of invasive alien plants: a meta-analysis of their effects on species, communities and ecosystems</dc:title>
+  <dc:creator>Vilà, Montserrat</dc:creator>
+  <dc:creator>Espinar, José L</dc:creator>
+  <dc:creator>Hejda, Martin</dc:creator>
+  <dc:creator>Hulme, Philip E</dc:creator>
+  <dc:creator>Jarošík, Vojtěch</dc:creator>
+  <dc:creator>Maron, John L</dc:creator>
+  <dc:creator>Pergl, Jan</dc:creator>
+  <dc:creator>Schaffner, Urs</dc:creator>
+  <dc:creator>Sun, Yan</dc:creator>
+  <dc:creator>Pyšek, Petr</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2011-05-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>meta-analysis</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:subject>ecological impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

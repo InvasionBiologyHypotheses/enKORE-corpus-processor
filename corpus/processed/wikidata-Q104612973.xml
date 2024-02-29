@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q104612973</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q104612973</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS12010004</dc:identifier>
+  <dc:title>Tracing the Invasion and Expansion Characteristics of the Flatid Planthopper, &lt;i&gt;Metcalfa pruinosa&lt;/i&gt; (Hemiptera: Flatidae), in Korea Using Mitochondrial DNA Sequences</dc:title>
+  <dc:creator>Lee, Keon Hee</dc:creator>
+  <dc:creator>Jeong, Jun Seong</dc:creator>
+  <dc:creator>Park, Jeong Sun</dc:creator>
+  <dc:creator>Kim, Min Jee</dc:creator>
+  <dc:creator>Jeong, Na Ra</dc:creator>
+  <dc:creator>Jeong, Su Yeon</dc:creator>
+  <dc:creator>Lee, Gwan Seok</dc:creator>
+  <dc:creator>Lee, Wonhoon</dc:creator>
+  <dc:creator>Kim, Iksoo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-12-23</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>Metcalfa pruinosa</dc:subject>
+  <dc:subject>Hemiptera</dc:subject>
+  <dc:subject>Flatidae</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The flatid planthopper, Metcalfa pruinosa (Hemiptera: Flatidae), which is an invasive species, is widespread in Korea. We sequenced a fragment of the COI from 536 individuals collected mainly in Korea and the European countries and combined these sequence data with the public data, totaling 830 individuals worldwide. The identification of one shared haplotype only between Korea and the USA, the presence of this haplotype only in the North-West region of Korea, and the highest haplotype diversity in this region suggested that the North-West region is another point of entry in addition to the South-East region, which is the presumed sole point of entry to Korea. Furthermore, it suggested that North-West entry involves the M. pruinosa originating from the USA. In an effort to find further variable regions in the mitochondrial genome, one region provided substantially increased variability compared to that of the fragment of COI. FST estimation, PCoA, and BAPS analysis, using the concatenated sequences of COI and the newly detected variable region to infer the expansion pattern in Korea, indicates that the main highway, running obliquely between the North-West and South-East regions, appears to be responsible for the current population genetic structure of M. pruinosa in Korea, facilitating gene flow through this highway traffic.</dc:description>
+</oai_dc:dc>

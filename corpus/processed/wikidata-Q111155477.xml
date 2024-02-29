@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111155477</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111155477</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.2657</dc:identifier>
+  <dc:title>Accounting for heterogeneous invasion rates reveals management impacts on the spatial expansion of an invasive species</dc:title>
+  <dc:creator>Pepin, Kim M</dc:creator>
+  <dc:creator>Wolfson, David W</dc:creator>
+  <dc:creator>Miller, Ryan S.</dc:creator>
+  <dc:creator>Tabak, Michael A.</dc:creator>
+  <dc:creator>Snow, Nathan P.</dc:creator>
+  <dc:creator>VerCauteren, Kurt C.</dc:creator>
+  <dc:creator>Davis, Amy J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-03-19</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasive species management</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractSuccess of large‐scale control programs for established invasive species is challenging to evaluate because of spatial variability in expansion rates, management techniques, and the strength of management intensity. For a well‐established invasive species in the spreading phase of invasion, a useful metric of impact is the magnitude by which control slows the rate of spatial spread. The prevention of spatial spreading likely results in substantial benefits in terms of ecosystem or economic damage that is prevented by an expanding invasive species. To understand how local management actions could impact the spatial spread of an established invasive species, we analyzed distribution and management data for feral swine across contiguous United States using occupancy analysis. We quantified changes in the rate of spatial expansion of feral swine and its relationship to local management actions. We found that after 4_yr of enhanced control, invasion probability decreased by 8% on average relative to pre‐program rates. This decrease was as high as 15% on average in states with low‐density populations of feral swine. The amount of decrease in invasion rate was attributed to removal intensity in neighboring counties and depended on the extent of neighboring counties with feral swine (spatial heterogeneity in local invasion pressure). Although we did not find a significant overall increase in the probability of elimination, increased elimination probability tended to occur in regions with low invasion pressure. Accounting for spatial heterogeneity in invasion pressure was important for quantifying management impacts (i.e., the relationship between management intensity and spatial spreading processes) because management impacts changed depending on the strength of invasion pressure from neighboring counties. Predicting reduction in spatial spread of an invasive species is an important first step in valuation of overall damage reduction for invasive species control programs by providing estimates of where a species may be, and thus which natural and agricultural resources would be affected, if the control program had not been operating. For minimizing losses from spatial expansion of an invasive species, our framework can be used for adaptive resource prioritization to areas where spatial expansion and underlying damage potential are concurrently highest.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q108744128</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q108744128</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.2669</dc:identifier>
+  <dc:title>A four‐component classification of uncertainties in biological invasions: implications for management</dc:title>
+  <dc:creator>Latombe, G.</dc:creator>
+  <dc:creator>Canavan, S.</dc:creator>
+  <dc:creator>Hirsch, H.</dc:creator>
+  <dc:creator>Hui, C.</dc:creator>
+  <dc:creator>Kumschick, S.</dc:creator>
+  <dc:creator>Nsikani, M. M.</dc:creator>
+  <dc:creator>Potgieter, L. J.</dc:creator>
+  <dc:creator>Robinson, T. B.</dc:creator>
+  <dc:creator>Saul, W.‐C.</dc:creator>
+  <dc:creator>Turner, S. C.</dc:creator>
+  <dc:creator>Wilson, J. R. U.</dc:creator>
+  <dc:creator>Yannelli, F. A.</dc:creator>
+  <dc:creator>Richardson, D. M.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>uncertainty</dc:subject>
+  <dc:subject>classification</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractAlthough uncertainty is an integral part of any science, it raises doubts in public perception about scientific evidence, is exploited by denialists, and therefore potentially hinders the implementation of management actions. As a relatively young field of study, invasion science contains many uncertainties. This may explain why, despite international policies aimed at mitigating biological invasions, the implementation of national‐ and regional‐scale measures to prevent or control alien species has done little to slow the increase in extent of invasions and the magnitude of impacts. Uncertainty is therefore a critical aspect of invasion science that should be addressed to enable the field to progress further. To improve how uncertainties in invasion science are captured and characterized, we propose a framework, which is also applicable to other applied research fields such as climate and conservation science, divided into four components: the need (1) to clearly circumscribe the phenomenon, (2) to measure and provide evidence for the phenomenon (i.e., confirmation), (3) to understand the mechanisms that cause the phenomenon, and (4) to understand the mechanisms through which the phenomenon results in consequences. We link these issues to three major types of uncertainty: linguistic, psychological, and epistemic. The application of this framework shows that the four components tend to be characterized by different types of uncertainty in invasion science. We explain how these uncertainties can be detrimental to the implementation of management measures and propose ways to reduce them. Since biological invasions are increasingly tightly embedded in complex socio‐ecological systems, many problems associated with these uncertainties have convoluted solutions. They demand the consensus of many stakeholders to define and frame the dimensions of the phenomenon, and to decide on appropriate actions. While many of the uncertainties cannot be eliminated completely, we believe that using this framework to explicitly identify and communicate them will help to improve collaboration between researchers and managers, increase scientific, political, and public support for invasion research, and provide a stronger foundation for sustainable management strategies.</dc:description>
+</oai_dc:dc>

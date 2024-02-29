@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35908440</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35908440</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4732764</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0147826</dc:identifier>
+  <dc:title>Non-Native Plant Invasion along Elevation and Canopy Closure Gradients in a Middle Rocky Mountain Ecosystem</dc:title>
+  <dc:creator>Averett, Joshua P</dc:creator>
+  <dc:creator>McCune, Bruce</dc:creator>
+  <dc:creator>Parks, Catherine G</dc:creator>
+  <dc:creator>Naylor, Bridgett J</dc:creator>
+  <dc:creator>DelCurto, Tim</dc:creator>
+  <dc:creator>Mata-González, Ricardo</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-01-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>disturbance hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>hypothesis:disturbance hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q115794757</dc:subject>
+  <dc:subject>propagule pressure hypothesis</dc:subject>
+  <dc:subject>wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>hypothesis:propagule pressure hypothesis</dc:subject>
+  <dc:subject>hypothesis:wikidata.org/entity/Q110620464</dc:subject>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>canopy</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>canopy closure</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>introduced plant</dc:subject>
+  <dc:subject>canopy closure gradient</dc:subject>
+  <dc:subject>elevational gradient</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Mountain environments are currently among the ecosystems least invaded by non-native species; however, mountains are increasingly under threat of non-native plant invasion. The slow pace of exotic plant invasions in mountain ecosystems is likely due to a combination of low anthropogenic disturbances, low propagule supply, and extreme/steep environmental gradients. The importance of any one of these factors is debated and likely ecosystem dependent. We evaluated the importance of various correlates of plant invasions in the Wallowa Mountain Range of northeastern Oregon and explored whether non-native species distributions differed from native species along an elevation gradient. Vascular plant communities were sampled in summer 2012 along three mountain roads. Transects (n = 20) were evenly stratified by elevation (~70 m intervals) along each road. Vascular plant species abundances and environmental parameters were measured. We used indicator species analysis to identify habitat affinities for non-native species. Plots were ordinated in species space, joint plots and non-parametric multiplicative regression were used to relate species and community variation to environmental variables. Non-native species richness decreased continuously with increasing elevation. In contrast, native species richness displayed a unimodal distribution with maximum richness occurring at mid-elevations. Species composition was strongly related to elevation and canopy openness. Overlays of trait and environmental factors onto non-metric multidimensional ordinations identified the montane-subalpine community transition and over-story canopy closure exceeding 60% as potential barriers to non-native species establishment. Unlike native species, non-native species showed little evidence for high-elevation or closed-canopy specialization. These data suggest that non-native plants currently found in the Wallowa Mountains are dependent on open canopies and disturbance for establishment in low and mid elevations. Current management objectives including restoration to more open canopies in dry Rocky Mountain forests, may increase immigration pressure of non-native plants from lower elevations into the montane and subalpine zones.</dc:description>
+</oai_dc:dc>

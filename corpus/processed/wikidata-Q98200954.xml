@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q98200954</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q98200954</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7469212</dc:identifier>
+  <dc:identifier>doi:10.3390/INSECTS11080479</dc:identifier>
+  <dc:title>Assessing Niche Shifts and Conservatism by Comparing the Native and Post-Invasion Niches of Major Forest Invasive Species</dc:title>
+  <dc:creator>Srivastava, Vivek</dc:creator>
+  <dc:creator>Liang, Wanwan</dc:creator>
+  <dc:creator>Keena, Melody</dc:creator>
+  <dc:creator>Roe, Amanda D</dc:creator>
+  <dc:creator>Hamelin, Richard C</dc:creator>
+  <dc:creator>Griess, Verena C</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-07-29</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>niche shift</dc:subject>
+  <dc:subject>forest invasion</dc:subject>
+  <dc:subject>niche conservatism</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Invasive species experience biotic and abiotic conditions that may (or may not) resemble their native environment. We explored the methodology of determining climatic niches and compared the native and post-invasion niches of four invasive forest pests to determine if these species experienced shifts or changes in their new climatic niches. We used environmental principle components analysis (PCA-env) method to quantify climatic niche shifts, expansions, and temporal changes. Furthermore, we assessed the effect of variable selection in the delineation and comparison of niche space. We found that variable selection influenced the delineation and overlap of each niche, whereas the subset of climatic variables selected from the first two PCA-env axes explained more variance in environmental conditions than the complete set of climatic variables for all four species. Most focal species showed climatic niche shifts in their invasive range and had not yet fully occupied the available niche within the invaded range. Our species varied the proportion of niche overlap between the native and invasive ranges. By comparing native and invasive niches, we can help predict a species’ potential range expansion and invasion potential. Our results can guide monitoring and help inform management of these and other invasive species.</dc:description>
+</oai_dc:dc>

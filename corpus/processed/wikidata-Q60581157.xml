@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q60581157</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q60581157</dc:identifier>
+  <dc:identifier>doi:10.1016/J.FORECO.2004.05.021</dc:identifier>
+  <dc:title>Gene flow between cultivated poplars and native black poplar (Populus nigra L.): a case study along the river Meuse on the Dutch–Belgian border</dc:title>
+  <dc:creator>Vanden Broeck, A</dc:creator>
+  <dc:creator>Storme, V</dc:creator>
+  <dc:creator>Cottrell, J.E</dc:creator>
+  <dc:creator>Boerjan, W</dc:creator>
+  <dc:creator>Van Bockstaele, E</dc:creator>
+  <dc:creator>Quataert, P</dc:creator>
+  <dc:creator>Van Slycken, J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2004-08</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Populus nigra</dc:subject>
+  <dc:subject>invasion genetics</dc:subject>
+  <dc:subject>gene flow</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

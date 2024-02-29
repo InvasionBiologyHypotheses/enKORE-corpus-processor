@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59799175</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q59799175</dc:identifier>
+  <dc:identifier>doi:10.3390/MD16110452</dc:identifier>
+  <dc:title>New Invasive Nemertean Species (Cephalothrix Simula) in England with High Levels of Tetrodotoxin and a Microbiome Linked to Toxin Metabolism</dc:title>
+  <dc:creator>Turner, Andrew D</dc:creator>
+  <dc:creator>Fenwick, David</dc:creator>
+  <dc:creator>Powell, Andy</dc:creator>
+  <dc:creator>Dhanji-Rapkova, Monika</dc:creator>
+  <dc:creator>Ford, Charlotte</dc:creator>
+  <dc:creator>Hatfield, Robert G</dc:creator>
+  <dc:creator>Santos, Andres</dc:creator>
+  <dc:creator>Martinez-Urtaza, Jaime</dc:creator>
+  <dc:creator>Bean, Tim P</dc:creator>
+  <dc:creator>Baker-Austin, Craig</dc:creator>
+  <dc:creator>Stebbing, Paul</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-11-16</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>drug discovery</dc:subject>
+  <dc:subject>microbiome</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>The marine nemertean Cephalothrix simula originates from the Pacific Ocean but in recent years has been discovered in northern Europe. The species has been associated with high levels of the marine neurotoxin Tetrodotoxin, traditionally associated with Pufferfish Poisoning. This study reports the first discovery of two organisms of C. simula in the UK, showing the geographical extent of this species is wider than originally described. Species identification was initially conducted morphologically, with confirmation by Cox 1 DNA sequencing. 16S gene sequencing enabled the taxonomic assignment of the microbiome, showing the prevalence of a large number of bacterial genera previously associated with TTX production including Alteromonas, Vibrio and Pseudomonas. LC-MS/MS analysis of the nemertean tissue revealed the presence of multiple analogues of TTX, dominated by the parent TTX, with a total toxin concentration quantified at 54 _g TTX per g of tissue. Pseudomonas luteola isolated from C. simula, together with Vibrio alginolyticus from the native nemertean Tubulanus annulatus, were cultured at low temperature and both found to contain TTX. Overall, this paper confirms the high toxicity of a newly discovered invasive nemertean species with links to toxin-producing marine bacteria and the potential risk to human safety. Further work is required to assess the geographical extent and toxicity range of C. simula along the UK coast in order to properly gauge the potential impacts on the environment and human safety.</dc:description>
+</oai_dc:dc>

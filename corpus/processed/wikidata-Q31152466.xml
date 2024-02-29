@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q31152466</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q31152466</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5207655</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0169328</dc:identifier>
+  <dc:title>Spatial Pattern and Scale Influence Invader Demographic Response to Simulated Precipitation Change in an Annual Grassland Community</dc:title>
+  <dc:creator>Thomason, Meghan J Skaer</dc:creator>
+  <dc:creator>Rice, Kevin J</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-01-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+  <dc:subject>demographics</dc:subject>
+  <dc:subject>grassland</dc:subject>
+  <dc:subject>annual grassland</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>It is important to predict which invasive species will benefit from future changes in climate, and thereby identify those invaders that need particular attention and prioritization of management efforts. Because establishment, persistence, and spread determine invasion success, this prediction requires detailed demographic information. Explicit study of the impact of pattern on demographic response is particularly important for species that are naturally patchy, such as the invasive grass, Aegilops triuncialis. In the northern California Coast Range, where climate change may increase or decrease mean annual rainfall, we conducted a field experiment to understand the interaction of climate change and local-scale patterning on the demography of A. triuncialis. We manipulated precipitation (reduced, ambient, or augmented), seed density, and seeding pattern. Demographic and environmental data were collected for three years following initial seeding. Pattern and scale figure prominently in the demographic response of A. triuncialis to precipitation manipulation. Pattern interacts with precipitation and seeding density in its influence on per-plant seed output. Although per-plot seed production was highest when seeds were not aggregated, per-plant seed output was higher in aggregated patches. Results suggest aggregation of invasive A. triuncialis reduces the detrimental impact of interspecific competition in its invaded community, and that interspecific competition per se has a stronger impact than intraspecific competition.</dc:description>
+</oai_dc:dc>

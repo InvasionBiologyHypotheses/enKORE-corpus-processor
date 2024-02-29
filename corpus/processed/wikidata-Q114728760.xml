@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114728760</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114728760</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.70.71862</dc:identifier>
+  <dc:title>_Current limitations and future prospects of detection and biomonitoring of NIS in the Mediterranean Sea through environmental DNA</dc:title>
+  <dc:creator>Zangaro, Francesco</dc:creator>
+  <dc:creator>Saccomanno, Benedetta</dc:creator>
+  <dc:creator>Tzafesta, Eftychia</dc:creator>
+  <dc:creator>Bozzeda, Fabio</dc:creator>
+  <dc:creator>Specchia, Valeria</dc:creator>
+  <dc:creator>Pinna, Maurizio</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-12-14</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The biodiversity of the Mediterranean Sea is currently threatened by the introduction of Non-Indigenous Species (NIS). Therefore, monitoring the distribution of NIS is of utmost importance to preserve the ecosystems. A promising approach for the identification of species and the assessment of biodiversity is the use of DNA barcoding, as well as DNA and eDNA metabarcoding. Currently, the main limitation in the use of genomic data for species identification is the incompleteness of the DNA barcode databases. In this research, we assessed the availability of DNA barcodes in the main reference libraries for the most updated inventory of 665 confirmed NIS in the Mediterranean Sea, with a special focus on the cytochrome oxidase I (COI) barcode and primers. The results of this study show that there are no barcodes for 33.18% of the species in question, and that 45.30% of the 382 species with COI barcode, have no primers publicly available. This highlights the importance of directing scientific efforts to fill the barcode gap of specific taxonomic groups in order to help in the effective application of the eDNA technique for investigating the occurrence and the distribution of NIS in the Mediterranean Sea.</dc:description>
+</oai_dc:dc>

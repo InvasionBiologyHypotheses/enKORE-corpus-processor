@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114575098</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114575098</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.73.76515</dc:identifier>
+  <dc:title>_A low-cost, durable, submersible light trap and customisable LED design for pelagic deployment and capture of fish parasite Salmincola sp. copepodids</dc:title>
+  <dc:creator>Murphy, Christina A</dc:creator>
+  <dc:creator>Gerth, William</dc:creator>
+  <dc:creator>Neal, Travis</dc:creator>
+  <dc:creator>Arismendi, Ivan</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-04-28</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Documenting species invasions and assessments of ecological changes depend on detection. Here, we present a simple design of a plankton light trap with specific wavelength LEDs and modifications. We used PVC pipe to create standardised small, rigid, low-cost traps that can be deployed in lentic habitats. With a cost of under $30 US each, including lights and rechargeable batteries, our traps are affordable without the need for disposable chemical lights. These small traps rely on a vacuum to retain contents upon retrieval, eliminating complicated closing mechanisms and allowing bottom entry. Our design includes submersible LED lights that can withstand pressures of at least 5 atm. We expect that the included instructions for underwater light construction and rubber weights using sand may be broadly applicable. However, we designed and field-tested our traps focusing on the detection and capture of the infective copepodid lifestage of a freshwater parasitic copepod, Salmincola californiensis. This lifestage had previously only been observed by rearing in a laboratory setting and is of concern due to continued spread outside of its native range and detrimental impacts on salmonids, especially in freshwater reservoirs. We used a 445–450 nm wavelength LED light for capturing Salmincola copepodids, but the light design can be modified to any readily available LED and heat sink to attract other target organisms. In our case, the overall affordability of the trap and components allowed for the extensive trapping needed to capture and map the occurrence of rarely-observed species and lifestages, such as the copepodids of S. californiensis. In general, increasing the number of traps that can be deployed within or across sites can aid in the spatial comparisons of plankton distributions needed in studies of ecology and species life histories. Light traps may aid in the detection of introduced zooplankton, such as S. californiensis, outside of their native range and associated plankton community changes.</dc:description>
+</oai_dc:dc>

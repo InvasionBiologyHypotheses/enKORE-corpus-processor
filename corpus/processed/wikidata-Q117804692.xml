@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q117804692</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q117804692</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.78.81476</dc:identifier>
+  <dc:title>_Eyes on the aliens: citizen science contributes to research, policy and management of biological invasions in Europe</dc:title>
+  <dc:creator>Adriaens, Tim</dc:creator>
+  <dc:creator>Brown, Peter M. J.</dc:creator>
+  <dc:creator>Adriaens, Tim</dc:creator>
+  <dc:creator>Tricarico, Elena</dc:creator>
+  <dc:creator>Farrow, Rachel A.</dc:creator>
+  <dc:creator>Cardoso, Ana Cristina</dc:creator>
+  <dc:creator>Gervasini, Eugenio</dc:creator>
+  <dc:creator>Groom, Quentin J.</dc:creator>
+  <dc:creator>Reyserhove, Lien</dc:creator>
+  <dc:creator>Schade, Sven</dc:creator>
+  <dc:creator>Tsinaraki, Chrisa</dc:creator>
+  <dc:creator>Marchante, Elizabete</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2022-11-11</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>biological invasion</dc:subject>
+  <dc:subject>citizen science</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>Invasive alien species (IAS) are a key driver of global biodiversity loss. Reducing their spread and impact is a target of the Sustainable Development Goals (SDG target 15.8) and of the EU IAS Regulation 1143/2014. The use of citizen science offers various benefits to alien species’ decision-making and to society, since public participation in research and management boosts awareness, engagement and scientific literacy and can reduce conflict in IAS management. We report the results of a survey on alien species citizen science initiatives within the framework of the European Cooperation in Science and Technology (COST) Action Alien-CSI. We gathered metadata on 103 initiatives across 41 countries, excluding general biodiversity reporting portals, spanning from 2005 to 2020, offering the most comprehensive account of alien species citizen science initiatives on the continent to date. We retrieved information on project scope, policy relevance, engagement methods, data capture, data quality and data management, methods and technologies applied and performance indicators such as the number of records coming from projects, the numbers of participants and publications. The 103 initiatives were unevenly distributed geographically, with countries with a tradition of citizen science showing more active projects. The majority of projects were contributory and were run at a national scale, targeting the general public, alien plants and insects, and terrestrial ecosystems. These factors of project scope were consistent between geographic regions. Most projects focused on collecting species presence or abundance data, aiming to map presence and spread. As 75% of the initiatives specifically collected data on IAS of Union Concern, citizen science in Europe is of policy relevance. Despite this, only half of the projects indicated sustainable funding. Nearly all projects had validation in place to verify species identifications. Strikingly, only about one third of the projects shared their data with open data repositories such as the Global Biodiversity Information Facility or the European Alien Species Information Network. Moreover, many did not adhere to the principles of FAIR data management. Finally, certain factors of engagement, feedback and support, had significant impacts on project performance, with the provision of a map with sightings being especially beneficial. Based on this dataset, we offer suggestions to strengthen the network of IAS citizen science projects and to foster knowledge exchange among citizens, scientists, managers, policy-makers, local authorities, and other stakeholders.</dc:description>
+</oai_dc:dc>

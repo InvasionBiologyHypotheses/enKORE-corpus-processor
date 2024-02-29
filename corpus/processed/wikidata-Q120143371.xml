@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120143371</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120143371</dc:identifier>
+  <dc:identifier>doi:10.3390/SU15129497</dc:identifier>
+  <dc:title>Detection and Management of Freshwater Invasive Alien Species through Environmental DNA Analysis and Geographic Information Systems: A Review</dc:title>
+  <dc:creator>Dali, Mohamad Zulkarnain Mohd</dc:creator>
+  <dc:creator>Umar, Roslan</dc:creator>
+  <dc:creator>Ismail, Norshida</dc:creator>
+  <dc:creator>Juahir, Hafizan</dc:creator>
+  <dc:creator>Nasir, Muhammad Syafiq Aiman Mohd</dc:creator>
+  <dc:creator>Khaleel, Aliyu Garba</dc:creator>
+  <dc:creator>Madiran, Nor Ainsyafikah</dc:creator>
+  <dc:creator>Kari, Zulhisyam Abdul</dc:creator>
+  <dc:creator>Wei, Lee Seong</dc:creator>
+  <dc:creator>Tahiluddin, Albaris B.</dc:creator>
+  <dc:creator>Tellez, Guillermo</dc:creator>
+  <dc:creator>Kamarudin, Ahmad Syazni</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-06-13</dc:date>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion detection</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+  <dc:description>Freshwater invasive alien species (IAS) are non-native organisms that were intentionally or unintentionally released into local water bodies and later harmed the invaded habitat by disrupting the ecological processes. Over the last few years, environmental deoxyribonucleic acid (eDNA) analyses have been used in many studies to detect IAS, with positive results. However, with the help of geographic information systems (GIS), efforts to detect the presence of IAS can be made faster and more efficiently. In this paper, we review the background of IAS in Southeast Asia and management efforts undertaken involving the input of known habitat-specific geographical parameters into GIS mapping. Via this strategy, it is possible to identify and distinguish areas that fit IAS habitat features from those that do not. eDNA analysis can later be applied to confirm the presence of IAS in detected areas, enabling further studies and actions. The presence of IAS in certain areas can be used as an indicator to assess the environmental integrity of native waterways. This combined method is likely the first approach to be applied to the detection of freshwater IAS in local water bodies. Apart from saving energy and resources, embedding GIS and eDNA into the study of IAS not only benefits the ecosystem but also assists locals and authorities in managing and taking necessary enforcement actions to curb further spread.</dc:description>
+</oai_dc:dc>

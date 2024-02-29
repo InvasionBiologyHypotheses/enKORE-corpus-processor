@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q111171171</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q111171171</dc:identifier>
+  <dc:identifier>doi:10.1111/1365-2664.13904</dc:identifier>
+  <dc:title>Weighing the unknowns: Value of Information for biological and operational uncertainty in invasion management</dc:title>
+  <dc:creator>Li, Shou-Li</dc:creator>
+  <dc:creator>Keller, Joseph A</dc:creator>
+  <dc:creator>Runge, Michael C.</dc:creator>
+  <dc:creator>Shea, Katriona</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-05-05</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>uncertainty</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>Abstract
+
+
+The management of biological invasions is a worldwide conservation priority. Unfortunately, decision‐making on optimal invasion management can be impeded by lack of information about the biological processes that determine invader success (i.e. biological uncertainty) or by uncertainty about the effectiveness of candidate interventions (i.e. operational uncertainty). Concurrent assessment of both sources of uncertainty within the same framework can help to optimize control decisions.
+
+Here, we present a Value of Information (VoI) framework to simultaneously analyse the effects of biological and operational uncertainties on management outcomes. We demonstrate this approach with a case study: minimizing the long‐term population growth of musk thistle Carduus nutans, a widespread invasive plant, using several insects as biological control agents, including Trichosirocalus horridus, Rhinocyllus conicus and Urophora solstitialis.
+
+The ranking of biocontrol agents was sensitive to differences in the target weed's demography and also to differences in the effectiveness of the different biocontrol agents. This finding suggests that accounting for both biological and operational uncertainties is valuable when making management recommendations for invasion control. Furthermore, our VoI analyses show that reduction of all uncertainties across all combinations of demographic model and biocontrol effectiveness explored in the current study would lead, on average, to a 15.6% reduction in musk thistle population growth rate. The specific growth reduction that would be observed in any instance would depend on how the uncertainties actually resolve. Resolving biological uncertainty (across demographic model combinations) or operational uncertainty (across biocontrol effectiveness combinations) alone would reduce expected population growth rate by 8.5% and 10.5% respectively.
+
+Synthesis and applications. Our study demonstrates that intervention rank is determined both by biological processes in the targeted invasive populations and by intervention effectiveness. Ignoring either biological uncertainty or operational uncertainty may result in a suboptimal recommendation. Therefore, it is important to simultaneously acknowledge both sources of uncertainty during the decision‐making process in invasion management. The framework presented here can accommodate diverse data sources and modelling approaches, and has wide applicability to guide invasive species management and conservation efforts.
+
+</dc:description>
+</oai_dc:dc>

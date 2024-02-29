@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q35229106</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q35229106</dc:identifier>
+  <dc:identifier>doi:10.1002/PS.3887</dc:identifier>
+  <dc:title>Bird-repellent effects on bait efficacy for control of invasive mammal pests</dc:title>
+  <dc:creator>Cowan, Phil</dc:creator>
+  <dc:creator>Brown, Sam</dc:creator>
+  <dc:creator>Forrester, Guy</dc:creator>
+  <dc:creator>Booth, Lynn</dc:creator>
+  <dc:creator>Crowell, Michelle</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2014-09-25</dc:date>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasive mammal</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+</oai_dc:dc>

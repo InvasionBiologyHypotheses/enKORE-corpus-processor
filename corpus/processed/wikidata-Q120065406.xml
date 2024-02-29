@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q120065406</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q120065406</dc:identifier>
+  <dc:identifier>doi:10.1111/GEB.13651</dc:identifier>
+  <dc:title>Environmental, geographical and time‐related impacts on avian malaria infections in native and introduced populations of house sparrows (&lt;i&gt;Passer domesticus&lt;/i&gt;), a globally invasive species</dc:title>
+  <dc:creator>Ferraguti, Martina</dc:creator>
+  <dc:creator>Magallanes, Sergio</dc:creator>
+  <dc:creator>Jiménez-Peñuela, Jéssica</dc:creator>
+  <dc:creator>Puente, Josué Martínez</dc:creator>
+  <dc:creator>Garcia-Longoria, Luz</dc:creator>
+  <dc:creator>Figuerola, Jordi</dc:creator>
+  <dc:creator>Muriel, Jaime</dc:creator>
+  <dc:creator>Albayrak, Tamer</dc:creator>
+  <dc:creator>Bensch, Staffan</dc:creator>
+  <dc:creator>Bonneaud, Camille</dc:creator>
+  <dc:creator>Clarke, Rohan H</dc:creator>
+  <dc:creator>Czirják, Gábor Árpád</dc:creator>
+  <dc:creator>Dimitrov, Dimitar</dc:creator>
+  <dc:creator>Espinoza, Kathya</dc:creator>
+  <dc:creator>Ewen, John</dc:creator>
+  <dc:creator>Ishtiaq, Farah</dc:creator>
+  <dc:creator>Flores‐Saavedra, Wendy</dc:creator>
+  <dc:creator>Garamszegi, László Zsolt</dc:creator>
+  <dc:creator>Hellgren, Olof</dc:creator>
+  <dc:creator>Horakova, Dita</dc:creator>
+  <dc:creator>Huyvaert, Kathryn P</dc:creator>
+  <dc:creator>Jensen, Henrik</dc:creator>
+  <dc:creator>Križanauskienė, Asta</dc:creator>
+  <dc:creator>Lima, Marcos R</dc:creator>
+  <dc:creator>Lujan‐Vega, Charlene</dc:creator>
+  <dc:creator>Magnussen, Eyðfinn</dc:creator>
+  <dc:creator>Martin, Lynn B.</dc:creator>
+  <dc:creator>Matson, Kevin D</dc:creator>
+  <dc:creator>Møller, Anders Pape</dc:creator>
+  <dc:creator>Munclinger, Pavel</dc:creator>
+  <dc:creator>Palinauskas, Vaidas</dc:creator>
+  <dc:creator>Pap, Péter L</dc:creator>
+  <dc:creator>Pérez-Tris, Javier</dc:creator>
+  <dc:creator>Renner, Swen C</dc:creator>
+  <dc:creator>Ricklefs, Robert</dc:creator>
+  <dc:creator>Scebba, Sergio</dc:creator>
+  <dc:creator>Sehgal, Ravinder</dc:creator>
+  <dc:creator>Soler, Manuel</dc:creator>
+  <dc:creator>Szöllősi, Eszter</dc:creator>
+  <dc:creator>Valkiūnas, Gediminas</dc:creator>
+  <dc:creator>Westerdahl, Helena</dc:creator>
+  <dc:creator>Zehtindjiev, Pavel</dc:creator>
+  <dc:creator>Marzal, Alfonso</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2023-03-11</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>House Sparrow</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>global invader</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractAimThe increasing spread of vector‐borne diseases has resulted in severe health concerns for humans, domestic animals and wildlife, with changes in land use and the introduction of invasive species being among the main possible causes for this increase. We explored several ecological drivers potentially affecting the local prevalence and richness of avian malaria parasite lineages in native and introduced house sparrows (Passer domesticus) populations.LocationGlobal.Time period2002–2019.Major taxa studiedAvian Plasmodium parasites in house sparrows.MethodsWe analysed data from 2,220 samples from 69 localities across all continents, except Antarctica. The influence of environment (urbanization index and human density), geography (altitude, latitude, hemisphere) and time (bird breeding season and years since introduction) were analysed using generalized additive mixed models (GAMMs) and random forests.ResultsOverall, 670 sparrows (30.2%) were infected with 22 Plasmodium lineages. In native populations, parasite prevalence was positively related to urbanization index, with the highest prevalence values in areas with intermediate urbanization levels. Likewise, in introduced populations, prevalence was positively associated with urbanization index; however, higher infection occurred in areas with either extreme high or low levels of urbanization. In introduced populations, the number of parasite lineages increased with altitude and with the years elapsed since the establishment of sparrows in a new locality. Here, after a decline in the number of parasite lineages in the first 30_years, an increase from 40_years onwards was detected.Main conclusionsUrbanization was related to parasite prevalence in both native and introduced bird populations. In invaded areas, altitude and time since bird introduction were related to the number of Plasmodium lineages found to be infecting sparrows.</dc:description>
+</oai_dc:dc>

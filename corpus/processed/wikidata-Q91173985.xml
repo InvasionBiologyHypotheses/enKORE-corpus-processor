@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q91173985</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q91173985</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838098</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-019-52763-9</dc:identifier>
+  <dc:title>Meta-modeling on detailed geography for accurate prediction of invasive alien species dispersal</dc:title>
+  <dc:creator>Pepper, Nick</dc:creator>
+  <dc:creator>Gerardo-Giorda, Luca</dc:creator>
+  <dc:creator>Montomoli, Francesco</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-11-07</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>biological dispersal</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractInvasive species are recognized as a significant threat to biodiversity. The mathematical modeling of their spatio-temporal dynamics can provide significant help to environmental managers in devising suitable control strategies. Several mathematical approaches have been proposed in recent decades to efficiently model the dispersal of invasive species. Relying on the assumption that the dispersal of an individual is random, but the density of individuals at the scale of the population can be considered smooth, reaction-diffusion models are a good trade-off between model complexity and flexibility for use in different situations. In this paper we present a continuous reaction-diffusion model coupled with arbitrary Polynomial Chaos (aPC) to assess the impact of uncertainties in the model parameters. We show how the finite elements framework is well-suited to handle important landscape heterogeneities as elevation and the complex geometries associated with the boundaries of an actual geographical region. We demonstrate the main capabilities of the proposed coupled model by assessing the uncertainties in the invasion of an alien species invading the Basque Country region in Northern Spain.</dc:description>
+</oai_dc:dc>

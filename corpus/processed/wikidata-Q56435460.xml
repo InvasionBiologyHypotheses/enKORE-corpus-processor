@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56435460</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56435460</dc:identifier>
+  <dc:identifier>doi:10.1016/J.ENVSCI.2014.12.007</dc:identifier>
+  <dc:title>GLOBIO-Aquatic, a global model of human impact on the biodiversity of inland aquatic ecosystems</dc:title>
+  <dc:creator>Janse, J.H.</dc:creator>
+  <dc:creator>Kuiper, J.J.</dc:creator>
+  <dc:creator>Weijters, M.J.</dc:creator>
+  <dc:creator>Westerbeek, E.P.</dc:creator>
+  <dc:creator>Jeuken, M.H.J.L.</dc:creator>
+  <dc:creator>Bakkenes, M.</dc:creator>
+  <dc:creator>Alkemade, R.</dc:creator>
+  <dc:creator>Mooij, W.M.</dc:creator>
+  <dc:creator>Verhoeven, J.T.A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>biodiversity</dc:subject>
+  <dc:subject>ecosystem</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>human impact on the environment</dc:subject>
+  <dc:subject>aquatic ecosystem</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

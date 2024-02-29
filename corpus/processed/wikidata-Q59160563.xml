@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q59160563</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q59160563</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.2097</dc:identifier>
+  <dc:title>Impact of an invasive alien plant on litter decomposition along a latitudinal gradient</dc:title>
+  <dc:creator>Helsen, Kenny</dc:creator>
+  <dc:creator>Smith, Stuart W.</dc:creator>
+  <dc:creator>Brunet, Jörg</dc:creator>
+  <dc:creator>O. Cousins, Sara A.</dc:creator>
+  <dc:creator>De Frenne, Pieter</dc:creator>
+  <dc:creator>Kimberley, Adam</dc:creator>
+  <dc:creator>Kolb, Annette</dc:creator>
+  <dc:creator>Lenoir, Jonathan</dc:creator>
+  <dc:creator>Shiyu</dc:creator>
+  <dc:creator>Michaelis, Jana</dc:creator>
+  <dc:creator>Plue, Jan</dc:creator>
+  <dc:creator>Verheyen, Kris</dc:creator>
+  <dc:creator>Speed, James D. M.</dc:creator>
+  <dc:creator>Graae, Bente J.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-01</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>latitudinal gradient</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:subject>litter decomposition</dc:subject>
+  <dc:subject>invasive plant</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractInvasive alien plant effects on ecosystem functions are often difficult to predict across environmental gradients due to the context‐dependent interactions between the invader and the recipient communities. Adopting a functional trait‐based framework could provide more mechanistic predictions for invasive species' impacts. In this study, we contrast litter decomposition rates among communities with and without the invasive plant Impatiens glandulifera in five regions along a 1600_km long latitudinal gradient in Europe. Across this gradient, four functional traits, namely leaf dry matter content (LDMC), specific leaf area (SLA), stem‐specific density (SSD), and plant height, are correlated to rates of litter decomposition of standardized rooibos (labile), green tea (recalcitrant), and I._glandulifera litter. Our results show that both invaded and non‐invaded plant communities had a higher expression of acquisitive traits (low LDMC and SSD, high SLA) with increasing temperature along the latitudinal gradient, partly explaining the variation in decomposition rates along the gradient. At the same time, invasion shifted community trait composition toward more acquisitive traits across the latitudinal gradient. These trait changes partly explained the increased litter decomposition rates of the labile litter fraction of rooibos and I._glandulifera litter in invaded communities, a shift that was most evident in the warmer study regions. Plant available nitrogen was lower in invaded communities, likely due to high nutrient uptake by I._glandulifera. Meanwhile, the coldest study region was characterized by a reversed effect of invasion on decomposition rates. Here, community traits related to low litter quality and potential allelopathic effects of the invader resulted in reduced litter decomposition rates, suggesting a threshold temperature at which invader effects on litter decomposition turn positive. This study therefore illustrates how functional trait changes toward acquisitive traits can help explain invader‐induced changes in ecosystem functions such as increased litter decomposition.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110626327</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110626327</dc:identifier>
+  <dc:identifier>doi:10.3897/NEOBIOTA.62.51574</dc:identifier>
+  <dc:title>Appropriate uses of EICAT protocol, data and classifications</dc:title>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Bacher, Sven</dc:creator>
+  <dc:creator>Bertolino, Sandro</dc:creator>
+  <dc:creator>Blackburn, Tim M.</dc:creator>
+  <dc:creator>Evans, Thomas</dc:creator>
+  <dc:creator>Roy, Helen E.</dc:creator>
+  <dc:creator>Smith, Kevin</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-10-15</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>introduced species</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The Environmental Impact Classification for Alien Taxa (EICAT) can be used to classify alien taxa according to the magnitude and type of their environmental impacts. The EICAT protocol, classifications of alien taxa using the protocol (EICAT classification) and the data underpinning classifications (EICAT data) are increasingly used by scientists and practitioners such as governments, NGOs and civil society for a variety of purposes. However, the properties of the EICAT protocol and the data it generates are not suitable for certain uses. Therefore, we present guidelines designed to clarify and facilitate the appropriate use of EICAT to tackle a broad range of conservation issues related to biological invasions, as well as to guide research and communication more generally. Here we address common misconceptions and give a brief overview of some key issues that all EICAT users need to be aware of to take maximal advantage of this resource. Furthermore, we give examples of the wide variety of ways in which the EICAT protocol, classifications and data can be and have been utilised and outline common errors and pitfalls to avoid.</dc:description>
+</oai_dc:dc>

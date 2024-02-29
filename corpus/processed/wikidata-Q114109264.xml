@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q114109264</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q114109264</dc:identifier>
+  <dc:identifier>doi:10.3897/BISS.3.37363</dc:identifier>
+  <dc:title>Impacts of climate change and species distribution modelling: Future scenarios to_invasive alien lionfish distribution in the Mediterranean Sea</dc:title>
+  <dc:creator>Turan, Cemal</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2019-06-26</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>Mediterranean Sea</dc:subject>
+  <dc:subject>species distribution modelling</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>species distribution model</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Pensoft Publishers</dc:publisher>
+  <dc:description>The progress on species distribution modelling (SDM) methods has brought new insights into the field of biological invasion management. In particular, statistical niche modelling, for spatio-temporal predictions of marine species’ distribution, is an increasingly used tool, supporting efficient decision-making for prevention and conservation. Earth's climate has changed significantly in the last century and the number of alien species penetrating from Indo-Pacific Ocean and South part of the Atlantic in the Mediterranean will continue to increase over the next decades. The purpose of the present study was to predict the potential geographic distribution and expansion of invasive alien lionfish (Pterois miles and Pterois volitans) with ecological niche modelling along the Mediterranean Sea. Temporal and spatial occurrence data from the first occurrence of a species for each country with coast along the Mediterranean Sea, was used to develop robust predictions of species richness, since the capacity to predict spatial patterns of species richness remains largely unassessed in this region. Marine climatic data layers were collected from the Bio-ORACLE and MARSPEC global databases. Different statistical models were evaluated to establish if these could  provide useful predictions of absolute and relative lionfish distribution and expansion. The findings are an important step towards validating the use of SDM for invasive alien lionfish in the Mediterranean Sea.</dc:description>
+</oai_dc:dc>

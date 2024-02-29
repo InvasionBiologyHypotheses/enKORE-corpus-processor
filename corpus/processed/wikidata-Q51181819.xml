@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q51181819</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q51181819</dc:identifier>
+  <dc:identifier>doi:10.1016/J.JENVMAN.2009.03.011</dc:identifier>
+  <dc:title>Info-gap theory and robust design of surveillance for invasive species: the case study of Barrow Island.</dc:title>
+  <dc:creator>Davidovitch, Lior</dc:creator>
+  <dc:creator>Stoklosa, Richard</dc:creator>
+  <dc:creator>Majer, Jonathan</dc:creator>
+  <dc:creator>Nietrzeba, Alex</dc:creator>
+  <dc:creator>Whittle, Peter</dc:creator>
+  <dc:creator>Mengersen, Kerrie</dc:creator>
+  <dc:creator>Ben-Haim, Yakov</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-04-21</dc:date>
+  <dc:language>en</dc:language>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>island invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Elsevier BV</dc:publisher>
+</oai_dc:dc>

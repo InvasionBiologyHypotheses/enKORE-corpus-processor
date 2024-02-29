@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q110253680</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q110253680</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.3461</dc:identifier>
+  <dc:title>Options for reducing uncertainty in impact classification for alien species</dc:title>
+  <dc:creator>Clarke, David A.</dc:creator>
+  <dc:creator>Palmer, David J.</dc:creator>
+  <dc:creator>McGrannachan, Chris</dc:creator>
+  <dc:creator>Burgess, Treena I.</dc:creator>
+  <dc:creator>Chown, Steven L.</dc:creator>
+  <dc:creator>Clarke, Rohan H.</dc:creator>
+  <dc:creator>Kumschick, Sabrina</dc:creator>
+  <dc:creator>Lach, Lori</dc:creator>
+  <dc:creator>Liebhold, Andrew M.</dc:creator>
+  <dc:creator>Roy, Helen E.</dc:creator>
+  <dc:creator>Saunders, Manu E.</dc:creator>
+  <dc:creator>Yeates, David K.</dc:creator>
+  <dc:creator>Zalucki, Myron P.</dc:creator>
+  <dc:creator>McGeoch, Melodie A.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2021-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>introduced species</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractImpact assessment is an important and cost‐effective tool for assisting in the identification and prioritization of invasive alien species. With the number of alien and invasive alien species expected to increase, reliance on impact assessment tools for the identification of species that pose the greatest threats will continue to grow. Given the importance of such assessments for management and resource allocation, it is critical to understand the uncertainty involved and what effect this may have on the outcome. Using an uncertainty typology and insects as a model taxon, we identified and classified the causes and types of uncertainty when performing impact assessments on alien species. We assessed 100 alien insect species across two rounds of assessments with each species independently assessed by two assessors. Agreement between assessors was relatively low for all three impact classification components (mechanism, severity, and confidence) after the first round of assessments. For the second round, we revised guidelines and gave assessors access to each other’s assessments which improved agreement by between 20% and 30% for impact mechanism, severity, and confidence. Of the 12 potential reasons for assessment discrepancies identified a priori, 11 were found to occur. The most frequent causes (and types) of uncertainty (i.e., differences between assessment outcomes for the same species) were as follows: incomplete information searches (systematic error), unclear mechanism and/or extent of impact (subjective judgment due to a lack of knowledge), and limitations of the assessment framework (context dependence). In response to these findings, we identify actions that may reduce uncertainty in the impact assessment process, particularly for assessing speciose taxa with diverse life histories such as Insects. Evidence of environmental impact was available for most insect species, and (of the non‐random original subset of species assessed) 14 of those with evidence were identified as high impact species (with either major or massive impact). Although uncertainty in risk assessment, including impact assessments, can never be eliminated, identifying, and communicating its cause and variety is a first step toward its reduction and a more reliable assessment outcome, regardless of the taxa being assessed.</dc:description>
+</oai_dc:dc>

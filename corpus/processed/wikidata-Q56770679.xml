@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56770679</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56770679</dc:identifier>
+  <dc:identifier>doi:10.3390/RS1030318</dc:identifier>
+  <dc:title>Remote Sensing and Mapping of Tamarisk along the Colorado River, USA: A Comparative Use of Summer-Acquired Hyperion, Thematic Mapper and QuickBird Data</dc:title>
+  <dc:creator>Carter, Gregory</dc:creator>
+  <dc:creator>Lucas, Kelly</dc:creator>
+  <dc:creator>Blossom, Gabriel</dc:creator>
+  <dc:creator>Lassitter, Cheryl</dc:creator>
+  <dc:creator>Holiday, Dan</dc:creator>
+  <dc:creator>Mooneyhan, David</dc:creator>
+  <dc:creator>Fastring, Danielle</dc:creator>
+  <dc:creator>Holcombe, Tracy</dc:creator>
+  <dc:creator>Griffith, Jerry</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2009-07-31</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>remote sensing</dc:subject>
+  <dc:subject>Thematic Mapper</dc:subject>
+  <dc:publisher>MDPI AG</dc:publisher>
+</oai_dc:dc>

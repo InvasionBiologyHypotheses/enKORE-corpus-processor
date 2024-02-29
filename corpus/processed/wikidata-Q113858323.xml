@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q113858323</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q113858323</dc:identifier>
+  <dc:identifier>doi:10.1017/INP.2020.15</dc:identifier>
+  <dc:title>Allometric equations for the invasive vine air potato (&lt;i&gt;Dioscorea bulbifera&lt;/i&gt;) in its exotic range in Florida</dc:title>
+  <dc:creator>Rayamajhi, Min B.</dc:creator>
+  <dc:creator>Rohrig, Eric</dc:creator>
+  <dc:creator>Tipping, Philip W.</dc:creator>
+  <dc:creator>Pratt, Paul D.</dc:creator>
+  <dc:creator>Leidi, Jorge G.</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2020-05-14</dc:date>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>Dioscorea bulbifera</dc:subject>
+  <dc:subject>plant invasion</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:publisher>Cambridge University Press (CUP)</dc:publisher>
+  <dc:description>AbstractNondestructive means for estimating air potato (also known as air yam; Dioscorea bulbifera L.) biomass will help gauge its management efficacy over time. We developed allometric equations to estimate total and fractional biomass components and densities of aerial bulbils and underground tubers of field-grown D. bulbifera in Florida. We selected four naturally infested sites representing its southern, central, and northern distribution in Florida and measured three independent variables (vine densities, stem diameters, and top heights) of 84 (21 site−1) discrete D. bulbifera patches during late October to early December of 2012. We destructively harvested D. bulbifera biomass, sorted by tubers, stems, leaves, and bulbils; counted units of bulbils and underground tubers (dependent variables); and dried to a constant weight. Mean percentages of tuber, stem, leaf, and bulbil fractions in total biomass were 42.0, 15.6, 26.0, and 16.4, respectively. We developed a parameterized multiplicative prediction model and regression equation for each dependent variable. Slopes of relationships among independent and dependent variables varied by biomass and density (bulbil and tuber) of plant components. Multiplied values of independent variables: all three for total, tuber, stem, and leaf biomass; two (vine base diameter*patch height) for bulbil biomass; two (vine density*patch height) for bulbil density; and only one (stem density) for tuber density provided best (R2-based) prediction values. These models will provide nondestructive methods for estimating biomass components and density of vegetative propagules of naturally growing D. bulbifera. Models are critical for understanding the performance of D. bulbifera in its exotic range, estimating biomass to project control costs, and comparing biomass components and bulbil/tuber densities during pre- and postmanagement periods to gauge control efficacy.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q55013123</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q55013123</dc:identifier>
+  <dc:identifier>doi:10.1038/S41598-018-25701-4</dc:identifier>
+  <dc:title>Dissection of niche competition between introduced and indigenous arbuscular mycorrhizal fungi with respect to soybean yield responses</dc:title>
+  <dc:creator>Niwa, Rieko</dc:creator>
+  <dc:creator>Koyama, Takuya</dc:creator>
+  <dc:creator>Sato, Takumi</dc:creator>
+  <dc:creator>Adachi, Katsuki</dc:creator>
+  <dc:creator>Tawaraya, Keitaro</dc:creator>
+  <dc:creator>Sato, Shusei</dc:creator>
+  <dc:creator>Hirakawa, Hideki</dc:creator>
+  <dc:creator>Yoshida, Shigenobu</dc:creator>
+  <dc:creator>Ezawa, Tatsuhiro</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2018-05-09</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+  <dc:subject>mycorrhiza</dc:subject>
+  <dc:subject>mycorrhizal fungus</dc:subject>
+  <dc:publisher>Springer Science and Business Media LLC</dc:publisher>
+  <dc:description>AbstractArbuscular mycorrhizal (AM) fungi associate with most land plants and deliver phosphorus to the host. Identification of biotic/abiotic factors that determine crop responses to AM fungal inoculation is an essential step for successful application of the fungi in sustainable agriculture. We conducted three field trials on soybean with a commercial inoculum and developed a new molecular tool to dissect interactions between the inoculum and indigenous fungi on the MiSeq sequencing platform. Regression analysis indicated that sequence read abundance of the inoculum fungus was the most significant factor that determined soybean yield responses to the inoculation, suggesting that dominance of the inoculum fungus is a necessary condition for positive yield responses. Agricultural practices (fallow/cropping in the previous year) greatly affected the colonization levels (i.e. read abundances) of the inoculum fungus via altering the propagule density of indigenous AM fungi. Analysis of niche competition revealed that the inoculum fungus competed mainly with the indigenous fungi that are commonly distributed in the trial sites, probably because their life-history strategy is the same as that of the inoculum fungus. In conclusion, we provide a new framework for evaluating the significance of environmental factors towards successful application of AM fungi in agriculture.</dc:description>
+</oai_dc:dc>

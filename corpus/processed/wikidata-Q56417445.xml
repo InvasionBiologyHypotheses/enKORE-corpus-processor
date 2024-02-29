@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q56417445</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q56417445</dc:identifier>
+  <dc:identifier>doi:10.1002/ECS2.1311</dc:identifier>
+  <dc:title>Spatial heterogeneity in invasive species impacts at the landscape scale</dc:title>
+  <dc:creator>Latzka, Alexander W.</dc:creator>
+  <dc:creator>Hansen, Gretchen J.A.</dc:creator>
+  <dc:creator>Kornis, Matthew</dc:creator>
+  <dc:creator>Zanden, M. Jake Vander</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2016-03</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+  <dc:subject>theme:invasion impact</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q112148709</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>heterogeneity</dc:subject>
+  <dc:subject>invasion impact</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractInvasive species have substantial impacts across the globe. While management efforts should aim to minimize undesirable impacts, we have a poor understanding of how impacts of a given invasive species vary spatially. Here, we develop a framework for considering heterogeneity of invasive species impacts that allows us to explore the range of possible spatial patterns of impact. This framework incorporates two factors—how invasive species abundance varies among sites (i.e., abundance distributions) and how invasive species impact varies as a function of abundance (i.e., abundance–impact curves). Combining these two factors allows for the creation of probability distributions that represent how invasive species impacts may vary spatially among sites. We used published abundance distributions and inferred abundance–impact curves to generate impact distributions for two problematic invasive species—zebra mussel and Eurasian watermilfoil—across lakes in Wisconsin, USA. Impact distributions of these species tended to be right‐skewed (i.e., the majority of sites had low impacts), although the tail thickness varied. We also simulated how a broader range of combinations of invasive species abundance distributions and abundance–impact curves produce different patterns of invasive species impact. These simulations illustrate a remarkable diversity of invasive species spatial impact patterns—probability distributions of impact were left‐skewed, right‐skewed, bimodal, and normal. Total landscape‐level impacts, estimated by summing site‐level impacts, were similarly variable depending on the distribution of site‐level impacts. Our results indicate that invasive species abundance and abundance–impact curves ultimately affect how invasive species impacts are distributed across the landscape, which has important implications for invasive species management.</dc:description>
+</oai_dc:dc>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q26780251</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q26780251</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4633185</dc:identifier>
+  <dc:identifier>doi:10.1371/JOURNAL.PONE.0141958</dc:identifier>
+  <dc:title>Understanding Acceptable Level of Risk: Incorporating the Economic Cost of Under-Managing Invasive Species</dc:title>
+  <dc:creator>Davidson, Alisha D</dc:creator>
+  <dc:creator>Hewitt, Chad L</dc:creator>
+  <dc:creator>Kashian, Donna R</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2015-11-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion management</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q113019190</dc:subject>
+  <dc:subject>invasion biology</dc:subject>
+  <dc:subject>invasive species</dc:subject>
+  <dc:subject>environment</dc:subject>
+  <dc:subject>biomedical investigative technique</dc:subject>
+  <dc:subject>risk</dc:subject>
+  <dc:subject>eukaryote</dc:subject>
+  <dc:subject>risk assessment</dc:subject>
+  <dc:subject>cost–benefit analysis</dc:subject>
+  <dc:subject>invasion management</dc:subject>
+  <dc:subject>ecological economics</dc:subject>
+  <dc:publisher>Public Library of Science (PLoS)</dc:publisher>
+  <dc:description>Management of nonindigenous species includes prevention, early detection and rapid response and control. Early detection and rapid response depend on prioritizing and monitoring sites at risk for arrival or secondary spread of nonindigenous species. Such monitoring efforts require sufficient biosecurity budgets to be effective and meet management or policy directives for reduced risk of introduction. Such consideration of risk reduction is rarely considered, however. Here, we review the concepts of acceptable level of risk (ALOR) and associated costs with respect to nonindigenous species and present a framework for aligning risk reduction priorities with available biosecurity resources. We conclude that available biosecurity resources may be insufficient to attain stated and desired risk reduction. This outcome highlights the need to consider policy and management directives when beginning a biosecurity program to determine the feasibility of risk reduction goals, given available resources.</dc:description>
+</oai_dc:dc>

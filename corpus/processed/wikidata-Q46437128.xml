@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>https://scholia.toolforge.org/work/Q46437128</dc:identifier>
+  <dc:identifier>http://www.wikidata.org/entity/Q46437128</dc:identifier>
+  <dc:identifier>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6849728</dc:identifier>
+  <dc:identifier>doi:10.1111/ELE.12728</dc:identifier>
+  <dc:title>Fast life history traits promote invasion success in amphibians and reptiles</dc:title>
+  <dc:creator>Allen, William L</dc:creator>
+  <dc:creator>Street, Sally E</dc:creator>
+  <dc:creator>Street, Sally E</dc:creator>
+  <dc:creator>Capellini, Isabella</dc:creator>
+  <dc:type>journal article</dc:type>
+  <dc:date>2017-01-04</dc:date>
+  <dc:language>en</dc:language>
+  <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+  <dc:subject>theme:invasion success</dc:subject>
+  <dc:subject>theme:wikidata.org/entity/Q109467185</dc:subject>
+  <dc:subject>invasion success</dc:subject>
+  <dc:subject>life-history trait</dc:subject>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:description>AbstractCompeting theoretical models make different predictions on which life history strategies facilitate growth of small populations. While ‘fast’ strategies allow for rapid increase in population size and limit vulnerability to stochastic events, ‘slow’ strategies and bet‐hedging may reduce variance in vital rates in response to stochasticity. We test these predictions using biological invasions since founder alien populations start small, compiling the largest dataset yet of global herpetological introductions and life history traits. Using state‐of‐the‐art phylogenetic comparative methods, we show that successful invaders have fast traits, such as large and frequent clutches, at both establishment and spread stages. These results, together with recent findings in mammals and plants, support ‘fast advantage’ models and the importance of high potential population growth rate. Conversely, successful alien birds are bet‐hedgers. We propose that transient population dynamics and differences in longevity and behavioural flexibility can help reconcile apparently contrasting results across terrestrial vertebrate classes.</dc:description>
+</oai_dc:dc>
